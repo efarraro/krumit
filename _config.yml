@@ -22,7 +22,7 @@ title: Meteorfall - Krumit's Tale
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   An encyclopedia for Meteorfall - Krumit's Tale
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "krumit" # the subpath of your site, e.g. /blog
 url: "http://www.krumits-tale.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: slothwerks
 #github_username:  jekyll

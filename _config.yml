@@ -35,7 +35,16 @@ plugins:
 # Collections
 collections:
   items :
+    permalink: "/:collection/:path/"
     output: true
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "items"
+    values:
+      layout: "default"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

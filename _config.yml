@@ -37,6 +37,12 @@ collections:
   items :
     permalink: "/:collection/:path/"
     output: true
+  abilities :
+    permalink: "/:collection/:path/"
+    output: true
+  monsters :
+    permalink: "/:collection/:path/"
+    output: true
 
 # Defaults
 defaults:
@@ -44,7 +50,17 @@ defaults:
       path: ""
       type: "items"
     values:
-      layout: "default"
+      layout: "item"
+  - scope:
+      path: ""
+      type: "monsters"
+    values:
+      layout: "item"
+  - scope:
+      path: ""
+      type: "abilities"
+    values:
+      layout: "item"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,6 +1,6 @@
 ---
 name: Globber
-description: This is a placeholder until someone writes it!
+description: Well, this is awkward.  This enemy is immune to weapons.
 flavor: 
 image: /images/Slime.png
 ---

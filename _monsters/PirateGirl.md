@@ -1,6 +1,6 @@
 ---
 name: Scalywag
-description: This is a placeholder until someone writes it!
+description: When you defeat this enemy, shuffle a Pirate Lockbox into the deck
 flavor: 
 image: /images/PirateGirl.png
 ---

@@ -1,7 +1,7 @@
 ---
 name: Health Potion
 description: Restore 2 health
-flavor: It does what it says on the bottle, but it tastes <i>awful</i>.
+flavor: Liquid health, tastes like rainbows and honey.
 cost: 0
 image: /images/HealthPotion.png
 durability: 3

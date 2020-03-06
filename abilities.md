@@ -1,3 +1,7 @@
+---
+title: Abilities
+---
+
 <h1>Abilities</h1>
 <table>
 {% for ability in site.abilities %}

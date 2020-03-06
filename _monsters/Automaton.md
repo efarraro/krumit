@@ -1,6 +1,6 @@
 ---
 name: Nukr0mancer v2.0
-description: This is a placeholder until someone writes it!
+description: This enemy doesn't have any special powers or effects
 flavor: 
 image: /images/Automaton.png
 ---

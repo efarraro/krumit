@@ -1,6 +1,6 @@
 ---
 name: Buckethead
-description: These gobloids are so dumb that they make everyone around them stupid
+description: When this enemy is defeated, put a copy of #card(Stupidity) into your inventory
 flavor: 
 image: /images/GobloidKnucklehead.png
 ---

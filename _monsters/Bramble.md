@@ -1,6 +1,6 @@
 ---
 name: Bramble
-description: Bramble, king of the barbearians, is also a connoisseur of battle royales.  Adventurers come from all over the world to seek glory in his arena
+description: In Bramble's Arena, discarding tiles no longer heals, but enemies give +1 #gold when defeated
 flavor: 
 image: /images/Bramble.png
 ---

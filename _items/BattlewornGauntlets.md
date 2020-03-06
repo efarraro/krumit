@@ -1,7 +1,7 @@
 ---
 name: Battleworn Gauntlets
 description: Whenever you acquire a weapon, restore 1 durability to this item
-flavor: Once a common armor among knights, these well-forged gauntlets are now worth their weight in gold after the Fall
+flavor: These pre-fall gauntlets are probably more experienced than you'll ever be. You feel confident, and chic, while wearing them.
 cost: 3
 image: /images/BattlewornGauntlets.png
 durability: 3

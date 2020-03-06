@@ -1,6 +1,6 @@
 ---
 name: Royal Guard
-description: This is a placeholder until someone writes it!
+description: Back off!  This enemy prevents you from attacking enemies in the same row, until defeated.
 flavor: 
 image: /images/RoyalGuardElite.png
 ---

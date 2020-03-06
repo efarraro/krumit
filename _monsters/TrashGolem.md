@@ -1,6 +1,6 @@
 ---
 name: Trash Golem
-description: You know things have gotten really bad when even the trash is trying to kill you
+description: When you defeat this enemy, gain an additional +1 #gold and shuffle 2 random items into the dungeon deck
 flavor: 
 image: /images/TrashGolem.png
 ---

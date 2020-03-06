@@ -1,6 +1,6 @@
 ---
 name: Mutant Biker
-description: This is a placeholder until someone writes it!
+description: You won't like him when he's angry!  Whenever this enemy takes damage, its attack increases by 1.
 flavor: 
 image: /images/Biker.png
 ---

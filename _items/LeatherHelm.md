@@ -1,7 +1,7 @@
 ---
 name: Leather Helm
 description: When you acquire this item, gain 1 gold
-flavor: It doesn't offer much protection, but it IS cheap
+flavor: It seems unsuitable as armour – perhaps it originally had another use?
 cost: 0
 image: /images/LeatherHelm.png
 durability: 2

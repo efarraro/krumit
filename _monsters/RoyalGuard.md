@@ -1,6 +1,6 @@
 ---
 name: Town Guard
-description: This is a placeholder until someone writes it!
+description: No fighting!  Can't equip melee weapons while this enemy is on the board
 flavor: 
 image: /images/RoyalGuard.png
 ---

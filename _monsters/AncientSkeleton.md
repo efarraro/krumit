@@ -1,6 +1,6 @@
 ---
 name: Ancient Skeleton
-description: Don't let his beard fool you - this ancient bone dude will beat you up
+description: This well-armored and fashionable dude starts battle with 2 armor
 flavor: 
 image: /images/AncientSkeleton.png
 ---

@@ -1,6 +1,6 @@
 ---
 name: Swampalina
-description: This is a placeholder until someone writes it!
+description: In this dungeon, when enemies spawn, they deal #poison (1) to you. Globbers also gain an extra poison attack
 flavor: 
 image: /images/Swampalina.png
 ---

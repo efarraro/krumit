@@ -1,7 +1,7 @@
 ---
 name: Apprentice Hat
 description: When you acquire this, set the cost of all adjacent abilities to 2
-flavor: A hat bestowed upon junior mages.  Don't wear it around town though - bullies will beat you up
+flavor: Mandatory headgear for first year magi. Wear it around the local townsfolk at your own risk, however.
 cost: 3
 image: /images/ApprenticeCap.png
 durability: 3

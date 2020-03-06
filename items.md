@@ -1,8 +1,12 @@
+---
+title: Items
+---
+
 <h1>Items</h1>
 <table>
 {% for item in site.items %}
-   <!-- <a href = '{{ item.url }}'>{{ item.name }}</a> -->
-   <tr>
+<!-- <a href = '{{ item.url }}'>{{ item.name }}</a> -->
+<tr>
         <td>
             <img width = '100' height = '100' src = '{{ item.image }}' />
         </td>
@@ -11,4 +15,3 @@
     </tr>
 {% endfor %}
 </table>
-

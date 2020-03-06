@@ -32,6 +32,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Header
+#header_pages:
+#  - items.md
+
+
 # Collections
 collections:
   items :

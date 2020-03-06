@@ -1,6 +1,6 @@
 ---
 name: Zealnut
-description: This is a placeholder until someone writes it!
+description: This enemy doesn't have any special powers or effects
 flavor: 
 image: /images/Zealnut.png
 ---

@@ -1,6 +1,6 @@
 ---
 name: Druid
-description: Even monsters need healing from time to time
+description: When added to the dungeon, this enemy buffs a random enemy with in the same column +3 armor
 flavor: 
 image: /images/Cleric.png
 ---

@@ -1,6 +1,6 @@
 ---
 name: Nuke Viking
-description: This is a placeholder until someone writes it!
+description: Can't equip armor against this enemy
 flavor: 
 image: /images/Viking.png
 ---

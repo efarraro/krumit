@@ -1,6 +1,6 @@
 ---
 name: Kooltist
-description: Acolyte of the Cult of the Nut - said to be a piece of the first Uberlich
+description: This enemy doesn't have any special powers or effects
 flavor: 
 image: /images/Cooltist.png
 ---

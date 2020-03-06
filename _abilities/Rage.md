@@ -1,7 +1,7 @@
 ---
 name: Rage
 description: Increase your damage by 3.  Take damage twice to recharge
-flavor: Sometimes anger is all you need.
+flavor: Get your blood up.
 cost: 4
 image: /images/Rage.png
 ---

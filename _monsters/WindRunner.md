@@ -1,6 +1,6 @@
 ---
 name: Windrunner
-description: Placeholder text
+description: This enemy is flying!  You can't equip weapons until after this enemy attacks
 flavor: 
 image: /images/WindRunner.png
 ---

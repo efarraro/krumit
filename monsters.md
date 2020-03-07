@@ -1,5 +1,6 @@
 ---
 title: Monsters
+permalink: /monsters
 ---
 
 <h1>Monsters</h1>

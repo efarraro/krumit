@@ -1,5 +1,6 @@
 ---
 title: Abilities
+permalink: /abilities
 ---
 
 <h1>Abilities</h1>
@@ -7,7 +8,7 @@ title: Abilities
 {% for ability in site.abilities %}
    
    <tr>
-        <td>
+        <td width = '100'>
             <img width = '100' height = '100' src = '{{ ability.image }}' />
         </td>
         <td><a href = '{{ ability.url }}'>{{ ability.name }}</a></td>

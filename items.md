@@ -1,5 +1,6 @@
 ---
 title: Items
+permalink: /items
 ---
 
 <h1>Items</h1>

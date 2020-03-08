@@ -5,12 +5,12 @@ tier: 1
 monsters:
   - monster:
     name: "Globber"
-    image: /images/Slime.png
+    image: images/Slime.png
     quantity: 4
     url: /monsters/Slime
   - monster:
     name: "Trickster"
-    image: /images/Trickster.png
+    image: images/Trickster.png
     quantity: 3
     url: /monsters/Trickster
 ---

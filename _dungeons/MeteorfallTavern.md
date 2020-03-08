@@ -5,32 +5,32 @@ tier: 4
 monsters:
   - monster:
     name: "Mutant Biker"
-    image: /images/Biker.png
+    image: images/Biker.png
     quantity: 3
     url: /monsters/Biker
   - monster:
     name: "Swashbuckler"
-    image: /images/Pirate.png
+    image: images/Pirate.png
     quantity: 3
     url: /monsters/Pirate
   - monster:
     name: "Vagabond"
-    image: /images/JackalVagabond.png
+    image: images/JackalVagabond.png
     quantity: 3
     url: /monsters/JackalVagabond
   - monster:
     name: "Peasant"
-    image: /images/Peasant.png
+    image: images/Peasant.png
     quantity: 2
     url: /monsters/Peasant
   - monster:
     name: "Town Guard"
-    image: /images/RoyalGuard.png
+    image: images/RoyalGuard.png
     quantity: 2
     url: /monsters/RoyalGuard
   - monster:
     name: "Buckethead"
-    image: /images/GobloidKnucklehead.png
+    image: images/GobloidKnucklehead.png
     quantity: 2
     url: /monsters/GobloidKnucklehead
 ---

@@ -5,22 +5,22 @@ tier: 5
 monsters:
   - monster:
     name: "Gobloid"
-    image: /images/Gobloid.png
+    image: images/Gobloid.png
     quantity: 6
     url: /monsters/Gobloid
   - monster:
     name: "Trickster"
-    image: /images/Trickster.png
+    image: images/Trickster.png
     quantity: 5
     url: /monsters/Trickster
   - monster:
     name: "Treant"
-    image: /images/Treant.png
+    image: images/Treant.png
     quantity: 6
     url: /monsters/Treant
   - monster:
     name: "Elmer"
-    image: /images/Elmer.png
+    image: images/Elmer.png
     quantity: 1
     url: /monsters/Elmer
 ---

@@ -5,7 +5,7 @@ tier: 0
 monsters:
   - monster:
     name: "Gobloid"
-    image: /images/Gobloid.png
+    image: images/Gobloid.png
     quantity: 6
     url: /monsters/Gobloid
 ---

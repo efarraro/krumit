@@ -5,7 +5,7 @@ tier: 0
 monsters:
   - monster:
     name: "Skeleton"
-    image: /images/Skeleton.png
+    image: images/Skeleton.png
     quantity: 6
     url: /monsters/Skeleton
 ---

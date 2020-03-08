@@ -5,17 +5,17 @@ tier: 4
 monsters:
   - monster:
     name: "Jackal"
-    image: /images/Jackal.png
+    image: images/Jackal.png
     quantity: 8
     url: /monsters/Jackal
   - monster:
     name: "Vagabond"
-    image: /images/JackalVagabond.png
+    image: images/JackalVagabond.png
     quantity: 4
     url: /monsters/JackalVagabond
   - monster:
     name: "Snotwulf"
-    image: /images/Nukadog.png
+    image: images/Nukadog.png
     quantity: 5
     url: /monsters/Nukadog
 ---

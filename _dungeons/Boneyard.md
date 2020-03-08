@@ -5,17 +5,17 @@ tier: 2
 monsters:
   - monster:
     name: "Ancient Skeleton"
-    image: /images/AncientSkeleton.png
+    image: images/AncientSkeleton.png
     quantity: 3
     url: /monsters/AncientSkeleton
   - monster:
     name: "Skeleton"
-    image: /images/Skeleton.png
+    image: images/Skeleton.png
     quantity: 6
     url: /monsters/Skeleton
   - monster:
     name: "Calacas"
-    image: /images/SkeletonKing.png
+    image: images/SkeletonKing.png
     quantity: 1
     url: /monsters/SkeletonKing
 ---

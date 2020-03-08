@@ -19,7 +19,7 @@ permalink: /dungeons
         {% for monster in dungeon.monsters %}
             <tr>
                 <td width = '50'>
-                    <img width = '50' src = '{{ monster.image }}' />
+                    <img width = '50' src = '{{site.baseurl}}{{ monster.image }}' />
                 </td>
                 <td width = '50'>
                     x{{ monster.quantity }}

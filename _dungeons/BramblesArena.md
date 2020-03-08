@@ -5,22 +5,22 @@ tier: 2
 monsters:
   - monster:
     name: "Barbearian"
-    image: images/Bear.png
+    image: /images/Bear.png
     quantity: 2
     url: /monsters/Bear
   - monster:
     name: "Peasant"
-    image: images/Peasant.png
+    image: /images/Peasant.png
     quantity: 3
     url: /monsters/Peasant
   - monster:
     name: "Gobloid"
-    image: images/Gobloid.png
+    image: /images/Gobloid.png
     quantity: 3
     url: /monsters/Gobloid
   - monster:
     name: "Bramble"
-    image: images/Bramble.png
+    image: /images/Bramble.png
     quantity: 1
     url: /monsters/Bramble
 ---

@@ -5,12 +5,12 @@ tier: 1
 monsters:
   - monster:
     name: "Skeleton"
-    image: images/Skeleton.png
+    image: /images/Skeleton.png
     quantity: 4
     url: /monsters/Skeleton
   - monster:
     name: "Kooltist"
-    image: images/Cooltist.png
+    image: /images/Cooltist.png
     quantity: 4
     url: /monsters/Cooltist
 ---

@@ -5,32 +5,32 @@ tier: 7
 monsters:
   - monster:
     name: "Globber"
-    image: images/Slime.png
+    image: /images/Slime.png
     quantity: 4
     url: /monsters/Slime
   - monster:
     name: "Snotwulf"
-    image: images/Nukadog.png
+    image: /images/Nukadog.png
     quantity: 4
     url: /monsters/Nukadog
   - monster:
     name: "Nuke Viking"
-    image: images/Viking.png
+    image: /images/Viking.png
     quantity: 4
     url: /monsters/Viking
   - monster:
     name: "Mutant Biker"
-    image: images/Biker.png
+    image: /images/Biker.png
     quantity: 3
     url: /monsters/Biker
   - monster:
     name: "Trash Golem"
-    image: images/TrashGolem.png
+    image: /images/TrashGolem.png
     quantity: 2
     url: /monsters/TrashGolem
   - monster:
     name: "The Exile"
-    image: images/TheExile.png
+    image: /images/TheExile.png
     quantity: 1
     url: /monsters/TheExile
 ---

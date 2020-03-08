@@ -5,17 +5,17 @@ tier: 2
 monsters:
   - monster:
     name: "Gobloid"
-    image: images/Gobloid.png
+    image: /images/Gobloid.png
     quantity: 5
     url: /monsters/Gobloid
   - monster:
     name: "Buckethead"
-    image: images/GobloidKnucklehead.png
+    image: /images/GobloidKnucklehead.png
     quantity: 4
     url: /monsters/GobloidKnucklehead
   - monster:
     name: "Goblord Waggu"
-    image: images/GobloidKing.png
+    image: /images/GobloidKing.png
     quantity: 1
     url: /monsters/GobloidKing
 ---

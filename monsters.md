@@ -11,7 +11,7 @@ permalink: /monsters
         <td width = '100'>
             <img width = '100' height = '100' src = '{{site.baseurl}}{{ monster.image }}' />
         </td>
-        <td><a href = '{{ monster.url }}'>{{ monster.name }}</a></td>
+        <td><a href = '{{site.baseurl}}{{ monster.url }}'>{{ monster.name }}</a></td>
         <td>{{ monster.description }}</td>
     </tr>
 {% endfor %}

@@ -26,6 +26,7 @@ baseurl: "/krumit" # the subpath of your site, e.g. /blog
 url: "http://www.krumits-tale.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: slothwerks
 #github_username:  jekyll
+#relative_permalinks: false
 
 # Build settings
 theme: minima
@@ -36,6 +37,8 @@ plugins:
 #header_pages:
 #  - items.md
 
+# Include
+#include: ['en']
 
 # Collections
 collections:

@@ -2,7 +2,10 @@
 layout: default
 ---
 <h2>{{ page.name }}</h2>
-{{ page.description }}
+<p>
+    Tier {{ page.tier + 1 }} Dungeon </br >
+    <i> {{ page.description }} </i>
+</p>
 
 <h3>Enemies</h3>
 
@@ -16,6 +19,7 @@ layout: default
                 x{{ monster.quantity }}
             </td>
             <td>
+                <!-- TODO add a URL here -->
                 {{ monster.name }}
             </td>
         </tr>

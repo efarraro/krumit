@@ -5,4 +5,4 @@
 layout: default
 lang: zh_cn
 ---
-Welcome to the Krumit's Tale Encyclopedia! Learn more about the items, enemies, and dungeons in Krumit's Tale.
+欢迎访问专为《星陨传说：流浪者的故事》玩家提供的百科宝典，你可以查看到道具，敌人，地下城的相关讯息。

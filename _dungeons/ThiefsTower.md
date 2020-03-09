@@ -1,6 +1,7 @@
 ---
-name: "Tower of Thieves"
-description: "'You won't find a more wretched hive of scuzz and villainy than the Tower of Thieves. I hope to move there one day.' - Mischief"
+
+EN_name: "Tower of Thieves"
+EN_description: "'You won't find a more wretched hive of scuzz and villainy than the Tower of Thieves. I hope to move there one day.' - Mischief"
 tier: 6
 monsters:
   - monster:
@@ -35,6 +36,45 @@ monsters:
     url: /monsters/PirateGirl
   - monster:
     name: "Vagabond"
+    image: /images/JackalVagabond.png
+    quantity: 4
+    url: /monsters/JackalVagabond
+zh-CN_name: "盗贼塔"
+zh-CN_description: "“出了盗贼塔可就找不到这么多的罪犯和混乱了。希望有一天能够搬到那边去住。”——捣蛋鬼"
+tier: 6
+monsters:
+  - monster:
+    name: "哥布森"
+    image: /images/Gobloid.png
+    quantity: 2
+    url: /monsters/Gobloid
+  - monster:
+    name: "铁桶头"
+    image: /images/GobloidKnucklehead.png
+    quantity: 3
+    url: /monsters/GobloidKnucklehead
+  - monster:
+    name: "混混"
+    image: /images/Harpy.png
+    quantity: 4
+    url: /monsters/Harpy
+  - monster:
+    name: "扎考"
+    image: /images/Jackal.png
+    quantity: 3
+    url: /monsters/Jackal
+  - monster:
+    name: "刺客"
+    image: /images/JackalAssassin.png
+    quantity: 3
+    url: /monsters/JackalAssassin
+  - monster:
+    name: "无赖"
+    image: /images/PirateGirl.png
+    quantity: 2
+    url: /monsters/PirateGirl
+  - monster:
+    name: "浪人"
     image: /images/JackalVagabond.png
     quantity: 4
     url: /monsters/JackalVagabond

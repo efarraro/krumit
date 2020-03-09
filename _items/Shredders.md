@@ -1,7 +1,16 @@
 ---
-name: "Shredders"
-description: "Piercing. When you acquire this, add a second exact copy to your inventory"
-flavor: "Better suited to tough foes than confidential documents. "
+
+EN_name: "Shredders"
+EN_description: "Piercing. When you acquire this, add a second exact copy to your inventory"
+EN_flavor: "Better suited to tough foes than confidential documents. "
+tile_id: Shredders
+cost: 4
+image: /images/Shredders.png
+durability: 3
+zh-CN_name: "割肉刀"
+zh-CN_description: "piercing。获得该卡牌时，向你的物品栏添加一张该卡牌的复制。"
+zh-CN_flavor: "不管在不在砧板上，肉就是肉。"
+tile_id: Shredders
 cost: 4
 image: /images/Shredders.png
 durability: 3

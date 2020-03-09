@@ -1,6 +1,7 @@
 ---
-name: "Iron Wood Forest"
-description: "In the Iron Wood Forest, you can see the wood for the trees but you can't saw them."
+
+EN_name: "Iron Wood Forest"
+EN_description: "In the Iron Wood Forest, you can see the wood for the trees but you can't saw them."
 tier: 5
 monsters:
   - monster:
@@ -20,6 +21,30 @@ monsters:
     url: /monsters/Treant
   - monster:
     name: "Elmer"
+    image: /images/Elmer.png
+    quantity: 1
+    url: /monsters/Elmer
+zh-CN_name: "铁木林"
+zh-CN_description: "在铁木林里可以看树但没法砍树。"
+tier: 5
+monsters:
+  - monster:
+    name: "哥布森"
+    image: /images/Gobloid.png
+    quantity: 6
+    url: /monsters/Gobloid
+  - monster:
+    name: "诡术师"
+    image: /images/Trickster.png
+    quantity: 5
+    url: /monsters/Trickster
+  - monster:
+    name: "树精"
+    image: /images/Treant.png
+    quantity: 6
+    url: /monsters/Treant
+  - monster:
+    name: "埃尔默"
     image: /images/Elmer.png
     quantity: 1
     url: /monsters/Elmer

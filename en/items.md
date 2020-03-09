@@ -3,17 +3,15 @@ title: Items
 permalink: /en/items
 lang: en
 ---
-
-<h1>Items</h1>
-<table>
 {% for item in site.items %}
-<!-- <a href = '{{ item.url }}'>{{ item.name }}</a> -->
-<tr>
-        <td>
+<h3 id = '{{item.tile_id}}'>{{ item["EN_name"] }}</h3>
+> {{item["EN_flavor"]}}
+<table>
+    <tr>
+        <td width = '100'>
             <img width = '100' height = '100' src = '{{site.baseurl}}{{ item.image }}' />
         </td>
-        <td><a href = '{{site.baseurl}}{{ item.url }}'>{{ item.name }}</a></td>
-        <td>{{ item.description }}</td>
+        <td>{{ item["EN_description"] }}</td>
     </tr>
-{% endfor %}
 </table>
+{% endfor %}

@@ -1,7 +1,15 @@
 ---
-name: "Dodge"
-description: "Remove any 'attack' actions from your opponent's current attack.  Use 4 abilities to recharge"
-flavor: "'Pfff, who needs a shield when you have moves like these?' – Mischief"
+
+EN_name: "Dodge"
+EN_description: "Remove any 'attack' actions from your opponent's current attack.  Use 4 abilities to recharge"
+EN_flavor: "'Pfff, who needs a shield when you have moves like these?' – Mischief"
+tile_id: Dodge
+cost: 2
+image: /images/Dodge.png
+zh-CN_name: "闪避"
+zh-CN_description: "将敌人当前行动中的攻击移除。使用4次技能来为这张卡牌充能。"
+zh-CN_flavor: "“切，学会了这种走位还要盾牌干嘛？”——捣蛋鬼"
+tile_id: Dodge
 cost: 2
 image: /images/Dodge.png
 ---

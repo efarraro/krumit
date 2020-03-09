@@ -1,5 +1,11 @@
 ---
-name: "Jester"
-description: "Whenever you discard a tile, randomize the cost of all visible tiles (0 to 5)"
+
+EN_name: "Jester"
+EN_description: "Whenever you discard a tile, randomize the cost of all visible tiles (0 to 5)"
+tile_id: Jester
+image: /images/Jester.png
+zh-CN_name: "小丑"
+zh-CN_description: "弃牌时会随机重置所有场上卡牌的费用（0到5）"
+tile_id: Jester
 image: /images/Jester.png
 ---

@@ -1,19 +1,18 @@
 ---
-title: Abilities
-permalink: /abilities
+title: 技能
+permalink: /zh_cn/abilities
+lang: zh_cn
 ---
-
-<h1>Abilities</h1>
-<table>
 {% for ability in site.abilities %}
-   
-   <tr>
+<h3 id = '{{ability.tile_id}}'>{{ ability["zh-CN_name"] }}</h3>
+> {{ability["zh-CN_flavor"]}}
+<table>
+    <tr>
         <td width = '100'>
-            <img width = '100' height = '100' src = '{{ site.baseurl }}{{ ability.image }}' />
+            <img width = '100' height = '100' src = '{{site.baseurl}}{{ ability.image }}' />
         </td>
-        <td><a href = '{{site.baseurl}}{{ ability.url }}'>{{ ability.name }}</a></td>
-        <td>{{ ability.description }}</td>
+        <td>{{ ability["zh-CN_description"] }}</td>
     </tr>
-{% endfor %}
 </table>
+{% endfor %}
 

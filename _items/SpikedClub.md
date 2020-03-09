@@ -1,7 +1,16 @@
 ---
-name: "Spiked Club"
-description: "After you attack with this weapon, take 1 piercing damage"
-flavor: "A much more lethal version of the fan club, favoured by vagabonds and ragamuffins."
+
+EN_name: "Spiked Club"
+EN_description: "After you attack with this weapon, take 1 piercing damage"
+EN_flavor: "A much more lethal version of the fan club, favoured by vagabonds and ragamuffins."
+tile_id: SpikedClub
+cost: 1
+image: /images/SpikedClub.png
+durability: 2
+zh-CN_name: "狼牙棒"
+zh-CN_description: "使用这把武器攻击后，自身受到1点piercing伤害。"
+zh-CN_flavor: "别名尖刺俱乐部，由一群流浪汉和恶童改装。"
+tile_id: SpikedClub
 cost: 1
 image: /images/SpikedClub.png
 durability: 2

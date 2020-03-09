@@ -1,7 +1,16 @@
 ---
-name: "Plate Armor"
-description: "Cost increased by 1 for each other item in your inventory"
-flavor: "Full body protection for the warrior in no rush to get anywhere."
+
+EN_name: "Plate Armor"
+EN_description: "Cost increased by 1 for each other item in your inventory"
+EN_flavor: "Full body protection for the warrior in no rush to get anywhere."
+tile_id: PlateArmor
+cost: 2
+image: /images/PlateArmor.png
+durability: 3
+zh-CN_name: "板甲"
+zh-CN_description: "物品栏每多一件物品，这件道具的费用便会+1"
+zh-CN_flavor: "为战士提供全面的防护，但是沉重到难以移动。"
+tile_id: PlateArmor
 cost: 2
 image: /images/PlateArmor.png
 durability: 3

@@ -3,5 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+lang: zh_cn
 ---
 Welcome to the Krumit's Tale Encyclopedia! Learn more about the items, enemies, and dungeons in Krumit's Tale.

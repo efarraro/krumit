@@ -1,6 +1,13 @@
 ---
-name: "Town Guard"
-description: "No fighting!  Can't equip melee weapons while this enemy is on the board"
-flavor: "Royal Guards are staunch defenders of The Imperium, and of its capital (and only city), Imperiumville."
+
+EN_name: "Town Guard"
+EN_description: "No fighting!  Can't equip melee weapons while this enemy is on the board"
+EN_flavor: "Royal Guards are staunch defenders of The Imperium, and of its capital (and only city), Imperiumville."
+tile_id: RoyalGuard
+image: /images/RoyalGuard.png
+zh-CN_name: "村庄守卫"
+zh-CN_description: "不准打架！这名敌人在场时无法装备武器。"
+zh-CN_flavor: "村庄守卫一直都在忠实地守卫着帝国，以及帝国的首都（也是帝国唯一的城市）：帝村。"
+tile_id: RoyalGuard
 image: /images/RoyalGuard.png
 ---

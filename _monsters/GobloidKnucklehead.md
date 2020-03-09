@@ -1,6 +1,13 @@
 ---
-name: "Buckethead"
-description: "When this enemy is defeated, put a copy of <a href = 'abilities/Stupidity'>Stoopid</a> into your inventory"
-flavor: "The most aggressive Gobloids are known as Knuckleheads. They're a force to be reckoned – and definitely not reasoned – with."
+
+EN_name: "Buckethead"
+EN_description: "When this enemy is defeated, put a copy of <a href = '../abilities#Stupidity'>Stoopid</a> into your inventory"
+EN_flavor: "The most aggressive Gobloids are known as Knuckleheads. They're a force to be reckoned – and definitely not reasoned – with."
+tile_id: GobloidKnucklehead
+image: /images/GobloidKnucklehead.png
+zh-CN_name: "铁桶头"
+zh-CN_description: "这名敌人被击败时会向你的物品栏中添加一张“鱼唇”。"
+zh-CN_flavor: "最具攻击性的哥布森非铁桶头莫属。绝不能忽视它们的力量，也不要试图和它们讲道理。"
+tile_id: GobloidKnucklehead
 image: /images/GobloidKnucklehead.png
 ---

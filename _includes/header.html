@@ -25,6 +25,9 @@
                 {%- endif -%}
               {%- endfor -%}
             </div>
+            {%- if page.lang == undefined} -%}
+              <a href = 'en'>🇺🇸</a><a href = 'zh_CN'> 🇨🇳</a>
+            {%- endif -%}
           </nav>
         {%- endif -%}
       </div>

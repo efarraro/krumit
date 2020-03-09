@@ -1,7 +1,16 @@
 ---
-name: "Brass Knuckles"
-description: "If your attack has blitz, stun your opponent after you attack"
-flavor: "A must if you plan on getting into bar fights"
+
+EN_name: "Brass Knuckles"
+EN_description: "If your attack has blitz, stun your opponent after you attack"
+EN_flavor: "A must if you plan on getting into bar fights"
+tile_id: BrassKnuckles
+cost: 1
+image: /images/BrassKnuckles.png
+durability: 2
+zh-CN_name: "黄铜指套"
+zh-CN_description: "如果你的攻击具有blitz，在你攻击之后将其stun。"
+zh-CN_flavor: "酒吧乱战必备。"
+tile_id: BrassKnuckles
 cost: 1
 image: /images/BrassKnuckles.png
 durability: 2

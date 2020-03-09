@@ -1,7 +1,16 @@
 ---
-name: "Battleworn Gauntlets"
-description: "Whenever you acquire a weapon, restore 1 durability to this item"
-flavor: "These pre-fall gauntlets are probably more experienced than you'll ever be. You feel confident, and chic, while wearing them."
+
+EN_name: "Battleworn Gauntlets"
+EN_description: "Whenever you acquire a weapon, restore 1 durability to this item"
+EN_flavor: "These pre-fall gauntlets are probably more experienced than you'll ever be. You feel confident, and chic, while wearing them."
+tile_id: BattlewornGauntlets
+cost: 3
+image: /images/BattlewornGauntlets.png
+durability: 3
+zh-CN_name: "战损护手"
+zh-CN_description: "获得武器时为这件物品回复1点耐久度。"
+zh-CN_flavor: "这些护手经历过的战斗可能比你这辈子要经历的都多。带上它之后，你感到无比的自信与别致。"
+tile_id: BattlewornGauntlets
 cost: 3
 image: /images/BattlewornGauntlets.png
 durability: 3

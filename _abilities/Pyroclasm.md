@@ -1,7 +1,15 @@
 ---
-name: "Pyroclasm"
-description: "Deal 15 piercing damage to target enemy.  Exhaust"
-flavor: 
+
+EN_name: "Pyroclasm"
+EN_description: "Deal 15 piercing damage to target enemy.  Exhaust"
+EN_flavor: 
+tile_id: Pyroclasm
+cost: 4
+image: /images/Pyroclasm.png
+zh-CN_name: "烈焰冲撞"
+zh-CN_description: "对目标敌人造成15点piercing伤害。Exhaust。"
+zh-CN_flavor: 
+tile_id: Pyroclasm
 cost: 4
 image: /images/Pyroclasm.png
 ---

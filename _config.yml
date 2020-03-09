@@ -71,6 +71,11 @@ defaults:
     values:
       layout: "item"
   - scope:
+      path: "en"
+      type: "items"
+    values:
+      layout: "item"
+  - scope:
       path: ""
       type: "monsters"
     values:

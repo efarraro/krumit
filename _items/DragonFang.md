@@ -1,7 +1,16 @@
 ---
-name: "Dragorn Fang"
-description: "If you have stealth, increase damage by 4"
-flavor: "'...For days, all one can sense is the tang of gold, and a sinister rustling of feathers...' -  - Excerpt from the memoir of Ludlow 'Snake-food' Gabblesnoz. "
+
+EN_name: "Dragorn Fang"
+EN_description: "If you have stealth, increase damage by 4"
+EN_flavor: "'...For days, all one can sense is the tang of gold, and a sinister rustling of feathers...' -  - Excerpt from the memoir of Ludlow 'Snake-food' Gabblesnoz. "
+tile_id: DragonFang
+cost: 4
+image: /images/DragonFang.png
+durability: 3
+zh-CN_name: "扎尔贡的尖牙"
+zh-CN_description: "stealth状态下攻击力+4。"
+zh-CN_flavor: "“……之后的几天里，能够感觉到的就只有黄金的味道，还有一种险恶的羽毛的沙沙声……”——摘自“蛇食”拉德洛·伽博斯诺的回忆录"
+tile_id: DragonFang
 cost: 4
 image: /images/DragonFang.png
 durability: 3

@@ -5,3 +5,5 @@
 layout: default
 ---
 Welcome to the Krumit's Tale Encyclopedia! Learn more about the items, enemies, and dungeons in Krumit's Tale.
+<br /><br />
+Choose a language in the top bar above

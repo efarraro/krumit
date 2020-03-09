@@ -1,7 +1,16 @@
 ---
-name: "Misfit's Mask"
-description: "Use to gain stealth (outside of battle)"
-flavor: "Something about this mask is exhausting to look at. It's as though your gaze just slides off it. "
+
+EN_name: "Misfit's Mask"
+EN_description: "Use to gain stealth (outside of battle)"
+EN_flavor: "Something about this mask is exhausting to look at. It's as though your gaze just slides off it. "
+tile_id: MisfitMask
+cost: 2
+image: /images/MisfitMask.png
+durability: 3
+zh-CN_name: "错配的面具"
+zh-CN_description: "使用获得stealth（只能在战斗外使用）。"
+zh-CN_flavor: "关于这个面具莫名得十分难以观察。就好像你的视线直接滑到了一边。"
+tile_id: MisfitMask
 cost: 2
 image: /images/MisfitMask.png
 durability: 3

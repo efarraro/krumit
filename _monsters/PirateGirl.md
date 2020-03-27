@@ -2,8 +2,7 @@
 
 EN_name: "Scalywag"
 EN_description: "When you defeat this enemy, shuffle a Pirate Lockbox into the deck"
-EN_flavor: "These incorrigible lesser-pirates are only ever after your booty. 
-"
+EN_flavor: "These incorrigible lesser-pirates are only ever after your booty."
 tile_id: PirateGirl
 image: /images/PirateGirl.png
 zh-CN_name: "无赖"

@@ -2,7 +2,7 @@
 
 EN_name: "Dart Gun"
 EN_description: "Apply poison (2) to target enemy. When you acquire a potion, restore 1 durability"
-EN_flavor: "Placeholder"
+EN_flavor: "'Poison from afar, refill from a jar!' - Excerpt...well, the whole text of the Trickster's Dart Gun user guide."
 tile_id: DartGun
 cost: 2
 image: /images/DartGun.png

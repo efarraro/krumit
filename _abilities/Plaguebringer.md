@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Plaguebringer"
-EN_description: "Destroy target poisoned enemy, then deal 4 piercing damage and apply poison (2) to all adjacent enemies. Exhaust"
+EN_description: "Destroy target poisoned non-boss enemy, then deal 4 piercing damage and apply poison (2) to all adjacent enemies. Exhaust"
 EN_flavor: "Put them out of their misery, and put their misery into others"
 tile_id: Plaguebringer
 cost: 4

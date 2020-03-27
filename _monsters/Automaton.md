@@ -2,7 +2,7 @@
 
 EN_name: "Nukr0mancer"
 EN_description: "This enemy doesn't have any special powers or effects"
-EN_flavor: "This foul automaton hails from a defective line. QA at GlowTech just aint what it used to be. "
+EN_flavor: "This foul automaton hails from a defective line. QA at GlowTech just aint what it used to be."
 tile_id: Automaton
 image: /images/Automaton.png
 EN_name: "Nukr0mancer v2.0"

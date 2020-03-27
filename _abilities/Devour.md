@@ -1,0 +1,15 @@
+---
+
+EN_name: "Devour"
+EN_description: "Destroy target <a href = '../items#Tombstone'>Tombstone</a> and increase your max health by 4 for the remainder of the dungeon. Exhaust"
+EN_flavor: "'I 'aint saying he's a grave digger. But...' - Mercedes, concerned local parishioner."
+tile_id: Devour
+cost: 1
+image: /images/Devour.png
+zh-CN_name: "吞噬"
+zh-CN_description: "摧毁目标<a href = '../items#Tombstone'>墓碑</a>，为你提高4点生命值上限，本层地下城内有效。Exhaust。"
+zh-CN_flavor: "占位符"
+tile_id: Devour
+cost: 1
+image: /images/Devour.png
+---

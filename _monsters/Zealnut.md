@@ -10,4 +10,9 @@ zh-CN_description: "这名敌人没有任何特殊能力或者特殊效果。"
 zh-CN_flavor: "坚果狂是一群资深的酷酷，可以穿得更加亮闪闪来表明它们的地位。它们的链子看起来像是金链，但其实也就只有7克拉而已。"
 tile_id: Zealnut
 image: /images/Zealnut.png
+es-ES_name: "Fanático Loko"
+es-ES_description: "Este enemigo no tiene poderes o efectos especiales"
+es-ES_flavor: "坚果狂是一群资深的酷酷，可以穿得更加亮闪闪来表明它们的地位。它们的链子看起来像是金链，但其实也就只有7克拉而已。"
+tile_id: Zealnut
+image: /images/Zealnut.png
 ---

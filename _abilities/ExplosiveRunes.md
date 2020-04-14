@@ -12,4 +12,10 @@ zh-CN_flavor: "符文师每次都会警告那些头脑发热的新学徒，不�
 tile_id: ExplosiveRunes
 cost: 2
 image: /images/ExplosiveRunes.png
+es-ES_name: "Runas Explosivas"
+es-ES_description: "Destruye una habilidad objetivo. Haz daño piercing equivalente al costo de esa habilidad + 2 a los enemigos adyacentes a ella."
+es-ES_flavor: "Los talladores de runas siempre advierten a sus tercos aprendices que no se metan prematuramente con símbolos explosivos. Los talladores de runas siempre terminan necesitando nuevos aprendices."
+tile_id: ExplosiveRunes
+cost: 2
+image: /images/ExplosiveRunes.png
 ---

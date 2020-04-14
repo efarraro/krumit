@@ -28,4 +28,18 @@ tile_id: LeatherHelm
 cost: 0
 image: /images/LeatherHelm.png
 durability: 2
+es-ES_name: "Casco de Cuero"
+es-ES_description: "Cuando adquieras este ítem, gana 1 de oro"
+es-ES_flavor: "No es muy bueno como armadura - ¿quizás antes tenía otro uso?"
+tile_id: LeatherHelm
+cost: 0
+image: /images/LeatherHelm.png
+durability: 2
+es-ES_name: "Casco de Cuero"
+es-ES_description: "Cuando adquieras este ítem, gana 1 de oro"
+es-ES_flavor: "No es muy bueno como armadura - ¿quizás antes tenía otro uso?"
+tile_id: LeatherHelm
+cost: 0
+image: /images/LeatherHelm.png
+durability: 2
 ---

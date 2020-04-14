@@ -58,4 +58,33 @@ monsters:
     image: /images/Swampalina.png
     quantity: 1
     url: /monsters/Swampalina
+es-ES_name: "Bóveda Tóxica de Pantanuela"
+es-ES_description: "沼泥垃调制出来的毒根本治不好，不过还是可以预防的——赶紧逃就是了。"
+tier: 7
+monsters:
+  - monster:
+    name: "Babote"
+    image: /images/Slime.png
+    quantity: 6
+    url: /monsters/Slime
+  - monster:
+    name: "Embaucador"
+    image: /images/Trickster.png
+    quantity: 5
+    url: /monsters/Trickster
+  - monster:
+    name: "Gólem de Basura"
+    image: /images/TrashGolem.png
+    quantity: 3
+    url: /monsters/TrashGolem
+  - monster:
+    name: "Asesino Chacal"
+    image: /images/JackalAssassin.png
+    quantity: 3
+    url: /monsters/JackalAssassin
+  - monster:
+    name: "Pantanuela"
+    image: /images/Swampalina.png
+    quantity: 1
+    url: /monsters/Swampalina
 ---

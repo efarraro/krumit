@@ -14,4 +14,11 @@ tile_id: IcePick
 cost: 2
 image: /images/IcePick.png
 durability: 3
+es-ES_name: "Pico de Hielo"
+es-ES_description: "Hace 4 de daño adicional contra enemigos frozen"
+es-ES_flavor: "铞合金制成的顶尖大赛型号冰镐。"
+tile_id: IcePick
+cost: 2
+image: /images/IcePick.png
+durability: 3
 ---

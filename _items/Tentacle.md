@@ -14,4 +14,11 @@ tile_id: Tentacle
 cost: 4
 image: /images/Tentacle.png
 durability: 3
+es-ES_name: "Brazo de Okto"
+es-ES_description: "Al final de cada ronda de combate, incrementa el daño de esta arma en 1 hasta el final del combate"
+es-ES_flavor: "Okto tiene ocho de éstos - bueno, ahora son siete. A menos que se haya conseguido un tentáculo de palo. ¿Un tentápalo?"
+tile_id: Tentacle
+cost: 4
+image: /images/Tentacle.png
+durability: 3
 ---

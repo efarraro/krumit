@@ -12,4 +12,10 @@ zh-CN_flavor: "“你确定要和我这种长相的人比头槌？”，布鲁�
 tile_id: Intimidate
 cost: 4
 image: /images/Intimidate.png
+es-ES_name: "Intimidar"
+es-ES_description: "Incrementa tu ataque en 2. Sólo puede ser usada cuando tienes más vida que tu oponente"
+es-ES_flavor: "'¿En verdad quieres meterme en una competencia de cabezazos con una cara como la mía?', musitó Bruno, haciendo crujir su cuello."
+tile_id: Intimidate
+cost: 4
+image: /images/Intimidate.png
 ---

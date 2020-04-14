@@ -14,4 +14,11 @@ tile_id: Blackjack
 cost: 1
 image: /images/Blackjack.png
 durability: 3
+es-ES_name: "Cachiporra"
+es-ES_description: "Inflige stun a un enemigo objetivo en combate. Sólo es utilizable contra enemigos que estén solos en su fila. Gana stealth cuando adquieras este ítem."
+es-ES_flavor: "Un arma común entre aquellos que se ocultan en las sombras."
+tile_id: Blackjack
+cost: 1
+image: /images/Blackjack.png
+durability: 3
 ---

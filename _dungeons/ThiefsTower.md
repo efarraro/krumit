@@ -78,4 +78,43 @@ monsters:
     image: /images/JackalVagabond.png
     quantity: 4
     url: /monsters/JackalVagabond
+es-ES_name: "Torre de los Ladrones"
+es-ES_description: "'No encontrarás una más miserable colmena de escoria y villanía que la Torre de los Ladrones. Espero poder mudarme ahí algún día.' - Travesuras"
+tier: 6
+monsters:
+  - monster:
+    name: "Gobloide"
+    image: /images/Gobloid.png
+    quantity: 2
+    url: /monsters/Gobloid
+  - monster:
+    name: "Cabeza de Balde"
+    image: /images/GobloidKnucklehead.png
+    quantity: 3
+    url: /monsters/GobloidKnucklehead
+  - monster:
+    name: "Punk"
+    image: /images/Harpy.png
+    quantity: 4
+    url: /monsters/Harpy
+  - monster:
+    name: "Chacal"
+    image: /images/Jackal.png
+    quantity: 3
+    url: /monsters/Jackal
+  - monster:
+    name: "Asesino Chacal"
+    image: /images/JackalAssassin.png
+    quantity: 3
+    url: /monsters/JackalAssassin
+  - monster:
+    name: "Pilluela"
+    image: /images/PirateGirl.png
+    quantity: 2
+    url: /monsters/PirateGirl
+  - monster:
+    name: "Vagabundo"
+    image: /images/JackalVagabond.png
+    quantity: 4
+    url: /monsters/JackalVagabond
 ---

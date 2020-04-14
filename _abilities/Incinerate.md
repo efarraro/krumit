@@ -12,4 +12,10 @@ zh-CN_flavor: "调高温度。调到11。"
 tile_id: Incinerate
 cost: 2
 image: /images/Incinerate.png
+es-ES_name: "Incinerar"
+es-ES_description: "Haz 4 de daño piercing a un enemigo objetivo. Si el objetivo está burn, haz 6 extra de daño piercing. Exhaust"
+es-ES_flavor: "Sube la calefacción. Súbela a 11."
+tile_id: Incinerate
+cost: 2
+image: /images/Incinerate.png
 ---

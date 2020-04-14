@@ -12,4 +12,10 @@ zh-CN_flavor: "只有最为枯槁的吸魔者才能解开如何操纵灵魂的�
 tile_id: DrainEssence
 cost: 2
 image: /images/DrainEssence.png
+es-ES_name: "Drenar Escencia"
+es-ES_description: "En combate, reduce el daño del ataque enemigo a 0 y recupera 4 de vida. Derrota 3 enemigos para recargar"
+es-ES_flavor: "Solo los Manavampiros más ancianos desvelan el sercreto de cómo manipular la escencia de una persona. Una vez probada, el ansia nunca podrá ser satisfecha."
+tile_id: DrainEssence
+cost: 2
+image: /images/DrainEssence.png
 ---

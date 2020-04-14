@@ -14,4 +14,11 @@ tile_id: OracleRod
 cost: 4
 image: /images/OracleRod.png
 durability: 3
+es-ES_name: "Vara-Oráculo"
+es-ES_description: "Cuesta 1 menos por cada enemigo visible que esté burn o freeze"
+es-ES_flavor: "'La Vara-Oráculo puede mostrarle el futuro a un humano o una bestia. Es solo que siempre es un futuro doloroso.' - Vidente Delphine"
+tile_id: OracleRod
+cost: 4
+image: /images/OracleRod.png
+durability: 3
 ---

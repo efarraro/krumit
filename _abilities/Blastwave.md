@@ -12,4 +12,10 @@ zh-CN_flavor: "承受不了这种温度的话，最好赶紧逃出这个地下�
 tile_id: Blastwave
 cost: 6
 image: /images/Blastwave.png
+es-ES_name: "Onda de Choque"
+es-ES_description: "Haz 5 de daño piercing e inflige burn (5) a todos los enemigos de la fila inferior. Barájalos de vuelta en el mazo-calabozo. Exhaust"
+es-ES_flavor: "Si no aguantas el calor, lárgate del calabozo."
+tile_id: Blastwave
+cost: 6
+image: /images/Blastwave.png
 ---

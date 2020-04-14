@@ -14,4 +14,11 @@ tile_id: Snowball
 cost: 2
 image: /images/Snowball.png
 durability: 3
+es-ES_name: "Bola de Nieve"
+es-ES_description: "Aplica freeze a un enemigo objetivo"
+es-ES_flavor: "Copos de nieve encantados y muy compactos de la meseta más alta de la Caramontaña."
+tile_id: Snowball
+cost: 2
+image: /images/Snowball.png
+durability: 3
 ---

@@ -14,4 +14,11 @@ tile_id: LordsHelm
 cost: 2
 image: /images/LordsHelm.png
 durability: 2147483647
+es-ES_name: "Yelmo Señorial"
+es-ES_description: "En combate, cuando hagas block con este ítem, pierde 1 de oro. Debes tener al menos 1 de oro para equipar esto"
+es-ES_flavor: "Alguna vez le perteneció a un opulento noble. Es bastante robusto, pero la ostentosa pintura sale muy cara de reparar."
+tile_id: LordsHelm
+cost: 2
+image: /images/LordsHelm.png
+durability: 2147483647
 ---

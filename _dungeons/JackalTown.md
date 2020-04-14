@@ -38,4 +38,23 @@ monsters:
     image: /images/Nukadog.png
     quantity: 5
     url: /monsters/Nukadog
+es-ES_name: "Barrios Bajos de Pueblo Chacal"
+es-ES_description: "Para visitar los barrios bajos de los Chacales, uno debe estar bien perdido, o bien seguro de que puede sobrevivir un cuchillo en la espalda."
+tier: 4
+monsters:
+  - monster:
+    name: "Chacal"
+    image: /images/Jackal.png
+    quantity: 8
+    url: /monsters/Jackal
+  - monster:
+    name: "Vagabundo"
+    image: /images/JackalVagabond.png
+    quantity: 4
+    url: /monsters/JackalVagabond
+  - monster:
+    name: "Lobo Mocoso"
+    image: /images/Nukadog.png
+    quantity: 5
+    url: /monsters/Nukadog
 ---

@@ -14,4 +14,11 @@ tile_id: NinjaHeadband
 cost: 2
 image: /images/NinjaHeadband.png
 durability: 3
+es-ES_name: "Cinta de Shinobi"
+es-ES_description: "Cuando parry un ataque con este ítem, gana stealth"
+es-ES_flavor: "Las cintas ninja son un símbolo de las verdaderas habilidades sombrías. Y también ayudan a mantenerte el pelo fuera de los ojos."
+tile_id: NinjaHeadband
+cost: 2
+image: /images/NinjaHeadband.png
+durability: 3
 ---

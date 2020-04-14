@@ -14,4 +14,11 @@ tile_id: JeweledSlippers
 cost: 2
 image: /images/JeweledSlippers.png
 durability: 3
+es-ES_name: "Pantuflas Enjoyadas"
+es-ES_description: "Activa este ítem para barajar todas las fichas de vuelta en el mazo-calabozo. Si estás en combate, déjalo también."
+es-ES_flavor: "Solo entrechoca tus tacones, y... no, sigues en el calabozo."
+tile_id: JeweledSlippers
+cost: 2
+image: /images/JeweledSlippers.png
+durability: 3
 ---

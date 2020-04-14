@@ -28,4 +28,18 @@ tile_id: Crossbow
 cost: 2
 image: /images/Crossbow.png
 durability: 3
+es-ES_name: "Ballesta"
+es-ES_description: "Alcance. Haz 2 de daño piercing a un enemigo objetivo en la fila superior o la del medio"
+es-ES_flavor: "Es un arco de alta tecnología. Fácil de disparar en un apuro."
+tile_id: Crossbow
+cost: 2
+image: /images/Crossbow.png
+durability: 3
+es-ES_name: "Ballesta"
+es-ES_description: "Alcance. Haz 2 de daño piercing a un enemigo objetivo en la fila superior o la del medio"
+es-ES_flavor: "Es un arco de alta tecnología. Fácil de disparar en un apuro."
+tile_id: Crossbow
+cost: 2
+image: /images/Crossbow.png
+durability: 3
 ---

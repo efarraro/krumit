@@ -9,7 +9,14 @@ image: /images/BarrelAgedDjinn.png
 durability: 3
 zh-CN_name: "陈年灯神"
 zh-CN_description: "将你的生命值回满，并向你的背包中添加一张<a href = '../abilities#Stupidity'>鱼唇</a>"
-zh-CN_flavor: "占位符"
+zh-CN_flavor: "就是一个这样的木桶将穆道夫送上了命运之路。3步下去，他就撞到了墙上，足足昏迷了2天。"
+tile_id: BarrelAgedDjinn
+cost: 2
+image: /images/BarrelAgedDjinn.png
+durability: 3
+es-ES_name: "Djinn Añejo"
+es-ES_description: "Recupera tu vida completamente y añade una <a href = '../abilities#Stupidity'>¡Estúuupido!</a> a tu inventario"
+es-ES_flavor: "Fue una barrica de este licor la que puso a Muldorf en camino a su destino. Bajó 3 escalones, antes de chocar contra una muralla y despertar 2 días más tarde."
 tile_id: BarrelAgedDjinn
 cost: 2
 image: /images/BarrelAgedDjinn.png

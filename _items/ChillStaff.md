@@ -14,4 +14,11 @@ tile_id: ChillStaff
 cost: 3
 image: /images/ChillStaff.png
 durability: 2
+es-ES_name: "冰霜法杖"
+es-ES_description: "当装备这件物品并击败一名敌人时，向你的物品栏中添加一张寒冰箭。"
+es-ES_flavor: "如果手持冰霜法杖让你感觉太冷，你可以去墙角站着，墙角有90度呀。"
+tile_id: ChillStaff
+cost: 3
+image: /images/ChillStaff.png
+durability: 2
 ---

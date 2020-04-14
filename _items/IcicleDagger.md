@@ -8,8 +8,15 @@ cost: 1
 image: /images/IcicleDagger.png
 durability: 3
 zh-CN_name: "冰柱匕首"
-zh-CN_description: "在攻击被frozen的敌人时不会损失耐久"
+zh-CN_description: "你每次freeze一个敌人时会为这件物品回复1点耐久"
 zh-CN_flavor: "和灰胡子被冰冻的心一样冰冷"
+tile_id: IcicleDagger
+cost: 1
+image: /images/IcicleDagger.png
+durability: 3
+es-ES_name: "Daga de Carámbano"
+es-ES_description: "Este ítem repara 1 de durabilidad cada vez que inflijas freeze a un enemigo"
+es-ES_flavor: "Esta frígida daga se alimenta del frío. No trates de lamerla."
 tile_id: IcicleDagger
 cost: 1
 image: /images/IcicleDagger.png

@@ -12,4 +12,10 @@ zh-CN_flavor: "“袖口里是一个不错的藏匿点。袜子也可以。内�
 tile_id: HiddenBlades
 cost: 1
 image: /images/HiddenBlades.png
+es-ES_name: "Cuchillas Ocultas"
+es-ES_description: "Baraja 2 copias de <a href = '../abilities#Stab'>Apuñalar</a> en el mazo-calabozo. Exhaust"
+es-ES_flavor: "'Las mangas son el escondite ideal. Un calcetín también puede ser suficiente. La ropa interior es en verdad una solución de última instancia.' - De la popular guía de ladrones, 'Lo que es Tuyo es Mío'"
+tile_id: HiddenBlades
+cost: 1
+image: /images/HiddenBlades.png
 ---

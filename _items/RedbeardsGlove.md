@@ -14,4 +14,11 @@ tile_id: RedbeardsGlove
 cost: 2
 image: /images/RedbeardsGlove.png
 durability: 2
+es-ES_name: "Guante de Barbarroja"
+es-ES_description: "Cada vez que inflijas burn a un enemigo, incrementa el ataque de este ítem en 1"
+es-ES_flavor: "'Aquellos indignos de portar la llama están condenados a ser consumidos por ella.' - Barbarroja"
+tile_id: RedbeardsGlove
+cost: 2
+image: /images/RedbeardsGlove.png
+durability: 2
 ---

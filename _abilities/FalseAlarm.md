@@ -12,4 +12,10 @@ zh-CN_flavor: "直接喊：“狼来了！”就行。屡试不爽！"
 tile_id: FalseAlarm
 cost: 1
 image: /images/FalseAlarm.png
+es-ES_name: "Falsa Alarma"
+es-ES_description: "Baraja todos los enemigos de vuelta en el mazo. No puede ser usada en combate. Exhaust"
+es-ES_flavor: "¡Gritar 'lobo' nunca pasa de moda!"
+tile_id: FalseAlarm
+cost: 1
+image: /images/FalseAlarm.png
 ---

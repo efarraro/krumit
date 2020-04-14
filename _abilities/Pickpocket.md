@@ -12,4 +12,10 @@ zh-CN_flavor: "任何东西都有一个能够装东西的口袋。是的，任�
 tile_id: Pickpocket
 cost: 0
 image: /images/Pickpocket.png
+es-ES_name: "Carterista"
+es-ES_description: "Si tienes stealth, baraja un enemigo objetivo de vuelta en el maza y gana 2 de oro. Pierde el sigilo"
+es-ES_flavor: "Todo tiene un bolsillo en alguna parte. Sip. TODO."
+tile_id: Pickpocket
+cost: 0
+image: /images/Pickpocket.png
 ---

@@ -12,4 +12,10 @@ zh-CN_flavor:
 tile_id: DefensiveStance
 cost: 3
 image: /images/DefensiveStance.png
+es-ES_name: "Postura Defensiva"
+es-ES_description: "Gana Block (2) al principio de cada turno y reduce tu ataque base en 1 por el resto del combate"
+es-ES_flavor: 
+tile_id: DefensiveStance
+cost: 3
+image: /images/DefensiveStance.png
 ---

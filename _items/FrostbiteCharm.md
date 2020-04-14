@@ -14,4 +14,11 @@ tile_id: FrostbiteCharm
 cost: 2
 image: /images/FrostbiteCharm.png
 durability: 3
+es-ES_name: "Amuleto de la Hipotermia"
+es-ES_description: "Transforma un enemigo freeze (que no sea un jefe) en un Esqueleto"
+es-ES_flavor: "¡Por el poder de nuestros corazones..! Ah, no importa. - Herman Von Bek, aventurero desventurado."
+tile_id: FrostbiteCharm
+cost: 2
+image: /images/FrostbiteCharm.png
+durability: 3
 ---

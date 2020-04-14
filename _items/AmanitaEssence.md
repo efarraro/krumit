@@ -56,4 +56,32 @@ tile_id: AmanitaEssence
 cost: 0
 image: /images/AmanitaEssence.png
 durability: 3
+es-ES_name: "Esencia de Amanita"
+es-ES_description: "Reduce el costo de la habilidad objetivo en 1"
+es-ES_flavor: "Destilada de los letales hongos amanita. Expande la mente y ayuda en el aprendizaje de habilidades mágicas. También puede hacerte sentir en comunión con toda la materia del universo."
+tile_id: AmanitaEssence
+cost: 0
+image: /images/AmanitaEssence.png
+durability: 3
+es-ES_name: "Esencia de Amanita"
+es-ES_description: "Reduce el costo de la habilidad objetivo en 1"
+es-ES_flavor: "Destilada de los letales hongos amanita. Expande la mente y ayuda en el aprendizaje de habilidades mágicas. También puede hacerte sentir en comunión con toda la materia del universo."
+tile_id: AmanitaEssence
+cost: 0
+image: /images/AmanitaEssence.png
+durability: 3
+es-ES_name: "Esencia de Amanita"
+es-ES_description: "Reduce el costo de la habilidad objetivo en 1"
+es-ES_flavor: "Destilada de los letales hongos amanita. Expande la mente y ayuda en el aprendizaje de habilidades mágicas. También puede hacerte sentir en comunión con toda la materia del universo."
+tile_id: AmanitaEssence
+cost: 0
+image: /images/AmanitaEssence.png
+durability: 3
+es-ES_name: "Esencia de Amanita"
+es-ES_description: "Reduce el costo de la habilidad objetivo en 1"
+es-ES_flavor: "Destilada de los letales hongos amanita. Expande la mente y ayuda en el aprendizaje de habilidades mágicas. También puede hacerte sentir en comunión con toda la materia del universo."
+tile_id: AmanitaEssence
+cost: 0
+image: /images/AmanitaEssence.png
+durability: 3
 ---

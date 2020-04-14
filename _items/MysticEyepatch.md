@@ -14,4 +14,11 @@ tile_id: MysticEyepatch
 cost: 1
 image: /images/MysticEyepatch.png
 durability: 2
+es-ES_name: "Parche de Ojo Místico"
+es-ES_description: "Cuando esta ficha es añadida al calabozo, reduce el costo de las habilidades en la misma columna en 2"
+es-ES_flavor: "¿Quién necesita visión estereoscópica cuando puedes tener visión piratesca?"
+tile_id: MysticEyepatch
+cost: 1
+image: /images/MysticEyepatch.png
+durability: 2
 ---

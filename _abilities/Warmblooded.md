@@ -12,4 +12,10 @@ zh-CN_flavor: "与火蜥蜴的力量融为一体，能够给予你力量的不�
 tile_id: Warmblooded
 cost: 2
 image: /images/Warmblooded.png
+es-ES_name: "Sangre Caliente"
+es-ES_description: "Recupera 2 de vida. Recarga esto cada vez que inflijas burn en un enemigo"
+es-ES_flavor: "¡Imbúyete con el Aspecto de Salamandrah, y aliméntate del calor de tus enemigos! ¡Y de cualquier barbacoa cercana!"
+tile_id: Warmblooded
+cost: 2
+image: /images/Warmblooded.png
 ---

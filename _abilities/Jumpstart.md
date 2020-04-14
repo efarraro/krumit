@@ -12,4 +12,10 @@ zh-CN_flavor: "魔法有时会十分任性。这时只要电它一下就可以�
 tile_id: Jumpstart
 cost: 4
 image: /images/Jumpstart.png
+es-ES_name: "借电"
+es-ES_description: "Llena los espacios vacíos de tu inventario con habilidades aleatorias que cuesten 1 o menos. Exhaust"
+es-ES_flavor: "魔法有时会十分任性。这时只要电它一下就可以继续使用了。"
+tile_id: Jumpstart
+cost: 4
+image: /images/Jumpstart.png
 ---

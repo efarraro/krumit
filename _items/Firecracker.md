@@ -14,4 +14,11 @@ tile_id: Firecracker
 cost: 1
 image: /images/Firecracker.png
 durability: 3
+es-ES_name: "Petardo"
+es-ES_description: "En combate, si tu enemigo tiene un valor de ataque de 4 o más, déjalo stun"
+es-ES_flavor: "¡Estrellas en tus ojos! Nadie puede resistirse a un buen petardo."
+tile_id: Firecracker
+cost: 1
+image: /images/Firecracker.png
+durability: 3
 ---

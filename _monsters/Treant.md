@@ -10,4 +10,9 @@ zh-CN_description: "这名敌人在回合结束时如果护甲值为0，立即�
 zh-CN_flavor: "窥树者平均可以活到1,000岁以上，但是10岁左右的时候脾气就开始变得特别臭。"
 tile_id: Treant
 image: /images/Treant.png
+es-ES_name: "Hombre-árbol"
+es-ES_description: "Al final del turno de este enemigo, si tiene 0 de armadura, destrúyelo"
+es-ES_flavor: "El arbolucho promedio puede vivir por más de 1000 años, pero se vuelve gruñón a los 10 años de edad."
+tile_id: Treant
+image: /images/Treant.png
 ---

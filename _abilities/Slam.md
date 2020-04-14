@@ -12,4 +12,10 @@ zh-CN_flavor: "瓷器店里的恋爱的犀牛。"
 tile_id: Slam
 cost: 3
 image: /images/Slam.png
+es-ES_name: "Martillar"
+es-ES_description: "En combate, haz daño equivalente a tu vida actual (*10*). Si tienes vida llena, también inflige stun. Exhaust"
+es-ES_flavor: "瓷器店里的恋爱的犀牛。"
+tile_id: Slam
+cost: 3
+image: /images/Slam.png
 ---

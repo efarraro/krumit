@@ -14,4 +14,11 @@ tile_id: Shredders
 cost: 4
 image: /images/Shredders.png
 durability: 3
+es-ES_name: "Trituradoras"
+es-ES_description: "Piercing. Cuando adquieras este ítem, añade una segunda copia exacta a tu inventario"
+es-ES_flavor: "Son más apropiadas para enemigos difíciles que para documentos confidenciales."
+tile_id: Shredders
+cost: 4
+image: /images/Shredders.png
+durability: 3
 ---

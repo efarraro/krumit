@@ -8,4 +8,8 @@ zh-CN_name: "幸存"
 zh-CN_description: "战斗结束时如果生命值低于50%，回复2点生命值"
 tile_id: Survivor
 image: /images/Survivor.png
+es-ES_name: "Sobreviviente"
+es-ES_description: "Si tienes menos del 50% de tu vida después de un combate, recupera 2 de vida"
+tile_id: Survivor
+image: /images/Survivor.png
 ---

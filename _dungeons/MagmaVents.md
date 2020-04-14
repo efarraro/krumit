@@ -58,4 +58,33 @@ monsters:
     image: /images/Dragon.png
     quantity: 1
     url: /monsters/Dragon
+es-ES_name: "Cavernas de Magma"
+es-ES_description: "'Las Cavernas de Magma - son el dominio de Bartholomew el Dragorno. La última vez que estuve ahí me chamusqué la barba, y apestó por una semana entera.' - Barbagrís"
+tier: 7
+monsters:
+  - monster:
+    name: "Esqueleto Anciano"
+    image: /images/AncientSkeleton.png
+    quantity: 6
+    url: /monsters/AncientSkeleton
+  - monster:
+    name: "Correviento"
+    image: /images/WindRunner.png
+    quantity: 6
+    url: /monsters/WindRunner
+  - monster:
+    name: "Punk"
+    image: /images/Harpy.png
+    quantity: 8
+    url: /monsters/Harpy
+  - monster:
+    name: "Gólem de Basura"
+    image: /images/TrashGolem.png
+    quantity: 4
+    url: /monsters/TrashGolem
+  - monster:
+    name: "Bartholomew"
+    image: /images/Dragon.png
+    quantity: 1
+    url: /monsters/Dragon
 ---

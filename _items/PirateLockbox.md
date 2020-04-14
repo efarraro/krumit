@@ -56,4 +56,32 @@ tile_id: PirateLockbox
 cost: 2
 image: /images/PirateLockbox.png
 durability: 1
+es-ES_name: "Cofre de Piratas"
+es-ES_description: "Úsalo para crear un ítem cualquiera"
+es-ES_flavor: "Los piratas son tipejos desconfiados. La verdadera llave a un cofre de piratas yace en tocarles el corazoncillo."
+tile_id: PirateLockbox
+cost: 2
+image: /images/PirateLockbox.png
+durability: 1
+es-ES_name: "Cofre de Piratas"
+es-ES_description: "Úsalo para crear un ítem cualquiera"
+es-ES_flavor: "Los piratas son tipejos desconfiados. La verdadera llave a un cofre de piratas yace en tocarles el corazoncillo."
+tile_id: PirateLockbox
+cost: 2
+image: /images/PirateLockbox.png
+durability: 1
+es-ES_name: "Cofre de Piratas"
+es-ES_description: "Úsalo para crear un ítem cualquiera"
+es-ES_flavor: "Los piratas son tipejos desconfiados. La verdadera llave a un cofre de piratas yace en tocarles el corazoncillo."
+tile_id: PirateLockbox
+cost: 2
+image: /images/PirateLockbox.png
+durability: 1
+es-ES_name: "Cofre de Piratas"
+es-ES_description: "Úsalo para crear un ítem cualquiera"
+es-ES_flavor: "Los piratas son tipejos desconfiados. La verdadera llave a un cofre de piratas yace en tocarles el corazoncillo."
+tile_id: PirateLockbox
+cost: 2
+image: /images/PirateLockbox.png
+durability: 1
 ---

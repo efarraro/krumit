@@ -10,4 +10,9 @@ zh-CN_description: "在布兰堡的竞技场中，丢弃卡牌不会为你回复
 zh-CN_flavor: "布兰堡不仅是野蛮熊之王，还是一位格斗专家。冒险家从世界各地赶来，想要在他的竞技场里寻求荣耀与刺激。"
 tile_id: Bramble
 image: /images/Bramble.png
+es-ES_name: "Zarzal"
+es-ES_description: "En la Arena de Zarzal, descartar fichas ya no te cura, pero los enemigos te dan +1 de gold cuando son derrotados"
+es-ES_flavor: "Zarzal, el rey de los Barbarosos, es también un aficionado a las battle-royales. Aventureros llegan de todo el mundo en búsqueda de riquezas y diversión en su arena."
+tile_id: Bramble
+image: /images/Bramble.png
 ---

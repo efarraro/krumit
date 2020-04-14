@@ -14,4 +14,11 @@ tile_id: AlchemistTable
 cost: 3
 image: /images/AlchemistTable.png
 durability: 3
+es-ES_name: "Kit de Alquimia"
+es-ES_description: "Crea una poción cualquiera"
+es-ES_flavor: "Este kit de alquimia es completamente metálico, lo que lo hace durable pero muy impráctico de llevar encima."
+tile_id: AlchemistTable
+cost: 3
+image: /images/AlchemistTable.png
+durability: 3
 ---

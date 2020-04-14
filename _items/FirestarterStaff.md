@@ -14,4 +14,11 @@ tile_id: FirestarterStaff
 cost: 2
 image: /images/FirestarterStaff.png
 durability: 2
+es-ES_name: "Báculo Incendiario MK II"
+es-ES_description: "Cuando adquieras esta ficha, inflige burn (2) en todos los enemigos adyacentes"
+es-ES_flavor: "Barbagrís olvidó añadir un encantamiento pirorretardante al primer modelo. Sus cejas nunca fueron las mismas."
+tile_id: FirestarterStaff
+cost: 2
+image: /images/FirestarterStaff.png
+durability: 2
 ---

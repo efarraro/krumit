@@ -14,4 +14,11 @@ tile_id: GoatAxe
 cost: 1
 image: /images/GoatAxe.png
 durability: 3
+es-ES_name: "Hacha de Cabra"
+es-ES_description: "Tu ataque tiene blitz"
+es-ES_flavor: "Esta tosca arma te deja un poco cabreado."
+tile_id: GoatAxe
+cost: 1
+image: /images/GoatAxe.png
+durability: 3
 ---

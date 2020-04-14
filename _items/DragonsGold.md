@@ -56,4 +56,32 @@ tile_id: DragonsGold
 cost: 3
 image: /images/DragonsGold.png
 durability: 3
+es-ES_name: "Oro Dracónico"
+es-ES_description: "Convierte un ítem de tu elección en 5 de gold"
+es-ES_flavor: "'¿Quién necesita más basura en sus vidas? ¡Transforma tus objetos indeseados en oro, y acapara eso en su lugar!' – Extracto de 'Minimalismo Para Dragones', de Freidrich Konmari"
+tile_id: DragonsGold
+cost: 3
+image: /images/DragonsGold.png
+durability: 3
+es-ES_name: "Oro Dracónico"
+es-ES_description: "Convierte un ítem de tu elección en 5 de gold"
+es-ES_flavor: "'¿Quién necesita más basura en sus vidas? ¡Transforma tus objetos indeseados en oro, y acapara eso en su lugar!' – Extracto de 'Minimalismo Para Dragones', de Freidrich Konmari"
+tile_id: DragonsGold
+cost: 3
+image: /images/DragonsGold.png
+durability: 3
+es-ES_name: "Oro Dracónico"
+es-ES_description: "Convierte un ítem de tu elección en 5 de gold"
+es-ES_flavor: "'¿Quién necesita más basura en sus vidas? ¡Transforma tus objetos indeseados en oro, y acapara eso en su lugar!' – Extracto de 'Minimalismo Para Dragones', de Freidrich Konmari"
+tile_id: DragonsGold
+cost: 3
+image: /images/DragonsGold.png
+durability: 3
+es-ES_name: "Oro Dracónico"
+es-ES_description: "Convierte un ítem de tu elección en 5 de gold"
+es-ES_flavor: "'¿Quién necesita más basura en sus vidas? ¡Transforma tus objetos indeseados en oro, y acapara eso en su lugar!' – Extracto de 'Minimalismo Para Dragones', de Freidrich Konmari"
+tile_id: DragonsGold
+cost: 3
+image: /images/DragonsGold.png
+durability: 3
 ---

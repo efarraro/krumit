@@ -38,4 +38,23 @@ monsters:
     image: /images/SkeletonKing.png
     quantity: 1
     url: /monsters/SkeletonKing
+es-ES_name: "El Osario"
+es-ES_description: "Calacas cuida su Osario como un jardín mórbido. Con las partes correctas, puede cultivar un nuevo esqueleto para añadir a su pálido reino."
+tier: 2
+monsters:
+  - monster:
+    name: "Esqueleto Anciano"
+    image: /images/AncientSkeleton.png
+    quantity: 3
+    url: /monsters/AncientSkeleton
+  - monster:
+    name: "Esqueleto"
+    image: /images/Skeleton.png
+    quantity: 6
+    url: /monsters/Skeleton
+  - monster:
+    name: "Calacas"
+    image: /images/SkeletonKing.png
+    quantity: 1
+    url: /monsters/SkeletonKing
 ---

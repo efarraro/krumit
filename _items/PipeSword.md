@@ -14,4 +14,11 @@ tile_id: PipeSword
 cost: 2
 image: /images/PipeSword.png
 durability: 3
+es-ES_name: "Espada de pipa"
+es-ES_description: "Ítem básico - sin efectos adicionales"
+es-ES_flavor: "Ceci n'est pas une pipe. Es una espadipa. Un espadaño. Una cañispada."
+tile_id: PipeSword
+cost: 2
+image: /images/PipeSword.png
+durability: 3
 ---

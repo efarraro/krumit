@@ -14,4 +14,11 @@ tile_id: RubyRing
 cost: 6
 image: /images/RubyRing.png
 durability: 3
+es-ES_name: "Anillo de Rubí"
+es-ES_description: "Haz 4 de daño piercing a un enemigo objetivo que esté burn. Si esto lo destruye, incrementa tu ataque base en 1"
+es-ES_flavor: "Un anillo encantado por un codicioso Piromante. Se dice que el anillo está sediento de poder, tal como su creador. Y puede que también contenga su alma."
+tile_id: RubyRing
+cost: 6
+image: /images/RubyRing.png
+durability: 3
 ---

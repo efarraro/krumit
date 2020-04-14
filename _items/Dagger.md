@@ -14,4 +14,11 @@ tile_id: Dagger
 cost: 2
 image: /images/Dagger.png
 durability: 2
+es-ES_name: "Daga"
+es-ES_description: "Ítem básico - sin efectos adicionales"
+es-ES_flavor: "Pínchalos con el extremo puntiagudo, o úsala para cortar una manzana."
+tile_id: Dagger
+cost: 2
+image: /images/Dagger.png
+durability: 2
 ---

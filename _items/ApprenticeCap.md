@@ -14,4 +14,11 @@ tile_id: ApprenticeCap
 cost: 3
 image: /images/ApprenticeCap.png
 durability: 3
+es-ES_name: "Sombrero de Aprendiz"
+es-ES_description: "Cuando adquieras este ítem, fija el costo de todas las habilidades adyacentes en 2"
+es-ES_flavor: "Un sombrero obligatorio para los magos de primer año. Entre los pueblerinos locales, sin embargo, vístelo bajo tu propio riesgo."
+tile_id: ApprenticeCap
+cost: 3
+image: /images/ApprenticeCap.png
+durability: 3
 ---

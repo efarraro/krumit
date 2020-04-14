@@ -12,4 +12,10 @@ zh-CN_flavor: "棍子和石头都伤不了我的皮毛，更别说我的骨头�
 tile_id: IronSkin
 cost: 2
 image: /images/IronSkin.png
+es-ES_name: "Piel de Hierro"
+es-ES_description: "En combate, paga 3 de vida para ganar 4 de block por una ronda"
+es-ES_flavor: "¿Palos y piedras? No me romperán un pelo, mucho menos los huesos. Pero no se rían de mí, ¿ya? - Ferris Dermos, alias 'La Bruja Oxidada'"
+tile_id: IronSkin
+cost: 2
+image: /images/IronSkin.png
 ---

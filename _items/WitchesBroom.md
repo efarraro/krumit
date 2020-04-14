@@ -14,4 +14,11 @@ tile_id: WitchesBroom
 cost: 3
 image: /images/WitchesBroom.png
 durability: 2
+es-ES_name: "Escoba de Bruja"
+es-ES_description: "Baraja dos copias exactas de la habilidad objetivo en el mazo-calabozo"
+es-ES_flavor: "'Ya sé que es un cliché, pero prefiero viajar en una de éstas que en un caballo, o en un aldeano.' - Pantanuela"
+tile_id: WitchesBroom
+cost: 3
+image: /images/WitchesBroom.png
+durability: 2
 ---

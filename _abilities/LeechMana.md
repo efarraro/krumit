@@ -12,4 +12,10 @@ zh-CN_flavor: "怎么？不然不也是被他们给浪费了吗！——“吸�
 tile_id: LeechMana
 cost: 1
 image: /images/LeechMana.png
+es-ES_name: "Drenar Maná"
+es-ES_description: "Haz 2 de daño piercing a un enemigo objetivo. Reduce el costo de las habilidades adyacentes en 2. Exhaust"
+es-ES_flavor: "'¿Qué? ¡Si ni siquiera lo estaban usando!' - Luca 'El Manavampiro' Cardoso"
+tile_id: LeechMana
+cost: 1
+image: /images/LeechMana.png
 ---

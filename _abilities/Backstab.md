@@ -12,4 +12,10 @@ zh-CN_flavor: "除非它们背后长了眼睛，不然你怎么乱来都没问�
 tile_id: Backstab
 cost: 1
 image: /images/Backstab.png
+es-ES_name: "Puñalada por la Espalda"
+es-ES_description: "Haz 6 de daño piercing a un enemigo. Sólo puede ser usado contra enemigos que estén solos en su columna, o si tienes stealth. Exhaust"
+es-ES_flavor: "Si no tienen ojos en la nuca, hazlos picadillo."
+tile_id: Backstab
+cost: 1
+image: /images/Backstab.png
 ---

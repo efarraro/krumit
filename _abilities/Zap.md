@@ -12,4 +12,10 @@ zh-CN_flavor: "曾经，只有在雨天才有电。"
 tile_id: Zap
 cost: 1
 image: /images/Zap.png
+es-ES_name: "Chispazo"
+es-ES_description: "Haz 2 de daño piercing, más 1 por cada otra copia de Chispazo que haya en el mazo-calabozo. Exhaust"
+es-ES_flavor: "¡El potencial es eléctrico!"
+tile_id: Zap
+cost: 1
+image: /images/Zap.png
 ---

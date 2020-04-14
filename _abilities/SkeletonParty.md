@@ -12,4 +12,10 @@ zh-CN_flavor: "“我家的派对，我想让谁活，谁就得活！”——�
 tile_id: SkeletonParty
 cost: 3
 image: /images/SkeletonParty.png
+es-ES_name: "Fiesta Esquelética"
+es-ES_description: "Reduce tu vida a 1 y llena los espacios vacíos en tu inventario con <a href = '../unknown_type000#MinionSkeleton'>Esqueleto</a>. Exhaust"
+es-ES_flavor: "'¡Es mi fiesta y me haré no-muerto si quiero!' - Muldorf"
+tile_id: SkeletonParty
+cost: 3
+image: /images/SkeletonParty.png
 ---

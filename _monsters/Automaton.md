@@ -12,12 +12,22 @@ tile_id: Automaton
 image: /images/Automaton.png
 zh-CN_name: "莫土师"
 zh-CN_description: "这名敌人没有任何特殊能力或者特殊效果。"
-zh-CN_flavor: "占位符"
+zh-CN_flavor: "这种可恶的自走机械来自一条充满缺陷的生产线。现在的光辉科技质监人员实在是强差人意。"
 tile_id: Automaton
 image: /images/Automaton.png
 zh-CN_name: "莫土师 v2.0"
 zh-CN_description: "这名敌人没有任何特殊能力或者特殊效果。"
-zh-CN_flavor: "占位符"
+zh-CN_flavor: "光辉科技的股东们对于能够“亲手”揭幕V2型号感到十分兴奋。直到爆炸发生。"
+tile_id: Automaton
+image: /images/Automaton.png
+es-ES_name: "Nigrat0mante"
+es-ES_description: "Este enemigo no tiene poderes o efectos especiales"
+es-ES_flavor: "Este fétido autómata proviene de una línea de producción fallada. El control de calidad en GlowTech no es lo que era."
+tile_id: Automaton
+image: /images/Automaton.png
+es-ES_name: "Nigrat0mante v2.0"
+es-ES_description: "Este enemigo no tiene poderes o efectos especiales"
+es-ES_flavor: "Los accionistas de GlowTech estuvieron encantados con la presentación 'práctica' del V2. Hasta la explosión."
 tile_id: Automaton
 image: /images/Automaton.png
 ---

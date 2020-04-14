@@ -14,4 +14,11 @@ tile_id: SpikedClub
 cost: 1
 image: /images/SpikedClub.png
 durability: 2
+es-ES_name: "Porra Claveteada"
+es-ES_description: "Después de atacar con esta arma, sufre 1 de daño piercing"
+es-ES_flavor: "Una versión mucho más letal del porro, favorecida por vagabundos y pelagatos."
+tile_id: SpikedClub
+cost: 1
+image: /images/SpikedClub.png
+durability: 2
 ---

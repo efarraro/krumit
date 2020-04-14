@@ -12,4 +12,10 @@ zh-CN_flavor: "这场风暴绝对不是一个杯子能够装下的。"
 tile_id: LightningStorm
 cost: 4
 image: /images/LightningStorm.png
+es-ES_name: "Tormenta Eléctrica"
+es-ES_description: "Haz 4 de daño piercing a todos los enemigos en el tablero. Exhaust"
+es-ES_flavor: "Esta tormenta definitivemente no está contenida en una tacita de té."
+tile_id: LightningStorm
+cost: 4
+image: /images/LightningStorm.png
 ---

@@ -14,4 +14,11 @@ tile_id: ArchmagisAmulet
 cost: 5
 image: /images/ArchmagisAmulet.png
 durability: 2
+es-ES_name: "Amuleto de la Archimaga"
+es-ES_description: "Adquiere la habilidad objetivo"
+es-ES_flavor: "'Quiérelo, tómalo, tenlo, úsalo.' - Archimaga Alexandra"
+tile_id: ArchmagisAmulet
+cost: 5
+image: /images/ArchmagisAmulet.png
+durability: 2
 ---

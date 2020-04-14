@@ -12,4 +12,10 @@ zh-CN_flavor: "初级法师之间十分受欢迎的法术——即用来给哥�
 tile_id: Icebolt
 cost: 1
 image: /images/Icebolt.png
+es-ES_name: "Dardo de Hielo"
+es-ES_description: "Haz 3 de daño piercing a un enemigo objetivo e inflige freeze. Exhaust"
+es-ES_flavor: "Un hechizo favorecido por los magos novatos - útil para congelar gobloides y enfriar bebidas."
+tile_id: Icebolt
+cost: 1
+image: /images/Icebolt.png
 ---

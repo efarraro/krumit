@@ -14,4 +14,11 @@ tile_id: Spear
 cost: 2
 image: /images/Spear.png
 durability: 2
+es-ES_name: "Lanza"
+es-ES_description: "Piercing"
+es-ES_flavor: "Transforma la armadura en mantequilla caliente. Bueno, no literalmente - ¡esta no es la versión encantada!"
+tile_id: Spear
+cost: 2
+image: /images/Spear.png
+durability: 2
 ---

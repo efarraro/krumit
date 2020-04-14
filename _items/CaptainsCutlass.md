@@ -14,4 +14,11 @@ tile_id: CaptainsCutlass
 cost: 3
 image: /images/CaptainsCutlass.png
 durability: 3
+es-ES_name: "Alfanje de Capitán"
+es-ES_description: "Cuando adquieras esta arma, gana 1 de gold por cada enemigo en la misma fila o columna que este ítem"
+es-ES_flavor: "Algunas espadas están sedientas de sangre. Esta está sedienta de oro. Y de grog."
+tile_id: CaptainsCutlass
+cost: 3
+image: /images/CaptainsCutlass.png
+durability: 3
 ---

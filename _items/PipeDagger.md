@@ -14,4 +14,11 @@ tile_id: PipeDagger
 cost: 2
 image: /images/PipeDagger.png
 durability: 3
+es-ES_name: "Puñal de Prisión"
+es-ES_description: "Piercing.  Blitz. Su costo se reduce en 1 si tienes stealth"
+es-ES_flavor: "Se hace lo que se puede con lo que se tiene."
+tile_id: PipeDagger
+cost: 2
+image: /images/PipeDagger.png
+durability: 3
 ---

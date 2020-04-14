@@ -10,4 +10,9 @@ zh-CN_description: "地下城中的所有哥布森+1攻击力。向地下城牌�
 zh-CN_flavor: "为了伟大哥布森共和国而奋斗着，就如创始哥布森踏布预言的一样。固守着武力和恶臭的力量。"
 tile_id: GobloidKing
 image: /images/GobloidKing.png
+es-ES_name: "Jefe Gobloide Waggu"
+es-ES_description: "Todos los Gobloides tienen +1 al ataque en este calabozo. Baraja 3x <a href = '../items#Tranquilizer'>Tranquilizadora</a> en el mazo-calabozo."
+es-ES_flavor: "Lucha en pos de la Gran República Gobloide, como fue predicho por el Fundador Gobloide, T’abbu. Se aferra al poder con fuerza y hedor."
+tile_id: GobloidKing
+image: /images/GobloidKing.png
 ---

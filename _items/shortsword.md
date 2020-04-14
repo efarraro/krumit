@@ -14,4 +14,11 @@ tile_id: ShortSword
 cost: 2
 image: /images/ShortSword.png
 durability: 3
+es-ES_name: "Espada Corta"
+es-ES_description: "Ítem básico - sin efectos adicionales"
+es-ES_flavor: "Si una daga y una espada larga tuvieran un bebé..."
+tile_id: ShortSword
+cost: 2
+image: /images/ShortSword.png
+durability: 3
 ---

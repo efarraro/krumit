@@ -14,4 +14,11 @@ tile_id: RoyalRapier
 cost: 10
 image: /images/RoyalRapier.png
 durability: 3
+es-ES_name: "Estoque Regio"
+es-ES_description: "Piercing. Cuando derrotes a un enemigo con este ítem, incrementa tu ataque base en 1"
+es-ES_flavor: "'¿Superada en número? ¡Pah! ¡Me haré más fuerte por cada uno de ustedes que mate!' - Las famosas últimas palabras de la Princesa-Electa Naomi."
+tile_id: RoyalRapier
+cost: 10
+image: /images/RoyalRapier.png
+durability: 3
 ---

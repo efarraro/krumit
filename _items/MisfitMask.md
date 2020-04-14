@@ -14,4 +14,11 @@ tile_id: MisfitMask
 cost: 2
 image: /images/MisfitMask.png
 durability: 3
+es-ES_name: "Antifaz de Renegado"
+es-ES_description: "Úsalo para ganar stealth (fuera de combate)"
+es-ES_flavor: "Por alguna razón te cuesta percibir este antifaz. Es como si tu mirada resbalara sobre él."
+tile_id: MisfitMask
+cost: 2
+image: /images/MisfitMask.png
+durability: 3
 ---

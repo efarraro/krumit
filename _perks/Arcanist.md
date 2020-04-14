@@ -8,4 +8,8 @@ zh-CN_name: "秘术师"
 zh-CN_description: "获得技能时对同列最上面的敌人造成1点piercing伤害"
 tile_id: Arcanist
 image: /images/Arcanist.png
+es-ES_name: "Arcanista"
+es-ES_description: "Cada vez que adquieras una habilidad, haz 1 de daño piercing al enemigos de más ariba en la misma columna"
+tile_id: Arcanist
+image: /images/Arcanist.png
 ---

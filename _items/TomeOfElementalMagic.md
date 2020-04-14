@@ -14,4 +14,11 @@ tile_id: TomeOfElementalMagic
 cost: 3
 image: /images/TomeOfElementalMagic.png
 durability: 3
+es-ES_name: "Tomo de Magia Elemental"
+es-ES_description: "Crea una habilidad que cueste 2 o más"
+es-ES_flavor: "'Ahora ésto es tu biblia. Nada más... no lo leas en la cama.' - Refunfador, Rector de la Academia de Magos."
+tile_id: TomeOfElementalMagic
+cost: 3
+image: /images/TomeOfElementalMagic.png
+durability: 3
 ---

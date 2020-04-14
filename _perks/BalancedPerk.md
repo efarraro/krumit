@@ -8,4 +8,8 @@ zh-CN_name: "平衡"
 zh-CN_description: "将你所有技能的基础费用调整到2"
 tile_id: BalancedPerk
 image: /images/BalancedPerk.png
+es-ES_name: "Balanceado"
+es-ES_description: "El costo base de todas tus habilidades es 2"
+tile_id: BalancedPerk
+image: /images/BalancedPerk.png
 ---

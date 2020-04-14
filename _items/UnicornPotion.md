@@ -56,4 +56,32 @@ tile_id: UnicornPotion
 cost: 3
 image: /images/UnicornPotion.png
 durability: 3
+es-ES_name: "Poción de Transmogrificación"
+es-ES_description: "Transforma un ítem de tu elección en un ítem aleatorio, y reduce el costo de ese ítem en 2"
+es-ES_flavor: "¡Rocía algunas gotas de saliva de Unicornio sobre algo, y observa cómo se transmogrifica en otra cosa! Pero no esperes poder sacar las manchas."
+tile_id: UnicornPotion
+cost: 3
+image: /images/UnicornPotion.png
+durability: 3
+es-ES_name: "Poción de Transmogrificación"
+es-ES_description: "Transforma un ítem de tu elección en un ítem aleatorio, y reduce el costo de ese ítem en 2"
+es-ES_flavor: "¡Rocía algunas gotas de saliva de Unicornio sobre algo, y observa cómo se transmogrifica en otra cosa! Pero no esperes poder sacar las manchas."
+tile_id: UnicornPotion
+cost: 3
+image: /images/UnicornPotion.png
+durability: 3
+es-ES_name: "Poción de Transmogrificación"
+es-ES_description: "Transforma un ítem de tu elección en un ítem aleatorio, y reduce el costo de ese ítem en 2"
+es-ES_flavor: "¡Rocía algunas gotas de saliva de Unicornio sobre algo, y observa cómo se transmogrifica en otra cosa! Pero no esperes poder sacar las manchas."
+tile_id: UnicornPotion
+cost: 3
+image: /images/UnicornPotion.png
+durability: 3
+es-ES_name: "Poción de Transmogrificación"
+es-ES_description: "Transforma un ítem de tu elección en un ítem aleatorio, y reduce el costo de ese ítem en 2"
+es-ES_flavor: "¡Rocía algunas gotas de saliva de Unicornio sobre algo, y observa cómo se transmogrifica en otra cosa! Pero no esperes poder sacar las manchas."
+tile_id: UnicornPotion
+cost: 3
+image: /images/UnicornPotion.png
+durability: 3
 ---

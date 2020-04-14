@@ -8,4 +8,8 @@ zh-CN_name: "回收"
 zh-CN_description: "弃牌时额外回复2点生命值。最大生命值-4"
 tile_id: Scrappy
 image: /images/Scrappy.png
+es-ES_name: "回收"
+es-ES_description: "Recupera 2 de vida adicional cuando descartes una ficha. Tu vida máxima se reduce en 4"
+tile_id: Scrappy
+image: /images/Scrappy.png
 ---

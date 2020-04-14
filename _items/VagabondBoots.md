@@ -14,4 +14,11 @@ tile_id: VagabondBoots
 cost: 2
 image: /images/VagabondBoots.png
 durability: 3
+es-ES_name: "Botas de Vagabundo"
+es-ES_description: "Repara 1 de durabilidad cada vez que uses una habilidad"
+es-ES_flavor: "Un par de zapatos para correr son tan importantes como una daga bien puntuda."
+tile_id: VagabondBoots
+cost: 2
+image: /images/VagabondBoots.png
+durability: 3
 ---

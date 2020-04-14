@@ -12,4 +12,10 @@ zh-CN_flavor: "一种十分基础的火焰法术，大多数时候都用在了�
 tile_id: Char
 cost: 1
 image: /images/Char.png
+es-ES_name: "Chamuscar"
+es-ES_description: "Inflige burn (3) a un enemigo objetivo. Exhaust"
+es-ES_flavor: "Un simple hechizo de piromancia, más propenso a ser usado en una barbacoa que en una batalla."
+tile_id: Char
+cost: 1
+image: /images/Char.png
 ---

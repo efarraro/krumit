@@ -28,4 +28,18 @@ monsters:
     image: /images/Nukadog.png
     quantity: 6
     url: /monsters/Nukadog
+es-ES_name: "潮湿森林"
+es-ES_description: "这片森林的湿气实在让人无法忍受。不过那些战熊和野蛮熊似乎对此毫不在意！"
+tier: 1
+monsters:
+  - monster:
+    name: "Barbaroso"
+    image: /images/Bear.png
+    quantity: 1
+    url: /monsters/Bear
+  - monster:
+    name: "Lobo Mocoso"
+    image: /images/Nukadog.png
+    quantity: 6
+    url: /monsters/Nukadog
 ---

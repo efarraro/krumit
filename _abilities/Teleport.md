@@ -12,4 +12,10 @@ zh-CN_flavor: "艰难困苦出现时，可以直接将它们传送走。"
 tile_id: Teleport
 cost: 0
 image: /images/Teleport.png
+es-ES_name: "Teletransportar"
+es-ES_description: "Baraja todas las fichas de vuelta en el mazo y recupera 4 de vida. Si estás en combate, déjalo también. Exhaust"
+es-ES_flavor: "Cuando las cosas se vuelven duras, los duros se vuelven trans-locacionales."
+tile_id: Teleport
+cost: 0
+image: /images/Teleport.png
 ---

@@ -56,4 +56,32 @@ tile_id: Tranquilizer
 cost: 3
 image: /images/Tranquilizer.png
 durability: 3
+es-ES_name: "Tranquilizadora"
+es-ES_description: "En combate, reemplaza la acción actual del enemigo por Dormir"
+es-ES_flavor: "Se garantiza que puede dejar a un Barbaroso adulto inconsciente, para que tenga las 7 horas recomendadas de sueño REM."
+tile_id: Tranquilizer
+cost: 3
+image: /images/Tranquilizer.png
+durability: 3
+es-ES_name: "Tranquilizadora"
+es-ES_description: "En combate, reemplaza la acción actual del enemigo por Dormir"
+es-ES_flavor: "Se garantiza que puede dejar a un Barbaroso adulto inconsciente, para que tenga las 7 horas recomendadas de sueño REM."
+tile_id: Tranquilizer
+cost: 3
+image: /images/Tranquilizer.png
+durability: 3
+es-ES_name: "Tranquilizadora"
+es-ES_description: "En combate, reemplaza la acción actual del enemigo por Dormir"
+es-ES_flavor: "Se garantiza que puede dejar a un Barbaroso adulto inconsciente, para que tenga las 7 horas recomendadas de sueño REM."
+tile_id: Tranquilizer
+cost: 3
+image: /images/Tranquilizer.png
+durability: 3
+es-ES_name: "Tranquilizadora"
+es-ES_description: "En combate, reemplaza la acción actual del enemigo por Dormir"
+es-ES_flavor: "Se garantiza que puede dejar a un Barbaroso adulto inconsciente, para que tenga las 7 horas recomendadas de sueño REM."
+tile_id: Tranquilizer
+cost: 3
+image: /images/Tranquilizer.png
+durability: 3
 ---

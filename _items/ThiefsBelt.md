@@ -14,4 +14,11 @@ tile_id: ThiefsBelt
 cost: 2
 image: /images/ThiefsBelt.png
 durability: 2
+es-ES_name: "Cinturón de Herramientas"
+es-ES_description: "Crea una copia de <a href = '../items#PoisonPotion'>Frasco de Veneno</a>, <a href = '../items#Blackjack'>Cachiporra</a>, o <a href = '../abilities#HiddenBlades'>Cuchillas Ocultas</a> y añádela a tu inventario"
+es-ES_flavor: "Probablemente le pertenecía a un fontanero, pero ahora se le ha dado un mejor uso."
+tile_id: ThiefsBelt
+cost: 2
+image: /images/ThiefsBelt.png
+durability: 2
 ---

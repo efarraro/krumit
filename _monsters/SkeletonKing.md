@@ -10,4 +10,9 @@ zh-CN_description: "每当你在本层地下城中击败1名敌人时，卡拉�
 zh-CN_flavor: "白骨大军的统治者！卡拉卡斯一直在与幽王争夺迷失灵魂的统治权。"
 tile_id: SkeletonKing
 image: /images/SkeletonKing.png
+es-ES_name: "Calacas"
+es-ES_description: "Calacas gana 1 de armadura cada vez que destruyes a otro enemigo en este calabozo"
+es-ES_flavor: "¡El inquieto soberano de los descarnados! Calacas compite con el Rey Fantasma para convertirse en el señor de cada nueva alma perdida."
+tile_id: SkeletonKing
+image: /images/SkeletonKing.png
 ---

@@ -12,4 +12,10 @@ zh-CN_flavor: "灵魂爆发"
 tile_id: SoulBurst
 cost: 4
 image: /images/SoulBurst.png
+es-ES_name: "Explosión de Almas"
+es-ES_description: "Paga 4 de vida para hacer 4 de daño piercing a todos los enemigos visibles. Derrota a 2 enemigos para recargar"
+es-ES_flavor: "Explosión de Almas"
+tile_id: SoulBurst
+cost: 4
+image: /images/SoulBurst.png
 ---

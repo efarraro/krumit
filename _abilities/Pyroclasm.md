@@ -12,4 +12,10 @@ zh-CN_flavor:
 tile_id: Pyroclasm
 cost: 4
 image: /images/Pyroclasm.png
+es-ES_name: "Piroclastía"
+es-ES_description: "Haz 15 de daño piercing a un enemigo objetivo.  Exhaust"
+es-ES_flavor: 
+tile_id: Pyroclasm
+cost: 4
+image: /images/Pyroclasm.png
 ---

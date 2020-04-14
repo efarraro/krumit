@@ -14,4 +14,11 @@ tile_id: BloodyDagger
 cost: 3
 image: /images/BloodyDagger.png
 durability: 3
+es-ES_name: "Daga Sangrienta"
+es-ES_description: "Cuando ataques un enemigo dañado, recupera 3 de vida"
+es-ES_flavor: "'Sí, sí... el poder... me llama... ' - Mendek el Loco"
+tile_id: BloodyDagger
+cost: 3
+image: /images/BloodyDagger.png
+durability: 3
 ---

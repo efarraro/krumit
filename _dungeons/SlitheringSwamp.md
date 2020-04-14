@@ -28,4 +28,18 @@ monsters:
     image: /images/Trickster.png
     quantity: 3
     url: /monsters/Trickster
+es-ES_name: "Pantano Reptante"
+es-ES_description: "El hogar de una monstruosa Serpe, aledaño al Paso del Vago y las Colinas Gritonas. No es un terreno muy codiciado."
+tier: 1
+monsters:
+  - monster:
+    name: "Babote"
+    image: /images/Slime.png
+    quantity: 4
+    url: /monsters/Slime
+  - monster:
+    name: "Embaucador"
+    image: /images/Trickster.png
+    quantity: 3
+    url: /monsters/Trickster
 ---

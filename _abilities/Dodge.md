@@ -12,4 +12,10 @@ zh-CN_flavor: "“切，学会了这种走位还要盾牌干嘛？”——捣�
 tile_id: Dodge
 cost: 2
 image: /images/Dodge.png
+es-ES_name: "Esquivar"
+es-ES_description: "Remueve cualquier acción de 'atacar' del ataque actual de tu oponente. Usa 4 habilidades para recargar"
+es-ES_flavor: "'Pfff, ¿quién necesita un escudo cuando puedes moverte así?' - Travesuras"
+tile_id: Dodge
+cost: 2
+image: /images/Dodge.png
 ---

@@ -14,4 +14,11 @@ tile_id: MinersHat
 cost: 2
 image: /images/MinersHat.png
 durability: 3
+es-ES_name: "Casco de Minero"
+es-ES_description: "Cuando deflectes con este ítem, gana 1 de oro"
+es-ES_flavor: "Parte del kit de exploración usado por Bruno en su primera (y única) expedición a las Profundidades Ancestrales."
+tile_id: MinersHat
+cost: 2
+image: /images/MinersHat.png
+durability: 3
 ---

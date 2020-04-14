@@ -8,4 +8,8 @@ zh-CN_name: "贵族"
 zh-CN_description: "进入地下城时，获得8枚gold，但基础攻击力降为1点"
 tile_id: Privileged
 image: /images/Privileged.png
+es-ES_name: "Privilegiado"
+es-ES_description: "Empiezas con 8 de gold, pero tu ataque base se reduce en 1"
+tile_id: Privileged
+image: /images/Privileged.png
 ---

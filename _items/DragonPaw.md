@@ -14,4 +14,11 @@ tile_id: DragonPaw
 cost: 4
 image: /images/DragonPaw.png
 durability: 3
+es-ES_name: "Zarpa de Dragorno"
+es-ES_description: "Recupera 2 de vida cuando ataques a un enemigo que esté burn"
+es-ES_flavor: "'Ese tres veces maldito Barbagrís... lo encontraré, y RECUPERARÉ mi zarpa. Y si quiere su dinero de vuelta, puede esperarlo sentado.' – Bartholomew"
+tile_id: DragonPaw
+cost: 4
+image: /images/DragonPaw.png
+durability: 3
 ---

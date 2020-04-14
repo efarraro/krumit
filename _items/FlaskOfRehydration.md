@@ -56,4 +56,32 @@ tile_id: FlaskOfRehydration
 cost: 0
 image: /images/FlaskOfRehydration.png
 durability: 3
+es-ES_name: "Cantimplora Rehidratante"
+es-ES_description: "Úsala para recuperar 1 de vida. Cada vez que descartes una ficha, repara 1 de durabilidad"
+es-ES_flavor: "Curiosamente, esta cantimplora no contiene agua, sino que transforma la humedad del aire en magia rehidratante."
+tile_id: FlaskOfRehydration
+cost: 0
+image: /images/FlaskOfRehydration.png
+durability: 3
+es-ES_name: "Cantimplora Rehidratante"
+es-ES_description: "Úsala para recuperar 1 de vida. Cada vez que descartes una ficha, repara 1 de durabilidad"
+es-ES_flavor: "Curiosamente, esta cantimplora no contiene agua, sino que transforma la humedad del aire en magia rehidratante."
+tile_id: FlaskOfRehydration
+cost: 0
+image: /images/FlaskOfRehydration.png
+durability: 3
+es-ES_name: "Cantimplora Rehidratante"
+es-ES_description: "Úsala para recuperar 1 de vida. Cada vez que descartes una ficha, repara 1 de durabilidad"
+es-ES_flavor: "Curiosamente, esta cantimplora no contiene agua, sino que transforma la humedad del aire en magia rehidratante."
+tile_id: FlaskOfRehydration
+cost: 0
+image: /images/FlaskOfRehydration.png
+durability: 3
+es-ES_name: "Cantimplora Rehidratante"
+es-ES_description: "Úsala para recuperar 1 de vida. Cada vez que descartes una ficha, repara 1 de durabilidad"
+es-ES_flavor: "Curiosamente, esta cantimplora no contiene agua, sino que transforma la humedad del aire en magia rehidratante."
+tile_id: FlaskOfRehydration
+cost: 0
+image: /images/FlaskOfRehydration.png
+durability: 3
 ---

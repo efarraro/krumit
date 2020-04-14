@@ -10,4 +10,9 @@ zh-CN_description: "这名敌人进入地下城时会对随机一个同列敌人
 zh-CN_flavor: "就连怪物有时也会需要精神治疗。"
 tile_id: Cleric
 image: /images/Cleric.png
+es-ES_name: "Druida"
+es-ES_description: "Cuando entra al tablero, este enemigo da +3 de armadura a otro enemigo al azar en su misma columna"
+es-ES_flavor: "Hasta los monstruos necesitan necesitan cuidados espirituales de cuando en cuando."
+tile_id: Cleric
+image: /images/Cleric.png
 ---

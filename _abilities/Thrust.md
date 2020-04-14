@@ -12,4 +12,10 @@ zh-CN_flavor: "趁他病要他命！不要手下留情！——帝村演习大�
 tile_id: Thrust
 cost: 0
 image: /images/Thrust.png
+es-ES_name: "Empalar"
+es-ES_description: "Gana 1 de gold cuando adquieras esta habilidad. Mientras la tengas equipada, tu siguiente ataque es piercing y hace +2 de daño (requiere un arma).  Exhaust."
+es-ES_flavor: "¡Ataquen su punto débil! ¡Usen todas sus fuerzas! – Redzepi, Maestra Entrenadora de Imperiovilla"
+tile_id: Thrust
+cost: 0
+image: /images/Thrust.png
 ---

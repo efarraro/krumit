@@ -9,7 +9,14 @@ image: /images/KrisOfTheAbyss.png
 durability: 3
 zh-CN_name: "深渊短剑"
 zh-CN_description: "每召唤一名minion便为这把武器增加1点攻击力。"
-zh-CN_flavor: "占位符"
+zh-CN_flavor: "据说深渊短剑可以将灵魂与其来世之间的连接斩断。"
+tile_id: KrisOfTheAbyss
+cost: 3
+image: /images/KrisOfTheAbyss.png
+durability: 3
+es-ES_name: "Kris del Abismo"
+es-ES_description: "Cada vez que invoques un minion, incrementa el daño de esta arma en 1"
+es-ES_flavor: "Se dice que el Kris del Abismo puede cortar el hilo que ata un alma al más allá."
 tile_id: KrisOfTheAbyss
 cost: 3
 image: /images/KrisOfTheAbyss.png

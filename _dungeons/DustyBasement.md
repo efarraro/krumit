@@ -18,4 +18,13 @@ monsters:
     image: /images/Skeleton.png
     quantity: 6
     url: /monsters/Skeleton
+es-ES_name: "Sótano Polvoriento"
+es-ES_description: "Este sótano polvoriento te llena con una poderosa sensación de nostalgia."
+tier: 0
+monsters:
+  - monster:
+    name: "Esqueleto"
+    image: /images/Skeleton.png
+    quantity: 6
+    url: /monsters/Skeleton
 ---

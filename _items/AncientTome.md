@@ -14,4 +14,11 @@ tile_id: AncientTome
 cost: 4
 image: /images/AncientTome.png
 durability: 2
+es-ES_name: "Tomo Ancestral"
+es-ES_description: "Crea una copia de una habilidad que hayas adquerido durante este calabozo"
+es-ES_flavor: "Barbagrís esperaba encontrar en este tomo alguna pista sobre cómo evitar que su barba se hiciera aún más larga. Y una vez más salió decepcionado."
+tile_id: AncientTome
+cost: 4
+image: /images/AncientTome.png
+durability: 2
 ---

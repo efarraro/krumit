@@ -14,4 +14,11 @@ tile_id: CombatKnife
 cost: 3
 image: /images/CombatKnife.png
 durability: 3
+es-ES_name: "Cuchillo de Combate"
+es-ES_description: "Cuando adquieras esta arma, baraja 2 copias de <a href = '../abilities#Stab'>Apuñalar</a> en el mazo"
+es-ES_flavor: "'Ahora bien, <i>este</i> cuchillo no es para cortar queso o manzanas.' - Jenkins, Maestro de Utilería del Elenco"
+tile_id: CombatKnife
+cost: 3
+image: /images/CombatKnife.png
+durability: 3
 ---

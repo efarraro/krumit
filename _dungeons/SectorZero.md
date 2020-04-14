@@ -68,4 +68,38 @@ monsters:
     image: /images/TheExile.png
     quantity: 1
     url: /monsters/TheExile
+es-ES_name: "Sector Cero"
+es-ES_description: "El Sector Cero. Donde empezó el nuevo orden mundial. Ahora no es más que poza glorificada de fango tóxico, con un nombre pegadizo."
+tier: 7
+monsters:
+  - monster:
+    name: "Babote"
+    image: /images/Slime.png
+    quantity: 4
+    url: /monsters/Slime
+  - monster:
+    name: "Lobo Mocoso"
+    image: /images/Nukadog.png
+    quantity: 4
+    url: /monsters/Nukadog
+  - monster:
+    name: "Vikingo Atómico"
+    image: /images/Viking.png
+    quantity: 4
+    url: /monsters/Viking
+  - monster:
+    name: "Motero Mutante"
+    image: /images/Biker.png
+    quantity: 3
+    url: /monsters/Biker
+  - monster:
+    name: "Gólem de Basura"
+    image: /images/TrashGolem.png
+    quantity: 2
+    url: /monsters/TrashGolem
+  - monster:
+    name: "El Exiliado"
+    image: /images/TheExile.png
+    quantity: 1
+    url: /monsters/TheExile
 ---

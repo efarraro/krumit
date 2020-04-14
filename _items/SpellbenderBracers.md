@@ -14,4 +14,11 @@ tile_id: SpellbenderBracers
 cost: 2
 image: /images/SpellbenderBracers.png
 durability: 3
+es-ES_name: "Brazales de Hechicero Maestro"
+es-ES_description: "Aplica burn y freeze a un enemigo objetivo.  Si este enemigo ya está burn y freeze, destrúyelo (siempre que no sea un jefe)"
+es-ES_flavor: "Para cuando quieres controlar las reglas además de los elementos."
+tile_id: SpellbenderBracers
+cost: 2
+image: /images/SpellbenderBracers.png
+durability: 3
 ---

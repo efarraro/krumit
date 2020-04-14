@@ -14,4 +14,11 @@ tile_id: BrigandArmor
 cost: 2
 image: /images/BrigandArmor.png
 durability: 3
+es-ES_name: "Armadura de Bandido"
+es-ES_description: "Debes tener stealth para equipar esta armadura"
+es-ES_flavor: "Esta armadura oscura y sigilosa es perfecta para emboscadas traviesas."
+tile_id: BrigandArmor
+cost: 2
+image: /images/BrigandArmor.png
+durability: 3
 ---

@@ -12,4 +12,10 @@ zh-CN_flavor: "这里敲一敲，这里补一下，再抹点粘液沾一下就�
 tile_id: Salvage
 cost: 1
 image: /images/Salvage.png
+es-ES_name: "Reciclar"
+es-ES_description: "Remueve el ítem objetivo del calabozo y repara completamente la durabilidad de todos los ítems en tu inventario. Exhaust"
+es-ES_flavor: "Un resto de chatarra, un poco de cordel, otro poco de baba de Babote, ¡y estará como nuevo! - Chatarroso Bramley"
+tile_id: Salvage
+cost: 1
+image: /images/Salvage.png
 ---

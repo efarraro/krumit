@@ -12,4 +12,10 @@ zh-CN_flavor: "这把利斧应由进行审判之人挥舞。也没轮到我们�
 tile_id: Execute
 cost: 1
 image: /images/Execute.png
+es-ES_name: "Ejecutar"
+es-ES_description: "Destruye un enemigo objetivo (que no sea un jefe) que haya sido dañado. Exhaust"
+es-ES_flavor: "El juez debe dar el golpe de hacha. Entonces, ¿por qué no podemos juzgar nosotros? - Klein, Verdugo de los Vikingos Atómicos"
+tile_id: Execute
+cost: 1
+image: /images/Execute.png
 ---

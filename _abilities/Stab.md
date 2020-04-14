@@ -12,4 +12,10 @@ zh-CN_flavor: "Et tu, Scootus?——阿尔法（没停留多久）扎考·吉萨
 tile_id: Stab
 cost: 0
 image: /images/Stab.png
+es-ES_name: "Apuñalar"
+es-ES_description: "Haz 1 de daño piercing a un enemigo objetivo.  Cuando adquieras esta habilidad, gana una segunda copia. Exhaust"
+es-ES_flavor: "¿Tú también, Canuto? - Vejestulio, Chacal Alfa (aunque no por mucho tiempo)"
+tile_id: Stab
+cost: 0
+image: /images/Stab.png
 ---

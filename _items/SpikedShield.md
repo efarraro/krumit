@@ -14,4 +14,11 @@ tile_id: SpikedShield
 cost: 4
 image: /images/SpikedShield.png
 durability: 3
+es-ES_name: "Broquel Puntudo"
+es-ES_description: "Mientras tengas este ítem equipado, tienes Thorns (2)"
+es-ES_flavor: "'Puede que crean que somos rosas para ser cortadas. Que vengan, y que encuentren nuestras espinas.' - Laurids Carsten, Guardia-Poeta de Yore"
+tile_id: SpikedShield
+cost: 4
+image: /images/SpikedShield.png
+durability: 3
 ---

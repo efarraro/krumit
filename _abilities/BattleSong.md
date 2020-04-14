@@ -12,4 +12,10 @@ zh-CN_flavor: "“众神之锤会将我们的船只带向新的土地！为了�
 tile_id: BattleSong
 cost: 2
 image: /images/BattleSong.png
+es-ES_name: "Canción de Batalla"
+es-ES_description: "Incrementa el daño de todas las armas de melé visibles en este calabozo en 1. Adquiere 2 armas cualquiera para recargar"
+es-ES_flavor: "'¡El martillo de los dioses conducirá a nuestras naves a nuevas tierras! ¡A luchar con la horda y cantar y gritar, Nuclea-halla, voy en camino!' - Ned Zepp, Bardo de Guerra de las Colinas Gritonas"
+tile_id: BattleSong
+cost: 2
+image: /images/BattleSong.png
 ---

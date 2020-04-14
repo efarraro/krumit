@@ -14,4 +14,11 @@ tile_id: MageHat
 cost: 2
 image: /images/MageHat.png
 durability: 3
+es-ES_name: "Sombrero de Mago"
+es-ES_description: "Cuando adquieras este ítem, baraja copias de las habilidades en la misma fila en el mazo-calabozo"
+es-ES_flavor: "Si lo das vuelta - ¡que sorpresa! - puedes usarlo para rifas."
+tile_id: MageHat
+cost: 2
+image: /images/MageHat.png
+durability: 3
 ---

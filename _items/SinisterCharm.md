@@ -14,4 +14,11 @@ tile_id: SinisterCharm
 cost: 2
 image: /images/SinisterCharm.png
 durability: 3
+es-ES_name: "Amuleto Siniestro"
+es-ES_description: "Aplica poison (1) a un enemigo objetivo, luego haz daño piercing equivalente a su valor de veneno"
+es-ES_flavor: "Travesuras se sacó las gafas y admiró su trabajo. Oh sí, este sería de verdad  regalo para morirse."
+tile_id: SinisterCharm
+cost: 2
+image: /images/SinisterCharm.png
+durability: 3
 ---

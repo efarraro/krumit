@@ -14,4 +14,11 @@ tile_id: Shuriken
 cost: 3
 image: /images/Shuriken.png
 durability: 3
+es-ES_name: "Shuriken"
+es-ES_description: "Haz 4 de daño a un enemigo objetivo. No puedes elegir como objetivo a enemigos con armadura"
+es-ES_flavor: "Un arma sorpresivamente letal, pero inefectiva contra armaduras."
+tile_id: Shuriken
+cost: 3
+image: /images/Shuriken.png
+durability: 3
 ---

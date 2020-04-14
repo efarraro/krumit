@@ -12,4 +12,10 @@ zh-CN_flavor: "如果它们站不起来，它们就没法攻击你，也不可�
 tile_id: Hamstring
 cost: 1
 image: /images/Hamstring.png
+es-ES_name: "Lisiar"
+es-ES_description: "Una vez por combate, activa esta habilidad para cancelar una acción no ofensiva del enemigo"
+es-ES_flavor: "Si no pueden pararse, no pueden luchar. O perseguirte."
+tile_id: Hamstring
+cost: 1
+image: /images/Hamstring.png
 ---

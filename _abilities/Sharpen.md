@@ -12,4 +12,10 @@ zh-CN_flavor: "钝掉的刀刃就像是愚钝的思想——并不是很适合�
 tile_id: Sharpen
 cost: 1
 image: /images/Sharpen.png
+es-ES_name: "Afilar"
+es-ES_description: "Incrementa el daño base de todas las armas en el tablero en 2. Exhaust"
+es-ES_flavor: "Una espada roma es como una mente roma - no muy buena para resolver crucigramas."
+tile_id: Sharpen
+cost: 1
+image: /images/Sharpen.png
 ---

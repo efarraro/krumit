@@ -56,4 +56,32 @@ tile_id: HealthPotion
 cost: 0
 image: /images/HealthPotion.png
 durability: 3
+es-ES_name: "Poción Curativa"
+es-ES_description: "Recupera 2 de vida"
+es-ES_flavor: "Vida líquida, con sabor a miel y arcoíris."
+tile_id: HealthPotion
+cost: 0
+image: /images/HealthPotion.png
+durability: 3
+es-ES_name: "Poción Curativa"
+es-ES_description: "Recupera 2 de vida"
+es-ES_flavor: "Vida líquida, con sabor a miel y arcoíris."
+tile_id: HealthPotion
+cost: 0
+image: /images/HealthPotion.png
+durability: 3
+es-ES_name: "Poción Curativa"
+es-ES_description: "Recupera 2 de vida"
+es-ES_flavor: "Vida líquida, con sabor a miel y arcoíris."
+tile_id: HealthPotion
+cost: 0
+image: /images/HealthPotion.png
+durability: 3
+es-ES_name: "Poción Curativa"
+es-ES_description: "Recupera 2 de vida"
+es-ES_flavor: "Vida líquida, con sabor a miel y arcoíris."
+tile_id: HealthPotion
+cost: 0
+image: /images/HealthPotion.png
+durability: 3
 ---

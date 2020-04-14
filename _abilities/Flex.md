@@ -12,4 +12,10 @@ zh-CN_flavor: "野蛮熊多数时间都在镜子前欣赏自己的肌肉。"
 tile_id: Flex
 cost: 5
 image: /images/Flex.png
+es-ES_name: "Flexionar"
+es-ES_description: "Usa esta habilidad para incrementar tu ataque base en 1 por el resto del calabozo. Exhaust"
+es-ES_flavor: "Los barbarosos pasan la mayor parte de su tiempo frente al espejo, flexionando y admirando sus músculos."
+tile_id: Flex
+cost: 5
+image: /images/Flex.png
 ---

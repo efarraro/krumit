@@ -56,4 +56,32 @@ tile_id: MinorHealth
 cost: 0
 image: /images/MinorHealth.png
 durability: 2
+es-ES_name: "Redoma Curativa"
+es-ES_description: "Recupera 2 de vida"
+es-ES_flavor: "Como un parche curita embotellado."
+tile_id: MinorHealth
+cost: 0
+image: /images/MinorHealth.png
+durability: 2
+es-ES_name: "Redoma Curativa"
+es-ES_description: "Recupera 2 de vida"
+es-ES_flavor: "Como un parche curita embotellado."
+tile_id: MinorHealth
+cost: 0
+image: /images/MinorHealth.png
+durability: 2
+es-ES_name: "Redoma Curativa"
+es-ES_description: "Recupera 2 de vida"
+es-ES_flavor: "Como un parche curita embotellado."
+tile_id: MinorHealth
+cost: 0
+image: /images/MinorHealth.png
+durability: 2
+es-ES_name: "Redoma Curativa"
+es-ES_description: "Recupera 2 de vida"
+es-ES_flavor: "Como un parche curita embotellado."
+tile_id: MinorHealth
+cost: 0
+image: /images/MinorHealth.png
+durability: 2
 ---

@@ -12,4 +12,10 @@ zh-CN_flavor: "邪风就是这样吹的。"
 tile_id: Blizzard
 cost: 3
 image: /images/Blizzard.png
+es-ES_name: "Vientos Invernales"
+es-ES_description: "Haz 4 de daño piercing a todos los enemigos frozen, luego congela a todos los enemigos. Exhaust"
+es-ES_flavor: "Un viento malvado sopla en esta dirección."
+tile_id: Blizzard
+cost: 3
+image: /images/Blizzard.png
 ---

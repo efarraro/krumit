@@ -8,4 +8,8 @@ zh-CN_name: "涂毒"
 zh-CN_description: "戳刺还会对目标敌人施加Poison (1)。"
 tile_id: Toxic
 image: /images/Toxic.png
+es-ES_name: "Tóxico"
+es-ES_description: "<a href = '../abilities#Stab'>Apuñalar</a> también añade Poison (1) a los enemigos objetivos"
+tile_id: Toxic
+image: /images/Toxic.png
 ---

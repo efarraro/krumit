@@ -12,4 +12,10 @@ zh-CN_flavor: "“肮脏恶臭的死灵法术？胡扯，这叫废物利用。�
 tile_id: GarbageGolem
 cost: 12
 image: /images/GarbageGolem.png
+es-ES_name: "Gólem de Desechos"
+es-ES_description: "Invoca un <a href = '../unknown_type000#MinionGolem'>Golem de Desechos</a>. Reduce el costo en oro de esta habilidad por cada ficha que hayas descartado"
+es-ES_flavor: "¿Vil nigromancia? ¿Diabólica hechicería? Tonterías. Esto es tan sólo reciclaje.' - Muldorf."
+tile_id: GarbageGolem
+cost: 12
+image: /images/GarbageGolem.png
 ---

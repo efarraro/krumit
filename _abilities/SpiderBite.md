@@ -12,4 +12,10 @@ zh-CN_flavor: "事实证明把蜘蛛的毒液抹到匕首上之后会变得格�
 tile_id: SpiderBite
 cost: 0
 image: /images/SpiderBite.png
+es-ES_name: "Mordida de Araña"
+es-ES_description: "Inflige poison (3) en un objetivo. Exhaust"
+es-ES_flavor: "Resulta que el veneno de una araña es aún más mortífero cuando se suministra con una daga puntuda."
+tile_id: SpiderBite
+cost: 0
+image: /images/SpiderBite.png
 ---

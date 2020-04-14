@@ -12,4 +12,10 @@ zh-CN_flavor: "“对于经验丰富的人来说，总有可以躲藏的地方�
 tile_id: Hide
 cost: 1
 image: /images/Hide.png
+es-ES_name: "Esconderse"
+es-ES_description: "Gana stealth (si no estás en combate). Derrota 3 enemigos para recargar"
+es-ES_flavor: "'El ojo entrenado siempre encuentra un lugar donde esconderse - aunque sea una caja de cartón o un montón de heno.' - Tornivald, Instructor del Elenco"
+tile_id: Hide
+cost: 1
+image: /images/Hide.png
 ---

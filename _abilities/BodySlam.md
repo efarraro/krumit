@@ -12,4 +12,10 @@ zh-CN_flavor: "“看到法师我就直接*嘭！*。撞起来都是那种软软
 tile_id: BodySlam
 cost: 3
 image: /images/BodySlam.png
+es-ES_name: "Embestir"
+es-ES_description: "Una vez por combate, haz daño al enemigo equivalente a tu block. Reduce la durabilidad de todos tus ítems equipados en 1."
+es-ES_flavor: "'¡Veo un mago, y lo *APLASTO*! Siempre son muy blandos.' - La anécdota de taberna favorita de Boris"
+tile_id: BodySlam
+cost: 3
+image: /images/BodySlam.png
 ---

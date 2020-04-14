@@ -14,4 +14,11 @@ tile_id: Lionguard
 cost: 2
 image: /images/Lionguard.png
 durability: 3
+es-ES_name: "Guardaleón"
+es-ES_description: "El valor de block de este ítem se reduce a 0 contra ataques de 3 o menos"
+es-ES_flavor: "Tiene un león tallado en el frente. Eso <i>sí</i> que es calidad."
+tile_id: Lionguard
+cost: 2
+image: /images/Lionguard.png
+durability: 3
 ---

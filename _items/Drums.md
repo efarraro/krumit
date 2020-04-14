@@ -14,4 +14,11 @@ tile_id: Drums
 cost: 2
 image: /images/Drums.png
 durability: 3
+es-ES_name: "Tambor de Guerra"
+es-ES_description: "La acción actual del enemigo se transforma en 'Atacar (2)'"
+es-ES_flavor: "'El ritmo correcto puede enfurecer a un enemigo, haciéndolo atacar sin pensarlo dos veces. Y, la mayoría de las veces, sin pensarlo nunca más. ' - Los Ritmomantes de Meshugga"
+tile_id: Drums
+cost: 2
+image: /images/Drums.png
+durability: 3
 ---

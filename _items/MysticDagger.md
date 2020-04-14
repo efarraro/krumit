@@ -14,4 +14,11 @@ tile_id: MysticDagger
 cost: 2
 image: /images/MysticDagger.png
 durability: 3
+es-ES_name: "Daga Mística"
+es-ES_description: "El daño de esta arma es equivalente al número de habilidades visibles en el tablero"
+es-ES_flavor: "Esta daga puede cortar el tejido de la realidad tan fácilmente como puede cortar un pedazo de queso."
+tile_id: MysticDagger
+cost: 2
+image: /images/MysticDagger.png
+durability: 3
 ---

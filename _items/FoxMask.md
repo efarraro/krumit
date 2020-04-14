@@ -14,4 +14,11 @@ tile_id: FoxMask
 cost: 2
 image: /images/FoxMask.png
 durability: 3
+es-ES_name: "Máscara de Zorro Astuto"
+es-ES_description: "Pasiva: Mientras esté en tu inventario, tus cartas de Puñalada hacen +1 de daño"
+es-ES_flavor: "Favorecida por el Clan Udon. Por algún motivo huele a tofu frito."
+tile_id: FoxMask
+cost: 2
+image: /images/FoxMask.png
+durability: 3
 ---

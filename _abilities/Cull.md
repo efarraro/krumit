@@ -12,4 +12,10 @@ zh-CN_flavor: "朋友放在身边，敌人放到远处，最好是一眼就能�
 tile_id: Cull
 cost: 1
 image: /images/Cull.png
+es-ES_name: "Matanza"
+es-ES_description: "Destruye un enemigo objetivo (que no sea un jefe) que no tenga aliados adyacentes. Exhaust"
+es-ES_flavor: "Mantén a tus amigos cerca, y a tus enemigos bien lejos, preferentemente donde puedas verlos"
+tile_id: Cull
+cost: 1
+image: /images/Cull.png
 ---

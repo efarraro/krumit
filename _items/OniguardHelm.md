@@ -14,4 +14,11 @@ tile_id: OniguardHelm
 cost: 2
 image: /images/OniguardHelm.png
 durability: 2
+es-ES_name: "Yelmo de Sangre Endemoniada"
+es-ES_description: "Mientras está equipado - después de que tu oponente te ataque, recupera vida equivalente a tu ataque base"
+es-ES_flavor: "Este yelmo se ceba en el dolor. Mientras más lo use uno, más sediento de sangre se encuentra."
+tile_id: OniguardHelm
+cost: 2
+image: /images/OniguardHelm.png
+durability: 2
 ---

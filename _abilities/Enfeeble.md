@@ -12,4 +12,10 @@ zh-CN_flavor: "“感到不对劲的话就举起你的手……哦！对啦！�
 tile_id: Enfeeble
 cost: 2
 image: /images/Enfeeble.png
+es-ES_name: "Marchitar"
+es-ES_description: "Paga 2 de vida para reducir el daño de este enemigo a 0 por esta ronda. Recarga después de 6 rondas"
+es-ES_flavor: "'Levanten la mano si no se sienten bien... ¡Oh! ¡Es verdad! ¡No pueden! ¡Bwahahah!' - Poh Rei Cardoso, el pérfido Manavampiro"
+tile_id: Enfeeble
+cost: 2
+image: /images/Enfeeble.png
 ---

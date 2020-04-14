@@ -14,4 +14,11 @@ tile_id: LeatherArmor
 cost: 3
 image: /images/LeatherArmor.png
 durability: 3
+es-ES_name: "Armadura de Cuero"
+es-ES_description: "Cuando huyas - si es que este ítem está activo, gana stealth"
+es-ES_flavor: "El uniforme oficial de bandoleros y sabandijas en el mundo entero."
+tile_id: LeatherArmor
+cost: 3
+image: /images/LeatherArmor.png
+durability: 3
 ---

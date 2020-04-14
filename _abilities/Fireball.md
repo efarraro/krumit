@@ -12,4 +12,10 @@ zh-CN_flavor: "你会觉得新晋法师学到的第一个法术应该更像是�
 tile_id: Fireball
 cost: 2
 image: /images/Fireball.png
+es-ES_name: "Bola de Fuego"
+es-ES_description: "Haz 6 de daño piercing a un enemigo objetivo.  Exhaust"
+es-ES_flavor: "Pensarías que el primer hechizo que un mago novato aprende sería algo como 'chispazo'. ¿Pero donde estaría la gracia en eso?"
+tile_id: Fireball
+cost: 2
+image: /images/Fireball.png
 ---

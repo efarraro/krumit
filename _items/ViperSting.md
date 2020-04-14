@@ -14,4 +14,11 @@ tile_id: ViperSting
 cost: 2
 image: /images/ViperSting.png
 durability: 2
+es-ES_name: "Diente de Víbora"
+es-ES_description: "Después de atacar, aplica poison (2)"
+es-ES_flavor: "'La mordida persiste mucho después de haber extraído el colmillo...' - Extracto de las memorias de Ludlow 'Comida-de-serpiente' Gabblesnoz."
+tile_id: ViperSting
+cost: 2
+image: /images/ViperSting.png
+durability: 2
 ---

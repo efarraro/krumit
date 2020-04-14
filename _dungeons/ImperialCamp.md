@@ -48,4 +48,28 @@ monsters:
     image: /images/Cleric.png
     quantity: 4
     url: /monsters/Cleric
+es-ES_name: "Campo de Entrenamiento Imperial"
+es-ES_description: "El corazón del ejército de Élite del Imperio. El entrenamiento incluye esgrima, formaciones, marchas, y diseño de plumas de casco."
+tier: 4
+monsters:
+  - monster:
+    name: "Campesina"
+    image: /images/Peasant.png
+    quantity: 3
+    url: /monsters/Peasant
+  - monster:
+    name: "Guardia Ciudadana"
+    image: /images/RoyalGuard.png
+    quantity: 6
+    url: /monsters/RoyalGuard
+  - monster:
+    name: "Guardia Real"
+    image: /images/RoyalGuardElite.png
+    quantity: 4
+    url: /monsters/RoyalGuardElite
+  - monster:
+    name: "Druida"
+    image: /images/Cleric.png
+    quantity: 4
+    url: /monsters/Cleric
 ---

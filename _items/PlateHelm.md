@@ -14,4 +14,11 @@ tile_id: PlateHelm
 cost: 3
 image: /images/PlateHelm.png
 durability: 3
+es-ES_name: "Yelmo de Acero"
+es-ES_description: "Cuando actives este ítem, desactiva todas las armas activas"
+es-ES_flavor: "Muy protectivo, siempre que no te importe tener pelo de casco."
+tile_id: PlateHelm
+cost: 3
+image: /images/PlateHelm.png
+durability: 3
 ---

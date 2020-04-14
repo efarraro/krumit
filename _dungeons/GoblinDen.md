@@ -18,4 +18,13 @@ monsters:
     image: /images/Gobloid.png
     quantity: 6
     url: /monsters/Gobloid
+es-ES_name: "Pueblo Gobloide Asqueroso"
+es-ES_description: "'Los Gobloides son una raza trágica y sucia - condenados por su hedor a ser marginados, por siempre rechazados. Me pregunto, ¿podrán olerse entre ellos?' - Krumit"
+tier: 0
+monsters:
+  - monster:
+    name: "Gobloide"
+    image: /images/Gobloid.png
+    quantity: 6
+    url: /monsters/Gobloid
 ---

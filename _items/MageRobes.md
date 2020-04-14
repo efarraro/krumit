@@ -14,4 +14,11 @@ tile_id: MageRobes
 cost: 0
 image: /images/MageRobes.png
 durability: 2
+es-ES_name: "Túnica de Mago"
+es-ES_description: "Cuando adquieras una habilidad, incrementa en 1 el block de este ítem"
+es-ES_flavor: "Esta túnica está adornada con 34 estrellas, una por cada uno de los graduados de la Escuela Inaugural de Magia."
+tile_id: MageRobes
+cost: 0
+image: /images/MageRobes.png
+durability: 2
 ---

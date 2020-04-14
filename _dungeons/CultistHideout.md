@@ -28,4 +28,18 @@ monsters:
     image: /images/Cooltist.png
     quantity: 4
     url: /monsters/Cooltist
+es-ES_name: "Reunión Clandestina de Cultistas"
+es-ES_description: "'Ugh, todos estos novatos - <i>Yo</i> estaba merodeando por aquí antes de que cualquiera supiera de este lugar.' - Mae$tra de la Muerte K."
+tier: 1
+monsters:
+  - monster:
+    name: "Esqueleto"
+    image: /images/Skeleton.png
+    quantity: 4
+    url: /monsters/Skeleton
+  - monster:
+    name: "Kooltista"
+    image: /images/Cooltist.png
+    quantity: 4
+    url: /monsters/Cooltist
 ---

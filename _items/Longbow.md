@@ -28,4 +28,18 @@ tile_id: Longbow
 cost: 2
 image: /images/Longbow.png
 durability: 2
+es-ES_name: "Arco Largo"
+es-ES_description: "Alcance. Haz 4 de daño piercing a un enemigo objetivo en la fila superior."
+es-ES_flavor: "Muy bueno para mantener las distancias con enemigos peligrosos o apestosos."
+tile_id: Longbow
+cost: 2
+image: /images/Longbow.png
+durability: 2
+es-ES_name: "Arco Largo"
+es-ES_description: "Alcance. Haz 4 de daño piercing a un enemigo objetivo en la fila superior."
+es-ES_flavor: "Muy bueno para mantener las distancias con enemigos peligrosos o apestosos."
+tile_id: Longbow
+cost: 2
+image: /images/Longbow.png
+durability: 2
 ---

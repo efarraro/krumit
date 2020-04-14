@@ -12,4 +12,10 @@ zh-CN_flavor: "直接砍。"
 tile_id: Slay
 cost: 5
 image: /images/Slay.png
+es-ES_name: "Asesinar"
+es-ES_description: "Haz 3 de daño piercing a un enemigo objetivo. Si es destruido, incrementa tu ataque base en 1 por el resto del calabozo. Exhaust"
+es-ES_flavor: "Todos se mueren por verte."
+tile_id: Slay
+cost: 5
+image: /images/Slay.png
 ---

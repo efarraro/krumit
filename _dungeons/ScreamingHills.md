@@ -58,4 +58,33 @@ monsters:
     image: /images/Gobloid.png
     quantity: 2
     url: /monsters/Gobloid
+es-ES_name: "Las Colinas Gritonas"
+es-ES_description: "Un lugar tan loco, que incluso las mismas colinas están gritando."
+tier: 6
+monsters:
+  - monster:
+    name: "Correviento"
+    image: /images/WindRunner.png
+    quantity: 4
+    url: /monsters/WindRunner
+  - monster:
+    name: "Vikingo Atómico"
+    image: /images/Viking.png
+    quantity: 8
+    url: /monsters/Viking
+  - monster:
+    name: "Punk"
+    image: /images/Harpy.png
+    quantity: 4
+    url: /monsters/Harpy
+  - monster:
+    name: "Cabeza de Balde"
+    image: /images/GobloidKnucklehead.png
+    quantity: 4
+    url: /monsters/GobloidKnucklehead
+  - monster:
+    name: "Gobloide"
+    image: /images/Gobloid.png
+    quantity: 2
+    url: /monsters/Gobloid
 ---

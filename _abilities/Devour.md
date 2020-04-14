@@ -8,7 +8,13 @@ cost: 1
 image: /images/Devour.png
 zh-CN_name: "吞噬"
 zh-CN_description: "摧毁目标<a href = '../items#Tombstone'>墓碑</a>，为你提高4点生命值上限，本层地下城内有效。Exhaust。"
-zh-CN_flavor: "占位符"
+zh-CN_flavor: "“我没说他是个盗墓的。但是……”——梅赛德斯，忧心忡忡的本地教民"
+tile_id: Devour
+cost: 1
+image: /images/Devour.png
+es-ES_name: "Devorar"
+es-ES_description: "Destruye la <a href = '../items#Tombstone'>Lápida</a> objetivo e incrementa tu vida máxima en 4 por el resto del calabozo. Exhaust"
+es-ES_flavor: "'No digo que sea un enterrador. Pero...' - Mercedes, feligresa preocupada."
 tile_id: Devour
 cost: 1
 image: /images/Devour.png

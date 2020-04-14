@@ -78,4 +78,43 @@ monsters:
     image: /images/TrashGolem.png
     quantity: 3
     url: /monsters/TrashGolem
+es-ES_name: "La Nucle0polis"
+es-ES_description: "'...Y entonces, la Nucle0polis apareció, al parecer de la nada - un templo chillón al veneno y la corrupción. Y, además, arruinó verdaderamente el paisaje urbano.' - Krumit"
+tier: 8
+monsters:
+  - monster:
+    name: "Uberliche"
+    image: /images/Uberlich.png
+    quantity: 1
+    url: /monsters/Uberlich
+  - monster:
+    name: "Esqueleto"
+    image: /images/Skeleton.png
+    quantity: 2
+    url: /monsters/Skeleton
+  - monster:
+    name: "Kooltista"
+    image: /images/Cooltist.png
+    quantity: 4
+    url: /monsters/Cooltist
+  - monster:
+    name: "Fanático Loko"
+    image: /images/Zealnut.png
+    quantity: 5
+    url: /monsters/Zealnut
+  - monster:
+    name: "Nigrat0mante"
+    image: /images/Automaton.png
+    quantity: 4
+    url: /monsters/Automaton
+  - monster:
+    name: "Nigrat0mante v2.0"
+    image: /images/AutomatonV2.png
+    quantity: 4
+    url: /monsters/AutomatonV2
+  - monster:
+    name: "Gólem de Basura"
+    image: /images/TrashGolem.png
+    quantity: 3
+    url: /monsters/TrashGolem
 ---

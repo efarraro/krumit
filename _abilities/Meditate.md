@@ -12,4 +12,10 @@ zh-CN_flavor: "哦嗯——。呣嗯——。"
 tile_id: Meditate
 cost: 2
 image: /images/Meditate.png
+es-ES_name: "Meditar"
+es-ES_description: "Reduce el costo de todas las habilidades visibles en 1. Exhaust"
+es-ES_flavor: "Ommmmmmmmmmm. Mooooooooooo."
+tile_id: Meditate
+cost: 2
+image: /images/Meditate.png
 ---

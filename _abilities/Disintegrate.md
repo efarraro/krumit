@@ -12,4 +12,10 @@ zh-CN_flavor: "你又能看到了——你又看不到了。"
 tile_id: Disintegrate
 cost: 4
 image: /images/Disintegrate.png
+es-ES_name: "Desintegrar"
+es-ES_description: "Piercing. Cada vez que uses esta habilidad, incrementa su daño en 1. Adquiere 3 habilidades para recargar"
+es-ES_flavor: "Ahora lo vez - y ahora no."
+tile_id: Disintegrate
+cost: 4
+image: /images/Disintegrate.png
 ---

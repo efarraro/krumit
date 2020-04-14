@@ -14,4 +14,11 @@ tile_id: Smashgud
 cost: 4
 image: /images/Smashgud.png
 durability: 3
+es-ES_name: "Rompetodo"
+es-ES_description: "Cuando ataques con esta arma, incrementa su daño en 1 por el resto de este calabozo"
+es-ES_flavor: "Una de las legendarias grandes mazas de Gregory el Llamatauro. Hace lo que dice en el puñetero mango."
+tile_id: Smashgud
+cost: 4
+image: /images/Smashgud.png
+durability: 3
 ---

@@ -10,4 +10,9 @@ zh-CN_description: "这名敌人会以潜行状态进入地下城，在你进入
 zh-CN_flavor: "扎考刺客十分擅长潜行和捅人。永远都不要把后背暴露给他们。仔细想想，还是什么都不要暴露给他们为好。"
 tile_id: JackalAssassin
 image: /images/JackalAssassin.png
+es-ES_name: "Asesino Chacal"
+es-ES_description: "Este enemigo empieza con sigilo, impidiendo que lo selecciones como objetivo hasta que lo hayas entablado en combate."
+es-ES_flavor: "Los asesinos Chacales son particularmente sigilosos y cuchillosos. No les muestres la espalda. De hecho, no les muestres nada."
+tile_id: JackalAssassin
+image: /images/JackalAssassin.png
 ---

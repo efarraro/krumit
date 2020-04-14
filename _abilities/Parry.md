@@ -12,4 +12,10 @@ zh-CN_flavor: "吉-图坎多剑术教导人们：无所谓进攻或防御，连�
 tile_id: Parry
 cost: 2
 image: /images/Parry.png
+es-ES_name: "Desviar"
+es-ES_description: "Una vez por combate, cuando ataques con un arma, gana también 6 de block"
+es-ES_flavor: "El arte del Jee-Tukando nos enseña que no existe el ataque ni la defense, sino sólo el movimiento continuo."
+tile_id: Parry
+cost: 2
+image: /images/Parry.png
 ---

@@ -14,4 +14,11 @@ tile_id: ButchersCleaver
 cost: 2
 image: /images/ButchersCleaver.png
 durability: 3
+es-ES_name: "Cuchillo Carnicero"
+es-ES_description: "Hace 2 de daño adicional contra enemigos dañados"
+es-ES_flavor: "Un arma bastante brutal, que de seguro dará pesadillas a tu oponente."
+tile_id: ButchersCleaver
+cost: 2
+image: /images/ButchersCleaver.png
+durability: 3
 ---

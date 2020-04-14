@@ -48,4 +48,28 @@ monsters:
     image: /images/Bramble.png
     quantity: 1
     url: /monsters/Bramble
+es-ES_name: "Arena de Sir Zarzal"
+es-ES_description: "'¡Vengan todos a la Arena de Zarzal! ¡Vean las luchas más barbarosas del pueblo! ¡Es 'escosomente' legal! - Shadrat, Pregonero de la Arena"
+tier: 2
+monsters:
+  - monster:
+    name: "Barbaroso"
+    image: /images/Bear.png
+    quantity: 2
+    url: /monsters/Bear
+  - monster:
+    name: "Campesina"
+    image: /images/Peasant.png
+    quantity: 3
+    url: /monsters/Peasant
+  - monster:
+    name: "Gobloide"
+    image: /images/Gobloid.png
+    quantity: 3
+    url: /monsters/Gobloid
+  - monster:
+    name: "Zarzal"
+    image: /images/Bramble.png
+    quantity: 1
+    url: /monsters/Bramble
 ---

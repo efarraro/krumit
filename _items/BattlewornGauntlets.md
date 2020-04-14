@@ -14,4 +14,11 @@ tile_id: BattlewornGauntlets
 cost: 3
 image: /images/BattlewornGauntlets.png
 durability: 3
+es-ES_name: "Guantes Veteranos"
+es-ES_description: "Cada vez que adquieras un arma, repara 1 de durabilidad a este ítem"
+es-ES_flavor: "Estos guantes de antes del Meteorismo son probablemente más experimentados que lo que tú jamás serás. Vestirlos te llena de confianza y sofisticación."
+tile_id: BattlewornGauntlets
+cost: 3
+image: /images/BattlewornGauntlets.png
+durability: 3
 ---

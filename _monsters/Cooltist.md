@@ -10,4 +10,9 @@ zh-CN_description: "这名敌人没有任何特殊能力或者特殊效果。"
 zh-CN_flavor: "他们随时准备着来一段地狱摇摆。他们崇拜盖世巫妖，但又假装对他没那么感冒。"
 tile_id: Cooltist
 image: /images/Cooltist.png
+es-ES_name: "Kooltista"
+es-ES_description: "Este enemigo no tiene poderes o efectos especiales"
+es-ES_flavor: "Está listo para soltar unos beats infernales sobre  tu cabeza. Rinde culto al Uberliche, pero hace como que no es gran cosa."
+tile_id: Cooltist
+image: /images/Cooltist.png
 ---

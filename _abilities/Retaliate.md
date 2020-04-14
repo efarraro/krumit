@@ -12,4 +12,10 @@ zh-CN_flavor: "我不会私底下怀恨在心，我会还以颜色，还要加�
 tile_id: Retaliate
 cost: 3
 image: /images/Retaliate.png
+es-ES_name: "Contraatacar"
+es-ES_description: "Una vez por combate, incrementa el daño de tu próximo ataqe en X. Incrementa X en 2 cada ronda de combate"
+es-ES_flavor: "'Yo no guardo rencores. Los devuelvo - y con intereses.' - El Exiliado"
+tile_id: Retaliate
+cost: 3
+image: /images/Retaliate.png
 ---

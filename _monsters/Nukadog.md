@@ -10,4 +10,9 @@ zh-CN_description: "这种敌人的身手十分敏捷——要小心他的blitz�
 zh-CN_flavor: "辐射时代将人类最好的朋友变成了一种满是粘液，特别狂躁的烦人精。非常危险，哇哦，特别有毒。"
 tile_id: Nukadog
 image: /images/Nukadog.png
+es-ES_name: "Lobo Mocoso"
+es-ES_description: "Este enemigo es rápido - ¡ten cuidado con sus ataques de blitz!"
+es-ES_flavor: "La Era de la Radiación ha deformado al Mejor Amigo del Hombre, volviéndolo una alimaña mocosa y rabiosa. Mucho peligro, guau, muy tóxico."
+tile_id: Nukadog
+image: /images/Nukadog.png
 ---

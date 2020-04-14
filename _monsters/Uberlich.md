@@ -10,4 +10,9 @@ zh-CN_description: "进入地下城时为地下城牌组洗入6张“大爆炸�
 zh-CN_flavor: "正为下一次星陨流血流汗的先驱，也是坚果邪教的领袖。盖世巫妖的真正目的仍然是个未解之谜，但是有一点是绝对可以肯定的——它们会碾碎任何胆敢阻碍它们的人。"
 tile_id: Uberlich
 image: /images/Uberlich.png
+es-ES_name: "Uberliche"
+es-ES_description: "Cuando el calabozo empieze, baraja 6 copias de <a href = '../abilities#Megaton'>Megatón</a> en el mazo-calabozo."
+es-ES_flavor: "El sudoroso heraldo del siguiente Meteorismo, y el líder del Culto de la Nuez. Los verdaderos propósitos del Uberliche están velados por miasma y misterio, pero una cosa es por seguro - aplastará a cualquiera que se le interponga."
+tile_id: Uberlich
+image: /images/Uberlich.png
 ---

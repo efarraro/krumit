@@ -68,4 +68,38 @@ monsters:
     image: /images/GobloidKnucklehead.png
     quantity: 2
     url: /monsters/GobloidKnucklehead
+es-ES_name: "La Vieja Taberna del Meteorismo"
+es-ES_description: "'Escuché que ahí juegan una especie de juego de cartas extravagante - creo que se llamaba 'Meteorismo', o quizás 'Meteorfall'. Siempre he querido probarlo.' - Rose"
+tier: 4
+monsters:
+  - monster:
+    name: "Motero Mutante"
+    image: /images/Biker.png
+    quantity: 3
+    url: /monsters/Biker
+  - monster:
+    name: "Corsario"
+    image: /images/Pirate.png
+    quantity: 3
+    url: /monsters/Pirate
+  - monster:
+    name: "Vagabundo"
+    image: /images/JackalVagabond.png
+    quantity: 3
+    url: /monsters/JackalVagabond
+  - monster:
+    name: "Campesina"
+    image: /images/Peasant.png
+    quantity: 2
+    url: /monsters/Peasant
+  - monster:
+    name: "Guardia Ciudadana"
+    image: /images/RoyalGuard.png
+    quantity: 2
+    url: /monsters/RoyalGuard
+  - monster:
+    name: "Cabeza de Balde"
+    image: /images/GobloidKnucklehead.png
+    quantity: 2
+    url: /monsters/GobloidKnucklehead
 ---

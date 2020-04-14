@@ -14,4 +14,11 @@ tile_id: ThiefGlove
 cost: 2
 image: /images/ThiefGlove.png
 durability: 2
+es-ES_name: "Guante de Ladrón"
+es-ES_description: "Cuando huyas - si este ítem está activo, gana 1 de oro"
+es-ES_flavor: "Estos guantes tienen dedos pegajosos. Resultan útiles en un apuro."
+tile_id: ThiefGlove
+cost: 2
+image: /images/ThiefGlove.png
+durability: 2
 ---

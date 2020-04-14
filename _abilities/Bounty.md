@@ -12,4 +12,10 @@ zh-CN_flavor: "“这群人头上有悬赏。什么？是的，我当然确定�
 tile_id: Bounty
 cost: 0
 image: /images/Bounty.png
+es-ES_name: "Recompensa"
+es-ES_description: "Cuando derrotes a un enemigo adyacente a esta ficha, añade 1 de oro a Recompensa. Adquiere esta ficha para ganar esa cantidad de oro (Exhaust inmediatamente)"
+es-ES_flavor: "'Sus cabezas tiene precio. ¿Cómo? Sí, por supuesto que estoy seguro. Y se fueron por allá.' - Gyralt, alias El Soplón"
+tile_id: Bounty
+cost: 0
+image: /images/Bounty.png
 ---

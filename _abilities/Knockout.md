@@ -12,4 +12,10 @@ zh-CN_flavor: "经验丰富的盗贼能在见到你人之前就知道要和你�
 tile_id: Knockout
 cost: 1
 image: /images/Knockout.png
+es-ES_name: "Noquear"
+es-ES_description: "Baraja un enemigo objetivo de vuelta en el mazo. Derrota 1 enemigo para recargar esto"
+es-ES_flavor: "Un buen ladrón sabe cuando presentar batalla y cuando golpear a alguien en la nuca con una botella antes de que te vean."
+tile_id: Knockout
+cost: 1
+image: /images/Knockout.png
 ---

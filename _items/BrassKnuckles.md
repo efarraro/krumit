@@ -14,4 +14,11 @@ tile_id: BrassKnuckles
 cost: 1
 image: /images/BrassKnuckles.png
 durability: 2
+es-ES_name: "Manopla"
+es-ES_description: "Si tu ataque tiene blitz, inflige stun a tu oponente después de atacar"
+es-ES_flavor: "Imprescindible si planeas meterte en peleas de bar."
+tile_id: BrassKnuckles
+cost: 1
+image: /images/BrassKnuckles.png
+durability: 2
 ---

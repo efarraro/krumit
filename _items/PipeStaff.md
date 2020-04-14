@@ -14,4 +14,11 @@ tile_id: PipeStaff
 cost: 5
 image: /images/PipeStaff.png
 durability: 3
+es-ES_name: "Báculo de Cañería"
+es-ES_description: "Repara 1 de durabilidad cada vez que adquieras una habilidad"
+es-ES_flavor: "Solía ser un canal de alcantarilla. Ahora canaliza poderosas energías arcanas. Sigue apestando un poco, eso sí."
+tile_id: PipeStaff
+cost: 5
+image: /images/PipeStaff.png
+durability: 3
 ---

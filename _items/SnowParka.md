@@ -14,4 +14,11 @@ tile_id: SnowParka
 cost: 3
 image: /images/SnowParka.png
 durability: 2
+es-ES_name: "Parka de Akorn"
+es-ES_description: "Cuando adquieras esto, inflige freeze en todos los enemigos en la misma fila y columna"
+es-ES_flavor: "Sopla un viento helado, y cualquiera que no esté enfundado en esta mullida Parka se va a congelar el trasero."
+tile_id: SnowParka
+cost: 3
+image: /images/SnowParka.png
+durability: 2
 ---

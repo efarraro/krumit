@@ -38,4 +38,23 @@ monsters:
     image: /images/GobloidKing.png
     quantity: 1
     url: /monsters/GobloidKing
+es-ES_name: "Capital Gobloide: W'aggu"
+es-ES_description: "W'aggu es la 'ciudad' capital de los Gobloides. Y también es el nombre de su rey. Y de su plato típico. Y también es el nombre más popular para los bebés Gobloides."
+tier: 2
+monsters:
+  - monster:
+    name: "Gobloide"
+    image: /images/Gobloid.png
+    quantity: 5
+    url: /monsters/Gobloid
+  - monster:
+    name: "Cabeza de Balde"
+    image: /images/GobloidKnucklehead.png
+    quantity: 4
+    url: /monsters/GobloidKnucklehead
+  - monster:
+    name: "Jefe Gobloide Waggu"
+    image: /images/GobloidKing.png
+    quantity: 1
+    url: /monsters/GobloidKing
 ---

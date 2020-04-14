@@ -12,4 +12,10 @@ zh-CN_flavor: "吓啊啊啊啊！——拉玛陶格雷戈里"
 tile_id: MightySwing
 cost: 2
 image: /images/MightySwing.png
+es-ES_name: "Gran Golpe"
+es-ES_description: "Incrementa tu ataque por un valor equivalente al daño de tus armas de melé equipadas. Recarga después de 6 de combate."
+es-ES_flavor: "¡GGWAAARRR! – Gregory el Llamatauro"
+tile_id: MightySwing
+cost: 2
+image: /images/MightySwing.png
 ---

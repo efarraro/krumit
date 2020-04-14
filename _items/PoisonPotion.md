@@ -14,4 +14,11 @@ tile_id: PoisonPotion
 cost: 1
 image: /images/PoisonPotion.png
 durability: 2
+es-ES_name: "Frasco de Veneno"
+es-ES_description: "Aplica poison (1) a un enemigo objetivo, y a todos los otros enemigos en la misma fila"
+es-ES_flavor: "Se rumorea que a Pantanuela le gusta desayunar con este vil mejunje."
+tile_id: PoisonPotion
+cost: 1
+image: /images/PoisonPotion.png
+durability: 2
 ---

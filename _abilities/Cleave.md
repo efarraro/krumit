@@ -12,4 +12,10 @@ zh-CN_flavor: "哥布森也不是什么光明磊落的东西，所以不用和�
 tile_id: Cleave
 cost: 1
 image: /images/Cleave.png
+es-ES_name: "Hendir"
+es-ES_description: "Haz 5 de daño a todos los enemigos en la fila inferior. Exhaust"
+es-ES_flavor: "A los Gobloides no les gustan las luchas de igual a igual. Así que asegúrate de poder emparejar las cosas. - Meditaciones Guerreras de Zarzal"
+tile_id: Cleave
+cost: 1
+image: /images/Cleave.png
 ---

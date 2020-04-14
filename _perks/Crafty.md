@@ -8,4 +8,8 @@ zh-CN_name: "拳师"
 zh-CN_description: "对stunned的敌人额外造成1点伤害"
 tile_id: Crafty
 image: /images/Crafty.png
+es-ES_name: "Pugilista"
+es-ES_description: "Haz 1 de daño adicional a enemigos stunned"
+tile_id: Crafty
+image: /images/Crafty.png
 ---

@@ -28,4 +28,18 @@ monsters:
     image: /images/RoyalGuard.png
     quantity: 1
     url: /monsters/RoyalGuard
+es-ES_name: "Granja Mediocre"
+es-ES_description: "Tan modesta, inocente, neutral y poco llamativa que bien podría ser cualquier parte."
+tier: 0
+monsters:
+  - monster:
+    name: "Campesina"
+    image: /images/Peasant.png
+    quantity: 5
+    url: /monsters/Peasant
+  - monster:
+    name: "Guardia Ciudadana"
+    image: /images/RoyalGuard.png
+    quantity: 1
+    url: /monsters/RoyalGuard
 ---

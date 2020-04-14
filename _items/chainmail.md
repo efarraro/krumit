@@ -14,4 +14,11 @@ tile_id: ChainMail
 cost: 2
 image: /images/ChainMail.png
 durability: 2
+es-ES_name: "Cota de Malla"
+es-ES_description: "Ítem básico - sin efectos adicionales"
+es-ES_flavor: "Mucho más pesada de lo que parece."
+tile_id: ChainMail
+cost: 2
+image: /images/ChainMail.png
+durability: 2
 ---

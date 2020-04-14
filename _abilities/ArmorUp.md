@@ -12,4 +12,10 @@ zh-CN_flavor: "有时最好的攻击方式就是缩回你的壳里，让你的�
 tile_id: ArmorUp
 cost: 2
 image: /images/ArmorUp.png
+es-ES_name: "¡Blindaje!"
+es-ES_description: "Restaura completamente todas las armaduras en tu inventario, e incrementa su valor de block en 2. Exhaust"
+es-ES_flavor: "A veces el mejor ataque es esconderte en tu caparazón y dejar que tus enemigos se cansen."
+tile_id: ArmorUp
+cost: 2
+image: /images/ArmorUp.png
 ---

@@ -14,4 +14,11 @@ tile_id: Matches
 cost: 0
 image: /images/Matches.png
 durability: 3
+es-ES_name: "Fósforos"
+es-ES_description: "Inflige burn en un enemigo objetivo"
+es-ES_flavor: "A juzgar por el pelambre y las manchas de grog (y por el logo), esta pequeña cajita de fósforos proviene de la Taberna del Meteorismo."
+tile_id: Matches
+cost: 0
+image: /images/Matches.png
+durability: 3
 ---

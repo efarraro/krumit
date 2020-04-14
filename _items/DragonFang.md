@@ -14,4 +14,11 @@ tile_id: DragonFang
 cost: 4
 image: /images/DragonFang.png
 durability: 3
+es-ES_name: "Colmillo de Dragorno"
+es-ES_description: "Si tienes stealth, incrementa su daño en 4"
+es-ES_flavor: "'...Por días, todo lo he podido sentir es el olor metálico del oro, y un siniestro susurro de plumas...' -  - Extracto de las memorias de Ludlow 'Comida-de-serpiente' Gabblesnoz."
+tile_id: DragonFang
+cost: 4
+image: /images/DragonFang.png
+durability: 3
 ---

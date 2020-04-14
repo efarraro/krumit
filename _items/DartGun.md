@@ -14,4 +14,11 @@ tile_id: DartGun
 cost: 2
 image: /images/DartGun.png
 durability: 3
+es-ES_name: "Cerbatana"
+es-ES_description: "Aplica poison (2) a un enemigo ofjetivo. Cuando adquieras una poción, repara 1 de durabilidad"
+es-ES_flavor: "'¡Si envenenan de lejos, podrán llegar a viejos!' - Extracto... bueno, texto completo de la Guía de Cerbatanas para Pillos y Maleantes."
+tile_id: DartGun
+cost: 2
+image: /images/DartGun.png
+durability: 3
 ---

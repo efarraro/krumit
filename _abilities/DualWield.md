@@ -12,4 +12,10 @@ zh-CN_flavor: "旋舞者看起来就像是一道钢铁旋风，刀刃的幻象�
 tile_id: DualWield
 cost: 2
 image: /images/DualWield.png
+es-ES_name: "Armas Gemelas"
+es-ES_description: "Adquiere un arma objetivo de costo 2 o menos, y añade una copia adicional a tu inventario. Exhaust"
+es-ES_flavor: "En batalla, los Baila-vorágines parecen ser tornados de acero, hipnóticos huracanes de espadas."
+tile_id: DualWield
+cost: 2
+image: /images/DualWield.png
 ---

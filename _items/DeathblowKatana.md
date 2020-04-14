@@ -14,4 +14,11 @@ tile_id: DeathblowKatana
 cost: 3
 image: /images/DeathblowKatana.png
 durability: 3
+es-ES_name: "Katana Mortífera"
+es-ES_description: "Esta arma solo puede ser equipada inmediatamente después de deflectar un ataque enemigo"
+es-ES_flavor: "Un arma mortal de una tierra distante. Una descolorida inscripción en el mango dice 'Si me encuentras, porfa devuélveme al Lobo Manco.'"
+tile_id: DeathblowKatana
+cost: 3
+image: /images/DeathblowKatana.png
+durability: 3
 ---

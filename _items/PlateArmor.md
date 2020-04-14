@@ -14,4 +14,11 @@ tile_id: PlateArmor
 cost: 2
 image: /images/PlateArmor.png
 durability: 3
+es-ES_name: "Armadura de Placas"
+es-ES_description: "El costo de este ítem se incrementa en 1 por cada otro ítem en tu inventario"
+es-ES_flavor: "Protección de cuerpo completo para el guerrero sin apuro de llegar a ninguna parte."
+tile_id: PlateArmor
+cost: 2
+image: /images/PlateArmor.png
+durability: 3
 ---

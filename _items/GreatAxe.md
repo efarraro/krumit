@@ -14,4 +14,11 @@ tile_id: GreatAxe
 cost: 16
 image: /images/GreatAxe.png
 durability: 3
+es-ES_name: "Mi Hacha"
+es-ES_description: "Mientras este ítem esté visible en el calabozo, reduce su costo en 2 cada vez que derrotes a un enemigo"
+es-ES_flavor: "Ya tienes mi arco, ¿y ahora quieres mi hacha también?"
+tile_id: GreatAxe
+cost: 16
+image: /images/GreatAxe.png
+durability: 3
 ---

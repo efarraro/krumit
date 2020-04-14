@@ -7,6 +7,7 @@ tile_id: SnowParka
 cost: 3
 image: /images/SnowParka.png
 durability: 2
+hero: mage
 zh-CN_name: "阿空的大衣"
 zh-CN_description: "获得这张卡牌时，对同行与同列的敌人施加freeze。"
 zh-CN_flavor: "寒风凛冽，不藏到大衣里就要冻成两半了。"
@@ -14,6 +15,7 @@ tile_id: SnowParka
 cost: 3
 image: /images/SnowParka.png
 durability: 2
+hero: mage
 es-ES_name: "Parka de Akorn"
 es-ES_description: "Cuando adquieras esto, inflige freeze en todos los enemigos en la misma fila y columna"
 es-ES_flavor: "Sopla un viento helado, y cualquiera que no esté enfundado en esta mullida Parka se va a congelar el trasero."
@@ -21,4 +23,5 @@ tile_id: SnowParka
 cost: 3
 image: /images/SnowParka.png
 durability: 2
+hero: mage
 ---

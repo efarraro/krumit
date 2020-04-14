@@ -7,6 +7,7 @@ tile_id: Blackjack
 cost: 1
 image: /images/Blackjack.png
 durability: 3
+hero: rogue
 zh-CN_name: "闷棍"
 zh-CN_description: "在战斗中stun敌人，只有在同一行中没有其他敌人时才能使用。"
 zh-CN_flavor: "潜行者普遍使用的武器。"
@@ -14,6 +15,7 @@ tile_id: Blackjack
 cost: 1
 image: /images/Blackjack.png
 durability: 3
+hero: rogue
 es-ES_name: "Cachiporra"
 es-ES_description: "Inflige stun a un enemigo objetivo en combate. Sólo es utilizable contra enemigos que estén solos en su fila. Gana stealth cuando adquieras este ítem."
 es-ES_flavor: "Un arma común entre aquellos que se ocultan en las sombras."
@@ -21,4 +23,5 @@ tile_id: Blackjack
 cost: 1
 image: /images/Blackjack.png
 durability: 3
+hero: rogue
 ---

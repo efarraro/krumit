@@ -7,6 +7,7 @@ tile_id: CaptainsCutlass
 cost: 3
 image: /images/CaptainsCutlass.png
 durability: 3
+hero: warrior
 zh-CN_name: "船长弯刀"
 zh-CN_description: "获得这件物品时，横纵同一直线上每有一名敌人便会让你获得1枚gold。"
 zh-CN_flavor: "有些利刃渴望鲜血，这一把则是渴望金币，还有烈酒。"
@@ -14,6 +15,7 @@ tile_id: CaptainsCutlass
 cost: 3
 image: /images/CaptainsCutlass.png
 durability: 3
+hero: warrior
 es-ES_name: "Alfanje de Capitán"
 es-ES_description: "Cuando adquieras esta arma, gana 1 de gold por cada enemigo en la misma fila o columna que este ítem"
 es-ES_flavor: "Algunas espadas están sedientas de sangre. Esta está sedienta de oro. Y de grog."
@@ -21,4 +23,5 @@ tile_id: CaptainsCutlass
 cost: 3
 image: /images/CaptainsCutlass.png
 durability: 3
+hero: warrior
 ---

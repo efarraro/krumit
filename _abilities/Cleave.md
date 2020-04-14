@@ -6,16 +6,19 @@ EN_flavor: "Gobloids dislike fair fights. So make sure you can even the odds. �
 tile_id: Cleave
 cost: 1
 image: /images/Cleave.png
+hero: warrior
 zh-CN_name: "顺劈斩"
 zh-CN_description: "对底排所有敌人造成5点伤害。Exhaust。"
 zh-CN_flavor: "哥布森也不是什么光明磊落的东西，所以不用和它们客气。——布兰堡的战时沉思"
 tile_id: Cleave
 cost: 1
 image: /images/Cleave.png
+hero: warrior
 es-ES_name: "Hendir"
 es-ES_description: "Haz 5 de daño a todos los enemigos en la fila inferior. Exhaust"
 es-ES_flavor: "A los Gobloides no les gustan las luchas de igual a igual. Así que asegúrate de poder emparejar las cosas. - Meditaciones Guerreras de Zarzal"
 tile_id: Cleave
 cost: 1
 image: /images/Cleave.png
+hero: warrior
 ---

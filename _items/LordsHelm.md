@@ -7,6 +7,7 @@ tile_id: LordsHelm
 cost: 2
 image: /images/LordsHelm.png
 durability: 2147483647
+hero: warrior
 zh-CN_name: "领主之盔"
 zh-CN_description: "使用这件物品进行格挡时会失去1枚gold。你必须拥有至少1枚金币才能装备这件物品。"
 zh-CN_flavor: "曾经属于一位十分富有的领主。足够坚固，但是想要修理上面漂亮的涂装就要花上不少钱了。"
@@ -14,6 +15,7 @@ tile_id: LordsHelm
 cost: 2
 image: /images/LordsHelm.png
 durability: 2147483647
+hero: warrior
 es-ES_name: "Yelmo Señorial"
 es-ES_description: "En combate, cuando hagas block con este ítem, pierde 1 de oro. Debes tener al menos 1 de oro para equipar esto"
 es-ES_flavor: "Alguna vez le perteneció a un opulento noble. Es bastante robusto, pero la ostentosa pintura sale muy cara de reparar."
@@ -21,4 +23,5 @@ tile_id: LordsHelm
 cost: 2
 image: /images/LordsHelm.png
 durability: 2147483647
+hero: warrior
 ---

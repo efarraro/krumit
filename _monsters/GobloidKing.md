@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Goblord Waggu"
-EN_description: "All Gobloids have +1 attack this dungeon.  Shuffle 3x <a href = '../items#Tranquilizer'>Tranquilizer</a> into the dungeon deck"
+EN_description: "All Gobloids have +1 attack this dungeon.  Shuffle 3x <a href = '../en/items#Tranquilizer'>Tranquilizer</a> into the dungeon deck"
 EN_flavor: "Fights in pursuit of The Great Gobloid Republic, as foretold by the Founding Gobloid, T’abbu. Clings onto power with strength and stench."
 tile_id: GobloidKing
 image: /images/GobloidKing.png
@@ -11,7 +11,7 @@ zh-CN_flavor: "为了伟大哥布森共和国而奋斗着，就如创始哥布�
 tile_id: GobloidKing
 image: /images/GobloidKing.png
 es-ES_name: "Jefe Gobloide Waggu"
-es-ES_description: "Todos los Gobloides tienen +1 al ataque en este calabozo. Baraja 3x <a href = '../items#Tranquilizer'>Tranquilizadora</a> en el mazo-calabozo."
+es-ES_description: "Todos los Gobloides tienen +1 al ataque en este calabozo. Baraja 3x <a href = '../es_es/items#Tranquilizer'>Tranquilizadora</a> en el mazo-calabozo."
 es-ES_flavor: "Lucha en pos de la Gran República Gobloide, como fue predicho por el Fundador Gobloide, T’abbu. Se aferra al poder con fuerza y hedor."
 tile_id: GobloidKing
 image: /images/GobloidKing.png

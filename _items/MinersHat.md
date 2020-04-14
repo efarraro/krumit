@@ -7,6 +7,7 @@ tile_id: MinersHat
 cost: 2
 image: /images/MinersHat.png
 durability: 3
+hero: warrior
 zh-CN_name: "矿工帽"
 zh-CN_description: "用这件物品招架攻击后获得1枚金币。"
 zh-CN_flavor: "布鲁诺的洞窟探险套装中的一部分，在他第一次（也是唯一一次）进入远古深渊中探险时穿戴过。"
@@ -14,6 +15,7 @@ tile_id: MinersHat
 cost: 2
 image: /images/MinersHat.png
 durability: 3
+hero: warrior
 es-ES_name: "Casco de Minero"
 es-ES_description: "Cuando deflectes con este ítem, gana 1 de oro"
 es-ES_flavor: "Parte del kit de exploración usado por Bruno en su primera (y única) expedición a las Profundidades Ancestrales."
@@ -21,4 +23,5 @@ tile_id: MinersHat
 cost: 2
 image: /images/MinersHat.png
 durability: 3
+hero: warrior
 ---

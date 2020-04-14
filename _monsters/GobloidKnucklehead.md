@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Buckethead"
-EN_description: "When this enemy is defeated, put a copy of <a href = '../abilities#Stupidity'>Stoopid</a> into your inventory"
+EN_description: "When this enemy is defeated, put a copy of <a href = '../en/abilities#Stupidity'>Stoopid</a> into your inventory"
 EN_flavor: "The most aggressive Gobloids are known as Knuckleheads. They're a force to be reckoned – and definitely not reasoned – with."
 tile_id: GobloidKnucklehead
 image: /images/GobloidKnucklehead.png
@@ -11,7 +11,7 @@ zh-CN_flavor: "最具攻击性的哥布森非铁桶头莫属。绝不能忽视�
 tile_id: GobloidKnucklehead
 image: /images/GobloidKnucklehead.png
 es-ES_name: "Cabeza de Balde"
-es-ES_description: "Cuando este enemigo sea derrotado, pon una copia de <a href = '../abilities#Stupidity'>¡Estúuupido!</a> en tu inventario"
+es-ES_description: "Cuando este enemigo sea derrotado, pon una copia de <a href = '../es_es/abilities#Stupidity'>¡Estúuupido!</a> en tu inventario"
 es-ES_flavor: "Los más agresivos de los Gobloides son conocidos como Cabezas Duras. Son una fuerza a temer - y definitivamente no una con la que razonar."
 tile_id: GobloidKnucklehead
 image: /images/GobloidKnucklehead.png

@@ -7,6 +7,7 @@ tile_id: Dagger
 cost: 2
 image: /images/Dagger.png
 durability: 2
+hero: rogue
 zh-CN_name: "匕首"
 zh-CN_description: "基础道具 - 无额外效果"
 zh-CN_flavor: "用尖的那头戳刺"
@@ -14,6 +15,7 @@ tile_id: Dagger
 cost: 2
 image: /images/Dagger.png
 durability: 2
+hero: rogue
 es-ES_name: "Daga"
 es-ES_description: "Ítem básico - sin efectos adicionales"
 es-ES_flavor: "Pínchalos con el extremo puntiagudo, o úsala para cortar una manzana."
@@ -21,4 +23,5 @@ tile_id: Dagger
 cost: 2
 image: /images/Dagger.png
 durability: 2
+hero: rogue
 ---

@@ -6,16 +6,19 @@ EN_flavor: "'You know a heist has gone smoothly when they don't even know someth
 tile_id: Heist
 cost: 1
 image: /images/Heist.png
+hero: rogue
 zh-CN_name: "劫掠"
 zh-CN_description: "下一张卡牌是物品或者能力时，将其直接放到你的物品栏中。击败3名敌人来为这张卡牌充能。"
 zh-CN_flavor: "“劫掠具体有多顺利？这些人连丢了什么都不知道！”——捣蛋鬼"
 tile_id: Heist
 cost: 1
 image: /images/Heist.png
+hero: rogue
 es-ES_name: "劫掠"
 es-ES_description: "下一张卡牌是物品或者能力时，将其直接放到你的物品栏中。击败3名敌人来为这张卡牌充能。"
 es-ES_flavor: "“劫掠具体有多顺利？这些人连丢了什么都不知道！”——捣蛋鬼"
 tile_id: Heist
 cost: 1
 image: /images/Heist.png
+hero: rogue
 ---

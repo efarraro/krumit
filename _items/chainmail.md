@@ -7,6 +7,7 @@ tile_id: ChainMail
 cost: 2
 image: /images/ChainMail.png
 durability: 2
+hero: warrior
 zh-CN_name: "链甲"
 zh-CN_description: "基础道具 - 无额外效果"
 zh-CN_flavor: "比表面看起来要更加沉重。"
@@ -14,6 +15,7 @@ tile_id: ChainMail
 cost: 2
 image: /images/ChainMail.png
 durability: 2
+hero: warrior
 es-ES_name: "Cota de Malla"
 es-ES_description: "Ítem básico - sin efectos adicionales"
 es-ES_flavor: "Mucho más pesada de lo que parece."
@@ -21,4 +23,5 @@ tile_id: ChainMail
 cost: 2
 image: /images/ChainMail.png
 durability: 2
+hero: warrior
 ---

@@ -6,16 +6,19 @@ EN_flavor: "Strike where they are weakest! Hold nothing back! – Imperiumville 
 tile_id: Thrust
 cost: 0
 image: /images/Thrust.png
+hero: warrior
 zh-CN_name: "刺穿"
 zh-CN_description: "获得这张卡牌时还会获得1枚gold。装备时，你的下一次攻击变为piercing并+2攻击力（需要装备武器）。Exhaust。"
 zh-CN_flavor: "趁他病要他命！不要手下留情！——帝村演习大师雷德泽皮"
 tile_id: Thrust
 cost: 0
 image: /images/Thrust.png
+hero: warrior
 es-ES_name: "Empalar"
 es-ES_description: "Gana 1 de gold cuando adquieras esta habilidad. Mientras la tengas equipada, tu siguiente ataque es piercing y hace +2 de daño (requiere un arma).  Exhaust."
 es-ES_flavor: "¡Ataquen su punto débil! ¡Usen todas sus fuerzas! – Redzepi, Maestra Entrenadora de Imperiovilla"
 tile_id: Thrust
 cost: 0
 image: /images/Thrust.png
+hero: warrior
 ---

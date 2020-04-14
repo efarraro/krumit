@@ -7,6 +7,7 @@ tile_id: OracleRod
 cost: 4
 image: /images/OracleRod.png
 durability: 3
+hero: mage
 zh-CN_name: "神谕之杖"
 zh-CN_description: "场上每有1个带有burn或freeze效果的敌人，费用就会-1。"
 zh-CN_flavor: "“神谕之杖可以让人类或者野兽看到自己的未来，不过看到的都是那种不怎么样的未来。”——先知达芙妮"
@@ -14,6 +15,7 @@ tile_id: OracleRod
 cost: 4
 image: /images/OracleRod.png
 durability: 3
+hero: mage
 es-ES_name: "Vara-Oráculo"
 es-ES_description: "Cuesta 1 menos por cada enemigo visible que esté burn o freeze"
 es-ES_flavor: "'La Vara-Oráculo puede mostrarle el futuro a un humano o una bestia. Es solo que siempre es un futuro doloroso.' - Vidente Delphine"
@@ -21,4 +23,5 @@ tile_id: OracleRod
 cost: 4
 image: /images/OracleRod.png
 durability: 3
+hero: mage
 ---

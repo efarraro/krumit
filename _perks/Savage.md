@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Savage"
-EN_description: "When you defeat an enemy, add a copy of <a href = '../abilities#Frenzy'>Frenzy</a> to your inventory (if room)"
+EN_description: "When you defeat an enemy, add a copy of <a href = '../en/abilities#Frenzy'>Frenzy</a> to your inventory (if room)"
 tile_id: Savage
 image: /images/Savage.png
 zh-CN_name: "野蛮人"
@@ -9,7 +9,7 @@ zh-CN_description: "击败敌人时如果物品栏中仍有空位，在你的物
 tile_id: Savage
 image: /images/Savage.png
 es-ES_name: "Salvaje"
-es-ES_description: "Cuando derrotes a un enemigo, añade una copia de <a href = '../abilities#Frenzy'>Frenesí</a> a tu inventario (si tienes espacio)"
+es-ES_description: "Cuando derrotes a un enemigo, añade una copia de <a href = '../es_es/abilities#Frenzy'>Frenesí</a> a tu inventario (si tienes espacio)"
 tile_id: Savage
 image: /images/Savage.png
 ---

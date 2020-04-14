@@ -7,6 +7,7 @@ tile_id: Matches
 cost: 0
 image: /images/Matches.png
 durability: 3
+hero: mage
 zh-CN_name: "火柴"
 zh-CN_description: "向目标敌人施加burn。"
 zh-CN_flavor: "根据包装上面的酒渍（还有上面那个特别嘲讽的图案）来看，这包火柴应该是星陨酒馆里的东西。"
@@ -14,6 +15,7 @@ tile_id: Matches
 cost: 0
 image: /images/Matches.png
 durability: 3
+hero: mage
 es-ES_name: "Fósforos"
 es-ES_description: "Inflige burn en un enemigo objetivo"
 es-ES_flavor: "A juzgar por el pelambre y las manchas de grog (y por el logo), esta pequeña cajita de fósforos proviene de la Taberna del Meteorismo."
@@ -21,4 +23,5 @@ tile_id: Matches
 cost: 0
 image: /images/Matches.png
 durability: 3
+hero: mage
 ---

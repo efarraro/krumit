@@ -6,16 +6,19 @@ EN_flavor: "A blunt blade is like a blunt mind – not very good at crossword pu
 tile_id: Sharpen
 cost: 1
 image: /images/Sharpen.png
+hero: warrior
 zh-CN_name: "磨刀"
 zh-CN_description: "场上所有武器基础攻击力+2。Exhaust。"
 zh-CN_flavor: "钝掉的刀刃就像是愚钝的思想——并不是很适合填字游戏。"
 tile_id: Sharpen
 cost: 1
 image: /images/Sharpen.png
+hero: warrior
 es-ES_name: "Afilar"
 es-ES_description: "Incrementa el daño base de todas las armas en el tablero en 2. Exhaust"
 es-ES_flavor: "Una espada roma es como una mente roma - no muy buena para resolver crucigramas."
 tile_id: Sharpen
 cost: 1
 image: /images/Sharpen.png
+hero: warrior
 ---

@@ -7,6 +7,7 @@ tile_id: RoyalRapier
 cost: 10
 image: /images/RoyalRapier.png
 durability: 3
+hero: rogue
 zh-CN_name: "皇家刺剑"
 zh-CN_description: "piercing。使用这件物品击败一名敌人时基础攻击+1。"
 zh-CN_flavor: "“人数众多？呸！我每杀一个人都会让我变得更强！”——伊莱特·娜奥米公主的著名遗言"
@@ -14,6 +15,7 @@ tile_id: RoyalRapier
 cost: 10
 image: /images/RoyalRapier.png
 durability: 3
+hero: rogue
 es-ES_name: "Estoque Regio"
 es-ES_description: "Piercing. Cuando derrotes a un enemigo con este ítem, incrementa tu ataque base en 1"
 es-ES_flavor: "'¿Superada en número? ¡Pah! ¡Me haré más fuerte por cada uno de ustedes que mate!' - Las famosas últimas palabras de la Princesa-Electa Naomi."
@@ -21,4 +23,5 @@ tile_id: RoyalRapier
 cost: 10
 image: /images/RoyalRapier.png
 durability: 3
+hero: rogue
 ---

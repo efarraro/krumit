@@ -7,6 +7,7 @@ tile_id: GoatAxe
 cost: 1
 image: /images/GoatAxe.png
 durability: 3
+hero: warrior
 zh-CN_name: "山羊斧"
 zh-CN_description: "你的攻击带有Blitz效果。"
 zh-CN_flavor: "这把临时拼凑的武器恐怕会遭到山羊保护协会抗议"
@@ -14,6 +15,7 @@ tile_id: GoatAxe
 cost: 1
 image: /images/GoatAxe.png
 durability: 3
+hero: warrior
 es-ES_name: "Hacha de Cabra"
 es-ES_description: "Tu ataque tiene blitz"
 es-ES_flavor: "Esta tosca arma te deja un poco cabreado."
@@ -21,4 +23,5 @@ tile_id: GoatAxe
 cost: 1
 image: /images/GoatAxe.png
 durability: 3
+hero: warrior
 ---

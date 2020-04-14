@@ -7,6 +7,7 @@ tile_id: SpikedClub
 cost: 1
 image: /images/SpikedClub.png
 durability: 2
+hero: warrior
 zh-CN_name: "狼牙棒"
 zh-CN_description: "使用这把武器攻击后，自身受到1点piercing伤害。"
 zh-CN_flavor: "别名尖刺俱乐部，由一群流浪汉和恶童改装。"
@@ -14,6 +15,7 @@ tile_id: SpikedClub
 cost: 1
 image: /images/SpikedClub.png
 durability: 2
+hero: warrior
 es-ES_name: "Porra Claveteada"
 es-ES_description: "Después de atacar con esta arma, sufre 1 de daño piercing"
 es-ES_flavor: "Una versión mucho más letal del porro, favorecida por vagabundos y pelagatos."
@@ -21,4 +23,5 @@ tile_id: SpikedClub
 cost: 1
 image: /images/SpikedClub.png
 durability: 2
+hero: warrior
 ---

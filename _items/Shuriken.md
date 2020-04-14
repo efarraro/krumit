@@ -7,6 +7,7 @@ tile_id: Shuriken
 cost: 3
 image: /images/Shuriken.png
 durability: 3
+hero: rogue
 zh-CN_name: "手里剑"
 zh-CN_description: "对目标敌人造成4点伤害。无法将带有护甲的敌人作为目标。"
 zh-CN_flavor: "一种杀伤力意外很强的武器，但是对佩戴了护甲的敌人无效。"
@@ -14,6 +15,7 @@ tile_id: Shuriken
 cost: 3
 image: /images/Shuriken.png
 durability: 3
+hero: rogue
 es-ES_name: "Shuriken"
 es-ES_description: "Haz 4 de daño a un enemigo objetivo. No puedes elegir como objetivo a enemigos con armadura"
 es-ES_flavor: "Un arma sorpresivamente letal, pero inefectiva contra armaduras."
@@ -21,4 +23,5 @@ tile_id: Shuriken
 cost: 3
 image: /images/Shuriken.png
 durability: 3
+hero: rogue
 ---

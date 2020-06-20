@@ -24,4 +24,12 @@ cost: 2
 image: /images/ShortSword.png
 durability: 3
 hero: warrior
+ru-RU_name: "Короткий меч"
+ru-RU_description: "Обыкновенный предмет - никаких дополнительных свойств"
+ru-RU_flavor: "Если бы у кинжала и длинного меча был ребенок..."
+tile_id: ShortSword
+cost: 2
+image: /images/ShortSword.png
+durability: 3
+hero: warrior
 ---

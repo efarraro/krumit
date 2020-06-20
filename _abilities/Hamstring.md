@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Hamstring"
-EN_description: "Once per battle, activate this to cancel an enemy's non-attack action"
+EN_description: "Once per battle, use this to remove all non 🔸 symbols from your opponent's action"
 EN_flavor: "If they can't stand, they can't fight. Or chase you."
 tile_id: Hamstring
 cost: 1
@@ -15,8 +15,15 @@ cost: 1
 image: /images/Hamstring.png
 hero: warrior
 es-ES_name: "Lisiar"
-es-ES_description: "Una vez por combate, activa esta habilidad para cancelar una acción no ofensiva del enemigo"
+es-ES_description: "Una vez por combate, usa esto para remover todos los íconos que no sean 🔸 de la acción de tu oponente"
 es-ES_flavor: "Si no pueden pararse, no pueden luchar. O perseguirte."
+tile_id: Hamstring
+cost: 1
+image: /images/Hamstring.png
+hero: warrior
+ru-RU_name: "Паралич"
+ru-RU_description: "Раз в сражении, воспользуйтесь этим для отмены не-🔸 с вражеского действия"
+ru-RU_flavor: "Если они не могут стоять, они не могут сражаться. Или преследовать тебя."
 tile_id: Hamstring
 cost: 1
 image: /images/Hamstring.png

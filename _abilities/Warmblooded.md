@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Warmblooded"
-EN_description: "Restore 2 health.  Recharge this whenever you burn an enemy"
+EN_description: "Restore 2 ❤️.  Recharge this whenever you burn an enemy"
 EN_flavor: "Infuse yourself with the Aspect of Salamandrah, and be nourished by the heat of your foes! And nearby BBQs!"
 tile_id: Warmblooded
 cost: 2
@@ -15,8 +15,15 @@ cost: 2
 image: /images/Warmblooded.png
 hero: mage
 es-ES_name: "Sangre Caliente"
-es-ES_description: "Recupera 2 de vida. Recarga esto cada vez que inflijas burn en un enemigo"
+es-ES_description: "Recupera 2 de ❤️. Recarga cada vez que burnedpresent a un enemigo"
 es-ES_flavor: "¡Imbúyete con el Aspecto de Salamandrah, y aliméntate del calor de tus enemigos! ¡Y de cualquier barbacoa cercana!"
+tile_id: Warmblooded
+cost: 2
+image: /images/Warmblooded.png
+hero: mage
+ru-RU_name: "Теплокровный"
+ru-RU_description: "Восстанавливает 2 ❤️. Перезаряжается, когда вы burn врага."
+ru-RU_flavor: "Наполните себя силой саламандры и питайтесь огнём своих врагов! И шашлыком поблизости!"
 tile_id: Warmblooded
 cost: 2
 image: /images/Warmblooded.png

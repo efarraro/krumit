@@ -17,8 +17,16 @@ image: /images/FrostbiteCharm.png
 durability: 3
 hero: mage
 es-ES_name: "Amuleto de la Hipotermia"
-es-ES_description: "Transforma un enemigo freeze (que no sea un jefe) en un Esqueleto"
+es-ES_description: "Transforma un enemigo frozen (que no sea un jefe) en un Esqueleto"
 es-ES_flavor: "¡Por el poder de nuestros corazones..! Ah, no importa. - Herman Von Bek, aventurero desventurado."
+tile_id: FrostbiteCharm
+cost: 2
+image: /images/FrostbiteCharm.png
+durability: 3
+hero: mage
+ru-RU_name: "Амулет обморожения"
+ru-RU_description: "Превращает обычного frozen врага в Скелета"
+ru-RU_flavor: "Нашими силами вместе взятыми..! Эх, неважно. – Герман фон Бек, несчастный искатель приключений."
 tile_id: FrostbiteCharm
 cost: 2
 image: /images/FrostbiteCharm.png

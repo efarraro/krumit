@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Icebolt"
-EN_description: "Deal 3 piercing damage to target enemy and inflict freeze.  Exhaust"
+EN_description: "Deal 3 piercing damage and freeze an enemy. Exhaust"
 EN_flavor: "A spell favoured by junior magI - useful for slowing gobloids and chilling drinks."
 tile_id: Icebolt
 cost: 1
@@ -15,8 +15,15 @@ cost: 1
 image: /images/Icebolt.png
 hero: mage
 es-ES_name: "Dardo de Hielo"
-es-ES_description: "Haz 3 de daño piercing a un enemigo objetivo e inflige freeze. Exhaust"
+es-ES_description: "Haz 3 de daño piercing y freeze a un enemigo. Exhaust"
 es-ES_flavor: "Un hechizo favorecido por los magos novatos - útil para congelar gobloides y enfriar bebidas."
+tile_id: Icebolt
+cost: 1
+image: /images/Icebolt.png
+hero: mage
+ru-RU_name: "Ледяной снаряд"
+ru-RU_description: "Наносит 3 piercing урона и freeze врага.  Exhaust"
+ru-RU_flavor: "Заклинание, любимое начинающими магами - полезно для замораживания гоблоидов и охлаждения напитков."
 tile_id: Icebolt
 cost: 1
 image: /images/Icebolt.png

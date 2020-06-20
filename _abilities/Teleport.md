@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Teleport"
-EN_description: "Shuffle all tiles back into the deck and restore 4 health.  If in battle, also leave battle. Exhaust"
+EN_description: "Shuffle all tiles back into the deck and restore 4 ❤️.  If in battle, also leave battle. Exhaust"
 EN_flavor: "When the going gets tough, the tough get trans-locational."
 tile_id: Teleport
 cost: 0
@@ -15,8 +15,15 @@ cost: 0
 image: /images/Teleport.png
 hero: mage
 es-ES_name: "Teletransportar"
-es-ES_description: "Baraja todas las fichas de vuelta en el mazo y recupera 4 de vida. Si estás en combate, déjalo también. Exhaust"
+es-ES_description: "Baraja todas las fichas de vuelta en el mazo y recupera 4 ❤️. Si estás en combate, déjalo también. Exhaust"
 es-ES_flavor: "Cuando las cosas se vuelven duras, los duros se vuelven trans-locacionales."
+tile_id: Teleport
+cost: 0
+image: /images/Teleport.png
+hero: mage
+ru-RU_name: "Телепортация"
+ru-RU_description: "Замешивает все тайлы обратно в колоду и восстанавливает 4 ❤️. Если активируется в сражении, также завершает его. Exhaust"
+ru-RU_flavor: "Когда происходящее становится напряжённым, напряжённое становится транслокационным."
 tile_id: Teleport
 cost: 0
 image: /images/Teleport.png

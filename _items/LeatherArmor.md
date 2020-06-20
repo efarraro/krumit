@@ -24,4 +24,12 @@ cost: 3
 image: /images/LeatherArmor.png
 durability: 3
 hero: rogue
+ru-RU_name: "Кожаный доспех"
+ru-RU_description: "Когда вы спасаетесь бегством, если этот предмет активен - дает stealth"
+ru-RU_flavor: "Официальная униформа разбойников и подлецов повсюду."
+tile_id: LeatherArmor
+cost: 3
+image: /images/LeatherArmor.png
+durability: 3
+hero: rogue
 ---

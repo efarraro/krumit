@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Viper's Sting"
-EN_description: "After you attack, apply poison (2)"
+EN_description: "After you attack, poison (2) your opponent"
 EN_flavor: "'The bite lingers long after the tooth has gone...' - Excerpt from the memoir of Ludlow 'Snake-food' Gabblesnoz. "
 tile_id: ViperSting
 cost: 2
@@ -17,8 +17,16 @@ image: /images/ViperSting.png
 durability: 2
 hero: rogue
 es-ES_name: "Diente de Víbora"
-es-ES_description: "Después de atacar, aplica poison (2)"
+es-ES_description: "Después de atacar, poisonverb (2) a tu oponente"
 es-ES_flavor: "'La mordida persiste mucho después de haber extraído el colmillo...' - Extracto de las memorias de Ludlow 'Comida-de-serpiente' Gabblesnoz."
+tile_id: ViperSting
+cost: 2
+image: /images/ViperSting.png
+durability: 2
+hero: rogue
+ru-RU_name: "Укол змеи"
+ru-RU_description: "После вашей атаки, poison (2) вашего врага"
+ru-RU_flavor: "'Укус задерживается надолго после исчезновения зуба...' - отрывок из воспоминаний поедателя змей Лудлоу Габблсноза. "
 tile_id: ViperSting
 cost: 2
 image: /images/ViperSting.png

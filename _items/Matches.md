@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Matches"
-EN_description: "Inflict burn on target enemy"
+EN_description: "Burn (1) an enemy"
 EN_flavor: "Judging from the fur, grog stains (and the bitchin' logo), you'd say this little book of matches is  from Meteorfall Tavern."
 tile_id: Matches
 cost: 0
@@ -17,8 +17,16 @@ image: /images/Matches.png
 durability: 3
 hero: mage
 es-ES_name: "Fósforos"
-es-ES_description: "Inflige burn en un enemigo objetivo"
-es-ES_flavor: "A juzgar por el pelambre y las manchas de grog (y por el logo), esta pequeña cajita de fósforos proviene de la Taberna del Meteorismo."
+es-ES_description: "Burn (1) un enemigo"
+es-ES_flavor: "A juzgar por el pelambre y las manchas de grog (y por el logo guay), esta pequeña cajita de fósforos proviene de la Taberna del Meteorismo."
+tile_id: Matches
+cost: 0
+image: /images/Matches.png
+durability: 3
+hero: mage
+ru-RU_name: "Спички"
+ru-RU_description: "Burn (1) на врага"
+ru-RU_flavor: "Судя по меху и пятнам от грога (и логотипу), вы бы сказали, что эта маленькая коробка спичек из таверны 'Падение Метеора'."
 tile_id: Matches
 cost: 0
 image: /images/Matches.png

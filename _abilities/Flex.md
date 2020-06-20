@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Flex"
-EN_description: "Use to increase your base attack by 1 for the remainder of this dungeon. Exhaust"
+EN_description: "Instant. Increase your 🔸 by +1 for the remainder of the dungeon"
 EN_flavor: "Barbearians spend the majority of their time flexing in front of mirrors and admiring their gains."
 tile_id: Flex
 cost: 5
@@ -15,8 +15,15 @@ cost: 5
 image: /images/Flex.png
 hero: warrior
 es-ES_name: "Flexionar"
-es-ES_description: "Usa esta habilidad para incrementar tu ataque base en 1 por el resto del calabozo. Exhaust"
-es-ES_flavor: "Los barbarosos pasan la mayor parte de su tiempo frente al espejo, flexionando y admirando sus músculos."
+es-ES_description: "Instant. Incrementa tu 🔸 en +1 por el resto de la mazmorra"
+es-ES_flavor: "Los Barbarosos pasan la mayor parte de su tiempo frente al espejo, flexionando y admirando sus músculos."
+tile_id: Flex
+cost: 5
+image: /images/Flex.png
+hero: warrior
+ru-RU_name: "Флекс"
+ru-RU_description: "Instant. Увеличивает ваш базовый 🔸 на 1 до конца подземелья"
+ru-RU_flavor: "Вардведи проводят большую часть времени флекся перед зеркалами восхищаясь их наживой."
 tile_id: Flex
 cost: 5
 image: /images/Flex.png

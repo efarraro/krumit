@@ -24,4 +24,12 @@ cost: 2
 image: /images/Dagger.png
 durability: 2
 hero: rogue
+ru-RU_name: "Кинжал"
+ru-RU_description: "Обыкновенный предмет - никаких дополнительных свойств"
+ru-RU_flavor: "Приложись к ним острым концом или используй, чтобы нарезать яблоки."
+tile_id: Dagger
+cost: 2
+image: /images/Dagger.png
+durability: 2
+hero: rogue
 ---

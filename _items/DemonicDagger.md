@@ -24,4 +24,12 @@ cost: 2
 image: /images/DemonicDagger.png
 durability: 3
 hero: necromancer
+ru-RU_name: "Демонический кинжал"
+ru-RU_description: "Piercing. Lifesteal (2)"
+ru-RU_flavor: "Однажды этот кинжал смертельно ранил малого демона, который отказался умирать и таким образом заточил свою душу внутри клинка."
+tile_id: DemonicDagger
+cost: 2
+image: /images/DemonicDagger.png
+durability: 3
+hero: necromancer
 ---

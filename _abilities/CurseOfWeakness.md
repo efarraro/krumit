@@ -1,0 +1,27 @@
+---
+
+EN_name: "Curse of Weakness"
+EN_description: "Your base 🔸 is decreased by 1 against adjacent enemies. When you defeat an adjacent enemy, remove this tile from the board"
+EN_flavor: 
+tile_id: CurseOfWeakness
+cost: -1
+image: /images/CurseOfWeakness.png
+zh-CN_name: "Curse of Weakness"
+zh-CN_description: "Your base 🔸 is decreased by 1 against adjacent enemies. When you defeat an adjacent enemy, remove this tile from the board"
+zh-CN_flavor: 
+tile_id: CurseOfWeakness
+cost: -1
+image: /images/CurseOfWeakness.png
+es-ES_name: "Curse of Weakness"
+es-ES_description: "Your base 🔸 is decreased by 1 against adjacent enemies. When you defeat an adjacent enemy, remove this tile from the board"
+es-ES_flavor: 
+tile_id: CurseOfWeakness
+cost: -1
+image: /images/CurseOfWeakness.png
+ru-RU_name: "Curse of Weakness"
+ru-RU_description: "Your base 🔸 is decreased by 1 against adjacent enemies. When you defeat an adjacent enemy, remove this tile from the board"
+ru-RU_flavor: 
+tile_id: CurseOfWeakness
+cost: -1
+image: /images/CurseOfWeakness.png
+---

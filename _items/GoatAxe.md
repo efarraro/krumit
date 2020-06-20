@@ -24,4 +24,12 @@ cost: 1
 image: /images/GoatAxe.png
 durability: 3
 hero: warrior
+ru-RU_name: "Козлиный топор"
+ru-RU_description: "Ваша атака становится blitz"
+ru-RU_flavor: "Это самодельное оружие вряд ли G.O.A.T."
+tile_id: GoatAxe
+cost: 1
+image: /images/GoatAxe.png
+durability: 3
+hero: warrior
 ---

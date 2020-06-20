@@ -16,7 +16,14 @@ image: /images/GustOfWind.png
 hero: mage
 es-ES_name: "Ráfaga de Viento"
 es-ES_description: "Intercambia la ficha objetivo con la ficha de más arriba en su misma columna. Recarga después de que 2 fichas sean añadidas al tablero"
-es-ES_flavor: "Una ráfaga de viento seco sopló a través de la cripta y, por un momento, las cosas muertas hace mucho se batieron y resonaron como si estuvieran vivas."
+es-ES_flavor: "Una ráfaga de viento seco sopló a través de la cripta y, por un momento, las cosas hace mucho muertas se batieron y resonaron como si estuvieran vivas."
+tile_id: GustOfWind
+cost: 1
+image: /images/GustOfWind.png
+hero: mage
+ru-RU_name: "Порыв ветра"
+ru-RU_description: "Меняет местами выбранный тайл с крайним верхним тайлом в том же столбце. Перезаряжается после добавления 2 тайлов в подземелье"
+ru-RU_flavor: "Через склеп пронесся сухой порыв ветра, и на мгновение вещи, давно умершие, взволновались и напугались, как будто живые."
 tile_id: GustOfWind
 cost: 1
 image: /images/GustOfWind.png

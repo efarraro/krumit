@@ -1,7 +1,7 @@
 ---
 
 EN_name: "War Drums"
-EN_description: "Enemy's current action becomes 'Attack (2)'"
+EN_description: "In battle, replace your opponent's current action with (🔸 2)"
 EN_flavor: "'The right beat can enrage a foe into attacking without a second thought. Make it their last thought too.' – The Rhythmancers Of Meshugga"
 tile_id: Drums
 cost: 2
@@ -17,8 +17,16 @@ image: /images/Drums.png
 durability: 3
 hero: warrior
 es-ES_name: "Tambor de Guerra"
-es-ES_description: "La acción actual del enemigo se transforma en 'Atacar (2)'"
+es-ES_description: "En combate, remplaza la acción actual de tu oponente por (🔸 2)"
 es-ES_flavor: "'El ritmo correcto puede enfurecer a un enemigo, haciéndolo atacar sin pensarlo dos veces. Y, la mayoría de las veces, sin pensarlo nunca más. ' - Los Ritmomantes de Meshugga"
+tile_id: Drums
+cost: 2
+image: /images/Drums.png
+durability: 3
+hero: warrior
+ru-RU_name: "Барабаны войны"
+ru-RU_description: "В сражении замените текущее действие врага на (🔸 2)"
+ru-RU_flavor: "'Правильный ритм может разозлить врага и заставить его атаковать, не задумываясь. Также делает эту их мысль последней.' - рифманты Мешугги"
 tile_id: Drums
 cost: 2
 image: /images/Drums.png

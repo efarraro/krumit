@@ -15,8 +15,15 @@ cost: 2
 image: /images/Fireball.png
 hero: mage
 es-ES_name: "Bola de Fuego"
-es-ES_description: "Haz 6 de daño piercing a un enemigo objetivo.  Exhaust"
+es-ES_description: "Haz 6 de daño piercing a un enemigo objetivo. Exhaust"
 es-ES_flavor: "Pensarías que el primer hechizo que un mago novato aprende sería algo como 'chispazo'. ¿Pero donde estaría la gracia en eso?"
+tile_id: Fireball
+cost: 2
+image: /images/Fireball.png
+hero: mage
+ru-RU_name: "Огненный шар"
+ru-RU_description: "Наносит 6 piercing урона выбранному врагу.  Exhaust"
+ru-RU_flavor: "Возможно вы подумали, что первое заклинание, которое учит начинающий маг, это что-то типо 'вспышки'. Но где в этом веселье?"
 tile_id: Fireball
 cost: 2
 image: /images/Fireball.png

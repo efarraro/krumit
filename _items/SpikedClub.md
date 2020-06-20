@@ -24,4 +24,12 @@ cost: 1
 image: /images/SpikedClub.png
 durability: 2
 hero: warrior
+ru-RU_name: "Шипастая дубинка"
+ru-RU_description: "После вашей атаки этим предметом, вы получаете 1 piercing урон"
+ru-RU_flavor: "Una versión mucho más letal del porro, favorecida por vagabundos y pelagatos."
+tile_id: SpikedClub
+cost: 1
+image: /images/SpikedClub.png
+durability: 2
+hero: warrior
 ---

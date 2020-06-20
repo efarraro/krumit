@@ -14,9 +14,16 @@ tile_id: BoneArmor
 cost: 1
 image: /images/BoneArmor.png
 hero: necromancer
-es-ES_name: "Armadura de Hueso"
-es-ES_description: "Cada vez que un minion perezca, esta ficha gana +2 de block. Se recarga después de 6 ronda de combate"
+es-ES_name: "Armadura Ósea"
+es-ES_description: "Cada vez que un minion sea destruído, esta ficha gana +2 de block. Recarga después de 6 rondas de combate"
 es-ES_flavor: "En su no-vida, te atacan. En su re-muerte, te protegen."
+tile_id: BoneArmor
+cost: 1
+image: /images/BoneArmor.png
+hero: necromancer
+ru-RU_name: "Костяная броня"
+ru-RU_description: "Всякий раз, когда minion погибает, эта карточка получает +2 block. Перезаряжается после 6 раундов боя."
+ru-RU_flavor: "В не-жизни, они атакуют, в пере-смерти они защищаются."
 tile_id: BoneArmor
 cost: 1
 image: /images/BoneArmor.png

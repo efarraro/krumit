@@ -12,4 +12,8 @@ es-ES_name: "Salvaje"
 es-ES_description: "Cuando derrotes a un enemigo, añade una copia de <a href = '../es_es/abilities#Frenzy'>Frenesí</a> a tu inventario (si tienes espacio)"
 tile_id: Savage
 image: /images/Savage.png
+ru-RU_name: "Дикарь"
+ru-RU_description: "Когда вы побеждаете врага, добавляет копию <a href = '../ru_ru/abilities#Frenzy'>Бешенство</a> в ваше снаряжение (если есть место)"
+tile_id: Savage
+image: /images/Savage.png
 ---

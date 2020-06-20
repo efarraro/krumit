@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Plate Helm"
-EN_description: "When you activate this, deactivate any active weapons"
+EN_description: "When you equip this, unequip any equipped melee weapons"
 EN_flavor: "Nicely protective, as long as you don't mind helmet-hair."
 tile_id: PlateHelm
 cost: 3
@@ -17,8 +17,16 @@ image: /images/PlateHelm.png
 durability: 3
 hero: warrior
 es-ES_name: "Yelmo de Acero"
-es-ES_description: "Cuando actives este ítem, desactiva todas las armas activas"
+es-ES_description: "Al equiparlo, desequipa todas las armas de melé equipadas"
 es-ES_flavor: "Muy protectivo, siempre que no te importe tener pelo de casco."
+tile_id: PlateHelm
+cost: 3
+image: /images/PlateHelm.png
+durability: 3
+hero: warrior
+ru-RU_name: "Латный шлем"
+ru-RU_description: "Когда вы экипируете это, деэкипируйте все активные оружия ближнего боя"
+ru-RU_flavor: "Хорошая защита, если только вы не возражаете против шлема с волосами."
 tile_id: PlateHelm
 cost: 3
 image: /images/PlateHelm.png

@@ -17,8 +17,16 @@ image: /images/AlchemistTable.png
 durability: 3
 hero: rogue
 es-ES_name: "Kit de Alquimia"
-es-ES_description: "Crea una poción cualquiera"
+es-ES_description: "Draft una poción aleatoria"
 es-ES_flavor: "Este kit de alquimia es completamente metálico, lo que lo hace durable pero muy impráctico de llevar encima."
+tile_id: AlchemistTable
+cost: 3
+image: /images/AlchemistTable.png
+durability: 3
+hero: rogue
+ru-RU_name: "Алхимический набор"
+ru-RU_description: "Draft случайное зелье"
+ru-RU_flavor: "Этот алхимический набор полностью металлический, что делает его прочным, но непрактичным для переноса."
 tile_id: AlchemistTable
 cost: 3
 image: /images/AlchemistTable.png

@@ -48,8 +48,8 @@ monsters:
     image: /images/Cleric.png
     quantity: 4
     url: /monsters/Cleric
-es-ES_name: "Campo de Entrenamiento Imperial"
-es-ES_description: "El corazón del ejército de Élite del Imperio. El entrenamiento incluye esgrima, formaciones, marchas, y diseño de plumas de casco."
+es-ES_name: "Campamento Militar Imperial"
+es-ES_description: "El corazón del ejército de élite del Imperio. El entrenamiento incluye esgrima, formaciones, marchas, y diseño de plumas de casco."
 tier: 4
 monsters:
   - monster:
@@ -58,7 +58,7 @@ monsters:
     quantity: 3
     url: /monsters/Peasant
   - monster:
-    name: "Guardia Ciudadana"
+    name: "Guardia de Ciudad"
     image: /images/RoyalGuard.png
     quantity: 6
     url: /monsters/RoyalGuard
@@ -69,6 +69,30 @@ monsters:
     url: /monsters/RoyalGuardElite
   - monster:
     name: "Druida"
+    image: /images/Cleric.png
+    quantity: 4
+    url: /monsters/Cleric
+ru-RU_name: "Учебный полигон Империума"
+ru-RU_description: "Бьющееся сердце элитной армии Империума. Обучение включают в себя фехтование, строевую подготовку и разработку шлейфа шлема."
+tier: 4
+monsters:
+  - monster:
+    name: "Крестянин"
+    image: /images/Peasant.png
+    quantity: 3
+    url: /monsters/Peasant
+  - monster:
+    name: "Городская стража"
+    image: /images/RoyalGuard.png
+    quantity: 6
+    url: /monsters/RoyalGuard
+  - monster:
+    name: "Королевская стража"
+    image: /images/RoyalGuardElite.png
+    quantity: 4
+    url: /monsters/RoyalGuardElite
+  - monster:
+    name: "Друид"
     image: /images/Cleric.png
     quantity: 4
     url: /monsters/Cleric

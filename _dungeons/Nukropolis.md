@@ -78,8 +78,8 @@ monsters:
     image: /images/TrashGolem.png
     quantity: 3
     url: /monsters/TrashGolem
-es-ES_name: "La Nucle0polis"
-es-ES_description: "'...Y entonces, la Nucle0polis apareció, al parecer de la nada - un templo chillón al veneno y la corrupción. Y, además, arruinó verdaderamente el paisaje urbano.' - Krumit"
+es-ES_name: "La Nukre0polis"
+es-ES_description: "'...Y entonces la Nukre0polis se alzó, aparentemente de la nada - un templo chillón al veneno y la corrupción. Y, para ser honesto, de un mal gusto increíble.' - Krumit"
 tier: 8
 monsters:
   - monster:
@@ -93,12 +93,12 @@ monsters:
     quantity: 2
     url: /monsters/Skeleton
   - monster:
-    name: "Kooltista"
+    name: "Kultista"
     image: /images/Cooltist.png
     quantity: 4
     url: /monsters/Cooltist
   - monster:
-    name: "Fanático Loko"
+    name: "Fanátiko"
     image: /images/Zealnut.png
     quantity: 5
     url: /monsters/Zealnut
@@ -114,6 +114,45 @@ monsters:
     url: /monsters/AutomatonV2
   - monster:
     name: "Gólem de Basura"
+    image: /images/TrashGolem.png
+    quantity: 3
+    url: /monsters/TrashGolem
+ru-RU_name: "Нукр0полис"
+ru-RU_description: "'...Y entonces la Nukre0polis se alzó, aparentemente de la nada - un templo chillón al veneno y la corrupción. Y, para ser honesto, de un mal gusto increíble.' - Krumit"
+tier: 8
+monsters:
+  - monster:
+    name: "Уберлич"
+    image: /images/Uberlich.png
+    quantity: 1
+    url: /monsters/Uberlich
+  - monster:
+    name: "Скелет"
+    image: /images/Skeleton.png
+    quantity: 2
+    url: /monsters/Skeleton
+  - monster:
+    name: "Крутист"
+    image: /images/Cooltist.png
+    quantity: 4
+    url: /monsters/Cooltist
+  - monster:
+    name: "Зилнат"
+    image: /images/Zealnut.png
+    quantity: 5
+    url: /monsters/Zealnut
+  - monster:
+    name: "Нукр0мант"
+    image: /images/Automaton.png
+    quantity: 4
+    url: /monsters/Automaton
+  - monster:
+    name: "Нукр0мант v2.0"
+    image: /images/AutomatonV2.png
+    quantity: 4
+    url: /monsters/AutomatonV2
+  - monster:
+    name: "Мусорный голем"
     image: /images/TrashGolem.png
     quantity: 3
     url: /monsters/TrashGolem

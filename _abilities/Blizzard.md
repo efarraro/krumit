@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Winter Winds"
-EN_description: "Deal 4 piercing damage to all frozen enemies, then freeze all enemies. Exhaust"
+EN_description: "Deal 4 piercing damage to visible frozen enemies, then freeze all visible enemies. Exhaust"
 EN_flavor: "An evil wind this way blows."
 tile_id: Blizzard
 cost: 3
@@ -15,8 +15,15 @@ cost: 3
 image: /images/Blizzard.png
 hero: mage
 es-ES_name: "Vientos Invernales"
-es-ES_description: "Haz 4 de daño piercing a todos los enemigos frozen, luego congela a todos los enemigos. Exhaust"
-es-ES_flavor: "Un viento malvado sopla en esta dirección."
+es-ES_description: "Haz 4 de daño piercing a todos los enemigos frozenplural, y luego congela a todos los enemigos visibles. Exhaust"
+es-ES_flavor: "Un viento maligno se oye soplar."
+tile_id: Blizzard
+cost: 3
+image: /images/Blizzard.png
+hero: mage
+ru-RU_name: "Зимние Ветра"
+ru-RU_description: "Наносит 4 piercing урона всем видимым frozen врагам, затем замораживает всех видимых врагов. Exhaust"
+ru-RU_flavor: "Злые ветры дуют на этом пути."
 tile_id: Blizzard
 cost: 3
 image: /images/Blizzard.png

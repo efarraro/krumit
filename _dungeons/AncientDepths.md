@@ -38,12 +38,12 @@ monsters:
     image: /images/Slime.png
     quantity: 4
     url: /monsters/Slime
-es-ES_name: "Abismos de la Perdición"
-es-ES_description: "'Yo - el gran Bruno - no temo a ningún hombre o señalética. Pero, también, por qué arriesgarse, ¿no?' - Bruno"
+es-ES_name: "Abismos del Destino"
+es-ES_description: "'Yo - el gran Bruno - no temo a ningún hombre y a ningún signo. Pero, dicho esto, ¿por qué arriesgarse?' - Bruno"
 tier: 3
 monsters:
   - monster:
-    name: "Kooltista"
+    name: "Kultista"
     image: /images/Cooltist.png
     quantity: 5
     url: /monsters/Cooltist
@@ -54,6 +54,25 @@ monsters:
     url: /monsters/Cleric
   - monster:
     name: "Babote"
+    image: /images/Slime.png
+    quantity: 4
+    url: /monsters/Slime
+ru-RU_name: "Глубины погибели"
+ru-RU_description: "«Я, могущий Бруно, не боюсь ни одного человека, ни указателя. Однако, зачем рисковать, ты понимаешь?» - Бруно"
+tier: 3
+monsters:
+  - monster:
+    name: "Крутист"
+    image: /images/Cooltist.png
+    quantity: 5
+    url: /monsters/Cooltist
+  - monster:
+    name: "Друид"
+    image: /images/Cleric.png
+    quantity: 3
+    url: /monsters/Cleric
+  - monster:
+    name: "Глоббер"
     image: /images/Slime.png
     quantity: 4
     url: /monsters/Slime

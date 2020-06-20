@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Long Bow"
-EN_description: "Ranged.  Deal 4 piercing damage to target enemy in the top row"
+EN_description: "Deal 4 piercing damage to target enemy in the top row"
 EN_flavor: "Great for keeping your distance from a smelly or dangerous foe."
 tile_id: Longbow
 cost: 2
@@ -9,7 +9,7 @@ image: /images/Longbow.png
 durability: 2
 hero: warrior
 EN_name: "Long Bow"
-EN_description: "Ranged.  Deal 4 piercing damage to target enemy in the top row"
+EN_description: "Deal 4 piercing damage to target enemy in the top row"
 EN_flavor: "Great for keeping your distance from a smelly or dangerous foe."
 tile_id: Longbow
 cost: 2
@@ -33,7 +33,7 @@ image: /images/Longbow.png
 durability: 2
 hero: warrior
 es-ES_name: "Arco Largo"
-es-ES_description: "Alcance. Haz 4 de daño piercing a un enemigo objetivo en la fila superior."
+es-ES_description: "Haz 4 de daño piercing a un enemigo objetivo en la fila superior"
 es-ES_flavor: "Muy bueno para mantener las distancias con enemigos peligrosos o apestosos."
 tile_id: Longbow
 cost: 2
@@ -41,8 +41,24 @@ image: /images/Longbow.png
 durability: 2
 hero: warrior
 es-ES_name: "Arco Largo"
-es-ES_description: "Alcance. Haz 4 de daño piercing a un enemigo objetivo en la fila superior."
+es-ES_description: "Haz 4 de daño piercing a un enemigo objetivo en la fila superior"
 es-ES_flavor: "Muy bueno para mantener las distancias con enemigos peligrosos o apestosos."
+tile_id: Longbow
+cost: 2
+image: /images/Longbow.png
+durability: 2
+hero: warrior
+ru-RU_name: "Длинный лук"
+ru-RU_description: "Наносит 4 piercing урона выбранному врагу в верхнем ряду"
+ru-RU_flavor: "Отлично подходит для того, чтобы держаться на расстоянии от опасного или вонючего врага."
+tile_id: Longbow
+cost: 2
+image: /images/Longbow.png
+durability: 2
+hero: warrior
+ru-RU_name: "Длинный лук"
+ru-RU_description: "Наносит 4 piercing урона выбранному врагу в верхнем ряду"
+ru-RU_flavor: "Отлично подходит для того, чтобы держаться на расстоянии от опасного или вонючего врага."
 tile_id: Longbow
 cost: 2
 image: /images/Longbow.png

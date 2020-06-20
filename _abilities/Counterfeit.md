@@ -16,7 +16,14 @@ image: /images/Counterfeit.png
 hero: rogue
 es-ES_name: "Falsificación"
 es-ES_description: "Baraja 2 copias del ítem objetivo en el mazo. Tienen 1 de durabilidad y un costo de 0. Exhaust"
-es-ES_flavor: "Hacer que algo que quieras se caiga de la parte trasera de un carro es una habilidad peculiar, riesgosa y muy útil."
+es-ES_flavor: "Hacer que algo que quieres se caiga de la parte trasera de un carro es una habilidad peculiar, riesgosa y muy útil."
+tile_id: Counterfeit
+cost: 3
+image: /images/Counterfeit.png
+hero: rogue
+ru-RU_name: "Подделка"
+ru-RU_description: "Замешивает 2 копии выбранного предмета в колоду. Они имеют 1 прочности и стоят 0. Exhaust"
+ru-RU_flavor: "Создание чего-то, что вы хотите сбросить с задней части повозки - это специфичный, опасный и полезный навык."
 tile_id: Counterfeit
 cost: 3
 image: /images/Counterfeit.png

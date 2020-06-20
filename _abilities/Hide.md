@@ -21,4 +21,11 @@ tile_id: Hide
 cost: 1
 image: /images/Hide.png
 hero: rogue
+ru-RU_name: "Укрытие"
+ru-RU_description: "Даёт stealth (вне боя). Перезаряжается после убийства 3 врагов"
+ru-RU_flavor: "'Наметанный глаз заметит, что везде есть, где скрыться - даже в коробке из картона или в стоге сена.' - инструктор труппы Торнивальд"
+tile_id: Hide
+cost: 1
+image: /images/Hide.png
+hero: rogue
 ---

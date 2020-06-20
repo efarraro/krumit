@@ -2,17 +2,22 @@
 
 EN_name: "Kooltist"
 EN_description: "This enemy doesn't have any special powers or effects"
-EN_flavor: "They’re ready to drop some infernal beats – on you and the mic. Worships the Uber-lich but pretends they’re not that into him."
+EN_flavor: "Acolyte of the Cult of the Nut - said to be a piece of the first Uberlich"
 tile_id: Cooltist
 image: /images/Cooltist.png
-zh-CN_name: "酷酷"
-zh-CN_description: "这名敌人没有任何特殊能力或者特殊效果。"
-zh-CN_flavor: "他们随时准备着来一段地狱摇摆。他们崇拜盖世巫妖，但又假装对他没那么感冒。"
+zh-CN_name: "Kooltist"
+zh-CN_description: "This enemy doesn't have any special powers or effects"
+zh-CN_flavor: "Acolyte of the Cult of the Nut - said to be a piece of the first Uberlich"
 tile_id: Cooltist
 image: /images/Cooltist.png
-es-ES_name: "Kooltista"
-es-ES_description: "Este enemigo no tiene poderes o efectos especiales"
-es-ES_flavor: "Está listo para soltar unos beats infernales sobre  tu cabeza. Rinde culto al Uberliche, pero hace como que no es gran cosa."
+es-ES_name: "Kooltist"
+es-ES_description: "This enemy doesn't have any special powers or effects"
+es-ES_flavor: "Acolyte of the Cult of the Nut - said to be a piece of the first Uberlich"
+tile_id: Cooltist
+image: /images/Cooltist.png
+ru-RU_name: "Kooltist"
+ru-RU_description: "This enemy doesn't have any special powers or effects"
+ru-RU_flavor: "Acolyte of the Cult of the Nut - said to be a piece of the first Uberlich"
 tile_id: Cooltist
 image: /images/Cooltist.png
 ---

@@ -2,17 +2,22 @@
 
 EN_name: "Buckethead"
 EN_description: "When this enemy is defeated, put a copy of <a href = '../en/abilities#Stupidity'>Stoopid</a> into your inventory"
-EN_flavor: "The most aggressive Gobloids are known as Knuckleheads. They're a force to be reckoned – and definitely not reasoned – with."
+EN_flavor: "These gobloids are so dumb that they make everyone around them stupid"
 tile_id: GobloidKnucklehead
 image: /images/GobloidKnucklehead.png
-zh-CN_name: "铁桶头"
-zh-CN_description: "这名敌人被击败时会向你的物品栏中添加一张“鱼唇”。"
-zh-CN_flavor: "最具攻击性的哥布森非铁桶头莫属。绝不能忽视它们的力量，也不要试图和它们讲道理。"
+zh-CN_name: "Buckethead"
+zh-CN_description: "When this enemy is defeated, put a copy of <a href = '../zh_cn/abilities#Stupidity'>鱼唇</a> into your inventory"
+zh-CN_flavor: "These gobloids are so dumb that they make everyone around them stupid"
 tile_id: GobloidKnucklehead
 image: /images/GobloidKnucklehead.png
-es-ES_name: "Cabeza de Balde"
-es-ES_description: "Cuando este enemigo sea derrotado, pon una copia de <a href = '../es_es/abilities#Stupidity'>¡Estúuupido!</a> en tu inventario"
-es-ES_flavor: "Los más agresivos de los Gobloides son conocidos como Cabezas Duras. Son una fuerza a temer - y definitivamente no una con la que razonar."
+es-ES_name: "Buckethead"
+es-ES_description: "When this enemy is defeated, put a copy of <a href = '../es_es/abilities#Stupidity'>¡Estúuupido!</a> into your inventory"
+es-ES_flavor: "These gobloids are so dumb that they make everyone around them stupid"
+tile_id: GobloidKnucklehead
+image: /images/GobloidKnucklehead.png
+ru-RU_name: "Buckethead"
+ru-RU_description: "When this enemy is defeated, put a copy of <a href = '../ru_ru/abilities#Stupidity'>Тупасть</a> into your inventory"
+ru-RU_flavor: "These gobloids are so dumb that they make everyone around them stupid"
 tile_id: GobloidKnucklehead
 image: /images/GobloidKnucklehead.png
 ---

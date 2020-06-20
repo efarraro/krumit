@@ -16,7 +16,14 @@ image: /images/ArmorUp.png
 hero: warrior
 es-ES_name: "¡Blindaje!"
 es-ES_description: "Restaura completamente todas las armaduras en tu inventario, e incrementa su valor de block en 2. Exhaust"
-es-ES_flavor: "A veces el mejor ataque es esconderte en tu caparazón y dejar que tus enemigos se cansen."
+es-ES_flavor: "A veces el mejor ataque es esconderte dentro de tu caparazón y dejar que tus enemigos se cansen."
+tile_id: ArmorUp
+cost: 2
+image: /images/ArmorUp.png
+hero: warrior
+ru-RU_name: "Поднять щиты!"
+ru-RU_description: "Полностью восстанавливает прочность всей брони в инвентаре и увеличивает значение block на 2. Exhaust"
+ru-RU_flavor: "Иногда лучшим нападением будет спрятаться в свой панцирь и позволить своему врагу изнашиваться."
 tile_id: ArmorUp
 cost: 2
 image: /images/ArmorUp.png

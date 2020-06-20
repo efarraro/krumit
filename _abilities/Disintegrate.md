@@ -16,7 +16,14 @@ image: /images/Disintegrate.png
 hero: mage
 es-ES_name: "Desintegrar"
 es-ES_description: "Piercing. Cada vez que uses esta habilidad, incrementa su daño en 1. Adquiere 3 habilidades para recargar"
-es-ES_flavor: "Ahora lo vez - y ahora no."
+es-ES_flavor: "Ahora lo ves - y ahora no."
+tile_id: Disintegrate
+cost: 4
+image: /images/Disintegrate.png
+hero: mage
+ru-RU_name: "Распад"
+ru-RU_description: "Piercing. Всякий раз, когда вы используете эту способность, его урон увеличивается на 1. Перезаряжается после приобретения 3 способностей"
+ru-RU_flavor: "Вот ты видишь это - вот не видишь."
 tile_id: Disintegrate
 cost: 4
 image: /images/Disintegrate.png

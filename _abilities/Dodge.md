@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Dodge"
-EN_description: "Remove any 'attack' actions from your opponent's current attack.  Use 4 abilities to recharge"
+EN_description: "Remove any 🔸 from your opponent's current action. Use 4 abilities to recharge"
 EN_flavor: "'Pfff, who needs a shield when you have moves like these?' – Mischief"
 tile_id: Dodge
 cost: 2
@@ -15,8 +15,15 @@ cost: 2
 image: /images/Dodge.png
 hero: rogue
 es-ES_name: "Esquivar"
-es-ES_description: "Remueve cualquier acción de 'atacar' del ataque actual de tu oponente. Usa 4 habilidades para recargar"
+es-ES_description: "Remueve cualquier 🔸 de la acción actual de tu oponente. Usa 4 habilidades para recargar"
 es-ES_flavor: "'Pfff, ¿quién necesita un escudo cuando puedes moverte así?' - Travesuras"
+tile_id: Dodge
+cost: 2
+image: /images/Dodge.png
+hero: rogue
+ru-RU_name: "Уклонение"
+ru-RU_description: "Убирает все 🔸 с текущего действия врага. Перезаряжается после использования 4 навыков"
+ru-RU_flavor: "'Пффф, кому нужен щит, когда у тебя такие движения?' – Озорница"
 tile_id: Dodge
 cost: 2
 image: /images/Dodge.png

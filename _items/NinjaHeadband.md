@@ -17,8 +17,16 @@ image: /images/NinjaHeadband.png
 durability: 3
 hero: rogue
 es-ES_name: "Cinta de Shinobi"
-es-ES_description: "Cuando parry un ataque con este ítem, gana stealth"
+es-ES_description: "Al parry un ataque con este ítem, gana stealth"
 es-ES_flavor: "Las cintas ninja son un símbolo de las verdaderas habilidades sombrías. Y también ayudan a mantenerte el pelo fuera de los ojos."
+tile_id: NinjaHeadband
+cost: 2
+image: /images/NinjaHeadband.png
+durability: 3
+hero: rogue
+ru-RU_name: "Повязка шиноби"
+ru-RU_description: "Когда вы parry атаку врага этим предметом, получаете stealth"
+ru-RU_flavor: "Повязка ниндзи - знак истинного теневого мастерства. Также удерживает волосы подальше от глаз. "
 tile_id: NinjaHeadband
 cost: 2
 image: /images/NinjaHeadband.png

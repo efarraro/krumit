@@ -48,8 +48,8 @@ monsters:
     image: /images/Peasant.png
     quantity: 2
     url: /monsters/Peasant
-es-ES_name: "Fábrica de Robots GlowTech"
-es-ES_description: "Aquí solían construir robots de servicio doméstico. Un día a alguien se le ocurrió añadir espadas y lásers a la línea de ensamblaje. Y el resto es una historia muy turbia."
+es-ES_name: "Fábrica Robótica GlowTech"
+es-ES_description: "Aquí se solían construir robots de servicio doméstico. Un día a alguien se le ocurrió añadir espadas y lásers a la línea de producción - y el resto es una historia sanguinolienta."
 tier: 3
 monsters:
   - monster:
@@ -69,6 +69,30 @@ monsters:
     url: /monsters/Slime
   - monster:
     name: "Campesina"
+    image: /images/Peasant.png
+    quantity: 2
+    url: /monsters/Peasant
+ru-RU_name: "Фабрика роботов Глоутех"
+ru-RU_description: "Раньше здесь собирали роботов-слуг. Потом кто-то решил добавить лазеры и мечи в процесс производства. Дальнейшая история не очень приятна."
+tier: 3
+monsters:
+  - monster:
+    name: "Нукр0мант"
+    image: /images/Automaton.png
+    quantity: 5
+    url: /monsters/Automaton
+  - monster:
+    name: "Нукр0мант v2.0"
+    image: /images/AutomatonV2.png
+    quantity: 2
+    url: /monsters/AutomatonV2
+  - monster:
+    name: "Глоббер"
+    image: /images/Slime.png
+    quantity: 4
+    url: /monsters/Slime
+  - monster:
+    name: "Крестянин"
     image: /images/Peasant.png
     quantity: 2
     url: /monsters/Peasant

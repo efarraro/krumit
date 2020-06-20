@@ -18,4 +18,10 @@ es-ES_flavor: "La tormenta perfecta significa, en este caso, una improbable secu
 tile_id: PerfectStorm
 cost: 0
 image: /images/PerfectStorm.png
+ru-RU_name: "Идеальный шторм"
+ru-RU_description: "Когда вы приобретаете тайл, получите 2 урона. Враги возле приобретённого тайла получают 2 piercing урона. Когда этот тайл достигает нижнего ряда, замешивается обратно в колоду"
+ru-RU_flavor: "'Идеальный шторм' здесь означает маловероятную серию прискорбных событий, которые каким-то образом сговорились, чтобы совместить в себе жестокий и тревожный сценарий."
+tile_id: PerfectStorm
+cost: 0
+image: /images/PerfectStorm.png
 ---

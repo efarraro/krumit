@@ -24,4 +24,12 @@ cost: 3
 image: /images/Shuriken.png
 durability: 3
 hero: rogue
+ru-RU_name: "Сюрикен"
+ru-RU_description: "Наносит 4 урона выбранному врагу. Нельзя нацелиться на врагов с броней"
+ru-RU_flavor: "Удивительно смертоносное оружие, но неэффективное против врагов с броней."
+tile_id: Shuriken
+cost: 3
+image: /images/Shuriken.png
+durability: 3
+hero: rogue
 ---

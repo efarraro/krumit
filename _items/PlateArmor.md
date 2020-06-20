@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Plate Armor"
-EN_description: "Cost increased by 1 for each other item in your inventory"
+EN_description: "Cost increased by 1 coin for each other item in your inventory"
 EN_flavor: "Full body protection for the warrior in no rush to get anywhere."
 tile_id: PlateArmor
 cost: 2
@@ -16,9 +16,17 @@ cost: 2
 image: /images/PlateArmor.png
 durability: 3
 hero: warrior
-es-ES_name: "Armadura de Placas"
-es-ES_description: "El costo de este ítem se incrementa en 1 por cada otro ítem en tu inventario"
+es-ES_name: "Coraza de Acero"
+es-ES_description: "El costo de este ítem se incrementa en 1 coin por cada otro ítem en tu inventario"
 es-ES_flavor: "Protección de cuerpo completo para el guerrero sin apuro de llegar a ninguna parte."
+tile_id: PlateArmor
+cost: 2
+image: /images/PlateArmor.png
+durability: 3
+hero: warrior
+ru-RU_name: "Латный доспех"
+ru-RU_description: "Стоимость увеличена на 1 coin за каждый предмет в вашем снаряжении"
+ru-RU_flavor: "Protección de cuerpo completo para el guerrero sin apuro de llegar a ninguna parte."
 tile_id: PlateArmor
 cost: 2
 image: /images/PlateArmor.png

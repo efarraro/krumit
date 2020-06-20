@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Call of the Depths"
-EN_description: "Instant. Add a copy of <a href = '../en/items#Tentacle'>Okto's Arm</a> to your hand. Cost reduced for each health you've lost this dungeon"
+EN_description: "Instant. Add a copy of <a href = '../en/items#Tentacle'>Okto's Arm</a> to your hand. The coin cost is reduced for each ❤️ you've lost this dungeon"
 EN_flavor: "The powerful can call up truly terrible things from the depths. But they know that one day, the depths will come calling..."
 tile_id: CallOfTheDepths
 cost: 20
@@ -15,8 +15,15 @@ cost: 20
 image: /images/CallOfTheDepths.png
 hero: necromancer
 es-ES_name: "Llamada de las Profundidades"
-es-ES_description: "Instant. Añade una copia de <a href = '../es_es/items#Tentacle'>Brazo de Okto</a> a tu mano. Su costo se reduce en 1 por cada punto de vida que hayas perdido en este calabozo"
-es-ES_flavor: "Los poderosos pueden llamar cosas realmente terribles de las profundidades. Pero saben que, un día, las profundidades también vendrán por ellos..."
+es-ES_description: "Instant. Añade una copia de <a href = '../es_es/items#Tentacle'>Brazo de Okto</a> a tu mano. Su costo se reduce en 1 por cada punto de vida que hayas perdido en esta mazmorra"
+es-ES_flavor: "Los poderosos pueden llamar cosas realmente terribles de las profundidades - pero saben que, un día, las profundidades los llamarán a ellos..."
+tile_id: CallOfTheDepths
+cost: 20
+image: /images/CallOfTheDepths.png
+hero: necromancer
+ru-RU_name: "Зов Глубин"
+ru-RU_description: "Instant. Добавляет копию <a href = '../ru_ru/items#Tentacle'>Рука Окто</a> в инвентарь. Стоимость снижена за каждое потерянное вами здоровье в этом подземельи."
+ru-RU_flavor: "Могущественные могут вызывать поистине ужасные вещи из глубин. Но они знают, что в один день глубины начнут призывать"
 tile_id: CallOfTheDepths
 cost: 20
 image: /images/CallOfTheDepths.png

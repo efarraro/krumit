@@ -16,9 +16,17 @@ cost: 4
 image: /images/SpikedShield.png
 durability: 3
 hero: warrior
-es-ES_name: "Broquel Puntudo"
+es-ES_name: "Escudo con Punta"
 es-ES_description: "Mientras tengas este ítem equipado, tienes Thorns (2)"
 es-ES_flavor: "'Puede que crean que somos rosas para ser cortadas. Que vengan, y que encuentren nuestras espinas.' - Laurids Carsten, Guardia-Poeta de Yore"
+tile_id: SpikedShield
+cost: 4
+image: /images/SpikedShield.png
+durability: 3
+hero: warrior
+ru-RU_name: "Шипастый щит"
+ru-RU_description: "Пока этот предмет экипирован, вы имеете Thorns (2)"
+ru-RU_flavor: "'Они могут подумать, что мы - розы, чтобы нас нужно срезать. Пусть приходят и познакомятся с наши шипами.' - Лоридс Карстен, поэт-защитник из Йора."
 tile_id: SpikedShield
 cost: 4
 image: /images/SpikedShield.png

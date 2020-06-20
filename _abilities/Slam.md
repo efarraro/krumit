@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Slam"
-EN_description: "In battle, deal damage equal to your current health (*10*).  If your health is full, also stun.  Exhaust"
+EN_description: "In battle, deal damage equal to your current ❤️ (*10*).  If your ❤️ is full, also stun.  Exhaust"
 EN_flavor: "Slam, jam, thank you ma'am."
 tile_id: Slam
 cost: 3
@@ -15,8 +15,15 @@ cost: 3
 image: /images/Slam.png
 hero: warrior
 es-ES_name: "Martillar"
-es-ES_description: "En combate, haz daño equivalente a tu vida actual (*10*). Si tienes vida llena, también inflige stun. Exhaust"
-es-ES_flavor: "瓷器店里的恋爱的犀牛。"
+es-ES_description: "En combate, haz daño equivalente a tu ❤️ actual (*10*). Si tienes toda tu ❤️, también stun. Exhaust"
+es-ES_flavor: "Una técnica inusual para hacer panqueques."
+tile_id: Slam
+cost: 3
+image: /images/Slam.png
+hero: warrior
+ru-RU_name: "Удар"
+ru-RU_description: "В бою наносит урон, равный вашему текущему ❤️ (*10*). Если у вас полное ❤️, также stun. Exhaust"
+ru-RU_flavor: "Необычная техника приготовления блинов."
 tile_id: Slam
 cost: 3
 image: /images/Slam.png

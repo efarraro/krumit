@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Bloody Dagger"
-EN_description: "When you attack a damaged enemy, restore 3 health"
+EN_description: "When you attack a damaged enemy, restore 3 ❤️"
 EN_flavor: "'Yes, yes... The power... it calls to me... ' - Mendek the Mad"
 tile_id: BloodyDagger
 cost: 3
@@ -17,8 +17,16 @@ image: /images/BloodyDagger.png
 durability: 3
 hero: rogue
 es-ES_name: "Daga Sangrienta"
-es-ES_description: "Cuando ataques un enemigo dañado, recupera 3 de vida"
-es-ES_flavor: "'Sí, sí... el poder... me llama... ' - Mendek el Loco"
+es-ES_description: "Cuando ataques un enemigo dañado, recupera 3 ❤️"
+es-ES_flavor: "'Sí, sí... el poder... me llama...' - Mendek el Loco"
+tile_id: BloodyDagger
+cost: 3
+image: /images/BloodyDagger.png
+durability: 3
+hero: rogue
+ru-RU_name: "Кровавый Кинжал"
+ru-RU_description: "Когда вы атакуете поврежденного врага, восстанавливает 3 ❤️."
+ru-RU_flavor: "'Да, да... Сила... она зовет меня... ' - Мендек Безумный"
 tile_id: BloodyDagger
 cost: 3
 image: /images/BloodyDagger.png

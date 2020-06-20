@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Char"
-EN_description: "Inflict burn (3) on target enemy. Exhaust"
+EN_description: "Burn (3) an enemy. Exhaust"
 EN_flavor: "A simple pyromancer spell, more likely to be used at a BBQ than in battle."
 tile_id: Char
 cost: 1
@@ -15,8 +15,15 @@ cost: 1
 image: /images/Char.png
 hero: mage
 es-ES_name: "Chamuscar"
-es-ES_description: "Inflige burn (3) a un enemigo objetivo. Exhaust"
+es-ES_description: "Burn (3) un enemigo. Exhaust"
 es-ES_flavor: "Un simple hechizo de piromancia, más propenso a ser usado en una barbacoa que en una batalla."
+tile_id: Char
+cost: 1
+image: /images/Char.png
+hero: mage
+ru-RU_name: "Обжигание"
+ru-RU_description: "Burn (3) врага. Exhaust"
+ru-RU_flavor: "Простое заклинание пироманта: чаще всего используется для барбекю, чем для битвы."
 tile_id: Char
 cost: 1
 image: /images/Char.png

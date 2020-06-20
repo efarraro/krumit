@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Poison Vial"
-EN_description: "Apply poison (1) to target enemy, and any other enemy in the same row"
+EN_description: "Poison (1) an enemy and all other enemies in the same row"
 EN_flavor: "This vile concotion is rumored to be Swampalina's morning brew of choice."
 tile_id: PoisonPotion
 cost: 1
@@ -17,8 +17,16 @@ image: /images/PoisonPotion.png
 durability: 2
 hero: rogue
 es-ES_name: "Frasco de Veneno"
-es-ES_description: "Aplica poison (1) a un enemigo objetivo, y a todos los otros enemigos en la misma fila"
+es-ES_description: "Poisonverb (1) a un enemigo y a todos los otros enemigos en la misma fila"
 es-ES_flavor: "Se rumorea que a Pantanuela le gusta desayunar con este vil mejunje."
+tile_id: PoisonPotion
+cost: 1
+image: /images/PoisonPotion.png
+durability: 2
+hero: rogue
+ru-RU_name: "Пузырёк с ядом"
+ru-RU_description: "Poison (1) на врага и всех остальных врагов в этом ряду."
+ru-RU_flavor: "Ходят слухи, что это мерзкое варево было утренним коктейлем СвампАлины на выбор."
 tile_id: PoisonPotion
 cost: 1
 image: /images/PoisonPotion.png

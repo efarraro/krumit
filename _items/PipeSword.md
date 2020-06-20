@@ -24,4 +24,12 @@ cost: 2
 image: /images/PipeSword.png
 durability: 3
 hero: warrior
+ru-RU_name: "Трубный меч"
+ru-RU_description: "Обыкновенный предмет - никаких дополнительных свойств"
+ru-RU_flavor: "Ceci n’est pas une pipe. Это трубный меч."
+tile_id: PipeSword
+cost: 2
+image: /images/PipeSword.png
+durability: 3
+hero: warrior
 ---

@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Dragorn Fang"
-EN_description: "If you have stealth, increase damage by 4"
+EN_description: "While you have stealth, this weapon has +4 🔸"
 EN_flavor: "'...For days, all one can sense is the tang of gold, and a sinister rustling of feathers...' -  - Excerpt from the memoir of Ludlow 'Snake-food' Gabblesnoz. "
 tile_id: DragonFang
 cost: 4
@@ -16,9 +16,17 @@ cost: 4
 image: /images/DragonFang.png
 durability: 3
 hero: rogue
-es-ES_name: "Colmillo de Dragorno"
-es-ES_description: "Si tienes stealth, incrementa su daño en 4"
+es-ES_name: "Colmillo de Dragullo"
+es-ES_description: "Si tienes stealth, esta arma tiene +4 🔸"
 es-ES_flavor: "'...Por días, todo lo he podido sentir es el olor metálico del oro, y un siniestro susurro de plumas...' -  - Extracto de las memorias de Ludlow 'Comida-de-serpiente' Gabblesnoz."
+tile_id: DragonFang
+cost: 4
+image: /images/DragonFang.png
+durability: 3
+hero: rogue
+ru-RU_name: "Клык Драгорна"
+ru-RU_description: "Если вы имеете stealth, этот предмет имеет +4 🔸"
+ru-RU_flavor: "'...Днями, всё, что ты можешь ощутить, это запах золота и зловещий шелест перьев...' - отрывок из мемуаров о Ладлоу 'Змеиная еда' Гэблснозе."
 tile_id: DragonFang
 cost: 4
 image: /images/DragonFang.png

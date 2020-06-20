@@ -16,9 +16,17 @@ cost: 4
 image: /images/BoneNecklace.png
 durability: 3
 hero: necromancer
-es-ES_name: "Bandóseolera"
+es-ES_name: "Bandolera de Huesos"
 es-ES_description: "Invoca un minion <a href = '../es_es/unknown_type000#MinionSkeleton'>Esqueleto</a>"
 es-ES_flavor: "¡Accesoriza, esqueletiza, brutaliza!"
+tile_id: BoneNecklace
+cost: 4
+image: /images/BoneNecklace.png
+durability: 3
+hero: necromancer
+ru-RU_name: "Бандольер"
+ru-RU_description: "Призовите <a href = '../ru_ru/unknown_type000#MinionSkeleton'>Скелет</a> minion"
+ru-RU_flavor: "Наряжайся, скелитируйся, ожесточай!"
 tile_id: BoneNecklace
 cost: 4
 image: /images/BoneNecklace.png

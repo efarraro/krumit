@@ -17,8 +17,16 @@ image: /images/PlagueMask.png
 durability: 3
 hero: rogue
 es-ES_name: "Máscara de Plaga"
-es-ES_description: "Cuando adquieras esto, llena los espacios vacíos de tu inventario con <a href = '../es_es/items#PoisonPotion'>Frasco de Veneno</a>"
+es-ES_description: "Cuando adquieras este ítem, llena los espacios vacíos de tu inventario con <a href = '../es_es/items#PoisonPotion'>Frasco de Veneno</a>"
 es-ES_flavor: "Se dice que esta apestosa máscara otorga el conocimiento de cómo preparar mil pociones mortíferas."
+tile_id: PlagueMask
+cost: 3
+image: /images/PlagueMask.png
+durability: 3
+hero: rogue
+ru-RU_name: "Маска Чумоносца"
+ru-RU_description: "Когда вы обзаводитесь этим, наполняет ваши слоты снаряжения <a href = '../ru_ru/items#PoisonPotion'>Пузырёк с ядом</a>"
+ru-RU_flavor: "Говорят, что эта вонючая маска наделяет знаниями о варке тысячи смертельных зелий."
 tile_id: PlagueMask
 cost: 3
 image: /images/PlagueMask.png

@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Smashgud"
-EN_description: "When you attack with this weapon, increase its damage by 1 for the remainder of this dungeon"
+EN_description: "Each time you attack, increase the 🔸 of this weapon by 1 for the remainder of the dungeon"
 EN_flavor: "One of Gregory the Llamataur's legendary great maces. Does what it says on the bloody shaft."
 tile_id: Smashgud
 cost: 4
@@ -17,8 +17,16 @@ image: /images/Smashgud.png
 durability: 3
 hero: warrior
 es-ES_name: "Rompetodo"
-es-ES_description: "Cuando ataques con esta arma, incrementa su daño en 1 por el resto de este calabozo"
-es-ES_flavor: "Una de las legendarias grandes mazas de Gregory el Llamatauro. Hace lo que dice en el puñetero mango."
+es-ES_description: "Cuando ataques con esta arma, incrementa su 🔸 en 1 por el resto de la mazmorra"
+es-ES_flavor: "Una de las legendarias mazotas de Gregory el Llamatauro. Hace lo que dice en el puñetero mango."
+tile_id: Smashgud
+cost: 4
+image: /images/Smashgud.png
+durability: 3
+hero: warrior
+ru-RU_name: "Булава"
+ru-RU_description: "Когда вы атакуете этим оружием, 🔸 предмета увеличивается на 1 до конца подземелья."
+ru-RU_flavor: "Один из легендарных булав Григория Лламатавра. Он делает то, что написано на кровавой рукоятке."
 tile_id: Smashgud
 cost: 4
 image: /images/Smashgud.png

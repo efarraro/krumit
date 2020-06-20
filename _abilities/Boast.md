@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Boast"
-EN_description: "Increase max health by 4 and exhaust. If this reaches the bottom row, health bonus gains +2 for rest of dungeon. Shuffle back into deck"
+EN_description: "Instant. Increase max ❤️ by 4. If this reaches the bottom row, ❤️ bonus gains +2 for rest of dungeon. Shuffle back into deck"
 EN_flavor: "Fake it 'till you make it. Or someone breaks it."
 tile_id: Boast
 cost: 3
@@ -15,8 +15,15 @@ cost: 3
 image: /images/Boast.png
 hero: warrior
 es-ES_name: "Fanfarronear"
-es-ES_description: "Incrementa tu vida máxima en 4 y exhaust. Si esta ficha llega a la fila inferior, el bono a la vida se incrementa en +2 por el resto del calabozo. Barájala de vuelta en el mazo"
+es-ES_description: "Instant. Incrementa tu ❤️ máxima en 4. Si llega a la fila inferior, este bono se incrementa en +2 por el resto de la mazmorra. Barájala de vuelta en el mazo"
 es-ES_flavor: "Finge hasta que te la puedas. O hasta que alguien la rompa."
+tile_id: Boast
+cost: 3
+image: /images/Boast.png
+hero: warrior
+ru-RU_name: "Хвастовство"
+ru-RU_description: "Instant. Увеличивает максимальное ❤️ на 4. Когда достигает нижнего ряда, бонусное ❤️ получает +2 до конца подземелья и замешивается обратно в колоду подземелья"
+ru-RU_flavor: "Жульничай, пока не победишь. Или пока кто-нибудь не обломает."
 tile_id: Boast
 cost: 3
 image: /images/Boast.png

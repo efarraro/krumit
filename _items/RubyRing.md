@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Ruby Ring"
-EN_description: "Deal 4 piercing damage to target enemy afflicted by burn.  If this defeats them, increase your hero's base attack by 1"
+EN_description: "Deal 4 piercing damage to a burning enemy.  If they perish, increase your base 🔸 by 1 for the remainder of the dungeon"
 EN_flavor: "A ring enchanted by a greedy Pyromancer. It's said that the ring thirsts for power, just like its inventor. May contain his soul too."
 tile_id: RubyRing
 cost: 6
@@ -17,8 +17,16 @@ image: /images/RubyRing.png
 durability: 3
 hero: mage
 es-ES_name: "Anillo de Rubí"
-es-ES_description: "Haz 4 de daño piercing a un enemigo objetivo que esté burn. Si esto lo destruye, incrementa tu ataque base en 1"
+es-ES_description: "Haz 4 de daño piercing a un enemigo burned. Si esto lo destruye, incrementa tu 🔸 base en 1 por el resto de la mazmorra"
 es-ES_flavor: "Un anillo encantado por un codicioso Piromante. Se dice que el anillo está sediento de poder, tal como su creador. Y puede que también contenga su alma."
+tile_id: RubyRing
+cost: 6
+image: /images/RubyRing.png
+durability: 3
+hero: mage
+ru-RU_name: "Рубиновое кольцо"
+ru-RU_description: "Наносит 4 piercing урона burning врагу. Если он умирает, увеличивает вашу базовую 🔸 на 1 до конца подземелья"
+ru-RU_flavor: "Кольцо, зачарованное жадным пиромантом. Говорят, что кольцо жаждет власти, как и его изобретатель. Может содержать и его душу."
 tile_id: RubyRing
 cost: 6
 image: /images/RubyRing.png

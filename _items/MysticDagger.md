@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Mystic Dagger"
-EN_description: "This weapon's damage is equal to the number of visible abilities on the board"
+EN_description: "The 🔸 of this weapon is equal to the number of abilities on the board"
 EN_flavor: "This dagger can cut through the fabric of reality just as well as it can cut through a block of cheese."
 tile_id: MysticDagger
 cost: 2
@@ -17,8 +17,16 @@ image: /images/MysticDagger.png
 durability: 3
 hero: mage
 es-ES_name: "Daga Mística"
-es-ES_description: "El daño de esta arma es equivalente al número de habilidades visibles en el tablero"
+es-ES_description: "El 🔸 de esta arma es equivalente al número de habilidades en el tablero"
 es-ES_flavor: "Esta daga puede cortar el tejido de la realidad tan fácilmente como puede cortar un pedazo de queso."
+tile_id: MysticDagger
+cost: 2
+image: /images/MysticDagger.png
+durability: 3
+hero: mage
+ru-RU_name: "Мистический кинжал"
+ru-RU_description: "🔸 этого оружия равна числу видимых навыков в подземельи"
+ru-RU_flavor: "Этот кинжал может прорезать ткань реальности так же легко, как и кусок сыра."
 tile_id: MysticDagger
 cost: 2
 image: /images/MysticDagger.png

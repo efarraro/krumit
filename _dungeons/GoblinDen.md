@@ -18,12 +18,21 @@ monsters:
     image: /images/Gobloid.png
     quantity: 6
     url: /monsters/Gobloid
-es-ES_name: "Pueblo Gobloide Asqueroso"
-es-ES_description: "'Los Gobloides son una raza trágica y sucia - condenados por su hedor a ser marginados, por siempre rechazados. Me pregunto, ¿podrán olerse entre ellos?' - Krumit"
+es-ES_name: "Aldea Gobloide Inmunda"
+es-ES_description: "'Los Gobloides son seres tan trágicos como sucios - condenados por su hedor a ser por siempre marginados. Me pregunto, ¿podrán olerse entre ellos?' - Krumit"
 tier: 0
 monsters:
   - monster:
     name: "Gobloide"
+    image: /images/Gobloid.png
+    quantity: 6
+    url: /monsters/Gobloid
+ru-RU_name: "Грязный город гоблоидов"
+ru-RU_description: "'Гоблоиды - трагическая и грязная раса, обреченная вонью на жизнь изгоями, вечно сторонясь. Интересно, пахнут ли они друг другом?»' - Крамит"
+tier: 0
+monsters:
+  - monster:
+    name: "Гоблоид"
     image: /images/Gobloid.png
     quantity: 6
     url: /monsters/Gobloid

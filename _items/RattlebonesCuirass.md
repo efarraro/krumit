@@ -17,8 +17,16 @@ image: /images/RattlebonesCuirass.png
 durability: 3
 hero: necromancer
 es-ES_name: "Coraza Claqueteante"
-es-ES_description: "Solo puedes usar este ítem después de que un esbirro muera en combate"
+es-ES_description: "Solo puedes usar este ítem después de que un esbirro sea destruído en combate"
 es-ES_flavor: "Son tus huesos los que claquetearán a la vista de esta aterradora coraza."
+tile_id: RattlebonesCuirass
+cost: 2
+image: /images/RattlebonesCuirass.png
+durability: 3
+hero: necromancer
+ru-RU_name: "Трещащая костяная кираса"
+ru-RU_description: "Можно использовать только после смерти миньона в бою"
+ru-RU_flavor: "Ваши кости будут трещать при виде этой ужасной кирасы."
 tile_id: RattlebonesCuirass
 cost: 2
 image: /images/RattlebonesCuirass.png

@@ -1,7 +1,7 @@
 ---
 
 EN_name: "My Axe"
-EN_description: "While this item is visible in the dungeon, reduce its cost by 2 when you defeat an enemy"
+EN_description: "While this weapon is visible on the board, reduce its cost by 2 coin when you defeat an enemy"
 EN_flavor: "You already have my bow, now you want my axe too?"
 tile_id: GreatAxe
 cost: 16
@@ -17,8 +17,16 @@ image: /images/GreatAxe.png
 durability: 3
 hero: warrior
 es-ES_name: "Mi Hacha"
-es-ES_description: "Mientras este ítem esté visible en el calabozo, reduce su costo en 2 cada vez que derrotes a un enemigo"
-es-ES_flavor: "Ya tienes mi arco, ¿y ahora quieres mi hacha también?"
+es-ES_description: "Mientras este ítem sea visible en el tablero, reduce su costo en 2 coin cada vez que derrotes a un enemigo"
+es-ES_flavor: "Ya tienes mi arco, ¿y ahora también quieres mi hacha?"
+tile_id: GreatAxe
+cost: 16
+image: /images/GreatAxe.png
+durability: 3
+hero: warrior
+ru-RU_name: "Мой топор"
+ru-RU_description: "Пока этот предмет находится в подземелье, его стоимость уменьшается на 2 coin, когда вы убиваете врага"
+ru-RU_flavor: "У тебя уже есть мой лук, теперь ты тоже хочешь мой топор?"
 tile_id: GreatAxe
 cost: 16
 image: /images/GreatAxe.png

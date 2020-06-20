@@ -21,4 +21,11 @@ tile_id: LeechMana
 cost: 1
 image: /images/LeechMana.png
 hero: mage
+ru-RU_name: "Высасывание маны"
+ru-RU_description: "Наносит 2 piercing урона врагу. Уменьшает стоимость соседних навыков на 2. Exhaust"
+ru-RU_flavor: "'¿Qué? ¡Si ni siquiera lo estaban usando!' - Luca 'El Manavampiro' Cardoso"
+tile_id: LeechMana
+cost: 1
+image: /images/LeechMana.png
+hero: mage
 ---

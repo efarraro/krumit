@@ -17,8 +17,16 @@ image: /images/Snowshoes.png
 durability: 3
 hero: mage
 es-ES_name: "Raquetas de Nieve"
-es-ES_description: "El costo de adquerir este ítem se reduce en 1 por cada enemigo freeze en la misma fila o columna"
-es-ES_flavor: "No son para jugar al tenis. Ni al ping-pong. Ni al bádminton. Ni a - yo creo que ya entendiste."
+es-ES_description: "El costo de adquirir este ítem se reduce en 1 por cada enemigo frozen en la misma fila o columna"
+es-ES_flavor: "No son para jugar al tenis. Ni al ping-pong. Ni al bádminton. Ni al- yo creo que ya entendiste."
+tile_id: Snowshoes
+cost: 3
+image: /images/Snowshoes.png
+durability: 3
+hero: mage
+ru-RU_name: "Снегоступы"
+ru-RU_description: "Стоимость приобретения этого предмета уменьшается на 1 за каждого frozen врага в этом ряду и столбце"
+ru-RU_flavor: "No son para jugar al tenis. Ni al ping-pong. Ni al bádminton. Ni al- yo creo que ya entendiste."
 tile_id: Snowshoes
 cost: 3
 image: /images/Snowshoes.png

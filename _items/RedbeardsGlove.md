@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Redbeard's Glove"
-EN_description: "Whenever you burn an enemy, increase this item's attack by 1"
+EN_description: "Whenever you burn an enemy, increase this weapon's 🔸 by 1"
 EN_flavor: "'Those unworthy of wielding the flame are doomed to be consumed by it.' – Redbeard"
 tile_id: RedbeardsGlove
 cost: 2
@@ -17,8 +17,16 @@ image: /images/RedbeardsGlove.png
 durability: 2
 hero: mage
 es-ES_name: "Guante de Barbarroja"
-es-ES_description: "Cada vez que inflijas burn a un enemigo, incrementa el ataque de este ítem en 1"
+es-ES_description: "Cada vez que burnedpresent a un enemigo, incrementa el 🔸 de esta arma en 1"
 es-ES_flavor: "'Aquellos indignos de portar la llama están condenados a ser consumidos por ella.' - Barbarroja"
+tile_id: RedbeardsGlove
+cost: 2
+image: /images/RedbeardsGlove.png
+durability: 2
+hero: mage
+ru-RU_name: "Перчатка Рыжебородого"
+ru-RU_description: "🔸 этого предмета увеличивается на 1, когда вы burn врага"
+ru-RU_flavor: "'Те, кто недостойны владеть пламенем, обречены быть поглощенными им.' - Рыжебородый"
 tile_id: RedbeardsGlove
 cost: 2
 image: /images/RedbeardsGlove.png

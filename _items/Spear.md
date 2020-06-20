@@ -24,4 +24,12 @@ cost: 2
 image: /images/Spear.png
 durability: 2
 hero: warrior
+ru-RU_name: "Копье"
+ru-RU_description: "Piercing"
+ru-RU_flavor: "Делает броню горячим маслом. Не буквально - это не зачарованная версия!"
+tile_id: Spear
+cost: 2
+image: /images/Spear.png
+durability: 2
+hero: warrior
 ---

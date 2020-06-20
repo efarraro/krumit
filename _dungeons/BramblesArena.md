@@ -48,8 +48,8 @@ monsters:
     image: /images/Bramble.png
     quantity: 1
     url: /monsters/Bramble
-es-ES_name: "Arena de Sir Zarzal"
-es-ES_description: "'¡Vengan todos a la Arena de Zarzal! ¡Vean las luchas más barbarosas del pueblo! ¡Es 'escosomente' legal! - Shadrat, Pregonero de la Arena"
+es-ES_name: "Arena de Zarzal"
+es-ES_description: "'¡Vengan todos a la Arena de Zarzal! ¡Vean las luchas más barbarosas del pueblo! ¡Son 'escosomente' legales! - Shadrat, Pregonero de la Arena"
 tier: 2
 monsters:
   - monster:
@@ -69,6 +69,30 @@ monsters:
     url: /monsters/Gobloid
   - monster:
     name: "Zarzal"
+    image: /images/Bramble.png
+    quantity: 1
+    url: /monsters/Bramble
+ru-RU_name: "Арена сэра Брамбла"
+ru-RU_description: "'Залетайте на арену Брамбла! Лучшие варварские бои в городе! Почти законно!' - Шадрат, Арена Криер."
+tier: 2
+monsters:
+  - monster:
+    name: "Варвар"
+    image: /images/Bear.png
+    quantity: 2
+    url: /monsters/Bear
+  - monster:
+    name: "Крестянин"
+    image: /images/Peasant.png
+    quantity: 3
+    url: /monsters/Peasant
+  - monster:
+    name: "Гоблоид"
+    image: /images/Gobloid.png
+    quantity: 3
+    url: /monsters/Gobloid
+  - monster:
+    name: "Ежевика"
     image: /images/Bramble.png
     quantity: 1
     url: /monsters/Bramble

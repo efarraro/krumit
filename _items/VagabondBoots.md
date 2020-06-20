@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Vagabond Boots"
-EN_description: "Restore 1 durability whenever you use an ability"
+EN_description: "Restore 1 durability to this item whenever you use an ability"
 EN_flavor: "A pair of shoes boots for running is as important as a pointy dagger."
 tile_id: VagabondBoots
 cost: 2
@@ -17,8 +17,16 @@ image: /images/VagabondBoots.png
 durability: 3
 hero: rogue
 es-ES_name: "Botas de Vagabundo"
-es-ES_description: "Repara 1 de durabilidad cada vez que uses una habilidad"
-es-ES_flavor: "Un par de zapatos para correr son tan importantes como una daga bien puntuda."
+es-ES_description: "Repara 1 de durabilidad a este ítem cada vez que uses una habilidad"
+es-ES_flavor: "Un par de zapatos para correr son tan importantes como una daga bien afilada."
+tile_id: VagabondBoots
+cost: 2
+image: /images/VagabondBoots.png
+durability: 3
+hero: rogue
+ru-RU_name: "Сапоги бродяги"
+ru-RU_description: "Восстанавливает этому предмету 1 прочность, когда вы используете навык."
+ru-RU_flavor: "Пара ботинок для бега так же важны, как острый кинжал."
 tile_id: VagabondBoots
 cost: 2
 image: /images/VagabondBoots.png

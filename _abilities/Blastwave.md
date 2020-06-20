@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Blastwave"
-EN_description: "Deal 5 piercing damage and inflict burn (5) on all enemies in the bottom row.  Shuffle them back into the dungeon deck. Exhaust"
+EN_description: "Deal 5 piercing damage and burn (5) all enemies in the bottom row.  Shuffle them back into the dungeon deck. Exhaust"
 EN_flavor: "If you can't stand the heat, get out of the dungeon."
 tile_id: Blastwave
 cost: 6
@@ -15,8 +15,15 @@ cost: 6
 image: /images/Blastwave.png
 hero: mage
 es-ES_name: "Onda de Choque"
-es-ES_description: "Haz 5 de daño piercing e inflige burn (5) a todos los enemigos de la fila inferior. Barájalos de vuelta en el mazo-calabozo. Exhaust"
-es-ES_flavor: "Si no aguantas el calor, lárgate del calabozo."
+es-ES_description: "Haz 5 de daño piercing y burn (5) a todos los enemigos en la fila inferior. Barájalos de vuelta en el mazo de mazmorra. Exhaust"
+es-ES_flavor: "Si no aguantas el calor, lárgate de la mazmorra."
+tile_id: Blastwave
+cost: 6
+image: /images/Blastwave.png
+hero: mage
+ru-RU_name: "Взрывная волна"
+ru-RU_description: "Наносит 5 piercing урона и burn (5) всех врагов в нижнем ряду. Замешивает их обратно в колоду подземелья. Exhaust"
+ru-RU_flavor: "Если ты не можешь выдержать жар, тогда выбирайся из подземелья."
 tile_id: Blastwave
 cost: 6
 image: /images/Blastwave.png

@@ -28,8 +28,8 @@ monsters:
     image: /images/Trickster.png
     quantity: 3
     url: /monsters/Trickster
-es-ES_name: "Pantano Reptante"
-es-ES_description: "El hogar de una monstruosa Serpe, aledaño al Paso del Vago y las Colinas Gritonas. No es un terreno muy codiciado."
+es-ES_name: "Pantano Serpenteante"
+es-ES_description: "El hogar de una monstruosa Sierpe, aledaño al Paso del Vago y las Colinas Gritonas. No es un terreno muy codiciado."
 tier: 1
 monsters:
   - monster:
@@ -38,7 +38,21 @@ monsters:
     quantity: 4
     url: /monsters/Slime
   - monster:
-    name: "Embaucador"
+    name: "Tramposo"
+    image: /images/Trickster.png
+    quantity: 3
+    url: /monsters/Trickster
+ru-RU_name: "Скользящее болото"
+ru-RU_description: "Дом ужасного Снека, рядом с Бумм пасом и Вопящими холмами. Не очень желанное поместье."
+tier: 1
+monsters:
+  - monster:
+    name: "Глоббер"
+    image: /images/Slime.png
+    quantity: 4
+    url: /monsters/Slime
+  - monster:
+    name: "Обманщик"
     image: /images/Trickster.png
     quantity: 3
     url: /monsters/Trickster

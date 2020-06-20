@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Cardoso's Sanguine Grotto"
-EN_description: 
+EN_description: "Poh Rei Cardoso holds lonely court within the blood-red walls of this rustic dwelling. And he hates visitors. "
 tier: 5
 monsters:
   - monster:
@@ -35,7 +35,7 @@ monsters:
     quantity: 1
     url: /monsters/Cardoso
 zh-CN_name: "卡杜索的血窟"
-zh-CN_description: 
+zh-CN_description: "血色墙壁包围的荒凉宅邸之中，傅·赖伊·卡杜索独踞庭院。他憎恶来访者。"
 tier: 5
 monsters:
   - monster:
@@ -68,8 +68,8 @@ monsters:
     image: /images/Cardoso.png
     quantity: 1
     url: /monsters/Cardoso
-es-ES_name: "Gruta Sangrienta de Cardoso"
-es-ES_description: "null"
+es-ES_name: "Sangrario de Cardoso"
+es-ES_description: "Poh Rei Cardoso preside sus solitarios dominios desde esta su rústica y sanguinolienta morada. Y odia a los visitantes."
 tier: 5
 monsters:
   - monster:
@@ -83,7 +83,7 @@ monsters:
     quantity: 2
     url: /monsters/Slime
   - monster:
-    name: "Matón del Páramo"
+    name: "Gamberro del Páramo"
     image: /images/Knave.png
     quantity: 6
     url: /monsters/Knave
@@ -93,12 +93,46 @@ monsters:
     quantity: 1
     url: /monsters/PirateGirl
   - monster:
-    name: "Fanático Loko"
+    name: "Fanátiko"
     image: /images/Zealnut.png
     quantity: 5
     url: /monsters/Zealnut
   - monster:
     name: "Cardoso"
+    image: /images/Cardoso.png
+    quantity: 1
+    url: /monsters/Cardoso
+ru-RU_name: "Кровавая пещера Кардозо"
+ru-RU_description: "По Рей Кардозо держит одинокий дворик в кроваво-красных стенах этого деревенского жилища. И он ненавидит гостей."
+tier: 5
+monsters:
+  - monster:
+    name: "Скелет"
+    image: /images/Skeleton.png
+    quantity: 4
+    url: /monsters/Skeleton
+  - monster:
+    name: "Глоббер"
+    image: /images/Slime.png
+    quantity: 2
+    url: /monsters/Slime
+  - monster:
+    name: "Бандит пустоши"
+    image: /images/Knave.png
+    quantity: 6
+    url: /monsters/Knave
+  - monster:
+    name: "Разбойница"
+    image: /images/PirateGirl.png
+    quantity: 1
+    url: /monsters/PirateGirl
+  - monster:
+    name: "Зилнат"
+    image: /images/Zealnut.png
+    quantity: 5
+    url: /monsters/Zealnut
+  - monster:
+    name: "Кардосо"
     image: /images/Cardoso.png
     quantity: 1
     url: /monsters/Cardoso

@@ -16,7 +16,14 @@ image: /images/Cleave.png
 hero: warrior
 es-ES_name: "Hendir"
 es-ES_description: "Haz 5 de daño a todos los enemigos en la fila inferior. Exhaust"
-es-ES_flavor: "A los Gobloides no les gustan las luchas de igual a igual. Así que asegúrate de poder emparejar las cosas. - Meditaciones Guerreras de Zarzal"
+es-ES_flavor: "A los Gobloides no les gustan las luchas de igual a igual. Así que asegúrate de poder emparejar las cosas. - Meditaciones Bélicas de Zarzal"
+tile_id: Cleave
+cost: 1
+image: /images/Cleave.png
+hero: warrior
+ru-RU_name: "Рассечение"
+ru-RU_description: "Наносит 5 урона всем врагам в нижнем ряду.  Exhaust"
+ru-RU_flavor: "'Гоблоиды не любят честные бои. Поэтому убедитесь, что вы можете уравнять шансы.' - военные размышления Брамбла."
 tile_id: Cleave
 cost: 1
 image: /images/Cleave.png

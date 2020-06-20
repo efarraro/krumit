@@ -9,7 +9,11 @@ zh-CN_description: "每当地下城中获得药水，都会复制一份到物品
 tile_id: Brewer
 image: /images/Brewer.png
 es-ES_name: "Brebajero"
-es-ES_description: "Mientras estés en un camabozo, cada vez que adquieras una poción, añade una segunda copia a tu inventario"
+es-ES_description: "Mientras estés en una mazmorra, cada vez que adquieras una poción, añade una segunda copia a tu inventario"
+tile_id: Brewer
+image: /images/Brewer.png
+ru-RU_name: "Пивовар"
+ru-RU_description: "В подземелье, всякий раз, когда вы получаете зелье, добавьте вторую копию в инвентарь."
 tile_id: Brewer
 image: /images/Brewer.png
 ---

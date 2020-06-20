@@ -18,7 +18,15 @@ durability: 3
 hero: rogue
 es-ES_name: "Cuchillo de Combate"
 es-ES_description: "Cuando adquieras esta arma, baraja 2 copias de <a href = '../es_es/abilities#Stab'>Apuñalar</a> en el mazo"
-es-ES_flavor: "'Ahora bien, <i>este</i> cuchillo no es para cortar queso o manzanas.' - Jenkins, Maestro de Utilería del Elenco"
+es-ES_flavor: "'Ahora bien, <i>este</i> cuchillo no es para cortar manzanas.' - Jenkins, Maestro de Utilería del Elenco"
+tile_id: CombatKnife
+cost: 3
+image: /images/CombatKnife.png
+durability: 3
+hero: rogue
+ru-RU_name: "Боевой нож"
+ru-RU_description: "Когда вы приобретаете это, замешивает 2 копии <a href = '../ru_ru/abilities#Stab'>Удар ножом</a> в колоду."
+ru-RU_flavor: "'Теперь <i>этот</i> нож не предназначен для сыров и яблок.' - Труппный спец по реквизиту Дженкинс"
 tile_id: CombatKnife
 cost: 3
 image: /images/CombatKnife.png

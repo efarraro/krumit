@@ -24,4 +24,12 @@ cost: 2
 image: /images/VoodooDoll.png
 durability: 3
 hero: necromancer
+ru-RU_name: "Кукла вуду"
+ru-RU_description: "Выберите врага. Пока этот враг жив, он получает 4 piercing урона, когда вы призываете миньона."
+ru-RU_flavor: "'Использованные' куклы вуду могут быть безопасно переработаны в подарки для маленьких детей. Только лучше не говорить им откуда вы её взяли."
+tile_id: VoodooDoll
+cost: 2
+image: /images/VoodooDoll.png
+durability: 3
+hero: necromancer
 ---

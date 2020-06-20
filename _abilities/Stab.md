@@ -15,8 +15,15 @@ cost: 0
 image: /images/Stab.png
 hero: rogue
 es-ES_name: "Apuñalar"
-es-ES_description: "Haz 1 de daño piercing a un enemigo objetivo.  Cuando adquieras esta habilidad, gana una segunda copia. Exhaust"
+es-ES_description: "Haz 1 de daño piercing a un enemigo objetivo. Cuando adquieras esta habilidad, gana una segunda copia. Exhaust"
 es-ES_flavor: "¿Tú también, Canuto? - Vejestulio, Chacal Alfa (aunque no por mucho tiempo)"
+tile_id: Stab
+cost: 0
+image: /images/Stab.png
+hero: rogue
+ru-RU_name: "Удар ножом"
+ru-RU_description: "Наносит 1 piercing урона выбранному врагу. Когда вы приобретаете это, даёт вторую копию. Exhaust"
+ru-RU_flavor: "И ты, Скутус? - Альфа (не долго) шакал Гизарь"
 tile_id: Stab
 cost: 0
 image: /images/Stab.png

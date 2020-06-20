@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Execute"
-EN_description: "Destroy a target non-boss enemy that has been damaged.  Exhaust"
+EN_description: "Destroy a target non-boss enemy that has been damaged. Exhaust"
 EN_flavor: "He who makes the judgement should swing the axe. So why don't we get to make the judgements? – Headsman Klein of the Nuke-Vikings."
 tile_id: Execute
 cost: 1
@@ -17,6 +17,13 @@ hero: warrior
 es-ES_name: "Ejecutar"
 es-ES_description: "Destruye un enemigo objetivo (que no sea un jefe) que haya sido dañado. Exhaust"
 es-ES_flavor: "El juez debe dar el golpe de hacha. Entonces, ¿por qué no podemos juzgar nosotros? - Klein, Verdugo de los Vikingos Atómicos"
+tile_id: Execute
+cost: 1
+image: /images/Execute.png
+hero: warrior
+ru-RU_name: "Казнь"
+ru-RU_description: "Уничтожает поврежденного обычного врага. Exhaust"
+ru-RU_flavor: "'Тот, кто выносит приговор, должен размахивать топором. Так почему бы и нам не приговорить?' - Глава Кляйн из Нюк-Викингов."
 tile_id: Execute
 cost: 1
 image: /images/Execute.png

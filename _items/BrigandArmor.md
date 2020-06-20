@@ -24,4 +24,12 @@ cost: 2
 image: /images/BrigandArmor.png
 durability: 3
 hero: rogue
+ru-RU_name: "Доспех разбойника"
+ru-RU_description: "Вы должны иметь stealth, чтобы экипировать это"
+ru-RU_flavor: "Этот темный, коварный доспех идеален для шаловливых засад."
+tile_id: BrigandArmor
+cost: 2
+image: /images/BrigandArmor.png
+durability: 3
+hero: rogue
 ---

@@ -48,8 +48,8 @@ monsters:
     image: /images/AncientSkeleton.png
     quantity: 2
     url: /monsters/AncientSkeleton
-es-ES_name: "Pico Puntudo"
-es-ES_description: "'Las Harpías anidan en esos picos, pero no me molestan mucho. Siempre y cuando me acuerde de amarrarle un sacrificio a la góndola, claro está.' - Vivian, Conductora de la Góndola."
+es-ES_name: "Picos Puntudos"
+es-ES_description: "'Las Harpías anidan en esos picos, pero no me molestan mucho. Siempre y cuando me acuerde de amarrar un sacrificio a la góndola, claro está.' - Vivian, Conductora de la Góndola."
 tier: 3
 monsters:
   - monster:
@@ -58,7 +58,7 @@ monsters:
     quantity: 5
     url: /monsters/Harpy
   - monster:
-    name: "Correviento"
+    name: "Correvientos"
     image: /images/WindRunner.png
     quantity: 2
     url: /monsters/WindRunner
@@ -69,6 +69,30 @@ monsters:
     url: /monsters/Skeleton
   - monster:
     name: "Esqueleto Anciano"
+    image: /images/AncientSkeleton.png
+    quantity: 2
+    url: /monsters/AncientSkeleton
+ru-RU_name: "Picos Puntudos"
+ru-RU_description: "'Las Harpías anidan en esos picos, pero no me molestan mucho. Siempre y cuando me acuerde de amarrar un sacrificio a la góndola, claro está.' - Vivian, Conductora de la Góndola."
+tier: 3
+monsters:
+  - monster:
+    name: "Панк"
+    image: /images/Harpy.png
+    quantity: 5
+    url: /monsters/Harpy
+  - monster:
+    name: "Бегущая по ветру"
+    image: /images/WindRunner.png
+    quantity: 2
+    url: /monsters/WindRunner
+  - monster:
+    name: "Скелет"
+    image: /images/Skeleton.png
+    quantity: 6
+    url: /monsters/Skeleton
+  - monster:
+    name: "Древний скелет"
     image: /images/AncientSkeleton.png
     quantity: 2
     url: /monsters/AncientSkeleton

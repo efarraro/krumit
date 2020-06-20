@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Mighty Swing"
-EN_description: "Increase your attack by an amount equal to the damage of your equipped melee weapons. Recharges after 6 rounds of combat"
+EN_description: "Increase your 🔸 by an amount equal to the damage of your equipped melee weapons. Recharges after 6 rounds of combat"
 EN_flavor: "GGWAAARRR! – Gregory the Llamataur"
 tile_id: MightySwing
 cost: 2
@@ -15,8 +15,15 @@ cost: 2
 image: /images/MightySwing.png
 hero: warrior
 es-ES_name: "Gran Golpe"
-es-ES_description: "Incrementa tu ataque por un valor equivalente al daño de tus armas de melé equipadas. Recarga después de 6 de combate."
+es-ES_description: "Incrementa tu 🔸 por un valor equivalente al daño de tus armas de melé equipadas. Recarga después de 6 rondas de combate."
 es-ES_flavor: "¡GGWAAARRR! – Gregory el Llamatauro"
+tile_id: MightySwing
+cost: 2
+image: /images/MightySwing.png
+hero: warrior
+ru-RU_name: "Сильный удар"
+ru-RU_description: "Увеличивает вашу 🔸 на значение, равное урону всех экипированных оружий ближнего боя. Перезаряжается после 6 раундов сражения"
+ru-RU_flavor: "ААААРРГХ! - Грэгори Лламатавр"
 tile_id: MightySwing
 cost: 2
 image: /images/MightySwing.png

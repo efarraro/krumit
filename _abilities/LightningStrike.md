@@ -14,9 +14,16 @@ tile_id: LightningStrike
 cost: 3
 image: /images/LightningStrike.png
 hero: mage
-es-ES_name: "Relámpago"
+es-ES_name: "Rayo"
 es-ES_description: "Haz 12 de daño piercing a un enemigo objetivo, dividido en partes iguales con los enemigos adyacentes. Exhaust."
-es-ES_flavor: "El relámpago rara vez cae dos veces en el mismo lugar. Pero una vez es más que suficiente para carbonizar a cualquier infeliz."
+es-ES_flavor: "El rayo rara vez cae dos veces en el mismo lugar. Pero una vez es más que suficiente para carbonizar a cualquier infeliz."
+tile_id: LightningStrike
+cost: 3
+image: /images/LightningStrike.png
+hero: mage
+ru-RU_name: "Удар молнии"
+ru-RU_description: "Наносит 12 piercing урона, распределённого между выбранным врагом и его соседями. Exhaust."
+ru-RU_flavor: "Молния редко бьет в одно место дважды, однако это все равно было бы лишним."
 tile_id: LightningStrike
 cost: 3
 image: /images/LightningStrike.png

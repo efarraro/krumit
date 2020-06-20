@@ -21,4 +21,11 @@ tile_id: LightningStorm
 cost: 4
 image: /images/LightningStorm.png
 hero: mage
+ru-RU_name: "Грозовая буря"
+ru-RU_description: "Наносит 4 piercing урона всем врагам на поле.  Exhaust"
+ru-RU_flavor: "Эта буря точно не содержится в стакане воды."
+tile_id: LightningStorm
+cost: 4
+image: /images/LightningStorm.png
+hero: mage
 ---

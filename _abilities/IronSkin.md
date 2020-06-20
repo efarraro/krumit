@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Iron Skin"
-EN_description: "In battle, spend 3 health to gain 4 block for one round"
+EN_description: "In battle, pay 3 ❤️ to gain 4 block for one round"
 EN_flavor: "Sticks and stones? Won't even break my skin, let alone my bones. But don't be mean, OK? – Ferris Dermos, aka 'The Rusty Witch'"
 tile_id: IronSkin
 cost: 2
@@ -15,8 +15,15 @@ cost: 2
 image: /images/IronSkin.png
 hero: warrior
 es-ES_name: "Piel de Hierro"
-es-ES_description: "En combate, paga 3 de vida para ganar 4 de block por una ronda"
+es-ES_description: "En combate, paga 3 ❤️ para ganar 4 de block por una ronda"
 es-ES_flavor: "¿Palos y piedras? No me romperán un pelo, mucho menos los huesos. Pero no se rían de mí, ¿ya? - Ferris Dermos, alias 'La Bruja Oxidada'"
+tile_id: IronSkin
+cost: 2
+image: /images/IronSkin.png
+hero: warrior
+ru-RU_name: "Железная кожа"
+ru-RU_description: "В бою потратьте 3 ❤️, чтобы получить 4 block на 1 раунд"
+ru-RU_flavor: "'Палки и камни? Они не повредят мою кожу, не говоря уже о моих костях. Однако не будь злым, ок?' - Феррис Дермос, он же «Ржавая ведьма»"
 tile_id: IronSkin
 cost: 2
 image: /images/IronSkin.png

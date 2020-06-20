@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Zap"
-EN_description: "Deal 2 piercing damage, plus 1 for each other copy of Zap still in the dungeon deck. Exhaust"
+EN_description: "Deal 2 piercing damage, plus 1 for each other copy of Zap still in the deck. Exhaust"
 EN_flavor: "The potential is electric!"
 tile_id: Zap
 cost: 1
@@ -15,8 +15,15 @@ cost: 1
 image: /images/Zap.png
 hero: mage
 es-ES_name: "Chispazo"
-es-ES_description: "Haz 2 de daño piercing, más 1 por cada otra copia de Chispazo que haya en el mazo-calabozo. Exhaust"
+es-ES_description: "Haz 2 de daño piercing, más 1 por cada otra copia de Chispazo que quede en el mazo. Exhaust"
 es-ES_flavor: "¡El potencial es eléctrico!"
+tile_id: Zap
+cost: 1
+image: /images/Zap.png
+hero: mage
+ru-RU_name: "Разряд"
+ru-RU_description: "Наносит 2 piercing урона + 1 за каждую другую копию Разряда в колоде. Exhaust"
+ru-RU_flavor: "Электрический потенциал!"
 tile_id: Zap
 cost: 1
 image: /images/Zap.png

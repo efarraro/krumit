@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Charge"
-EN_description: "Deal your base damage (2) to target enemy in the bottom row and gain 1 gold. Exhaust"
+EN_description: "Deal your base damage (2) to target enemy in the bottom row and gain 1 coin. Exhaust"
 EN_flavor: "Why wait?"
 tile_id: Charge
 cost: 0
@@ -14,9 +14,16 @@ tile_id: Charge
 cost: 0
 image: /images/Charge.png
 hero: warrior
-es-ES_name: "冲锋"
-es-ES_description: "Haz tu daño base (2) al enemigo objetivo en la fila inferior y gana 1 de oro. Exhaust"
+es-ES_name: "Arrollar"
+es-ES_description: "Haz tu daño base (2) al enemigo objetivo en la fila inferior y gana 1 coin. Exhaust"
 es-ES_flavor: "¿Por qué esperar?"
+tile_id: Charge
+cost: 0
+image: /images/Charge.png
+hero: warrior
+ru-RU_name: "Зарядка"
+ru-RU_description: "Наносит ваш базовый урон (2) выбранному врагу в нижнем ряду и даёт 1 coin. Exhaust"
+ru-RU_flavor: "Зачем ждать?"
 tile_id: Charge
 cost: 0
 image: /images/Charge.png

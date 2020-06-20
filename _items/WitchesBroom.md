@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Witches' Broom"
-EN_description: "Shuffle two exact copies of target ability into the dungeon deck"
+EN_description: "Shuffle two exact copies of target ability into the deck"
 EN_flavor: "'I know it's clichéd, but I'd rather ride one of these than a horse, or a peasant.' – Swampalina"
 tile_id: WitchesBroom
 cost: 3
@@ -17,8 +17,16 @@ image: /images/WitchesBroom.png
 durability: 2
 hero: mage
 es-ES_name: "Escoba de Bruja"
-es-ES_description: "Baraja dos copias exactas de la habilidad objetivo en el mazo-calabozo"
-es-ES_flavor: "'Ya sé que es un cliché, pero prefiero viajar en una de éstas que en un caballo, o en un aldeano.' - Pantanuela"
+es-ES_description: "Baraja dos copias exactas de una habilidad objetivo en el mazo"
+es-ES_flavor: "'Ya sé que es un cliché, pero prefiero viajar en una de estas que en un caballo o en un aldeano.' - Pantanuela"
+tile_id: WitchesBroom
+cost: 3
+image: /images/WitchesBroom.png
+durability: 2
+hero: mage
+ru-RU_name: "Ведьмина метла"
+ru-RU_description: "Замешивает 2 точные копии выбранного навыка в колоду подземелья"
+ru-RU_flavor: "'Я знаю, что это клише, но я лучше поеду на этом, чем на лошади или на крестьянине.' - Свамплина"
 tile_id: WitchesBroom
 cost: 3
 image: /images/WitchesBroom.png

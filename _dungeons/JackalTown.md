@@ -38,8 +38,8 @@ monsters:
     image: /images/Nukadog.png
     quantity: 5
     url: /monsters/Nukadog
-es-ES_name: "Barrios Bajos de Pueblo Chacal"
-es-ES_description: "Para visitar los barrios bajos de los Chacales, uno debe estar bien perdido, o bien seguro de que puede sobrevivir un cuchillo en la espalda."
+es-ES_name: "Barriadas de Chacalena"
+es-ES_description: "Hay que estar bien perdido para visitar los barrios bajos de Chacalena - o bien seguro de poder sobrevivir un cuchillo en la espalda."
 tier: 4
 monsters:
   - monster:
@@ -53,7 +53,26 @@ monsters:
     quantity: 4
     url: /monsters/JackalVagabond
   - monster:
-    name: "Lobo Mocoso"
+    name: "Moquenco"
+    image: /images/Nukadog.png
+    quantity: 5
+    url: /monsters/Nukadog
+ru-RU_name: "Городские трущобы шакалов"
+ru-RU_description: "Чтобы посетить трущобы шакала, нужно быть очень потерянным или очень уверенным, что сможете выжить с ножом в спине."
+tier: 4
+monsters:
+  - monster:
+    name: "Шакал"
+    image: /images/Jackal.png
+    quantity: 8
+    url: /monsters/Jackal
+  - monster:
+    name: "Вагабонд"
+    image: /images/JackalVagabond.png
+    quantity: 4
+    url: /monsters/JackalVagabond
+  - monster:
+    name: "Волк-сопляк"
     image: /images/Nukadog.png
     quantity: 5
     url: /monsters/Nukadog

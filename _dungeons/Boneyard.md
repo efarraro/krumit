@@ -57,4 +57,23 @@ monsters:
     image: /images/SkeletonKing.png
     quantity: 1
     url: /monsters/SkeletonKing
+ru-RU_name: "Костбище"
+ru-RU_description: "Калакас ухаживает за Костбищем, как за омерзительным садом. С правильными частями он может создать нового скелета, чтобы тот присоединился к его бледному королевству."
+tier: 2
+monsters:
+  - monster:
+    name: "Древний скелет"
+    image: /images/AncientSkeleton.png
+    quantity: 3
+    url: /monsters/AncientSkeleton
+  - monster:
+    name: "Скелет"
+    image: /images/Skeleton.png
+    quantity: 6
+    url: /monsters/Skeleton
+  - monster:
+    name: "Калакас"
+    image: /images/SkeletonKing.png
+    quantity: 1
+    url: /monsters/SkeletonKing
 ---

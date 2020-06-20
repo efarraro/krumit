@@ -16,9 +16,17 @@ cost: 3
 image: /images/MortalCoil.png
 durability: 2
 hero: necromancer
-es-ES_name: "死亡钩链"
+es-ES_name: "Espiral Mortal"
 es-ES_description: "Cuando derrotes a un enemigo con esta arma, invoca un minion <a href = '../es_es/unknown_type000#MinionSkeleton'>Esqueleto</a>"
-es-ES_flavor: "“拖链滑步”——骷髅派对今年精选舞步。"
+es-ES_flavor: "'El Espiral' - El paso de baile favorito en las Fiestas Esqueléticas."
+tile_id: MortalCoil
+cost: 3
+image: /images/MortalCoil.png
+durability: 2
+hero: necromancer
+ru-RU_name: "Смертельная спираль"
+ru-RU_description: "Когда вы убиваете врага с этим предметом, призывает <a href = '../ru_ru/unknown_type000#MinionSkeleton'>Скелет</a> minion"
+ru-RU_flavor: "'El Espiral' - El paso de baile favorito en las Fiestas Esqueléticas."
 tile_id: MortalCoil
 cost: 3
 image: /images/MortalCoil.png

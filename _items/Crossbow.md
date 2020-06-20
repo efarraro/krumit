@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Crossbow"
-EN_description: "Ranged.  Deal 2 piercing damage to target enemy in the top or middle row"
+EN_description: "Deal 2 piercing damage to target enemy in the top or middle row"
 EN_flavor: "It's a high-tech bow. Easier to fire in a pinch."
 tile_id: Crossbow
 cost: 2
@@ -9,7 +9,7 @@ image: /images/Crossbow.png
 durability: 3
 hero: warrior
 EN_name: "Crossbow"
-EN_description: "Ranged.  Deal 2 piercing damage to target enemy in the top or middle row"
+EN_description: "Deal 2 piercing damage to target enemy in the top or middle row"
 EN_flavor: "It's a high-tech bow. Easier to fire in a pinch."
 tile_id: Crossbow
 cost: 2
@@ -33,16 +33,32 @@ image: /images/Crossbow.png
 durability: 3
 hero: warrior
 es-ES_name: "Ballesta"
-es-ES_description: "Alcance. Haz 2 de daño piercing a un enemigo objetivo en la fila superior o la del medio"
-es-ES_flavor: "Es un arco de alta tecnología. Fácil de disparar en un apuro."
+es-ES_description: "Haz 2 de daño piercing a un enemigo objetivo en la fila superior o media"
+es-ES_flavor: "Es un arco de alta tecnología, más fácil de disparar en un apuro."
 tile_id: Crossbow
 cost: 2
 image: /images/Crossbow.png
 durability: 3
 hero: warrior
 es-ES_name: "Ballesta"
-es-ES_description: "Alcance. Haz 2 de daño piercing a un enemigo objetivo en la fila superior o la del medio"
-es-ES_flavor: "Es un arco de alta tecnología. Fácil de disparar en un apuro."
+es-ES_description: "Haz 2 de daño piercing a un enemigo objetivo en la fila superior o media"
+es-ES_flavor: "Es un arco de alta tecnología, más fácil de disparar en un apuro."
+tile_id: Crossbow
+cost: 2
+image: /images/Crossbow.png
+durability: 3
+hero: warrior
+ru-RU_name: "Арбалет"
+ru-RU_description: "Наносит 2 piercing урона выбранному врагу в верхнем или среднем ряду."
+ru-RU_flavor: "Высокотехнологичный лук. Проще стрелять в трудную минуту."
+tile_id: Crossbow
+cost: 2
+image: /images/Crossbow.png
+durability: 3
+hero: warrior
+ru-RU_name: "Арбалет"
+ru-RU_description: "Наносит 2 piercing урона выбранному врагу в верхнем или среднем ряду."
+ru-RU_flavor: "Высокотехнологичный лук. Проще стрелять в трудную минуту."
 tile_id: Crossbow
 cost: 2
 image: /images/Crossbow.png

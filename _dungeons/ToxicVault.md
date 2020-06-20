@@ -58,8 +58,8 @@ monsters:
     image: /images/Swampalina.png
     quantity: 1
     url: /monsters/Swampalina
-es-ES_name: "Bóveda Tóxica de Pantanuela"
-es-ES_description: "沼泥垃调制出来的毒根本治不好，不过还是可以预防的——赶紧逃就是了。"
+es-ES_name: "Bóveda de Pantanuela"
+es-ES_description: "Los viles venenos de Pantanuela no tienen cura, así que es mejor prevenirlos. Prevenirlos con un hacha."
 tier: 7
 monsters:
   - monster:
@@ -68,7 +68,7 @@ monsters:
     quantity: 6
     url: /monsters/Slime
   - monster:
-    name: "Embaucador"
+    name: "Tramposo"
     image: /images/Trickster.png
     quantity: 5
     url: /monsters/Trickster
@@ -84,6 +84,35 @@ monsters:
     url: /monsters/JackalAssassin
   - monster:
     name: "Pantanuela"
+    image: /images/Swampalina.png
+    quantity: 1
+    url: /monsters/Swampalina
+ru-RU_name: "Токсичное убежище Свампалины"
+ru-RU_description: "Нет никакого лекарства от Свампалины и ее мерзкого варева, но это можно предотвратить. Побег то есть."
+tier: 7
+monsters:
+  - monster:
+    name: "Глоббер"
+    image: /images/Slime.png
+    quantity: 6
+    url: /monsters/Slime
+  - monster:
+    name: "Обманщик"
+    image: /images/Trickster.png
+    quantity: 5
+    url: /monsters/Trickster
+  - monster:
+    name: "Мусорный голем"
+    image: /images/TrashGolem.png
+    quantity: 3
+    url: /monsters/TrashGolem
+  - monster:
+    name: "Ассасин"
+    image: /images/JackalAssassin.png
+    quantity: 3
+    url: /monsters/JackalAssassin
+  - monster:
+    name: "Свампалина"
     image: /images/Swampalina.png
     quantity: 1
     url: /monsters/Swampalina

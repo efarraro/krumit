@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Blackjack"
-EN_description: "Stun target enemy in battle. Only useable against enemies that are alone in their row. Gain stealth when you acquire this"
+EN_description: "Stun target enemy in battle. Only usable against solitary enemies. Gain stealth when you acquire this"
 EN_flavor: "A common weapon among those that hide in the shadows"
 tile_id: Blackjack
 cost: 1
@@ -17,8 +17,16 @@ image: /images/Blackjack.png
 durability: 3
 hero: rogue
 es-ES_name: "Cachiporra"
-es-ES_description: "Inflige stun a un enemigo objetivo en combate. Sólo es utilizable contra enemigos que estén solos en su fila. Gana stealth cuando adquieras este ítem."
+es-ES_description: "En combate, stun a un enemigo objetivo. Sólo es utilizable contra enemigos que estén solos en su fila. Gana stealth cuando adquieras este ítem"
 es-ES_flavor: "Un arma común entre aquellos que se ocultan en las sombras."
+tile_id: Blackjack
+cost: 1
+image: /images/Blackjack.png
+durability: 3
+hero: rogue
+ru-RU_name: "Блэкджэк"
+ru-RU_description: "В бою Stun выбранного врага. Применима только к одиноким врагам в ряду. Накладывает stealth при получении"
+ru-RU_flavor: "Привычное оружие тех, кто не любит выходить на свет"
 tile_id: Blackjack
 cost: 1
 image: /images/Blackjack.png

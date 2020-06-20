@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Sinister Charm"
-EN_description: "Apply poison (1) to target enemy, then deal piercing damage equal to its poison level"
+EN_description: "Poison (1) an enemy, then deal piercing damage equal to your target's poison level"
 EN_flavor: "Mischief removed the goggles and admired her handiwork. Oh yes, this would truly be a gift to die for. "
 tile_id: SinisterCharm
 cost: 2
@@ -17,8 +17,16 @@ image: /images/SinisterCharm.png
 durability: 3
 hero: rogue
 es-ES_name: "Amuleto Siniestro"
-es-ES_description: "Aplica poison (1) a un enemigo objetivo, luego haz daño piercing equivalente a su valor de veneno"
-es-ES_flavor: "Travesuras se sacó las gafas y admiró su trabajo. Oh sí, este sería de verdad  regalo para morirse."
+es-ES_description: "Poisonverb (1) a un enemigo, y luego hazle daño piercing equivalente a su valor de poison"
+es-ES_flavor: "Travesuras se sacó las gafas y admiró su trabajo. Oh sí, este en verdad sería un regalo para morirse."
+tile_id: SinisterCharm
+cost: 2
+image: /images/SinisterCharm.png
+durability: 3
+hero: rogue
+ru-RU_name: "Зловещий амулет"
+ru-RU_description: "Poison (1) на врага, затем наносит piercing урон, равный его показателю poison"
+ru-RU_flavor: "Озорница сняла очки и восхищалась своей работой. О да, это действительно был бы подарком, за который можно умереть. "
 tile_id: SinisterCharm
 cost: 2
 image: /images/SinisterCharm.png

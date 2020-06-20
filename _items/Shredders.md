@@ -24,4 +24,12 @@ cost: 4
 image: /images/Shredders.png
 durability: 3
 hero: rogue
+ru-RU_name: "Измельчители"
+ru-RU_description: "Piercing. Когда вы приобретаете это, добавляет вторую точную копию в ваш инвентарь"
+ru-RU_flavor: "Лучше подходит для жестких врагов, чем тайных документов."
+tile_id: Shredders
+cost: 4
+image: /images/Shredders.png
+durability: 3
+hero: rogue
 ---

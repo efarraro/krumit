@@ -2,17 +2,22 @@
 
 EN_name: "Gobloid"
 EN_description: "This enemy is quick - watch out for his blitz attacks!"
-EN_flavor: "Filthy, but not quite as stupid as they look, Gobloids are fearful of outsiders due to a history of being bullied. They band together in the hope of establishing a new land, one stinky enough to ensure they're left alone by the outside world."
+EN_flavor: "Gobloids live in the forest, among their own kind.  They hate everyone else.  If you enter their sacred lands, you'll hear loud screaming from the bushes before the gobloids attack you from all sides with knives!"
 tile_id: Gobloid
 image: /images/Gobloid.png
-zh-CN_name: "哥布森"
-zh-CN_description: "这种敌人的身手十分敏捷——要小心他的blitz攻击！"
-zh-CN_flavor: "浑身恶臭，但是并没有看上去那么蠢。哥布森常年受人欺凌，所以特别惧怕外来者。它们聚集在了一起，希望能够建立一片新的领地，一个臭到没有人敢接近的地方。"
+zh-CN_name: "Gobloid"
+zh-CN_description: "This enemy is quick - watch out for his blitz attacks!"
+zh-CN_flavor: "Gobloids live in the forest, among their own kind.  They hate everyone else.  If you enter their sacred lands, you'll hear loud screaming from the bushes before the gobloids attack you from all sides with knives!"
 tile_id: Gobloid
 image: /images/Gobloid.png
-es-ES_name: "Gobloide"
-es-ES_description: "Este enemigo es rápido - ¡ten cuidado con sus ataques con blitz!"
-es-ES_flavor: "Asquerosos, aunque no tan estúpidos como parecen, los Gobloides temen a los forasteros debido a una historia de maltratos. Se agrupan con la esperanza de establecer una nueva nación, una lo suficientemente apestosa como para que el mundo de afuera los deje en paz."
+es-ES_name: "Gobloid"
+es-ES_description: "This enemy is quick - watch out for his blitz attacks!"
+es-ES_flavor: "Gobloids live in the forest, among their own kind.  They hate everyone else.  If you enter their sacred lands, you'll hear loud screaming from the bushes before the gobloids attack you from all sides with knives!"
+tile_id: Gobloid
+image: /images/Gobloid.png
+ru-RU_name: "Gobloid"
+ru-RU_description: "This enemy is quick - watch out for his blitz attacks!"
+ru-RU_flavor: "Gobloids live in the forest, among their own kind.  They hate everyone else.  If you enter their sacred lands, you'll hear loud screaming from the bushes before the gobloids attack you from all sides with knives!"
 tile_id: Gobloid
 image: /images/Gobloid.png
 ---

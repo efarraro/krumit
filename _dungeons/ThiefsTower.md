@@ -78,8 +78,8 @@ monsters:
     image: /images/JackalVagabond.png
     quantity: 4
     url: /monsters/JackalVagabond
-es-ES_name: "Torre de los Ladrones"
-es-ES_description: "'No encontrarás una más miserable colmena de escoria y villanía que la Torre de los Ladrones. Espero poder mudarme ahí algún día.' - Travesuras"
+es-ES_name: "Torre de Ladrones"
+es-ES_description: "'No existe una colmena más miserable de escoria y villanía que la Torre de los Ladrones. Espero poder mudarme ahí algún día.' - Travesuras"
 tier: 6
 monsters:
   - monster:
@@ -114,6 +114,45 @@ monsters:
     url: /monsters/PirateGirl
   - monster:
     name: "Vagabundo"
+    image: /images/JackalVagabond.png
+    quantity: 4
+    url: /monsters/JackalVagabond
+ru-RU_name: "Башня воров"
+ru-RU_description: "«Вы не найдете более отвратительного места подлости и злодейства, чем башня воров. Я надеюсь переехать туда однажды». - Озорница"
+tier: 6
+monsters:
+  - monster:
+    name: "Гоблоид"
+    image: /images/Gobloid.png
+    quantity: 2
+    url: /monsters/Gobloid
+  - monster:
+    name: "Каскоголовый"
+    image: /images/GobloidKnucklehead.png
+    quantity: 3
+    url: /monsters/GobloidKnucklehead
+  - monster:
+    name: "Панк"
+    image: /images/Harpy.png
+    quantity: 4
+    url: /monsters/Harpy
+  - monster:
+    name: "Шакал"
+    image: /images/Jackal.png
+    quantity: 3
+    url: /monsters/Jackal
+  - monster:
+    name: "Ассасин"
+    image: /images/JackalAssassin.png
+    quantity: 3
+    url: /monsters/JackalAssassin
+  - monster:
+    name: "Разбойница"
+    image: /images/PirateGirl.png
+    quantity: 2
+    url: /monsters/PirateGirl
+  - monster:
+    name: "Вагабонд"
     image: /images/JackalVagabond.png
     quantity: 4
     url: /monsters/JackalVagabond

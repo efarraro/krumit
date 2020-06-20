@@ -21,4 +21,11 @@ tile_id: Eviscerate
 cost: 2
 image: /images/Eviscerate.png
 hero: rogue
+ru-RU_name: "Потрошение"
+ru-RU_description: "Наносит 4 piercing урона врагу. Перезаряжается после использования 4 навыков"
+ru-RU_flavor: "Apuñala, rebana, evita que se arruinen tus zapatos. ¡Es como una suerte de baile! - Travesuras"
+tile_id: Eviscerate
+cost: 2
+image: /images/Eviscerate.png
+hero: rogue
 ---

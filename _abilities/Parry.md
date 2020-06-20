@@ -14,9 +14,16 @@ tile_id: Parry
 cost: 2
 image: /images/Parry.png
 hero: warrior
-es-ES_name: "Desviar"
+es-ES_name: "Deflexión"
 es-ES_description: "Una vez por combate, cuando ataques con un arma, gana también 6 de block"
 es-ES_flavor: "El arte del Jee-Tukando nos enseña que no existe el ataque ni la defense, sino sólo el movimiento continuo."
+tile_id: Parry
+cost: 2
+image: /images/Parry.png
+hero: warrior
+ru-RU_name: "Отражение"
+ru-RU_description: "Раз в сражении, когда вы атакуете с оружием, также даёт 6 block"
+ru-RU_flavor: "Искусство клинка Джи-Тукандо учит, что нет атаки или защиты, только передвижение."
 tile_id: Parry
 cost: 2
 image: /images/Parry.png

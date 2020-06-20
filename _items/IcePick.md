@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Ice Pick"
-EN_description: "Deal an additional 4 damage against frozen enemies"
+EN_description: "This weapon's 🔸 is increased by 4 against frozen enemies"
 EN_flavor: "A top-of-the-range, brillanium composite Glacier-Racer model."
 tile_id: IcePick
 cost: 2
@@ -17,8 +17,16 @@ image: /images/IcePick.png
 durability: 3
 hero: mage
 es-ES_name: "Pico de Hielo"
-es-ES_description: "Hace 4 de daño adicional contra enemigos frozen"
-es-ES_flavor: "铞合金制成的顶尖大赛型号冰镐。"
+es-ES_description: "El 🔸 de esta arma se incrementa en 4 contra enemigos frozenplural"
+es-ES_flavor: "Un modelo Zapahielos de primerísima calidad, hecho de un compuesto de brillanio y durantina."
+tile_id: IcePick
+cost: 2
+image: /images/IcePick.png
+durability: 3
+hero: mage
+ru-RU_name: "Ледоруб"
+ru-RU_description: "🔸 этого оружия увеличена на 4 урона по frozen врагам"
+ru-RU_flavor: "Элитный, талакийный композит модели Glacier-Racer."
 tile_id: IcePick
 cost: 2
 image: /images/IcePick.png

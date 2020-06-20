@@ -59,7 +59,7 @@ monsters:
     quantity: 1
     url: /monsters/Dragon
 es-ES_name: "Cavernas de Magma"
-es-ES_description: "'Las Cavernas de Magma - son el dominio de Bartholomew el Dragorno. La última vez que estuve ahí me chamusqué la barba, y apestó por una semana entera.' - Barbagrís"
+es-ES_description: "'Las Cavernas de Magma son el dominio de Bartholomew el Dragullo. La última vez que estuve ahí me chamusqué la barba, y apestó por una semana entera.' - Barbagrís"
 tier: 7
 monsters:
   - monster:
@@ -68,7 +68,7 @@ monsters:
     quantity: 6
     url: /monsters/AncientSkeleton
   - monster:
-    name: "Correviento"
+    name: "Correvientos"
     image: /images/WindRunner.png
     quantity: 6
     url: /monsters/WindRunner
@@ -84,6 +84,35 @@ monsters:
     url: /monsters/TrashGolem
   - monster:
     name: "Bartholomew"
+    image: /images/Dragon.png
+    quantity: 1
+    url: /monsters/Dragon
+ru-RU_name: "Пещеры магмы"
+ru-RU_description: "«Пещеры магмы - это владения драгорна Бартоломью. В последний раз, когда я там побывал, моя борода была опалена и воняла целую неделю». - Серая Борода"
+tier: 7
+monsters:
+  - monster:
+    name: "Древний скелет"
+    image: /images/AncientSkeleton.png
+    quantity: 6
+    url: /monsters/AncientSkeleton
+  - monster:
+    name: "Бегущая по ветру"
+    image: /images/WindRunner.png
+    quantity: 6
+    url: /monsters/WindRunner
+  - monster:
+    name: "Панк"
+    image: /images/Harpy.png
+    quantity: 8
+    url: /monsters/Harpy
+  - monster:
+    name: "Мусорный голем"
+    image: /images/TrashGolem.png
+    quantity: 4
+    url: /monsters/TrashGolem
+  - monster:
+    name: "Бартоломью"
     image: /images/Dragon.png
     quantity: 1
     url: /monsters/Dragon

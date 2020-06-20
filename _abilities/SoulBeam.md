@@ -14,9 +14,16 @@ tile_id: SoulBeam
 cost: 4
 image: /images/SoulBeam.png
 hero: necromancer
-es-ES_name: "灵魂光束"
-es-ES_description: "对目标及其同列的所有敌人造成2点piercing伤害。在1位minion死亡后充能。"
+es-ES_name: "Rayo de Almas"
+es-ES_description: "Haz 2 de daño piercing a un enemigo objetivo, y a todos los otros enemigos en la misma columna. Recarga después de que un minion sea destruído"
 es-ES_flavor: "Muldorf abrió los brazos, y las vidas que había absorbido explotaron de su pecho en un torrente incontrolable."
+tile_id: SoulBeam
+cost: 4
+image: /images/SoulBeam.png
+hero: necromancer
+ru-RU_name: "Луч души"
+ru-RU_description: "Наносит 2 piercing урона выбранному врагу и все врагам в этом столбце. Перезаряжается после смерти minion"
+ru-RU_flavor: "Мульдорф широко распахнул руки, и жизни, которые он поглотил, вылетели от его души в неконтролируемом потоке."
 tile_id: SoulBeam
 cost: 4
 image: /images/SoulBeam.png

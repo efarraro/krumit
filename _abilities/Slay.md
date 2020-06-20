@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Slay"
-EN_description: "Deal 3 piercing damage to target enemy.  If they are slain, increase your base attack by 1 for the remainder of dungeon.  Exhaust"
+EN_description: "Deal 3 piercing damage to target enemy. If they perish, increase your base 🔸 by 1 for the remainder of dungeon.  Exhaust"
 EN_flavor: "Just slay"
 tile_id: Slay
 cost: 5
@@ -15,8 +15,15 @@ cost: 5
 image: /images/Slay.png
 hero: rogue
 es-ES_name: "Asesinar"
-es-ES_description: "Haz 3 de daño piercing a un enemigo objetivo. Si es destruido, incrementa tu ataque base en 1 por el resto del calabozo. Exhaust"
+es-ES_description: "Haz 3 de daño piercing a un enemigo objetivo. Si es destruido, incrementa tu 🔸 base en 1 por el resto de la mazmorra. Exhaust"
 es-ES_flavor: "Todos se mueren por verte."
+tile_id: Slay
+cost: 5
+image: /images/Slay.png
+hero: rogue
+ru-RU_name: "Убийство"
+ru-RU_description: "Наносит 3 piercing урона выбранному врагу. Если он умрёт, увеличивает вашу базовую 🔸 на 1 до конца подземелья. Exhaust"
+ru-RU_flavor: "Просто убей"
 tile_id: Slay
 cost: 5
 image: /images/Slay.png

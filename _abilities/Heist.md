@@ -14,9 +14,16 @@ tile_id: Heist
 cost: 1
 image: /images/Heist.png
 hero: rogue
-es-ES_name: "劫掠"
-es-ES_description: "下一张卡牌是物品或者能力时，将其直接放到你的物品栏中。击败3名敌人来为这张卡牌充能。"
-es-ES_flavor: "“劫掠具体有多顺利？这些人连丢了什么都不知道！”——捣蛋鬼"
+es-ES_name: "Atraco"
+es-ES_description: "Si la 'Siguiente' ficha es un ítem o habilidad, ponla en tu inventario sin pagar su costo. Exhaust"
+es-ES_flavor: "'Sabes que un atraco ha salido bien cuando ni siquiera se dan cuenta de que falta algo.' - Travesuras"
+tile_id: Heist
+cost: 1
+image: /images/Heist.png
+hero: rogue
+ru-RU_name: "Ограбление"
+ru-RU_description: "Если следующий тайл - это предмет или способность, поместите его в свой инвентарь без оплаты. Exhaust"
+ru-RU_flavor: "«Вы понимаете, что ограбление прошло гладко, когда они даже не знают, чего именно не хватает». - Озорница"
 tile_id: Heist
 cost: 1
 image: /images/Heist.png

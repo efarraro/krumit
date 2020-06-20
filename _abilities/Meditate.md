@@ -21,4 +21,11 @@ tile_id: Meditate
 cost: 2
 image: /images/Meditate.png
 hero: mage
+ru-RU_name: "Медитация"
+ru-RU_description: "Уменьшает стоимость всех видимых способностей на 1. Exhaust"
+ru-RU_flavor: "Oммммммммммм. Мooooooooooo."
+tile_id: Meditate
+cost: 2
+image: /images/Meditate.png
+hero: mage
 ---

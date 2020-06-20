@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Incinerate"
-EN_description: "Deal 4 piercing damage to target enemy.  If target is afflicted by burn, deal an extra 6 piercing damage. Exhaust"
+EN_description: "Deal 4 piercing damage to target enemy. If target is burning, deal an extra 6 piercing damage. Exhaust"
 EN_flavor: "Turn up the heat. To 11."
 tile_id: Incinerate
 cost: 2
@@ -15,8 +15,15 @@ cost: 2
 image: /images/Incinerate.png
 hero: mage
 es-ES_name: "Incinerar"
-es-ES_description: "Haz 4 de daño piercing a un enemigo objetivo. Si el objetivo está burn, haz 6 extra de daño piercing. Exhaust"
+es-ES_description: "Haz 4 de daño piercing a un enemigo objetivo. Si el objetivo está burned, hazle 6 extra de daño piercing. Exhaust"
 es-ES_flavor: "Sube la calefacción. Súbela a 11."
+tile_id: Incinerate
+cost: 2
+image: /images/Incinerate.png
+hero: mage
+ru-RU_name: "Испепеление"
+ru-RU_description: "Наносит 4 piercing урона выбранному врагу. Если враг burning, наносит дополнительно 6 piercing урона. Exhaust"
+ru-RU_flavor: "Поддай жару. До 11."
 tile_id: Incinerate
 cost: 2
 image: /images/Incinerate.png

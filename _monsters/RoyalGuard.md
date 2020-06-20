@@ -2,17 +2,22 @@
 
 EN_name: "Town Guard"
 EN_description: "No fighting!  Can't equip melee weapons while this enemy is on the board"
-EN_flavor: "Town Guards are staunch defenders of The Imperium, and of its capital (and only city), Imperiumville."
+EN_flavor: "This is a placeholder until someone writes it!"
 tile_id: RoyalGuard
 image: /images/RoyalGuard.png
-zh-CN_name: "村庄守卫"
-zh-CN_description: "不准打架！这名敌人在场时无法装备武器。"
-zh-CN_flavor: "村庄守卫一直都在忠实地守卫着帝国，以及帝国的首都（也是帝国唯一的城市）：帝村."
+zh-CN_name: "Town Guard"
+zh-CN_description: "No fighting!  Can't equip melee weapons while this enemy is on the board"
+zh-CN_flavor: "This is a placeholder until someone writes it!"
 tile_id: RoyalGuard
 image: /images/RoyalGuard.png
-es-ES_name: "Guardia Ciudadana"
-es-ES_description: "¡Prohibido pelear! No puedes equipar armas de melé mientras este enemigo esté en el tablero."
-es-ES_flavor: "La Guardia Ciudadana es la acérrima defensora del Imperio y de su capital (y única ciudad), Imperiovilla."
+es-ES_name: "Town Guard"
+es-ES_description: "No fighting!  Can't equip melee weapons while this enemy is on the board"
+es-ES_flavor: "This is a placeholder until someone writes it!"
+tile_id: RoyalGuard
+image: /images/RoyalGuard.png
+ru-RU_name: "Town Guard"
+ru-RU_description: "No fighting!  Can't equip melee weapons while this enemy is on the board"
+ru-RU_flavor: "This is a placeholder until someone writes it!"
 tile_id: RoyalGuard
 image: /images/RoyalGuard.png
 ---

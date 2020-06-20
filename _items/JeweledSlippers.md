@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Jeweled Slippers"
-EN_description: "Activate to shuffle all tiles back into the dungeon deck.  If in battle, also leave battle."
+EN_description: "Shuffle all tiles back into the deck.  If in battle, also leave battle."
 EN_flavor: "Just clack your heels together and... nope, still in the dungeon."
 tile_id: JeweledSlippers
 cost: 2
@@ -17,8 +17,16 @@ image: /images/JeweledSlippers.png
 durability: 3
 hero: mage
 es-ES_name: "Pantuflas Enjoyadas"
-es-ES_description: "Activa este ítem para barajar todas las fichas de vuelta en el mazo-calabozo. Si estás en combate, déjalo también."
-es-ES_flavor: "Solo entrechoca tus tacones, y... no, sigues en el calabozo."
+es-ES_description: "Baraja todas las fichas de vuelta en el mazo. Si estás en combate, déjalo también."
+es-ES_flavor: "Solo entrechoca tus tacones, y... no, sigues en la mazmorra."
+tile_id: JeweledSlippers
+cost: 2
+image: /images/JeweledSlippers.png
+durability: 3
+hero: mage
+ru-RU_name: "Ювелирные тапки"
+ru-RU_description: "Замешивает все карточки обратно в колоду подземелья. Если активируется в сражении, также завершает сражение"
+ru-RU_flavor: "Просто цокните вашими пятками и... н-нет, все ещё в подземелье."
 tile_id: JeweledSlippers
 cost: 2
 image: /images/JeweledSlippers.png

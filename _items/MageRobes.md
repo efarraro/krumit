@@ -24,4 +24,12 @@ cost: 0
 image: /images/MageRobes.png
 durability: 2
 hero: mage
+ru-RU_name: "Волшебная мантия"
+ru-RU_description: "Увеличивает block этого предмета на 1, когда вы получаете навык."
+ru-RU_flavor: "Эти мантии украшены 34 звездами, по одной на каждого из выпускников Вступительной школы магов."
+tile_id: MageRobes
+cost: 0
+image: /images/MageRobes.png
+durability: 2
+hero: mage
 ---

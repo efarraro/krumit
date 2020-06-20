@@ -69,7 +69,7 @@ monsters:
     quantity: 1
     url: /monsters/TheExile
 es-ES_name: "Sector Cero"
-es-ES_description: "El Sector Cero. Donde empezó el nuevo orden mundial. Ahora no es más que poza glorificada de fango tóxico, con un nombre pegadizo."
+es-ES_description: "El Sector Cero, donde empezó el nuevo orden mundial. Ahora no es más que poza glorificada de fango tóxico con un nombre pegadizo."
 tier: 7
 monsters:
   - monster:
@@ -78,7 +78,7 @@ monsters:
     quantity: 4
     url: /monsters/Slime
   - monster:
-    name: "Lobo Mocoso"
+    name: "Moquenco"
     image: /images/Nukadog.png
     quantity: 4
     url: /monsters/Nukadog
@@ -99,6 +99,40 @@ monsters:
     url: /monsters/TrashGolem
   - monster:
     name: "El Exiliado"
+    image: /images/TheExile.png
+    quantity: 1
+    url: /monsters/TheExile
+ru-RU_name: "Сектор Ноль"
+ru-RU_description: "Сектор Ноль. Место, где начался новый мировой порядок. Сейчас это не что иное, как свалка токсичных отходов с громким названием"
+tier: 7
+monsters:
+  - monster:
+    name: "Глоббер"
+    image: /images/Slime.png
+    quantity: 4
+    url: /monsters/Slime
+  - monster:
+    name: "Волк-сопляк"
+    image: /images/Nukadog.png
+    quantity: 4
+    url: /monsters/Nukadog
+  - monster:
+    name: "Нюк-Викинг"
+    image: /images/Viking.png
+    quantity: 4
+    url: /monsters/Viking
+  - monster:
+    name: "Байкер-Мутант"
+    image: /images/Biker.png
+    quantity: 3
+    url: /monsters/Biker
+  - monster:
+    name: "Мусорный голем"
+    image: /images/TrashGolem.png
+    quantity: 2
+    url: /monsters/TrashGolem
+  - monster:
+    name: "Изгнанник"
     image: /images/TheExile.png
     quantity: 1
     url: /monsters/TheExile

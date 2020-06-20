@@ -21,4 +21,11 @@ tile_id: Vanish
 cost: 1
 image: /images/Vanish.png
 hero: rogue
+ru-RU_name: "Исчезновение"
+ru-RU_description: "Даёт stealth и перезаряжает все перезаряжаемые навыки. Exhaust"
+ru-RU_flavor: "'Сразиться с тобой? Хах. Как неприлично. Теперь, извини.' - Поппинджей."
+tile_id: Vanish
+cost: 1
+image: /images/Vanish.png
+hero: rogue
 ---

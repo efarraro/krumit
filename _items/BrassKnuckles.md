@@ -17,8 +17,16 @@ image: /images/BrassKnuckles.png
 durability: 2
 hero: rogue
 es-ES_name: "Manopla"
-es-ES_description: "Si tu ataque tiene blitz, inflige stun a tu oponente después de atacar"
+es-ES_description: "Si tu ataque tiene blitz, stun a tu oponente después de atacar"
 es-ES_flavor: "Imprescindible si planeas meterte en peleas de bar."
+tile_id: BrassKnuckles
+cost: 1
+image: /images/BrassKnuckles.png
+durability: 2
+hero: rogue
+ru-RU_name: "Кастет"
+ru-RU_description: "Если ваша атака имеет blitz, stun врага после атаки."
+ru-RU_flavor: "Обязательный атрибут, если вы планируете ввязаться в драку в баре"
 tile_id: BrassKnuckles
 cost: 1
 image: /images/BrassKnuckles.png

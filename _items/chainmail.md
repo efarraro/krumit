@@ -24,4 +24,12 @@ cost: 2
 image: /images/ChainMail.png
 durability: 2
 hero: warrior
+ru-RU_name: "Кольчуга"
+ru-RU_description: "Обыкновенный предмет - никаких дополнительных свойств"
+ru-RU_flavor: "Гораздо тяжелее, чем может показаться."
+tile_id: ChainMail
+cost: 2
+image: /images/ChainMail.png
+durability: 2
+hero: warrior
 ---

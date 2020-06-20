@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Defensive Stance"
-EN_description: "Gain Block (2) at the start of each turn and reduce your base attack by 1 for the remainder of battle"
+EN_description: "Gain Block (2) at the start of each turn and reduce your base 🔸 by 1 for the remainder of battle"
 EN_flavor: 
 tile_id: DefensiveStance
 cost: 3
@@ -15,8 +15,15 @@ cost: 3
 image: /images/DefensiveStance.png
 hero: warrior
 es-ES_name: "Postura Defensiva"
-es-ES_description: "Gana Block (2) al principio de cada turno y reduce tu ataque base en 1 por el resto del combate"
+es-ES_description: "Gana Block (2) al principio de cada turno y reduce tu 🔸 base en 1 por el resto del combate"
 es-ES_flavor: 
+tile_id: DefensiveStance
+cost: 3
+image: /images/DefensiveStance.png
+hero: warrior
+ru-RU_name: "Защитная стойка"
+ru-RU_description: "Даёт Block (2) в начале каждого раунда и уменьшает вашу базовую 🔸 на 1 до конца сражения"
+ru-RU_flavor: 
 tile_id: DefensiveStance
 cost: 3
 image: /images/DefensiveStance.png

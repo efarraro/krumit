@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Wizard Hat"
-EN_description: "When you acquire this item, shuffle copies of abilities in the same row into the dungeon deck"
+EN_description: "When you acquire this item, shuffle copies of abilities in the same row into the deck"
 EN_flavor: "If you turn this upside down – lo and behold! – you can use it for raffles."
 tile_id: MageHat
 cost: 2
@@ -17,8 +17,16 @@ image: /images/MageHat.png
 durability: 3
 hero: mage
 es-ES_name: "Sombrero de Mago"
-es-ES_description: "Cuando adquieras este ítem, baraja copias de las habilidades en la misma fila en el mazo-calabozo"
+es-ES_description: "Cuando adquieras este ítem, baraja copias de las habilidades en la misma fila en el mazo"
 es-ES_flavor: "Si lo das vuelta - ¡que sorpresa! - puedes usarlo para rifas."
+tile_id: MageHat
+cost: 2
+image: /images/MageHat.png
+durability: 3
+hero: mage
+ru-RU_name: "Волшебная шляпа"
+ru-RU_description: "Когда вы приобретаете этот предмет, замешивает копии навыков, находящиеся в этом ряду, в колоду подземелья."
+ru-RU_flavor: "Если вы перевернёте его вверх дном, то, о чудо, вы можете использовать это для лотереи."
 tile_id: MageHat
 cost: 2
 image: /images/MageHat.png

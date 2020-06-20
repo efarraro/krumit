@@ -2,17 +2,22 @@
 
 EN_name: "Skeleton"
 EN_description: "This enemy doesn't have any special powers or effects"
-EN_flavor: "Thralls of the Bonelord Calacas, these skeletons might be heartless, but they still have soul."
+EN_flavor: "Not the most original enemy, but y'know - ya gotta have em"
 tile_id: Skeleton
 image: /images/Skeleton.png
-zh-CN_name: "骷髅"
-zh-CN_description: "这名敌人没有任何特殊能力或者特殊效果。"
-zh-CN_flavor: "骨王卡拉卡斯的手下，这些骷髅虽然没心没肺，但它们还有灵魂。"
+zh-CN_name: "Skeleton"
+zh-CN_description: "This enemy doesn't have any special powers or effects"
+zh-CN_flavor: "Not the most original enemy, but y'know - ya gotta have em"
 tile_id: Skeleton
 image: /images/Skeleton.png
-es-ES_name: "Esqueleto"
-es-ES_description: "Este enemigo no tiene poderes o efectos especiales"
-es-ES_flavor: "Esclavos de Calacas, Señor de los Huesos, puede que estos esqueletos sean descorazonados, pero todavía tienen un alma."
+es-ES_name: "Skeleton"
+es-ES_description: "This enemy doesn't have any special powers or effects"
+es-ES_flavor: "Not the most original enemy, but y'know - ya gotta have em"
+tile_id: Skeleton
+image: /images/Skeleton.png
+ru-RU_name: "Skeleton"
+ru-RU_description: "This enemy doesn't have any special powers or effects"
+ru-RU_flavor: "Not the most original enemy, but y'know - ya gotta have em"
 tile_id: Skeleton
 image: /images/Skeleton.png
 ---

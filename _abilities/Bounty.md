@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Bounty"
-EN_description: "Whenever you defeat an enemy adjacent to this tile, add 1 gold to Bounty. Acquire this tile to gain that much gold (Exhaust immediately)"
+EN_description: "Whenever you defeat an enemy adjacent to this tile, add 1 coin to Bounty. Acquire this tile to gain that much coin. Instant"
 EN_flavor: "'There's money on their head. What? Yes, of course I'm sure. And they went that way.' Gyralt, aka The Snitcher."
 tile_id: Bounty
 cost: 0
@@ -15,8 +15,15 @@ cost: 0
 image: /images/Bounty.png
 hero: rogue
 es-ES_name: "Recompensa"
-es-ES_description: "Cuando derrotes a un enemigo adyacente a esta ficha, añade 1 de oro a Recompensa. Adquiere esta ficha para ganar esa cantidad de oro (Exhaust inmediatamente)"
-es-ES_flavor: "'Sus cabezas tiene precio. ¿Cómo? Sí, por supuesto que estoy seguro. Y se fueron por allá.' - Gyralt, alias El Soplón"
+es-ES_description: "Cuando derrotes a un enemigo adyacente a esta ficha, añade 1 coin a Recompensa. Adquiere esta ficha para ganar esa cantidad de coin. Instant"
+es-ES_flavor: "'Han puesto precio a sus cabezas. ¿Cómo? Sí, por supuesto que estoy seguro. Se fueron por allá.' - Gyralt, alias El Soplón"
+tile_id: Bounty
+cost: 0
+image: /images/Bounty.png
+hero: rogue
+ru-RU_name: "Вознаграждение"
+ru-RU_description: "Когда вы побеждаете врага рядом с этой карточкой, добавляет 1 coin к Вознаграждению. Приобретение этой карточки даёт столько же золота. Instant"
+ru-RU_flavor: "'У них деньги на голове. Что? Да, я уверен, безусловно. И они пошли в ту сторону.' - Гиральт, А.К.А. Стукач."
 tile_id: Bounty
 cost: 0
 image: /images/Bounty.png

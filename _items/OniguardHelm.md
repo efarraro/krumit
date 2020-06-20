@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Demon's Blood Helm"
-EN_description: "While equipped - after your opponent attacks you, restore health equal to your base attack"
+EN_description: "When you block with this item, restore ❤️ equal to your base 🔸"
 EN_flavor: "This helm thrives on pain. The longer one wears it, the deeper their bloodlust."
 tile_id: OniguardHelm
 cost: 2
@@ -17,8 +17,16 @@ image: /images/OniguardHelm.png
 durability: 2
 hero: warrior
 es-ES_name: "Yelmo de Sangre Endemoniada"
-es-ES_description: "Mientras está equipado - después de que tu oponente te ataque, recupera vida equivalente a tu ataque base"
-es-ES_flavor: "Este yelmo se ceba en el dolor. Mientras más lo use uno, más sediento de sangre se encuentra."
+es-ES_description: "Cuando bloquees con este ítem, recupera ❤️ equivalente a tu 🔸 base"
+es-ES_flavor: "Este yelmo se ceba en el dolor. Mientras más lo usas, más crece tu de sangre."
+tile_id: OniguardHelm
+cost: 2
+image: /images/OniguardHelm.png
+durability: 2
+hero: warrior
+ru-RU_name: "Кровавый демонический шлем"
+ru-RU_description: "После того, как вы блокировали с этим предметом, восстанавливает ❤️, равное вашей базовой 🔸"
+ru-RU_flavor: "Этот шлем процветает благодаря боли. Чем дольше его носят, тем больше их жажда крови."
 tile_id: OniguardHelm
 cost: 2
 image: /images/OniguardHelm.png

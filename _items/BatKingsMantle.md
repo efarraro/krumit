@@ -1,32 +1,32 @@
 ---
 
 EN_name: "Bat King's Mantle"
-EN_description: "Can only be equipped if you have 🟦<a href = '../en/unknown_type000#PerkQueen'>Queen</a>"
-EN_flavor: 
+EN_description: "Can only be equipped if you have 🟦Queen"
+EN_flavor: "The once-prized mantle of the Bat King can now only be worn by those of regal posture."
 tile_id: BatKingsMantle
 cost: 3
 image: /images/BatKingsMantle.png
 durability: 3
 hero: priest
 zh-CN_name: "蝙蝠之王的斗篷"
-zh-CN_description: "只有你拥有🟦<a href = '../zh_cn/unknown_type000#PerkQueen'>王后</a>才可以装备。"
-zh-CN_flavor: 
+zh-CN_description: "只有你拥有🟦王后才可以装备。"
+zh-CN_flavor: "The once-prized mantle of the Bat King can now only be worn by those of regal posture."
 tile_id: BatKingsMantle
 cost: 3
 image: /images/BatKingsMantle.png
 durability: 3
 hero: priest
 es-ES_name: "Manto del Rey Murciélago"
-es-ES_description: "Sólo puede ser equipado si tienes 🟦<a href = '../es_es/unknown_type000#PerkQueen'>Reina</a>"
-es-ES_flavor: 
+es-ES_description: "Sólo puede ser equipado si tienes 🟦Reina"
+es-ES_flavor: "The once-prized mantle of the Bat King can now only be worn by those of regal posture."
 tile_id: BatKingsMantle
 cost: 3
 image: /images/BatKingsMantle.png
 durability: 3
 hero: priest
 ru-RU_name: "Мантия короля летучих мышей"
-ru-RU_description: "Можно экипировать, если у вас есть 🟦<a href = '../ru_ru/unknown_type000#PerkQueen'>Королева</a>"
-ru-RU_flavor: 
+ru-RU_description: "Можно экипировать, если у вас есть 🟦Королева"
+ru-RU_flavor: "The once-prized mantle of the Bat King can now only be worn by those of regal posture."
 tile_id: BatKingsMantle
 cost: 3
 image: /images/BatKingsMantle.png

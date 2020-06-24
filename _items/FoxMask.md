@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Sly Fox Mask"
-EN_description: "Passive: <a href = '../en/abilities#Stab'>Stab</a> deals +1 damage"
+EN_description: "<u>Passive</u>: <a href = '../en/abilities#Stab'>Stab</a> deals +1 damage"
 EN_flavor: "A favourite of the Udon Clan. For some reason it smells faintly of deep-fried tofu."
 tile_id: FoxMask
 cost: 2
@@ -17,7 +17,7 @@ image: /images/FoxMask.png
 durability: 3
 hero: rogue
 es-ES_name: "Máscara de Zorro Astuto"
-es-ES_description: "Passive: <a href = '../es_es/abilities#Stab'>Apuñalar</a> hace +1 de daño"
+es-ES_description: "<u>Pasiva</u>: <a href = '../es_es/abilities#Stab'>Apuñalar</a> hace +1 de daño"
 es-ES_flavor: "Favorecida por el Clan Udon. Por algún motivo huele vagamente a tofu frito."
 tile_id: FoxMask
 cost: 2
@@ -25,7 +25,7 @@ image: /images/FoxMask.png
 durability: 3
 hero: rogue
 ru-RU_name: "Маска коварной лисы"
-ru-RU_description: "Passive: <a href = '../ru_ru/abilities#Stab'>Удар ножом</a> наносит +1 урона."
+ru-RU_description: "<u>Пассивно</u>: <a href = '../ru_ru/abilities#Stab'>Удар ножом</a> наносит +1 урона."
 ru-RU_flavor: "Фаворит клана Удон. По какой-то причине она слабо пахнет сильно прожаренным тофу."
 tile_id: FoxMask
 cost: 2

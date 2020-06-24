@@ -1,7 +1,7 @@
 ---
 title: Héroes
 permalink: /es_es/heroes
-lang: es
+lang: es_es
 ---
 <h3 id = 'warrior'>Bruno</h3>
 <div>
@@ -88,6 +88,28 @@ lang: es
 {% endfor %}
 {% for ability in site.abilities %}
 {% if ability.hero == "necromancer" %}
+<a href = 'abilities#{{ ability.tile_id }}'>
+<img width = '100' height = '100' src = '{{site.baseurl}}{{ ability.image }}' />
+</a>
+{% else %}
+{% continue %}
+{% endif %}
+{% endfor %}
+</div>
+
+<h3 id = 'priest'>Rose</h3>
+<div>
+{% for item in site.items %}
+{% if item.hero == "priest" %}
+<a href = 'items#{{ item.tile_id }}'>
+<img width = '100' height = '100' src = '{{site.baseurl}}{{ item.image }}' />
+</a>
+{% else %}
+{% continue %}
+{% endif %}
+{% endfor %}
+{% for ability in site.abilities %}
+{% if ability.hero == "priest" %}
 <a href = 'abilities#{{ ability.tile_id }}'>
 <img width = '100' height = '100' src = '{{site.baseurl}}{{ ability.image }}' />
 </a>

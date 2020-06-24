@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Brass Knuckles"
-EN_description: "If your attack has blitz, stun your opponent after you attack"
+EN_description: "If your attack has ⚡️ <u>blitz</u>, <u>stun</u> your opponent after you attack"
 EN_flavor: "A must if you plan on getting into bar fights"
 tile_id: BrassKnuckles
 cost: 1
@@ -9,7 +9,7 @@ image: /images/BrassKnuckles.png
 durability: 2
 hero: rogue
 zh-CN_name: "黄铜指套"
-zh-CN_description: "如果你的攻击具有blitz，在你攻击之后将其stun。"
+zh-CN_description: "如果你的攻击具有⚡️ <u>闪击</u>，在你攻击之后将其<u>击晕</u>。"
 zh-CN_flavor: "酒吧乱战必备。"
 tile_id: BrassKnuckles
 cost: 1
@@ -17,7 +17,7 @@ image: /images/BrassKnuckles.png
 durability: 2
 hero: rogue
 es-ES_name: "Manopla"
-es-ES_description: "Si tu ataque tiene blitz, stun a tu oponente después de atacar"
+es-ES_description: "Si tu ataque tiene ⚡️ <u>relámpago</u>, <u>aturde</u> a tu oponente después de atacar"
 es-ES_flavor: "Imprescindible si planeas meterte en peleas de bar."
 tile_id: BrassKnuckles
 cost: 1
@@ -25,7 +25,7 @@ image: /images/BrassKnuckles.png
 durability: 2
 hero: rogue
 ru-RU_name: "Кастет"
-ru-RU_description: "Если ваша атака имеет blitz, stun врага после атаки."
+ru-RU_description: "Если ваша атака имеет ⚡️ <u>блиц</u>, <u>оглушение</u> врага после атаки."
 ru-RU_flavor: "Обязательный атрибут, если вы планируете ввязаться в драку в баре"
 tile_id: BrassKnuckles
 cost: 1

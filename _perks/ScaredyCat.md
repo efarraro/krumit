@@ -1,19 +1,19 @@
 ---
 
 EN_name: "Scaredy Cat"
-EN_description: "Whenever you flee from battle, gain 2 block"
+EN_description: "Whenever you flee from battle, gain 2 🛡️️ <u>block</u>"
 tile_id: ScaredyCat
 image: /images/ScaredyCat.png
 zh-CN_name: "怯懦猫"
-zh-CN_description: "每次逃离战斗都会获得2点block"
+zh-CN_description: "每次逃离战斗都会获得2点🛡️️ <u>格挡</u>"
 tile_id: ScaredyCat
 image: /images/ScaredyCat.png
 es-ES_name: "Gatito Asustado"
-es-ES_description: "Cuando huyas de un combate, gana 2 de block"
+es-ES_description: "Cuando huyas de un combate, gana 2 de 🛡️️ <u>bloqueo</u>"
 tile_id: ScaredyCat
 image: /images/ScaredyCat.png
 ru-RU_name: "Испуганная кошка"
-ru-RU_description: "Всякий раз, когда вы спасаетесь бегством, даёт 2 block"
+ru-RU_description: "Всякий раз, когда вы спасаетесь бегством, даёт 2 🛡️️ <u>Блокирование</u>"
 tile_id: ScaredyCat
 image: /images/ScaredyCat.png
 ---

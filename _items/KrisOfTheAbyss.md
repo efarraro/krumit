@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Kris of the Abyss"
-EN_description: "Whenever you summon a minion, increase this weapon's 🔸 by 1"
+EN_description: "Whenever you summon a 💀 <u>Minion</u>, increase this weapon's 🔸 by 1"
 EN_flavor: "The Abyss Kris is said to be able to sever the string binding a soul to the afterlife."
 tile_id: KrisOfTheAbyss
 cost: 3
@@ -9,7 +9,7 @@ image: /images/KrisOfTheAbyss.png
 durability: 3
 hero: necromancer
 zh-CN_name: "深渊短剑"
-zh-CN_description: "每召唤一名minion便为这把武器增加1点🔸"
+zh-CN_description: "每召唤一名💀 <u>随从</u>便为这把武器增加1点🔸"
 zh-CN_flavor: "据说深渊短剑可以将灵魂与其来世之间的连接斩断。"
 tile_id: KrisOfTheAbyss
 cost: 3
@@ -17,7 +17,7 @@ image: /images/KrisOfTheAbyss.png
 durability: 3
 hero: necromancer
 es-ES_name: "Kris del Abismo"
-es-ES_description: "Cada vez que invoques un minion, incrementa el 🔸 de esta arma en 1"
+es-ES_description: "Cada vez que invoques un 💀 <u>Esbirro</u>, incrementa el 🔸 de esta arma en 1"
 es-ES_flavor: "Se dice que el Kris del Abismo puede cortar el hilo que ata las almas al más allá."
 tile_id: KrisOfTheAbyss
 cost: 3
@@ -25,7 +25,7 @@ image: /images/KrisOfTheAbyss.png
 durability: 3
 hero: necromancer
 ru-RU_name: "Крис бездны"
-ru-RU_description: "Когда вы призываете minion, увеличивает 🔸 этого предмета на 1."
+ru-RU_description: "Когда вы призываете 💀 <u>Миньон</u>, увеличивает 🔸 этого предмета на 1."
 ru-RU_flavor: "Поговаривают, что крис бездны способен разорвать нить, связывающую душу с загробной жизнью."
 tile_id: KrisOfTheAbyss
 cost: 3

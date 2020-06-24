@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Ancient Tome"
-EN_description: "Draft a copy of an ability you acquired during this dungeon"
+EN_description: "<u>Draft</u> a copy of an ability you acquired during this dungeon"
 EN_flavor: "Greybeard hoped that this tome would contain some clue as to how to stop his beard from growing. And once again he was disappointed."
 tile_id: AncientTome
 cost: 4
@@ -17,7 +17,7 @@ image: /images/AncientTome.png
 durability: 2
 hero: mage
 es-ES_name: "Tomo Ancestral"
-es-ES_description: "Draft una copia de una habilidad que hayas adquerido en esta mazmorra"
+es-ES_description: "<u>Roba</u> una copia de una habilidad que hayas adquerido en esta mazmorra"
 es-ES_flavor: "Barbagrís esperaba encontrar en este tomo alguna pista sobre cómo evitar que su barba siguiera creciendo. Y una vez más terminó decepcionado."
 tile_id: AncientTome
 cost: 4
@@ -25,7 +25,7 @@ image: /images/AncientTome.png
 durability: 2
 hero: mage
 ru-RU_name: "Древний том"
-ru-RU_description: "Draft копию способности которую вы получили во время этого подземелья"
+ru-RU_description: "<u>Вытягивание</u> копию способности которую вы получили во время этого подземелья"
 ru-RU_flavor: "Серобородый надеялся что этот том будет иметь какую либо подсказку к тому, как остановить рост его бороды. И ещё раз, он был разочарован."
 tile_id: AncientTome
 cost: 4

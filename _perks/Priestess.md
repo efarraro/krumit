@@ -1,19 +1,19 @@
 ---
 
 EN_name: "Chosen"
-EN_description: "Overheal: Convert up to 3 curses on the board into blessings"
+EN_description: "<u>Overheal</u>: Convert up to 3 <u>curses</u> on the board into <u>Blessings</u>"
 tile_id: Priestess
 image: /images/Priestess.png
 zh-CN_name: "神选"
-zh-CN_description: "Overheal：将场上最多3个curses转化成blessings"
+zh-CN_description: "<u>过量治疗</u>：将场上最多3个<u>诅咒</u>转化成<u>祝福</u>"
 tile_id: Priestess
 image: /images/Priestess.png
 es-ES_name: "Elegida"
-es-ES_description: "Overheal: Convierte hasta 3 curses en el tablero en blessings"
+es-ES_description: "<u>Sobrecura</u>: Convierte hasta 3 <u>maldiciones</u> en el tablero en <u>Bendiciones</u>"
 tile_id: Priestess
 image: /images/Priestess.png
 ru-RU_name: "Избранный"
-ru-RU_description: "Overheal: Превратите до 3 curses на поле в blessings"
+ru-RU_description: "<u>Сверхлечение</u>: Превратите до 3 <u>проклятия</u> на поле в <u>Благословения</u>"
 tile_id: Priestess
 image: /images/Priestess.png
 ---

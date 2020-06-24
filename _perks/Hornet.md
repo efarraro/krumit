@@ -1,19 +1,19 @@
 ---
 
 EN_name: "Hornet"
-EN_description: "After you attack with a weapon, inflict poison. Deal +1 damage vs poisoned enemies"
+EN_description: "After you attack with a weapon, inflict  <u>poison</u>. Deal +1 damage vs poisoned enemies"
 tile_id: Hornet
 image: /images/Hornet.png
 zh-CN_name: "毒蜂"
-zh-CN_description: "使用武器攻击会施加poison。对中毒的敌人+1伤害"
+zh-CN_description: "使用武器攻击会施加 <u>剧毒</u>。对中毒的敌人+1伤害"
 tile_id: Hornet
 image: /images/Hornet.png
 es-ES_name: "Avispa"
-es-ES_description: "Después de atacar con un arma, inflige poison. Haz +1 de daño contra enemigos envenenados"
+es-ES_description: "Después de atacar con un arma, inflige  <u>veneno</u>. Haz +1 de daño contra enemigos envenenados"
 tile_id: Hornet
 image: /images/Hornet.png
 ru-RU_name: "Шершень"
-ru-RU_description: "После того как вы атакуете оружием, накладывает poison. Наносит +1 отравленным врагам."
+ru-RU_description: "После того как вы атакуете оружием, накладывает  <u>яд</u>. Наносит +1 отравленным врагам."
 tile_id: Hornet
 image: /images/Hornet.png
 ---

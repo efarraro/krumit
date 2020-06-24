@@ -1,29 +1,29 @@
 ---
 
 EN_name: "Corrupting Touch"
-EN_description: "When you acquire this, mutate 🟦<a href = '../en/unknown_type000#PerkQueen'>Queen</a>. Your next attack has piercing and applies corruption (6). Exhaust"
-EN_flavor: 
+EN_description: "When you acquire this, <u>Mutate</u> 🟦Queen. Your next attack has <u>piercing</u> and applies  <u>corruption</u> (6). <u>Exhaust</u>"
+EN_flavor: "'Damn their soul and prove you truly desire the eternal throne...' - Umbrala"
 tile_id: CorruptingTouch
 cost: 1
 image: /images/CorruptingTouch.png
 hero: priest
 zh-CN_name: "腐化之触"
-zh-CN_description: "获得这张卡牌时将你的初始能力替换成🟦<a href = '../zh_cn/unknown_type000#PerkQueen'>王后</a>。你的下一次攻击获得piercing，并施加corruption (6)。Exhaust"
-zh-CN_flavor: 
+zh-CN_description: "获得这张卡牌时将你的初始能力替换成🟦王后。你的下一次攻击获得<u>穿透</u>，并施加 <u>腐化</u> (6)。<u>消耗</u>"
+zh-CN_flavor: "'Damn their soul and prove you truly desire the eternal throne...' - Umbrala"
 tile_id: CorruptingTouch
 cost: 1
 image: /images/CorruptingTouch.png
 hero: priest
 es-ES_name: "Toque Corruptor"
-es-ES_description: "Cuando adquieras esto, intercambia tu ventaja inicial por icon<a href = '../es_es/unknown_type000#PerkQueen'>Reina</a>. Tu siguiente ataque es piercing y aplica corruption (6). Exhaust"
-es-ES_flavor: 
+es-ES_description: "Cuando adquieras esto, intercambia tu ventaja inicial por iconReina. Tu siguiente ataque es <u>penetrante</u> y aplica  <u>corrupción</u> (6). <u>Agota</u>"
+es-ES_flavor: "'Damn their soul and prove you truly desire the eternal throne...' - Umbrala"
 tile_id: CorruptingTouch
 cost: 1
 image: /images/CorruptingTouch.png
 hero: priest
 ru-RU_name: "Оскверненное касание"
-ru-RU_description: "Когда вы получаете это, замените свой стартовый перк на 🟦<a href = '../ru_ru/unknown_type000#PerkQueen'>Королева</a>. Ваша следующая атака имеет piercing и накладывает corruption (6). Exhaust"
-ru-RU_flavor: 
+ru-RU_description: "Когда вы получаете это, замените свой стартовый перк на 🟦Королева. Ваша следующая атака имеет <u>пронзающий</u> и накладывает  <u>осквернение</u> (6). <u>Сжигается</u>"
+ru-RU_flavor: "'Damn their soul and prove you truly desire the eternal throne...' - Umbrala"
 tile_id: CorruptingTouch
 cost: 1
 image: /images/CorruptingTouch.png

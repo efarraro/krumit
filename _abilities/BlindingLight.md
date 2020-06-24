@@ -1,29 +1,29 @@
 ---
 
 EN_name: "Blinding Light"
-EN_description: "Passive. Overheal: Stun your opponent. Recharge after 3 rounds in battle"
-EN_flavor: 
+EN_description: "<u>Passive</u>. <u>Overheal</u>: <u>stun</u> your opponent. Recharge after 3 rounds in battle"
+EN_flavor: "Awe and shock."
 tile_id: BlindingLight
 cost: 2
 image: /images/BlindingLight.png
 hero: priest
 zh-CN_name: "盲目之光"
-zh-CN_description: "Passive。Overheal：Stun你的敌人。在战斗中经过3回合来为这张卡牌充能"
-zh-CN_flavor: 
+zh-CN_description: "<u>被动</u>。<u>过量治疗</u>：<u>击晕</u>你的敌人。在战斗中经过3回合来为这张卡牌充能"
+zh-CN_flavor: "Awe and shock."
 tile_id: BlindingLight
 cost: 2
 image: /images/BlindingLight.png
 hero: priest
 es-ES_name: "Luz Cegadora"
-es-ES_description: "Passive. Overheal: Stun a tu oponente. Recarga después de 3 rondas de combate"
-es-ES_flavor: 
+es-ES_description: "<u>Pasiva</u>. <u>Sobrecura</u>: <u>aturde</u> a tu oponente. Recarga después de 3 rondas de combate"
+es-ES_flavor: "Awe and shock."
 tile_id: BlindingLight
 cost: 2
 image: /images/BlindingLight.png
 hero: priest
 ru-RU_name: "Ослепительный свет"
-ru-RU_description: "Passive. Overheal: Stun вашего врага. Перезаряжается после 3 раундов сражения"
-ru-RU_flavor: 
+ru-RU_description: "<u>Пассивно</u>. <u>Сверхлечение</u>: <u>оглушение</u> вашего врага. Перезаряжается после 3 раундов сражения"
+ru-RU_flavor: "Awe and shock."
 tile_id: BlindingLight
 cost: 2
 image: /images/BlindingLight.png

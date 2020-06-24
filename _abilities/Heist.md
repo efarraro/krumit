@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Heist"
-EN_description: "If the 'Next' tile is an item or ability, put it into your inventory without paying the cost. Exhaust"
+EN_description: "If the 'Next' tile is an item or ability, put it into your inventory without paying the cost. <u>Exhaust</u>"
 EN_flavor: "'You know a heist has gone smoothly when they don't even know something's missing.' - Mischief"
 tile_id: Heist
 cost: 1
@@ -15,14 +15,14 @@ cost: 1
 image: /images/Heist.png
 hero: rogue
 es-ES_name: "Atraco"
-es-ES_description: "Si la 'Siguiente' ficha es un ítem o habilidad, ponla en tu inventario sin pagar su costo. Exhaust"
+es-ES_description: "Si la 'Siguiente' ficha es un ítem o habilidad, ponla en tu inventario sin pagar su costo. <u>Agota</u>"
 es-ES_flavor: "'Sabes que un atraco ha salido bien cuando ni siquiera se dan cuenta de que falta algo.' - Travesuras"
 tile_id: Heist
 cost: 1
 image: /images/Heist.png
 hero: rogue
 ru-RU_name: "Ограбление"
-ru-RU_description: "Если следующий тайл - это предмет или способность, поместите его в свой инвентарь без оплаты. Exhaust"
+ru-RU_description: "Если следующий тайл - это предмет или способность, поместите его в свой инвентарь без оплаты. <u>Сжигается</u>"
 ru-RU_flavor: "«Вы понимаете, что ограбление прошло гладко, когда они даже не знают, чего именно не хватает». - Озорница"
 tile_id: Heist
 cost: 1

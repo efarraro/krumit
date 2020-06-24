@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Deathblow Katana"
-EN_description: "This weapon can only be equipped immediately after you parry"
+EN_description: "This weapon can only be equipped immediately after you  <u>parry</u>"
 EN_flavor: "A deadly weapon from a far off land. A faded inscription on the hilt reads 'If found, plz return to the One-Armed Wolf.'"
 tile_id: DeathblowKatana
 cost: 3
@@ -17,7 +17,7 @@ image: /images/DeathblowKatana.png
 durability: 3
 hero: warrior
 es-ES_name: "Katana Mortífera"
-es-ES_description: "Esta arma solo puede ser equipada inmediatamente después de parry"
+es-ES_description: "Esta arma solo puede ser equipada inmediatamente después de  <u>desviar</u>"
 es-ES_flavor: "Un arma mortal de una tierra distante. Una descolorida inscripción en el mango dice 'Si me encuentras, porfa devuélveme al Lobo Manco.'"
 tile_id: DeathblowKatana
 cost: 3
@@ -25,7 +25,7 @@ image: /images/DeathblowKatana.png
 durability: 3
 hero: warrior
 ru-RU_name: "Добивающая катана"
-ru-RU_description: "Это оружие можно экипировать только после вашего parry"
+ru-RU_description: "Это оружие можно экипировать только после вашего  <u>парирование</u>"
 ru-RU_flavor: "Смертельное оружие из другого мира. Выцветшая надпись на рукояти гласит: «Когда найдете, пожалуйста, верните это Однорукому Волку»."
 tile_id: DeathblowKatana
 cost: 3

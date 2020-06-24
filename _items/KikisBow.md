@@ -1,32 +1,32 @@
 ---
 
 EN_name: "Kiki's Bow"
-EN_description: "Convert target curse into a blessing. mutate 🟦<a href = '../en/unknown_type000#PerkPriestess'>Chosen</a> when you acquire this"
-EN_flavor: 
+EN_description: "Convert target <u>Curse</u> into a <u>Blessing</u>. <u>Mutate</u> 🟦Chosen when you acquire this"
+EN_flavor: "Kiki's blessing service was in such demand, she eventually enchanted a number of blessed bows to handle the workload."
 tile_id: KikisBow
 cost: 1
 image: /images/KikisBow.png
 durability: 3
 hero: priest
 zh-CN_name: "琪琪的蝴蝶结"
-zh-CN_description: "将目标curse转化成blessing。获得这件物品时将你的初始能力替换成🟦<a href = '../zh_cn/unknown_type000#PerkPriestess'>神选</a>"
-zh-CN_flavor: 
+zh-CN_description: "将目标<u>诅咒</u>转化成<u>祝福</u>。获得这件物品时将你的初始能力替换成🟦神选"
+zh-CN_flavor: "Kiki's blessing service was in such demand, she eventually enchanted a number of blessed bows to handle the workload."
 tile_id: KikisBow
 cost: 1
 image: /images/KikisBow.png
 durability: 3
 hero: priest
 es-ES_name: "Cinta de Kiki"
-es-ES_description: "Convierte una curse objetivo en una blessing. Intercambia tu ventaja inicial por 🟦<a href = '../es_es/unknown_type000#PerkPriestess'>Elegida</a> cuando adquieras esto"
-es-ES_flavor: 
+es-ES_description: "Convierte una <u>Maldición</u> objetivo en una <u>Bendición</u>. Intercambia tu ventaja inicial por 🟦Elegida cuando adquieras esto"
+es-ES_flavor: "Kiki's blessing service was in such demand, she eventually enchanted a number of blessed bows to handle the workload."
 tile_id: KikisBow
 cost: 1
 image: /images/KikisBow.png
 durability: 3
 hero: priest
 ru-RU_name: "Лук Кики"
-ru-RU_description: "Превратите выбранное curse в blessing. Замените ваш стартовый перк на 🟦<a href = '../ru_ru/unknown_type000#PerkPriestess'>Избранный</a>, когда приобретаете это"
-ru-RU_flavor: 
+ru-RU_description: "Превратите выбранное <u>Проклятие</u> в <u>Благословение</u>. Замените ваш стартовый перк на 🟦Избранный, когда приобретаете это"
+ru-RU_flavor: "Kiki's blessing service was in such demand, she eventually enchanted a number of blessed bows to handle the workload."
 tile_id: KikisBow
 cost: 1
 image: /images/KikisBow.png

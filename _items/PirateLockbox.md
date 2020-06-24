@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Pirate Lockbox"
-EN_description: "Draft a random item"
+EN_description: "<u>Draft</u> a random item"
 EN_flavor: "Pirates are distrustful types. The real key to a pirate's lockbox is touching their heartie."
 tile_id: PirateLockbox
 cost: 2
@@ -9,7 +9,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 EN_name: "Pirate Lockbox"
-EN_description: "Draft a random item"
+EN_description: "<u>Draft</u> a random item"
 EN_flavor: "Pirates are distrustful types. The real key to a pirate's lockbox is touching their heartie."
 tile_id: PirateLockbox
 cost: 2
@@ -17,7 +17,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 EN_name: "Pirate Lockbox"
-EN_description: "Draft a random item"
+EN_description: "<u>Draft</u> a random item"
 EN_flavor: "Pirates are distrustful types. The real key to a pirate's lockbox is touching their heartie."
 tile_id: PirateLockbox
 cost: 2
@@ -25,7 +25,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 EN_name: "Pirate Lockbox"
-EN_description: "Draft a random item"
+EN_description: "<u>Draft</u> a random item"
 EN_flavor: "Pirates are distrustful types. The real key to a pirate's lockbox is touching their heartie."
 tile_id: PirateLockbox
 cost: 2
@@ -33,7 +33,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 EN_name: "Pirate Lockbox"
-EN_description: "Draft a random item"
+EN_description: "<u>Draft</u> a random item"
 EN_flavor: "Pirates are distrustful types. The real key to a pirate's lockbox is touching their heartie."
 tile_id: PirateLockbox
 cost: 2
@@ -81,7 +81,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 es-ES_name: "Cofre de Piratas"
-es-ES_description: "Draft un ítem aleatorio"
+es-ES_description: "<u>Roba</u> un ítem aleatorio"
 es-ES_flavor: "Los piratas son tipejos desconfiados. La verdadera llave a un cofre de piratas yace en tocarles el corazoncillo."
 tile_id: PirateLockbox
 cost: 2
@@ -89,7 +89,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 es-ES_name: "Cofre de Piratas"
-es-ES_description: "Draft un ítem aleatorio"
+es-ES_description: "<u>Roba</u> un ítem aleatorio"
 es-ES_flavor: "Los piratas son tipejos desconfiados. La verdadera llave a un cofre de piratas yace en tocarles el corazoncillo."
 tile_id: PirateLockbox
 cost: 2
@@ -97,7 +97,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 es-ES_name: "Cofre de Piratas"
-es-ES_description: "Draft un ítem aleatorio"
+es-ES_description: "<u>Roba</u> un ítem aleatorio"
 es-ES_flavor: "Los piratas son tipejos desconfiados. La verdadera llave a un cofre de piratas yace en tocarles el corazoncillo."
 tile_id: PirateLockbox
 cost: 2
@@ -105,7 +105,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 es-ES_name: "Cofre de Piratas"
-es-ES_description: "Draft un ítem aleatorio"
+es-ES_description: "<u>Roba</u> un ítem aleatorio"
 es-ES_flavor: "Los piratas son tipejos desconfiados. La verdadera llave a un cofre de piratas yace en tocarles el corazoncillo."
 tile_id: PirateLockbox
 cost: 2
@@ -113,7 +113,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 es-ES_name: "Cofre de Piratas"
-es-ES_description: "Draft un ítem aleatorio"
+es-ES_description: "<u>Roba</u> un ítem aleatorio"
 es-ES_flavor: "Los piratas son tipejos desconfiados. La verdadera llave a un cofre de piratas yace en tocarles el corazoncillo."
 tile_id: PirateLockbox
 cost: 2
@@ -121,7 +121,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 ru-RU_name: "Пиратский ящик"
-ru-RU_description: "Draft случайный предмет"
+ru-RU_description: "<u>Вытягивание</u> случайный предмет"
 ru-RU_flavor: "Пираты - недоверчивые люди. Настоящий ключ к пиратском ящику - это прикосновение к их сердцу."
 tile_id: PirateLockbox
 cost: 2
@@ -129,7 +129,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 ru-RU_name: "Пиратский ящик"
-ru-RU_description: "Draft случайный предмет"
+ru-RU_description: "<u>Вытягивание</u> случайный предмет"
 ru-RU_flavor: "Пираты - недоверчивые люди. Настоящий ключ к пиратском ящику - это прикосновение к их сердцу."
 tile_id: PirateLockbox
 cost: 2
@@ -137,7 +137,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 ru-RU_name: "Пиратский ящик"
-ru-RU_description: "Draft случайный предмет"
+ru-RU_description: "<u>Вытягивание</u> случайный предмет"
 ru-RU_flavor: "Пираты - недоверчивые люди. Настоящий ключ к пиратском ящику - это прикосновение к их сердцу."
 tile_id: PirateLockbox
 cost: 2
@@ -145,7 +145,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 ru-RU_name: "Пиратский ящик"
-ru-RU_description: "Draft случайный предмет"
+ru-RU_description: "<u>Вытягивание</u> случайный предмет"
 ru-RU_flavor: "Пираты - недоверчивые люди. Настоящий ключ к пиратском ящику - это прикосновение к их сердцу."
 tile_id: PirateLockbox
 cost: 2
@@ -153,7 +153,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 ru-RU_name: "Пиратский ящик"
-ru-RU_description: "Draft случайный предмет"
+ru-RU_description: "<u>Вытягивание</u> случайный предмет"
 ru-RU_flavor: "Пираты - недоверчивые люди. Настоящий ключ к пиратском ящику - это прикосновение к их сердцу."
 tile_id: PirateLockbox
 cost: 2

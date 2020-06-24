@@ -1,29 +1,29 @@
 ---
 
 EN_name: "Temptation"
-EN_description: "Instant. Increase your base 🔸 by 1 for the remainder of the dungeon. Shuffle 3 curses into the deck"
-EN_flavor: 
+EN_description: "<u><u>Instant</u></u>. Increase your base 🔸 by 1 for the remainder of the dungeon. Shuffle 3 <u>curses</u> into the deck"
+EN_flavor: "Temptation gets a bad rep. Who cares if it's a sin, long as you get the thing."
 tile_id: Temptation
 cost: 4
 image: /images/Temptation.png
 hero: priest
 zh-CN_name: "诱惑"
-zh-CN_description: "Instant。本层地下城中，你的基础🔸+1。向牌库中洗入3张curses"
-zh-CN_flavor: 
+zh-CN_description: "<u><u>即时</u></u>。本层地下城中，你的基础🔸+1。向牌库中洗入3张<u>诅咒</u>"
+zh-CN_flavor: "Temptation gets a bad rep. Who cares if it's a sin, long as you get the thing."
 tile_id: Temptation
 cost: 4
 image: /images/Temptation.png
 hero: priest
 es-ES_name: "Tentación"
-es-ES_description: "Instant. Incrementa tu 🔸 en 1 por el resto de la mazmorra. Baraja 3 curses en el mazo"
-es-ES_flavor: 
+es-ES_description: "<u><u>Instantánea</u></u>. Incrementa tu 🔸 en 1 por el resto de la mazmorra. Baraja 3 <u>maldiciones</u> en el mazo"
+es-ES_flavor: "Temptation gets a bad rep. Who cares if it's a sin, long as you get the thing."
 tile_id: Temptation
 cost: 4
 image: /images/Temptation.png
 hero: priest
 ru-RU_name: "Искушение"
-ru-RU_description: "Instant. Увеличивает вашу базовую 🔸 на 1 до конца подземелья. Замешивает 3 curses в колоду подземелья"
-ru-RU_flavor: 
+ru-RU_description: "<u><u>Мгновенная</u></u>. Увеличивает вашу базовую 🔸 на 1 до конца подземелья. Замешивает 3 <u>проклятия</u> в колоду подземелья"
+ru-RU_flavor: "Temptation gets a bad rep. Who cares if it's a sin, long as you get the thing."
 tile_id: Temptation
 cost: 4
 image: /images/Temptation.png

@@ -1,29 +1,29 @@
 ---
 
 EN_name: "Pacifism"
-EN_description: "Remove a non-boss enemy from the dungeon (does not count as slaying an enemy). Overheal 2 times to recharge this"
-EN_flavor: 
+EN_description: "Remove a non-boss enemy from the dungeon (does not count as slaying an enemy). <u>Overheal</u> 2 times to recharge this"
+EN_flavor: "My heart runneth over!"
 tile_id: Pacifism
 cost: 3
 image: /images/Pacifism.png
 hero: priest
 zh-CN_name: "止战"
-zh-CN_description: "将一位非首领敌人从地下城中移除（并不算作击败敌人）。Overheal2次来为这个技能充能"
-zh-CN_flavor: 
+zh-CN_description: "将一位非首领敌人从地下城中移除（并不算作击败敌人）。<u>过量治疗</u>2次来为这个技能充能"
+zh-CN_flavor: "My heart runneth over!"
 tile_id: Pacifism
 cost: 3
 image: /images/Pacifism.png
 hero: priest
 es-ES_name: "Pacifismo"
-es-ES_description: "Remueve un enemigo del tablero (no puede ser un jefe, y no cuenta como matar a un enemigo). Overheal 2 veces para recargar"
-es-ES_flavor: 
+es-ES_description: "Remueve un enemigo del tablero (no puede ser un jefe, y no cuenta como matar a un enemigo). <u>Sobrecura</u> 2 veces para recargar"
+es-ES_flavor: "My heart runneth over!"
 tile_id: Pacifism
 cost: 3
 image: /images/Pacifism.png
 hero: priest
 ru-RU_name: "Пацифизм"
-ru-RU_description: "Удалите обычного врага с подземелья (не считается убийством). Перезаряжается после overheal 2 раз"
-ru-RU_flavor: 
+ru-RU_description: "Удалите обычного врага с подземелья (не считается убийством). Перезаряжается после <u>сверхлечение</u> 2 раз"
+ru-RU_flavor: "My heart runneth over!"
 tile_id: Pacifism
 cost: 3
 image: /images/Pacifism.png

@@ -1,28 +1,28 @@
 ---
 
 EN_name: "Vanish"
-EN_description: "Gain stealth and recharge all rechargable abilities. Exhaust"
+EN_description: "Gain <u>stealth</u> and recharge all rechargable abilities. <u>Exhaust</u>"
 EN_flavor: "Fight you? Hah. How uncouth. Now, begone. – The Poppinjay."
 tile_id: Vanish
 cost: 1
 image: /images/Vanish.png
 hero: rogue
 zh-CN_name: "消失"
-zh-CN_description: "获得stealth并为所有技能充能。Exhaust。"
+zh-CN_description: "获得<u>潜行</u>并为所有技能充能。<u>消耗</u>。"
 zh-CN_flavor: "打你？哈。真是没品。快滚吧。——唐突"
 tile_id: Vanish
 cost: 1
 image: /images/Vanish.png
 hero: rogue
 es-ES_name: "Desaparecer"
-es-ES_description: "Gana stealth y recarga todas las habilidades recargables. Exhaust"
+es-ES_description: "Gana <u>sigilo</u> y recarga todas las habilidades recargables. <u>Agota</u>"
 es-ES_flavor: "¿Luchar contigo? Hah. Que grosero. Ahora, vete. - El Fantoche."
 tile_id: Vanish
 cost: 1
 image: /images/Vanish.png
 hero: rogue
 ru-RU_name: "Исчезновение"
-ru-RU_description: "Даёт stealth и перезаряжает все перезаряжаемые навыки. Exhaust"
+ru-RU_description: "Даёт <u>скрытность</u> и перезаряжает все перезаряжаемые навыки. <u>Сжигается</u>"
 ru-RU_flavor: "'Сразиться с тобой? Хах. Как неприлично. Теперь, извини.' - Поппинджей."
 tile_id: Vanish
 cost: 1

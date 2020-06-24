@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Utility Belt"
-EN_description: "Draft a copy of <a href = '../en/items#PoisonPotion'>Poison Vial</a>, <a href = '../en/items#Blackjack'>Blackjack</a>, or <a href = '../en/abilities#HiddenBlades'>Hidden Blades</a>"
+EN_description: "<u>Draft</u> a copy of <a href = '../en/items#PoisonPotion'>Poison Vial</a>, <a href = '../en/items#Blackjack'>Blackjack</a>, or <a href = '../en/abilities#HiddenBlades'>Hidden Blades</a>"
 EN_flavor: "It probably belonged to a plumber once, but it's now been put to better use."
 tile_id: ThiefsBelt
 cost: 2
@@ -17,7 +17,7 @@ image: /images/ThiefsBelt.png
 durability: 2
 hero: rogue
 es-ES_name: "Cinturón de Herramientas"
-es-ES_description: "Draft una copia de <a href = '../es_es/items#PoisonPotion'>Frasco de Veneno</a>, <a href = '../es_es/items#Blackjack'>Cachiporra</a>, o <a href = '../es_es/abilities#HiddenBlades'>Cuchillas Ocultas</a>"
+es-ES_description: "<u>Roba</u> una copia de <a href = '../es_es/items#PoisonPotion'>Frasco de Veneno</a>, <a href = '../es_es/items#Blackjack'>Cachiporra</a>, o <a href = '../es_es/abilities#HiddenBlades'>Cuchillas Ocultas</a>"
 es-ES_flavor: "Probablemente le pertenecía a un fontanero, pero ahora se le ha dado un mejor uso."
 tile_id: ThiefsBelt
 cost: 2
@@ -25,7 +25,7 @@ image: /images/ThiefsBelt.png
 durability: 2
 hero: rogue
 ru-RU_name: "Толковый ремень"
-ru-RU_description: "Draft копию <a href = '../ru_ru/items#PoisonPotion'>Пузырёк с ядом</a>, <a href = '../ru_ru/items#Blackjack'>Блэкджэк</a>, или <a href = '../ru_ru/abilities#HiddenBlades'>Скрытые клинки</a>"
+ru-RU_description: "<u>Вытягивание</u> копию <a href = '../ru_ru/items#PoisonPotion'>Пузырёк с ядом</a>, <a href = '../ru_ru/items#Blackjack'>Блэкджэк</a>, или <a href = '../ru_ru/abilities#HiddenBlades'>Скрытые клинки</a>"
 ru-RU_flavor: "Вероятно, что этот пояс когда-то принадлежал водопроводчику, но теперь он нашел применение получше."
 tile_id: ThiefsBelt
 cost: 2

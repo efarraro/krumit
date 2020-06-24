@@ -1,23 +1,23 @@
 ---
 
 EN_name: "Snotwulf"
-EN_description: "This enemy is quick - watch out for his blitz attacks!"
-EN_flavor: "Placeholder text"
+EN_description: "This enemy is quick - watch out for his ⚡️ <u>blitz</u> attacks!"
+EN_flavor: "The Age of Radiation has warped Man's Best Friend into a mucus-ridden, rabid nuisance. Very danger, wow, much toxic."
 tile_id: Nukadog
 image: /images/Nukadog.png
-zh-CN_name: "Snotwulf"
-zh-CN_description: "This enemy is quick - watch out for his blitz attacks!"
-zh-CN_flavor: "Placeholder text"
+zh-CN_name: "鼻涕狼"
+zh-CN_description: "这种敌人的身手十分敏捷——要小心他的⚡️ <u>闪击</u>攻击！"
+zh-CN_flavor: "辐射时代将人类最好的朋友变成了一种满是粘液，特别狂躁的烦人精。非常危险，哇哦，特别有毒。"
 tile_id: Nukadog
 image: /images/Nukadog.png
-es-ES_name: "Snotwulf"
-es-ES_description: "This enemy is quick - watch out for his blitz attacks!"
-es-ES_flavor: "Placeholder text"
+es-ES_name: "Moquenco"
+es-ES_description: "Este enemigo es rápido - ¡ten cuidado con sus ataques de ⚡️ <u>relámpago</u>!"
+es-ES_flavor: "La Edad Radioactiva ha transformado al mejor amigo del hombre en una alimaña mocosa y rabiosa. Los siguen poniendo en memes, eso sí."
 tile_id: Nukadog
 image: /images/Nukadog.png
-ru-RU_name: "Snotwulf"
-ru-RU_description: "This enemy is quick - watch out for his blitz attacks!"
-ru-RU_flavor: "Placeholder text"
+ru-RU_name: "Волк-сопляк"
+ru-RU_description: "Этот враг очень быстрый - остерегайтесь его ⚡️ <u>блиц</u> атак!"
+ru-RU_flavor: "Эпоха радиации превратила лучшего друга человека в бешеную неприятность. Очень опасный и очень токсичный."
 tile_id: Nukadog
 image: /images/Nukadog.png
 ---

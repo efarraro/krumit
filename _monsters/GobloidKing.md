@@ -1,23 +1,23 @@
 ---
 
 EN_name: "Goblord Waggu"
-EN_description: "All Gobloids have +1 attack this dungeon.  Shuffle 3x <a href = '../en/items#Tranquilizer'>Tranquilizer</a> into the dungeon deck"
-EN_flavor: "He sits.  He stands.  He CRUSHES"
+EN_description: "All Gobloids have +1 🔸 this dungeon.  Shuffle 3x <a href = '../en/items#Tranquilizer'>Tranquilizer</a> into the deck"
+EN_flavor: "Fights in pursuit of The Great Gobloid Republic, as foretold by the Founding Gobloid, T’abbu. Clings onto power with strength and stench."
 tile_id: GobloidKing
 image: /images/GobloidKing.png
-zh-CN_name: "Goblord Waggu"
-zh-CN_description: "All Gobloids have +1 attack this dungeon.  Shuffle 3x <a href = '../zh_cn/items#Tranquilizer'>镇静剂</a> into the dungeon deck"
-zh-CN_flavor: "He sits.  He stands.  He CRUSHES"
+zh-CN_name: "哥布领主哇咕"
+zh-CN_description: "地下城中的所有哥布森+1攻击力。向地下城牌库洗入3张镇静剂。"
+zh-CN_flavor: "为了伟大哥布森共和国而奋斗着，就如创始哥布森踏布预言的一样。固守着武力和恶臭的力量。"
 tile_id: GobloidKing
 image: /images/GobloidKing.png
-es-ES_name: "Goblord Waggu"
-es-ES_description: "All Gobloids have +1 attack this dungeon.  Shuffle 3x <a href = '../es_es/items#Tranquilizer'>Tranquilizadora</a> into the dungeon deck"
-es-ES_flavor: "He sits.  He stands.  He CRUSHES"
+es-ES_name: "Jefe Gobloide Waggu"
+es-ES_description: "Todos los Gobloides tienen +1 🔸 en esta mazmorra. Baraja 3x <a href = '../es_es/items#Tranquilizer'>Tranquilizadora</a> en el mazo"
+es-ES_flavor: "Lucha en pos de la Gran República Gobloide, como fue predicho por el Fundador Gobloide, T’abbu. Se aferra al poder con toda su fuerza y hedor."
 tile_id: GobloidKing
 image: /images/GobloidKing.png
-ru-RU_name: "Goblord Waggu"
-ru-RU_description: "All Gobloids have +1 attack this dungeon.  Shuffle 3x <a href = '../ru_ru/items#Tranquilizer'>Транквилизатор</a> into the dungeon deck"
-ru-RU_flavor: "He sits.  He stands.  He CRUSHES"
+ru-RU_name: "Гоблорд Ваггу"
+ru-RU_description: "Все Гоблоиды имеют +1 🔸 в этом подземельи. Замешивает 3 копии <a href = '../ru_ru/items#Tranquilizer'>Транквилизатор</a> в колоду подземелья"
+ru-RU_flavor: "Сражается в погоне за Великой республикой Гоблоидов, как предсказывал основатель Гоблоидов, Т'аббу. Цепляется за власть с силой и вонью."
 tile_id: GobloidKing
 image: /images/GobloidKing.png
 ---

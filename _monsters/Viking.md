@@ -2,22 +2,22 @@
 
 EN_name: "Nuke Viking"
 EN_description: "Can't equip armor against this enemy"
-EN_flavor: "This is a placeholder until someone writes it!"
+EN_flavor: "His glowing beard acts as a radiation filter. He doesn't mind having a half-life – just means getting to Valhalla even quicker."
 tile_id: Viking
 image: /images/Viking.png
-zh-CN_name: "Nuke Viking"
-zh-CN_description: "Can't equip armor against this enemy"
-zh-CN_flavor: "This is a placeholder until someone writes it!"
+zh-CN_name: "核子维京人"
+zh-CN_description: "对战这名敌人时无法装备护甲。"
+zh-CN_flavor: "他脸上发光的胡须起着过滤辐射的作用。他完全不在乎自己只剩下了半条命——他认为这样就能更快一步抵达核尔哈拉了。"
 tile_id: Viking
 image: /images/Viking.png
-es-ES_name: "Nuke Viking"
-es-ES_description: "Can't equip armor against this enemy"
-es-ES_flavor: "This is a placeholder until someone writes it!"
+es-ES_name: "Vikingo Atómico"
+es-ES_description: "No puedes equipar armadura contra este enemigo"
+es-ES_flavor: "Su barba incandescente actúa como un filtro de radiación. No le importa tener una media-vida - eso tan sólo significa llegar al Valhalla más rápido."
 tile_id: Viking
 image: /images/Viking.png
-ru-RU_name: "Nuke Viking"
-ru-RU_description: "Can't equip armor against this enemy"
-ru-RU_flavor: "This is a placeholder until someone writes it!"
+ru-RU_name: "Нюк-Викинг"
+ru-RU_description: "Нельзя экипировать броню против этого врага"
+ru-RU_flavor: "Его светящаяся борода действует как радиационный фильтр. Он не возражает против полураспада - это значит быстрее добраться до Валгаллы."
 tile_id: Viking
 image: /images/Viking.png
 ---

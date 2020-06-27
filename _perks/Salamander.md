@@ -13,7 +13,7 @@ es-ES_description: "La primera vez que sufrirías daño fatal en una mazmorra, f
 tile_id: Salamander
 image: /images/Salamander.png
 ru-RU_name: "Саламандра"
-ru-RU_description: "Когда впервые в подземельи вы получаете смертельный урон, устанавливает ваше ❤️ на 1 и даёт <u>Регенерация</u>"
+ru-RU_description: "Когда впервые в подземельи вы получаете смертельный урон, устанавливает ваше ❤️ на 1 и даёт <u>регенерацию</u>"
 tile_id: Salamander
 image: /images/Salamander.png
 ---

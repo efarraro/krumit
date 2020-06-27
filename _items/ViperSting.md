@@ -25,7 +25,7 @@ image: /images/ViperSting.png
 durability: 2
 hero: rogue
 ru-RU_name: "Укол змеи"
-ru-RU_description: "После вашей атаки,  <u>яд</u> (2) вашего врага"
+ru-RU_description: "Когда вы атакуете с этим оружием, накладывает  <u>яд</u> (2) на вашего врага"
 ru-RU_flavor: "'Укус задерживается надолго после исчезновения зуба...' - отрывок из воспоминаний поедателя змей Лудлоу Габблсноза. "
 tile_id: ViperSting
 cost: 2

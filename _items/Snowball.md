@@ -25,7 +25,7 @@ image: /images/Snowball.png
 durability: 3
 hero: mage
 ru-RU_name: "Снежок"
-ru-RU_description: "<u>Мороз</u> (1) врага."
+ru-RU_description: "Накладывает <u>мороз</u> (1) на выбранного врага"
 ru-RU_flavor: "Copos de nieve encantados y muy compactos de la meseta más alta de Caramontaña."
 tile_id: Snowball
 cost: 2

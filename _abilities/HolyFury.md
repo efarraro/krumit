@@ -22,8 +22,8 @@ cost: 2
 image: /images/HolyFury.png
 hero: priest
 ru-RU_name: "Святая ярость"
-ru-RU_description: "Заменяет ваш стартовый перк на 🟦Избранный и заполняет ваши свободные слоты в снаряжении <a href = '../ru_ru/abilities#Smite'>Кара</a>"
-ru-RU_flavor: "No vayas a confundirla con la 'lujuria sagrada'."
+ru-RU_description: "<u><u>Мгновенная</u></u>. <u>мутирует</u> в 🟦Избранный и заполняет ваши свободные слоты в снаряжении <a href = '../ru_ru/abilities#Smite'>Кара</a>"
+ru-RU_flavor: "Не стоит путать со 'святым мехом'."
 tile_id: HolyFury
 cost: 2
 image: /images/HolyFury.png

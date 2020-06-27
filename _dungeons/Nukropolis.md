@@ -118,7 +118,7 @@ monsters:
     quantity: 3
     url: /monsters/TrashGolem
 ru-RU_name: "Нукр0полис"
-ru-RU_description: "'...Y entonces la Nukre0polis se alzó, aparentemente de la nada - un templo chillón al veneno y la corrupción. Y, para ser honesto, de un mal gusto increíble.' - Krumit"
+ru-RU_description: "'...Затем появился Нукр0полис, казалось бы, из ниоткуда - безвкусный храм для отравления и распада. Испортил ещё и горизонт' - Крумит"
 tier: 8
 monsters:
   - monster:

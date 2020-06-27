@@ -25,8 +25,8 @@ image: /images/WroughtIronTorch.png
 durability: 3
 hero: priest
 ru-RU_name: "Факел из кованого железа"
-ru-RU_description: "<u>Истощение</u>: <u>Мутировать</u> 🟦Королева"
-ru-RU_flavor: "¡Con estas llamas a la sazón quemarás a un cabezón!"
+ru-RU_description: "<u>Разрушение</u>: <u>мутирует</u> в 🟦Королева"
+ru-RU_flavor: "Просветите чью-то голову этим просветляющим подсвечником!"
 tile_id: WroughtIronTorch
 cost: 3
 image: /images/WroughtIronTorch.png

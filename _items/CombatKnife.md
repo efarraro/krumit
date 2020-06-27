@@ -25,7 +25,7 @@ image: /images/CombatKnife.png
 durability: 3
 hero: rogue
 ru-RU_name: "Боевой нож"
-ru-RU_description: "Когда вы приобретаете это, замешивает 2 копии <a href = '../ru_ru/abilities#Stab'>Удар ножом</a> в колоду."
+ru-RU_description: "Когда вы получаете это, замешивает 2 копии <a href = '../ru_ru/abilities#Stab'>Удар ножом</a> в колоду подземелья."
 ru-RU_flavor: "'Теперь <i>этот</i> нож не предназначен для сыров и яблок.' - Труппный спец по реквизиту Дженкинс"
 tile_id: CombatKnife
 cost: 3

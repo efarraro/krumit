@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 ru-RU_name: "Корона Брамблвуда"
 ru-RU_description: "Когда вы 🛡️️ <u>Блокирование</u> с этим предметом, вы имеете <u>шипы</u>, равный вашему суммарному 🛡️️ <u>Блокирование</u> (0)"
-ru-RU_flavor: "Te pica un poco, pero mucho, mucho menos que a ellos."
+ru-RU_flavor: "Маленькая щекотка для вас и большая царапка для них."
 tile_id: BramblewoodCrown
 cost: 2
 image: /images/BramblewoodCrown.png

@@ -22,7 +22,7 @@ cost: 1
 image: /images/MartyrsEssence.png
 hero: priest
 ru-RU_name: "Сущность мученика"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Замешивает 3 копий карты <a href = '../ru_ru/abilities#Renounce'>Отречение</a> в колоду подземелья"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Замешивает 3 копий <a href = '../ru_ru/abilities#Renounce'>Отречение</a> в колоду подземелья"
 ru-RU_flavor: 
 tile_id: MartyrsEssence
 cost: 1

@@ -25,8 +25,8 @@ image: /images/UnsavoryRelic.png
 durability: 2
 hero: priest
 ru-RU_name: "Неприятная реликвия"
-ru-RU_description: " <u>Осквернение</u> (3) врага"
-ru-RU_flavor: "El 'tesoro' de una mujer es la peor pesadilla de todos los demás."
+ru-RU_description: "Накладывает  <u>осквернение</u> (3) на врага"
+ru-RU_flavor: "'Сокровище' для одной женщины является худшим кошмаром для всех остальных."
 tile_id: UnsavoryRelic
 cost: 1
 image: /images/UnsavoryRelic.png

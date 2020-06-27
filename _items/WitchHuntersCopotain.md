@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 ru-RU_name: "Шляпа охотника на ведьм"
 ru-RU_description: "Когда вы получаете это, также получаете копию <a href = '../ru_ru/items#WroughtIronTorch'>Факел из кованого железа</a>"
-ru-RU_flavor: "ES HORA DE LIMPIAR."
+ru-RU_flavor: "ВРЕМЯ ОЧИЩЕНИЯ."
 tile_id: WitchHuntersCopotain
 cost: 5
 image: /images/WitchHuntersCopotain.png

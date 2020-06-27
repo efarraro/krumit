@@ -22,7 +22,7 @@ cost: 1
 image: /images/Char.png
 hero: mage
 ru-RU_name: "Обжигание"
-ru-RU_description: " <u>ожог</u> (3) врага. <u>Сжигается</u>"
+ru-RU_description: "Накладывает  <u>ожог</u> (3) на выбранного врага. <u>Сжигается</u>"
 ru-RU_flavor: "Простое заклинание пироманта: чаще всего используется для барбекю, чем для битвы."
 tile_id: Char
 cost: 1

@@ -25,8 +25,8 @@ image: /images/DemonEarRosary.png
 durability: 3
 hero: priest
 ru-RU_name: "Демоническое ухо розари"
-ru-RU_description: "🔸 этого оружия увеличена на 2 за каждое видимое <u>Проклятие</u>"
-ru-RU_flavor: "Es menos efectivo que un Collar de Colmillos Demoníacos, pero mucho menos propenso a morder a la portadora."
+ru-RU_description: "🔸 этого оружия увеличена на 2 за каждое <u>Проклятие</u> на поле"
+ru-RU_flavor: "Менее эффективное, чем ожерелье Демона Клыка, но гораздо менее склонное к укусам владельца."
 tile_id: DemonEarRosary
 cost: 2
 image: /images/DemonEarRosary.png

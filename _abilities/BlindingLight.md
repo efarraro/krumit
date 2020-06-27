@@ -22,8 +22,8 @@ cost: 2
 image: /images/BlindingLight.png
 hero: priest
 ru-RU_name: "Ослепительный свет"
-ru-RU_description: "<u>Пассивно</u>. <u>Сверхлечение</u>: <u>оглушение</u> вашего врага. Перезаряжается после 3 раундов сражения"
-ru-RU_flavor: "Pavor y conmoción."
+ru-RU_description: "<u>Пассивно</u>. <u>Сверхлечение</u>: <u>оглушает</u> вашего врага. Перезаряжается после 3 раундов боя"
+ru-RU_flavor: "Трепет и шок."
 tile_id: BlindingLight
 cost: 2
 image: /images/BlindingLight.png

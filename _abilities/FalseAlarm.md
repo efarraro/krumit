@@ -22,7 +22,7 @@ cost: 1
 image: /images/FalseAlarm.png
 hero: rogue
 ru-RU_name: "Ложная тревога"
-ru-RU_description: "Замешивает всех врагов обратно в колоду. Нельзя использовать во время боя. <u>Сжигается</u>"
+ru-RU_description: "Замешивает всех врагов обратно в колоду (вне боя). <u>Сжигается</u>"
 ru-RU_flavor: "Просто ложная тревога! Это никогда не надоест!"
 tile_id: FalseAlarm
 cost: 1

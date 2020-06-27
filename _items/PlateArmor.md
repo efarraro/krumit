@@ -26,7 +26,7 @@ durability: 3
 hero: warrior
 ru-RU_name: "Латный доспех"
 ru-RU_description: "Стоимость увеличена на 1 💰 за каждый предмет в вашем снаряжении"
-ru-RU_flavor: "Protección de cuerpo completo para el guerrero sin apuro de llegar a ninguna parte."
+ru-RU_flavor: "Хорошо бронированному воину не стоит никуда бежать."
 tile_id: PlateArmor
 cost: 2
 image: /images/PlateArmor.png

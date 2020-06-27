@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 ru-RU_name: "Мантия короля летучих мышей"
 ru-RU_description: "Можно экипировать, если у вас есть 🟦Королева"
-ru-RU_flavor: "El una vez preciado manto del Rey Murciélago solo puede ser vestido por aquellos de regia postura."
+ru-RU_flavor: "Некогда призовую мантию короля летучих мышей сейчас можно одеть, находясь только в королевской позе."
 tile_id: BatKingsMantle
 cost: 3
 image: /images/BatKingsMantle.png

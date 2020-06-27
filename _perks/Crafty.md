@@ -13,7 +13,7 @@ es-ES_description: "Tu 🔸 se incrementa en 1 contra enemigos <u>aturde</u>plur
 tile_id: Crafty
 image: /images/Crafty.png
 ru-RU_name: "Драчун"
-ru-RU_description: "Ваша 🔸 увеличена на 1 против <u>оглушен</u> врагов"
+ru-RU_description: "Ваша 🔸 увеличена на 1 против <u>оглушает</u>plural врагов"
 tile_id: Crafty
 image: /images/Crafty.png
 ---

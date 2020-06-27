@@ -26,7 +26,7 @@ durability: 3
 hero: mage
 ru-RU_name: "Снегоступы"
 ru-RU_description: "Стоимость приобретения этого предмета уменьшается на 1 за каждого <u>заморожен</u> врага в этом ряду и столбце"
-ru-RU_flavor: "No son para jugar al tenis. Ni al ping-pong. Ni al bádminton. Ni al- yo creo que ya entendiste."
+ru-RU_flavor: "Они не предназначены для игры в теннис. Или пинг-понг. Или бадминтон."
 tile_id: Snowshoes
 cost: 3
 image: /images/Snowshoes.png

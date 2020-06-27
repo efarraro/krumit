@@ -22,8 +22,8 @@ cost: 0
 image: /images/FlashHeal.png
 hero: priest
 ru-RU_name: "Быстрое лечение"
-ru-RU_description: "Восстанавливает 4 ❤️. Также восстанавливает 2 ❤️, когда добавляется в подземелье"
-ru-RU_flavor: "Como la inspiración, el sustento divino puede caer sobre tí cuando menos lo esperas."
+ru-RU_description: "Восстанавливает 4 ❤️. Также восстанавливает 2 ❤️, когда добавляется на поле"
+ru-RU_flavor: "Как и вдохновение, пища с небес может обрушиться на вас, когда вы меньше всего этого ожидаете."
 tile_id: FlashHeal
 cost: 0
 image: /images/FlashHeal.png

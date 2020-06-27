@@ -22,8 +22,8 @@ cost: 1
 image: /images/HanasBlessing.png
 hero: priest
 ru-RU_name: "Маленькое чудо"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Восстанавливает 6 ❤️. Когда вы приобретаете это, создаёт случайное <u>Благословение</u> на своем месте"
-ru-RU_flavor: "Hana ve, Hana aprueba, Hana bendice."
+ru-RU_description: "<u><u>Мгновенная</u></u>. Восстанавливает 6 ❤️. Когда вы получаете это, создает случайное <u>Благословение</u> на своем месте"
+ru-RU_flavor: "Хана видит, Хана одобряет, Хана благотворит."
 tile_id: HanasBlessing
 cost: 1
 image: /images/HanasBlessing.png

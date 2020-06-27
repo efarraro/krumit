@@ -26,7 +26,7 @@ durability: 1
 hero: priest
 ru-RU_name: "Грааль королевы"
 ru-RU_description: "Потратьте 25 ❤️ (уменьшена на 3 за каждого врага, которое вы  <u>осквернили</u> в этом подземельи), чтобы уничтожить *ВСЕ* карточки в колоде подземелья"
-ru-RU_flavor: "El grial se llena de la escencia de los condenados. Cada gota derramada es un terrible desperdicio..."
+ru-RU_flavor: "Грааль наполняется теми, кого прокляли. Каждая пролитая капля - ужасная трата... "
 tile_id: QueensGrail
 cost: 0
 image: /images/QueensGrail.png

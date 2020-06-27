@@ -16,8 +16,8 @@ es-ES_flavor: "El sudoroso heraldo del siguiente Meteorismo, y el líder del Kul
 tile_id: Uberlich
 image: /images/Uberlich.png
 ru-RU_name: "Уберлич"
-ru-RU_description: "В начале вылазки в подземелье замешивается 6 копий <a href = '../ru_ru/abilities#Megaton'>Мегатон</a> в колоду подземелья."
-ru-RU_flavor: "El sudoroso heraldo del siguiente Meteorismo, y el líder del Kulto de la Tuerka. Los verdaderos propósitos del Uberliche están velados por miasma y misterio, pero una cosa es por seguro - aplastará a cualquiera que se le interponga."
+ru-RU_description: "В начале подземелья замешивает 6 копий <a href = '../ru_ru/abilities#Megaton'>Мегатон</a> в колоду подземелья."
+ru-RU_flavor: "Предвестник следующего падения метеора и лидер культа Ореха. Истинные цели Уберлича окутаны тайной и зловонием, но одно можно сказать наверняка: он раздавит любого, кто встанет у него на пути."
 tile_id: Uberlich
 image: /images/Uberlich.png
 ---

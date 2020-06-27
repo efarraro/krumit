@@ -13,7 +13,7 @@ es-ES_description: "Tus armas de melé tienen +1 🔸"
 tile_id: Warmonger
 image: /images/Warmonger.png
 ru-RU_name: "Поджигатель войны"
-ru-RU_description: "Ваши оружия ближнего боя имеют +1 🔸"
+ru-RU_description: "Ваши рукопашные оружия имеют +1 🔸"
 tile_id: Warmonger
 image: /images/Warmonger.png
 ---

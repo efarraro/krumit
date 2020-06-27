@@ -24,9 +24,9 @@ cost: 3
 image: /images/StaffOfTheSeraphim.png
 durability: 3
 hero: priest
-ru-RU_name: "Посох Серафимы"
+ru-RU_name: "Посох Серафима"
 ru-RU_description: "Восстанавливает 5 ❤️"
-ru-RU_flavor: "Como un pararrayos, pero para maná divino en lugar de rayos."
+ru-RU_flavor: "Как громоотвод, но для божественной маны вместо молнии."
 tile_id: StaffOfTheSeraphim
 cost: 3
 image: /images/StaffOfTheSeraphim.png

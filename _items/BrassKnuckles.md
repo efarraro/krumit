@@ -25,7 +25,7 @@ image: /images/BrassKnuckles.png
 durability: 2
 hero: rogue
 ru-RU_name: "Кастет"
-ru-RU_description: "Если ваша атака имеет ⚡️ <u>блиц</u>, <u>оглушение</u> врага после атаки."
+ru-RU_description: "Если ваша атака имеет ⚡️ <u>блиц</u>, <u>оглушает</u> врага после атаки."
 ru-RU_flavor: "Обязательный атрибут, если вы планируете ввязаться в драку в баре"
 tile_id: BrassKnuckles
 cost: 1

@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 ru-RU_name: "Спиральная пиявка"
 ru-RU_description: "Это оружие имеет  <u>Вампиризм</u> (4), когда атакуете врага с полным ❤️"
-ru-RU_flavor: "'Sólo beben de las copas más llenas, las monstruitas melindrosas.' Lonzo, Criador de Sanguijuelas"
+ru-RU_flavor: "'Они пьют только из самых полных чашек. Придирчивые маленькие мерзавцы' - фермер-пиявка Лонзо"
 tile_id: CoiledLeech
 cost: 3
 image: /images/CoiledLeech.png

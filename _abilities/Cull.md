@@ -22,7 +22,7 @@ cost: 1
 image: /images/Cull.png
 hero: rogue
 ru-RU_name: "Отлов"
-ru-RU_description: "Уничтожает обычного <u>одинокий</u> врага. <u>Сжигается</u>"
+ru-RU_description: "Уничтожает обычного <u>одинокого</u> врага. <u>Сжигается</u>"
 ru-RU_flavor: "Держите своих друзей близко, а врагов подальше, желательно на виду"
 tile_id: Cull
 cost: 1

@@ -13,7 +13,7 @@ es-ES_description: "Al inicio de cada mazmorra, baraja 3 <u>Bendiciones</u> alea
 tile_id: Devoted
 image: /images/Devoted.png
 ru-RU_name: "Посвященный"
-ru-RU_description: "В начале каждого подземелья замешивает 3 случайных <u>Благословения</u> в колоду подземелья"
+ru-RU_description: "В начале каждого подземелья замешивает 3 случайных <u>благословения</u> в колоду подземелья"
 tile_id: Devoted
 image: /images/Devoted.png
 ---

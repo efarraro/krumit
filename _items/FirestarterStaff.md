@@ -25,7 +25,7 @@ image: /images/FirestarterStaff.png
 durability: 2
 hero: mage
 ru-RU_name: "Посох поджигателя MK II"
-ru-RU_description: "Когда вы получаете это,  <u>ожог</u> (2) всех соседних врагов"
+ru-RU_description: "Когда вы получаете это, накладывает  <u>ожог</u> (2) на соседних врагов"
 ru-RU_flavor: "Серая Борода забыл добавить к первой огнезащитное зачарование. Его брови никогда не были прежними."
 tile_id: FirestarterStaff
 cost: 2

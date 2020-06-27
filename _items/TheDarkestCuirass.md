@@ -25,8 +25,8 @@ image: /images/TheDarkestCuirass.png
 durability: 3
 hero: priest
 ru-RU_name: "Тёмная кираса"
-ru-RU_description: "Когда вы получаете это,  <u>Осквернение</u> (4) всех видимых врагов"
-ru-RU_flavor: "Forjada en el Valle Solhuraño de penumbrita fundida en anti-llamas. Tan solo mirar la Corza Más Oscura puede extiguir la luz de tu alma."
+ru-RU_description: "Когда вы получаете это, накладывает  <u>осквернение</u> (4) на всех врагов на поле"
+ru-RU_flavor: "Только взглянув на тёмную кирасу, можно погасить свет своей души."
 tile_id: TheDarkestCuirass
 cost: 3
 image: /images/TheDarkestCuirass.png

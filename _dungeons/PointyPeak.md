@@ -72,8 +72,8 @@ monsters:
     image: /images/AncientSkeleton.png
     quantity: 2
     url: /monsters/AncientSkeleton
-ru-RU_name: "Picos Puntudos"
-ru-RU_description: "'Las Harpías anidan en esos picos, pero no me molestan mucho. Siempre y cuando me acuerde de amarrar un sacrificio a la góndola, claro está.' - Vivian, Conductora de la Góndola."
+ru-RU_name: "Острые верхушки"
+ru-RU_description: "'Гарпии гнездятся на дальних вершинах, но они не слишком беспокоят гондолу. До тех пор, пока я не вспомню, что нужно провести на ней жертвоприношение' - контроллер гондолы Вивиан."
 tier: 3
 monsters:
   - monster:

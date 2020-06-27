@@ -25,7 +25,7 @@ image: /images/PlateHelm.png
 durability: 3
 hero: warrior
 ru-RU_name: "Латный шлем"
-ru-RU_description: "Когда вы экипируете это, деэкипируйте все активные оружия ближнего боя"
+ru-RU_description: "Пока этот предмет экипирован, нельзя экипировать другие оружия"
 ru-RU_flavor: "Хорошая защита, если только вы не возражаете против шлема с волосами."
 tile_id: PlateHelm
 cost: 3

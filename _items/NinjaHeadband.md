@@ -25,7 +25,7 @@ image: /images/NinjaHeadband.png
 durability: 3
 hero: rogue
 ru-RU_name: "Повязка шиноби"
-ru-RU_description: "Когда вы  <u>парирование</u> атаку врага этим предметом, получаете <u>скрытность</u>"
+ru-RU_description: "Когда вы  <u>парируете</u> атаку врага этим предметом, получаете <u>скрытность</u>"
 ru-RU_flavor: "Повязка ниндзи - знак истинного теневого мастерства. Также удерживает волосы подальше от глаз. "
 tile_id: NinjaHeadband
 cost: 2

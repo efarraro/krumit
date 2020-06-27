@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 ru-RU_name: "Боевой посох клирика"
 ru-RU_description: "<u>Сверхлечение</u>: Увеличивает 🔸 этого оружия на 1"
-ru-RU_flavor: "El báculo de un Clérigo de Hana está hecho para llevar la luz y la vida a la oscuridad, usualmente por la fuerza."
+ru-RU_flavor: "Клирик Ханы обязан принести жизнь и свет во тьму, обычно с помощью силы."
 tile_id: ClericsBattleStaff
 cost: 3
 image: /images/ClericsBattleStaff.png

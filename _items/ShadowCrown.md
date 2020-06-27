@@ -25,8 +25,8 @@ image: /images/ShadowCrown.png
 durability: 2
 hero: priest
 ru-RU_name: "Тёмная корона"
-ru-RU_description: "Когда вы  <u>парирование</u> с этим предметом, удваивает количество стаков  <u>осквернение</u> на вашем враге"
-ru-RU_flavor: "Rebusca en el abismo y el abismo rebuscará en tí."
+ru-RU_description: "Когда вы  <u>парируете</u> с этим предметом, удваивает количество стаков  <u>осквернение</u> на вашем враге"
+ru-RU_flavor: "Дотянись до бездны, и бездна дотянется до тебя."
 tile_id: ShadowCrown
 cost: 2
 image: /images/ShadowCrown.png

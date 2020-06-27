@@ -25,8 +25,8 @@ image: /images/MonkeysPaw.png
 durability: 3
 hero: priest
 ru-RU_name: "Лапа обезьяны"
-ru-RU_description: "Когда вы атакуете с этим оружием, превратите навык в колоде подземелья в <u>Проклятие</u>"
-ru-RU_flavor: "Esta zarpa sangrienta, encantada a la luz de una monona luna, te hace tener mucho cuidado con lo que deseas."
+ru-RU_description: "Когда вы атакуете с этим оружием, превращает способность в колоде подземелья в <u>Проклятие</u>"
+ru-RU_flavor: "Очарованная светом обезьяньей луны (а не полнолунием), эта кровавая лапа заставляет вас быть осторожными в своих желаниях."
 tile_id: MonkeysPaw
 cost: 1
 image: /images/MonkeysPaw.png

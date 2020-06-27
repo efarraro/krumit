@@ -13,7 +13,7 @@ es-ES_description: "Recupera 2 ❤️ cuando derrotes a un enemigo en combate. D
 tile_id: Vampire
 image: /images/Vampire.png
 ru-RU_name: "Вампир"
-ru-RU_description: "Восстанавливает 2 ❤️, когда вы убиваете врага в сражении. Сбрасывание карточек больше не восстанавливает ❤️."
+ru-RU_description: "Восстанавливает 2 ❤️, когда вы убиваете врага в бою. Сбрасывание карточек больше не восстанавливает ❤️."
 tile_id: Vampire
 image: /images/Vampire.png
 ---

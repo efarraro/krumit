@@ -22,8 +22,8 @@ cost: 1
 image: /images/Devotion.png
 hero: priest
 ru-RU_name: "Преданность"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Замешивает 3 <u>Благословения</u> в колоду подземелья"
-ru-RU_flavor: "Las dudas roen el alma. La devoción la protege."
+ru-RU_description: "<u><u>Мгновенная</u></u>. Замешивает 3 <u>благословения</u> в колоду подземелья"
+ru-RU_flavor: "Сомнение грызёт душу. Преданность запечатывает её."
 tile_id: Devotion
 cost: 1
 image: /images/Devotion.png

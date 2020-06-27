@@ -13,7 +13,7 @@ es-ES_description: "Mientras estés en una mazmorra, cada vez que adquieras una 
 tile_id: Brewer
 image: /images/Brewer.png
 ru-RU_name: "Пивовар"
-ru-RU_description: "В подземелье, всякий раз, когда вы получаете зелье, добавьте вторую копию в инвентарь."
+ru-RU_description: "Когда вы получаете зелье в подземельи, добавляет вторую копию в ваше снаряжение."
 tile_id: Brewer
 image: /images/Brewer.png
 ---

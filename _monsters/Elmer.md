@@ -16,7 +16,7 @@ es-ES_flavor: "Heraldo de los Arboluchos, Elmer puede acceder a una red de hongo
 tile_id: Elmer
 image: /images/Elmer.png
 ru-RU_name: "Элмер"
-ru-RU_description: "Элмер получает двойной урон, когда <u>оглушен</u>. Когда вы убиваете другого Трента, Элмер получает 5 урона"
+ru-RU_description: "Элмер получает двойной урон, когда <u>оглушен</u>. Когда вы убиваете другого Трэнта, Элмер получает 5 урона"
 ru-RU_flavor: "Глашатай древней Элмер может подключиться к сети умных грибов, чтобы оставаться начеку и подслушивать секреты. Ненавидит белок."
 tile_id: Elmer
 image: /images/Elmer.png

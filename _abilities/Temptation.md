@@ -23,7 +23,7 @@ image: /images/Temptation.png
 hero: priest
 ru-RU_name: "Искушение"
 ru-RU_description: "<u><u>Мгновенная</u></u>. Увеличивает вашу базовую 🔸 на 1 до конца подземелья. Замешивает 3 <u>проклятия</u> в колоду подземелья"
-ru-RU_flavor: "La tentación tiene mala fama. ¿A quién le importa que sea un pecado mientras puedas obtener lo que quieres?"
+ru-RU_flavor: "Искушение имеет дурную репутацию. Кого волнует, что это грех, пока ты можешь получить то, что хочешь?"
 tile_id: Temptation
 cost: 4
 image: /images/Temptation.png

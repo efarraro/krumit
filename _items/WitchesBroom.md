@@ -25,7 +25,7 @@ image: /images/WitchesBroom.png
 durability: 2
 hero: mage
 ru-RU_name: "Ведьмина метла"
-ru-RU_description: "Замешивает 2 точные копии выбранного навыка в колоду подземелья"
+ru-RU_description: "Замешивает 2 точные копии выбранной способности в колоду подземелья"
 ru-RU_flavor: "'Я знаю, что это клише, но я лучше поеду на этом, чем на лошади или на крестьянине.' - Свамплина"
 tile_id: WitchesBroom
 cost: 3

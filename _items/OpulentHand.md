@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 ru-RU_name: "Роскошная рука"
 ru-RU_description: "Когда вы атакуете  <u>осквернили</u> врага с этим оружием, даёт 1 💰"
-ru-RU_flavor: "La bofetada de Midas."
+ru-RU_flavor: "Пощечина Мидаса"
 tile_id: OpulentHand
 cost: 3
 image: /images/OpulentHand.png

@@ -24,7 +24,7 @@ cost: 3
 image: /images/MementoMori.png
 durability: 3
 hero: necromancer
-ru-RU_name: "Помни о смерти"
+ru-RU_name: "Memento Mori"
 ru-RU_description: "🔸 этого оружия увеличена на значение недостающего ❤️"
 ru-RU_flavor: "Помни, что ты умрешь - но возьми с собой несколько из них по дороге, а?"
 tile_id: MementoMori

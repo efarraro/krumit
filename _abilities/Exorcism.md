@@ -22,8 +22,8 @@ cost: 1
 image: /images/Exorcism.png
 hero: priest
 ru-RU_name: "Экзорцизм"
-ru-RU_description: "Удаляет выбранное благословение, чтобы уничтожить всех обычных врагов в том же ряду и столбце. <u>Сжигается</u>"
-ru-RU_flavor: "'Recuerda que el demonio va a estar increíblemente cabreado cuando lo saques.' - Folayang, Primer Exorcista"
+ru-RU_description: "Удаляет выбранное благословение, затем уничтожает всех обычных врагов в том же ряду и столбце. <u>Сжигается</u>"
+ru-RU_flavor: "'Просто помни, что когда ты изгонишь дьявола, он будет в ярости.' - первый экзорцист Фолаянг"
 tile_id: Exorcism
 cost: 1
 image: /images/Exorcism.png

@@ -13,7 +13,7 @@ es-ES_description: "Gana <u>sigilo</u> cuando ataques un enemigo <u>solitario</u
 tile_id: Riffraff
 image: /images/Riffraff.png
 ru-RU_name: "Подонок"
-ru-RU_description: "Даёт <u>скрытность</u>, когда атакуете <u>одинокий</u> врага. Базовая 🔸 -1, если не <u>ошеломлённым</u>"
+ru-RU_description: "Даёт <u>скрытность</u>, когда атакуете <u>одинокого</u> врага. Базовая 🔸 -1, если вы не <u>ошеломлены</u>"
 tile_id: Riffraff
 image: /images/Riffraff.png
 ---

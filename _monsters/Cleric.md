@@ -16,7 +16,7 @@ es-ES_flavor: "Hasta los monstruos necesitan necesitan cuidados espirituales de 
 tile_id: Cleric
 image: /images/Cleric.png
 ru-RU_name: "Друид"
-ru-RU_description: "Когда добавляется в подземелье, этот враг даёт случайному врагу в том же столбце 3 брони"
+ru-RU_description: "Когда добавляется на поле, этот враг даёт случайному врагу в том же столбце 3 брони"
 ru-RU_flavor: "Даже монстрам иногда необходимо лечение."
 tile_id: Cleric
 image: /images/Cleric.png

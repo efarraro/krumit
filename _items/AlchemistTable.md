@@ -25,7 +25,7 @@ image: /images/AlchemistTable.png
 durability: 3
 hero: rogue
 ru-RU_name: "Алхимический набор"
-ru-RU_description: "<u>Вытягивание</u> случайное зелье"
+ru-RU_description: "<u>Вытягивает</u> случайное зелье"
 ru-RU_flavor: "Этот алхимический набор полностью металлический, что делает его прочным, но непрактичным для переноса."
 tile_id: AlchemistTable
 cost: 3

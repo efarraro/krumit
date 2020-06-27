@@ -24,8 +24,8 @@ cost: 4
 image: /images/BoneNecklace.png
 durability: 3
 hero: necromancer
-ru-RU_name: "Бандольер"
-ru-RU_description: "Призовите Скелет 💀 <u>Миньон</u>"
+ru-RU_name: "Костонташ"
+ru-RU_description: "Призывает 💀 <u>Миньон</u> Скелет"
 ru-RU_flavor: "Наряжайся, скелитируйся, ожесточай!"
 tile_id: BoneNecklace
 cost: 4

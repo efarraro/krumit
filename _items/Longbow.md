@@ -49,7 +49,7 @@ image: /images/Longbow.png
 durability: 2
 hero: warrior
 ru-RU_name: "Длинный лук"
-ru-RU_description: "Наносит 4 <u>пронзающий</u> урона выбранному врагу в верхнем ряду"
+ru-RU_description: "Наносит 4 <u>пронзающий</u>s урона выбранному врагу в верхнем ряду"
 ru-RU_flavor: "Отлично подходит для того, чтобы держаться на расстоянии от опасного или вонючего врага."
 tile_id: Longbow
 cost: 2
@@ -57,7 +57,7 @@ image: /images/Longbow.png
 durability: 2
 hero: warrior
 ru-RU_name: "Длинный лук"
-ru-RU_description: "Наносит 4 <u>пронзающий</u> урона выбранному врагу в верхнем ряду"
+ru-RU_description: "Наносит 4 <u>пронзающий</u>s урона выбранному врагу в верхнем ряду"
 ru-RU_flavor: "Отлично подходит для того, чтобы держаться на расстоянии от опасного или вонючего врага."
 tile_id: Longbow
 cost: 2

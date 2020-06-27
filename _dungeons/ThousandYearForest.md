@@ -87,7 +87,7 @@ monsters:
     quantity: 5
     url: /monsters/Trickster
   - monster:
-    name: "Энт"
+    name: "Трэнт"
     image: /images/Treant.png
     quantity: 6
     url: /monsters/Treant

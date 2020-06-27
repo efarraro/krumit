@@ -13,7 +13,7 @@ es-ES_description: "<u>Sobrecura</u>: Convierte hasta 3 <u>maldiciones</u> en el
 tile_id: Priestess
 image: /images/Priestess.png
 ru-RU_name: "Избранный"
-ru-RU_description: "<u>Сверхлечение</u>: Превратите до 3 <u>проклятия</u> на поле в <u>Благословения</u>"
+ru-RU_description: "<u>Сверхлечение</u>: превращает до 3 <u>проклятия</u> на поле в <u>благословения</u>"
 tile_id: Priestess
 image: /images/Priestess.png
 ---

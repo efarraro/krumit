@@ -25,8 +25,8 @@ image: /images/InquisitorsFist.png
 durability: 2
 hero: priest
 ru-RU_name: "Кулак инквизитора"
-ru-RU_description: "Пока в подземельи есть хотя бы одно <u>Благословение</u>, ваша атака имеет  <u>Вампиризм</u> (3)"
-ru-RU_flavor: "Con suficiente fe incluso el dolor puede ser reconfortante. Sobre todo si no es tu dolor."
+ru-RU_description: "Пока на поле есть хотя бы одно <u>Благословение</u>, ваша атака имеет  <u>Вампиризм</u> (3)"
+ru-RU_flavor: "При достаточной вере даже боль может стать пищей. Даже, если это не ваша боль."
 tile_id: InquisitorsFist
 cost: 2
 image: /images/InquisitorsFist.png

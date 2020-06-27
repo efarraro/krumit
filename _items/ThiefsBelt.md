@@ -25,7 +25,7 @@ image: /images/ThiefsBelt.png
 durability: 2
 hero: rogue
 ru-RU_name: "Толковый ремень"
-ru-RU_description: "<u>Вытягивание</u> копию <a href = '../ru_ru/items#PoisonPotion'>Пузырёк с ядом</a>, <a href = '../ru_ru/items#Blackjack'>Блэкджэк</a>, или <a href = '../ru_ru/abilities#HiddenBlades'>Скрытые клинки</a>"
+ru-RU_description: "<u>Вытягивает</u> копию <a href = '../ru_ru/items#PoisonPotion'>Пузырёк с ядом</a>, <a href = '../ru_ru/items#Blackjack'>Блэкджэк</a> или <a href = '../ru_ru/abilities#HiddenBlades'>Скрытые клинки</a>"
 ru-RU_flavor: "Вероятно, что этот пояс когда-то принадлежал водопроводчику, но теперь он нашел применение получше."
 tile_id: ThiefsBelt
 cost: 2

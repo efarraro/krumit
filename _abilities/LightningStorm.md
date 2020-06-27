@@ -22,7 +22,7 @@ cost: 4
 image: /images/LightningStorm.png
 hero: mage
 ru-RU_name: "Грозовая буря"
-ru-RU_description: "Наносит 4 <u>пронзающий</u> урона всем врагам на поле.  <u>Сжигается</u>"
+ru-RU_description: "Наносит 4 <u>пронзающий</u>s урона всем врагам на поле.  <u>Сжигается</u>"
 ru-RU_flavor: "Эта буря точно не содержится в стакане воды."
 tile_id: LightningStorm
 cost: 4

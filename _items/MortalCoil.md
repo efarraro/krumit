@@ -25,8 +25,8 @@ image: /images/MortalCoil.png
 durability: 2
 hero: necromancer
 ru-RU_name: "Смертельная спираль"
-ru-RU_description: "Когда вы убиваете врага с этим предметом, призывает Скелет 💀 <u>Миньон</u>"
-ru-RU_flavor: "'El Espiral' - El paso de baile favorito en las Fiestas Esqueléticas."
+ru-RU_description: "Когда вы убиваете врага с этим предметом, призывает 💀 <u>Миньон</u> Скелет"
+ru-RU_flavor: "'Спираль' - выбранный танец на вечеринке скелетов текущего года"
 tile_id: MortalCoil
 cost: 3
 image: /images/MortalCoil.png

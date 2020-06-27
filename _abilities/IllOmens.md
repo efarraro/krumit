@@ -21,9 +21,9 @@ tile_id: IllOmens
 cost: 1
 image: /images/IllOmens.png
 hero: priest
-ru-RU_name: "Больные предзнаменования"
-ru-RU_description: " <u>Осквернение</u> (5) врага и других врагов в том же ряду. <u>Сжигается</u>"
-ru-RU_flavor: "'Esto me da un mal presentimiento...' - Humbolt, el Caído"
+ru-RU_name: "Плохая примета"
+ru-RU_description: "Накладывает  <u>осквернение</u> (5) на выбранного врага и на других врагов в том же ряду. <u>Сжигается</u>"
+ru-RU_flavor: "'У меня плохое предчувствие...' - Гумбольт, Падший"
 tile_id: IllOmens
 cost: 1
 image: /images/IllOmens.png

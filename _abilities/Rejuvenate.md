@@ -22,8 +22,8 @@ cost: 1
 image: /images/Rejuvenate.png
 hero: priest
 ru-RU_name: "Омоложение"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт <u>Регенерация</u>"
-ru-RU_flavor: "Muy bueno para la mente, el cuerpo, el alma y la piel."
+ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт <u>регенерацию</u>"
+ru-RU_flavor: "Отлично подходит для вашего ума, тела, души и кожи."
 tile_id: Rejuvenate
 cost: 1
 image: /images/Rejuvenate.png

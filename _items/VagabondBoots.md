@@ -25,7 +25,7 @@ image: /images/VagabondBoots.png
 durability: 3
 hero: rogue
 ru-RU_name: "Сапоги бродяги"
-ru-RU_description: "Восстанавливает этому предмету 1 прочность, когда вы используете навык."
+ru-RU_description: "Восстанавливает этому предмету 1 прочность, когда вы используете способность."
 ru-RU_flavor: "Пара ботинок для бега так же важны, как острый кинжал."
 tile_id: VagabondBoots
 cost: 2

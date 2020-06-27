@@ -22,8 +22,8 @@ cost: 1
 image: /images/LeechMana.png
 hero: mage
 ru-RU_name: "Высасывание маны"
-ru-RU_description: "Наносит 2 <u>пронзающий</u> урона врагу. Уменьшает стоимость соседних навыков на 2. <u>Сжигается</u>"
-ru-RU_flavor: "'¿Qué? ¡Si ni siquiera lo estaban usando!' - Luca 'El Manavampiro' Cardoso"
+ru-RU_description: "Наносит 2 <u>пронзающий</u>s урона выбранному врагу и уменьшает стоимость соседних способностей на 2. <u>Сжигается</u>"
+ru-RU_flavor: "'Что? Не кажется, что они извлекали из этого максимум пользы!' - Лука 'Манавампир' Кардозо..."
 tile_id: LeechMana
 cost: 1
 image: /images/LeechMana.png

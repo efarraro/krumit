@@ -13,7 +13,7 @@ es-ES_description: "Tu primer ataque en cada combate tiene +1 🔸"
 tile_id: Sneaky
 image: /images/Sneaky.png
 ru-RU_name: "Коварный"
-ru-RU_description: "Ваша первая атака в каждом сражении имеет +1 🔸"
+ru-RU_description: "Ваша первая атака в каждом бою имеет +1 🔸"
 tile_id: Sneaky
 image: /images/Sneaky.png
 ---

@@ -12,7 +12,7 @@ es-ES_name: "Artesano"
 es-ES_description: "Por cada {0} ítems que descartes, repara 1 de durabilidad a un ítem aleatorio en tu inventario ({1}/{2})"
 tile_id: Tinker
 image: /images/Tinker.png
-ru-RU_name: "Лудильщик"
+ru-RU_name: "Инженер"
 ru-RU_description: "После сброса {0} предметов, восстановите 1 прочность случайному предмету в снаряжении. ({1}/{2})"
 tile_id: Tinker
 image: /images/Tinker.png

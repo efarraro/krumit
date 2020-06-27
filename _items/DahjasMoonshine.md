@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 ru-RU_name: "Дажасов самогон"
 ru-RU_description: "Восстанавливает 4 ❤️ и замешивает <u>Проклятие</u> в колоду подземелья"
-ru-RU_flavor: "El Aguardiente de Dahja siempre se presta para un buen rato - y luego un mal rato."
+ru-RU_flavor: "Дажасов самогон - это всегда хорошее времяпрепровождение, за которым следует плохое."
 tile_id: DahjasMoonshine
 cost: 2
 image: /images/DahjasMoonshine.png

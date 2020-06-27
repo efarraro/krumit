@@ -25,7 +25,7 @@ image: /images/Shovel.png
 durability: 2
 hero: necromancer
 ru-RU_name: "Лопата Бубы"
-ru-RU_description: "Когда вы побеждаете врага с этим оружием, замешивает <a href = '../ru_ru/items#RoyalTombstone'>Королевское надгробье</a> в колоду подземелья"
+ru-RU_description: "Когда вы убиваете врага с этим оружием, замешивает <a href = '../ru_ru/items#RoyalTombstone'>Королевское надгробье</a> в колоду подземелья"
 ru-RU_flavor: "'Буба Могильщик? Да, у него есть плохой участок: большую часть времени он должен применять эту лопату, прежде чем он сможет их закопать!'"
 tile_id: Shovel
 cost: 2

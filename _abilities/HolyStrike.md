@@ -21,9 +21,9 @@ tile_id: HolyStrike
 cost: 1
 image: /images/HolyStrike.png
 hero: priest
-ru-RU_name: "Святой удар"
+ru-RU_name: "Священный удар"
 ru-RU_description: "Ваша следующая атака наносит +4 урона и имеет  <u>Вампиризм</u> (4). <u>Сжигается</u>"
-ru-RU_flavor: "Invoca el poder de los Dioses, y reza porque responda el adecuado."
+ru-RU_flavor: "Помолитесь Господу, и надейтесь, что он вас услышит."
 tile_id: HolyStrike
 cost: 1
 image: /images/HolyStrike.png

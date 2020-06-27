@@ -22,8 +22,8 @@ cost: 1
 image: /images/Salvage.png
 hero: warrior
 ru-RU_name: "Переработка"
-ru-RU_description: "Удаляет выбранную карточку с подземелья и полностью восстанавливает прочность всех предметов в снаряжении. <u>Сжигается</u>"
-ru-RU_flavor: "Un resto de chatarra, un poco de cordel, otro poco de baba de Babote, ¡y estará como nuevo! - Chatarroso Bramley"
+ru-RU_description: "Удаляет выбранную карточку с поля и полностью восстанавливает прочность всех предметов в снаряжении. <u>Сжигается</u>"
+ru-RU_flavor: "'Немного металлолома, немного верёвки, немного слизи и будет выглядеть как новенький' - мастер Брэмли"
 tile_id: Salvage
 cost: 1
 image: /images/Salvage.png

@@ -13,7 +13,7 @@ es-ES_description: "Tu primer ataque en cada combate aplica  <u>corrupción</u> 
 tile_id: Queen
 image: /images/Queen.png
 ru-RU_name: "Королева"
-ru-RU_description: "Ваша первая атака в каждом сражении накладывает  <u>осквернение</u> (3)"
+ru-RU_description: "Ваша первая атака в каждом бою накладывает  <u>осквернение</u> (3)"
 tile_id: Queen
 image: /images/Queen.png
 ---

@@ -72,7 +72,7 @@ monsters:
     image: /images/Peasant.png
     quantity: 2
     url: /monsters/Peasant
-ru-RU_name: "Фабрика роботов Глоутех"
+ru-RU_name: "Фабрика роботов Глоутек"
 ru-RU_description: "Раньше здесь собирали роботов-слуг. Потом кто-то решил добавить лазеры и мечи в процесс производства. Дальнейшая история не очень приятна."
 tier: 3
 monsters:

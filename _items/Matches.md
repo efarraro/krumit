@@ -25,7 +25,7 @@ image: /images/Matches.png
 durability: 3
 hero: mage
 ru-RU_name: "Спички"
-ru-RU_description: " <u>ожог</u> (1) на врага"
+ru-RU_description: "Накладывает  <u>ожог</u> (1) на выбранного врага"
 ru-RU_flavor: "Судя по меху и пятнам от грога (и логотипу), вы бы сказали, что эта маленькая коробка спичек из таверны 'Падение Метеора'."
 tile_id: Matches
 cost: 0

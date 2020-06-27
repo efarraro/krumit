@@ -26,7 +26,7 @@ durability: 1
 hero: priest
 ru-RU_name: "Святая граната"
 ru-RU_description: "Наносит 4 урона выбранному врагу и соседним врагам. Восстанавливает 2 ❤️ за каждого врага, получивший урон"
-ru-RU_flavor: "Arrojaréis fentonces festa sacra granada, la que se rumorea proviene de las luengas tierras de Anti-Oquía."
+ru-RU_flavor: "Брось эту святую гранату, сделанную, по слухам, в королевстве Анти-Оха."
 tile_id: HolyGrenade
 cost: 3
 image: /images/HolyGrenade.png

@@ -25,7 +25,7 @@ image: /images/PoisonPotion.png
 durability: 2
 hero: rogue
 ru-RU_name: "Пузырёк с ядом"
-ru-RU_description: " <u>яд</u> (1) на врага и всех остальных врагов в этом ряду."
+ru-RU_description: "Накладывает  <u>яд</u> (1) на выбранного врага и других врагов в этом ряду."
 ru-RU_flavor: "Ходят слухи, что это мерзкое варево было утренним коктейлем СвампАлины на выбор."
 tile_id: PoisonPotion
 cost: 1

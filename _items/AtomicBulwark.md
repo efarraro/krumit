@@ -24,9 +24,9 @@ cost: 4
 image: /images/AtomicBulwark.png
 durability: 3
 hero: priest
-ru-RU_name: "Атомный фальшборт"
-ru-RU_description: "Когда вы  <u>парирование</u> с этим предметом,  <u>яд</u> (3) вашего врага"
-ru-RU_flavor: "Es muy improbable que puedas partirlo."
+ru-RU_name: "Атомный оплот"
+ru-RU_description: "Когда вы  <u>парируете</u> с этим предметом, накладывает  <u>яд</u> (3) на вашего врага"
+ru-RU_flavor: "Вы вряд ли разделите его."
 tile_id: AtomicBulwark
 cost: 4
 image: /images/AtomicBulwark.png

@@ -22,7 +22,7 @@ cost: 0
 image: /images/SpiderBite.png
 hero: rogue
 ru-RU_name: "Укус паука"
-ru-RU_description: " <u>яд</u> (3) на врага. <u>Сжигается</u>"
+ru-RU_description: "Накладывает  <u>яд</u> (3) на выбранного врага. <u>Сжигается</u>"
 ru-RU_flavor: "Оказывается, что яд паука сверх смертелен, когда доставляется заострённым кинжалом."
 tile_id: SpiderBite
 cost: 0

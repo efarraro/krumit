@@ -13,7 +13,7 @@ es-ES_description: "Cuando empiezes una mazmorra, baraja 2 habilidades cualquier
 tile_id: Acolyte
 image: /images/Acolyte.png
 ru-RU_name: "Служитель"
-ru-RU_description: "В начале каждого подземелья замешивает 2 случайных навыка в колоду подземелья."
+ru-RU_description: "В начале каждого подземелья замешивает 2 случайные способности в колоду подземелья."
 tile_id: Acolyte
 image: /images/Acolyte.png
 ---

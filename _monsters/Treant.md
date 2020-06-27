@@ -15,9 +15,9 @@ es-ES_description: "Al final del turno de este enemigo, si tiene 0 de armadura, 
 es-ES_flavor: "El arbolucho promedio puede vivir por más de 1000 años, pero se vuelve gruñón a los 10 años de edad."
 tile_id: Treant
 image: /images/Treant.png
-ru-RU_name: "Энт"
-ru-RU_description: "После своей атаки он умирает, если имеет 0 брони"
-ru-RU_flavor: "Средний пенёк может вырасти до 1000 лет, но становится ворчливым примерно в возрасте 10 лет."
+ru-RU_name: "Трэнт"
+ru-RU_description: "В конце раунда боя он умирает, если на нём нет брони"
+ru-RU_flavor: "Средний трэнт может вырасти до 1000 лет, но становится ворчливым примерно в возрасте 10 лет."
 tile_id: Treant
 image: /images/Treant.png
 ---

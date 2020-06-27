@@ -25,8 +25,8 @@ image: /images/SpikedClub.png
 durability: 2
 hero: warrior
 ru-RU_name: "Шипастая дубинка"
-ru-RU_description: "После вашей атаки этим предметом, вы получаете 1 <u>пронзающий</u> урон"
-ru-RU_flavor: "Una versión mucho más letal del porro, favorecida por vagabundos y pelagatos."
+ru-RU_description: "Когда вы атакуете с этим предметом, наносит вам 1 <u>пронзающий</u> урон"
+ru-RU_flavor: "Гораздо более смертоносная версия биты, которым отдают предпочтение бродяги и оборванцы."
 tile_id: SpikedClub
 cost: 1
 image: /images/SpikedClub.png

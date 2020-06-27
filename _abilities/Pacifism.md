@@ -22,8 +22,8 @@ cost: 3
 image: /images/Pacifism.png
 hero: priest
 ru-RU_name: "Пацифизм"
-ru-RU_description: "Удалите обычного врага с подземелья (не считается убийством). Перезаряжается после <u>сверхлечение</u> 2 раз"
-ru-RU_flavor: "¡Mi corazón está rebosando!"
+ru-RU_description: "Удаляет обычного врага с подземелья (не считается убийством). Перезаряжается после срабатывания <u>сверхлечение</u> 2 раз"
+ru-RU_flavor: "Мое сердце переполнено!"
 tile_id: Pacifism
 cost: 3
 image: /images/Pacifism.png

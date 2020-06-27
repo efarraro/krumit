@@ -13,7 +13,7 @@ es-ES_description: "<u>abrumado</u>: Gana +2 🔸"
 tile_id: Valiant
 image: /images/Valiant.png
 ru-RU_name: "Отважный"
-ru-RU_description: "<u>ошеломлённым</u>: даёт +2 🔸"
+ru-RU_description: "<u>ошеломлены</u>: даёт +2 🔸"
 tile_id: Valiant
 image: /images/Valiant.png
 ---

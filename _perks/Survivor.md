@@ -13,7 +13,7 @@ es-ES_description: "Si tu ❤️ está por debajo del 50% del máximo después d
 tile_id: Survivor
 image: /images/Survivor.png
 ru-RU_name: "Выживатель"
-ru-RU_description: "Если ваше ❤️ меньше 50% от вашего максимума после убийства врага в сражении, восстанавливает 2 ❤️"
+ru-RU_description: "Если ваше ❤️ меньше 50% от вашего максимума после убийства врага в бою, восстанавливает 2 ❤️."
 tile_id: Survivor
 image: /images/Survivor.png
 ---

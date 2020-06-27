@@ -13,7 +13,7 @@ es-ES_description: "Cada vez que adquieras una habilidad, recupera 1 ❤️"
 tile_id: Blessed
 image: /images/Blessed.png
 ru-RU_name: "Благословенный"
-ru-RU_description: "Когда вы получаете навык, восстанавливает 1 ❤️"
+ru-RU_description: "Когда вы получаете способность, восстанавливает 1 ❤️"
 tile_id: Blessed
 image: /images/Blessed.png
 ---

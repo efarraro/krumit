@@ -25,7 +25,7 @@ image: /images/Tentacle.png
 durability: 3
 hero: warrior
 ru-RU_name: "Рука Окто"
-ru-RU_description: "В конце каждого раунда сражения, 🔸 этого предмета увеличивается на 1 (сбрасывается в конце боя)"
+ru-RU_description: "В конце каждого раунда боя увеличивает 🔸 этого предмета на 1 (сбрасывается в конце боя)"
 ru-RU_flavor: "Okto tiene ocho de éstos - bueno, ahora son siete. A menos que se haya conseguido un tentáculo de palo. ¿Un tentápalo?"
 tile_id: Tentacle
 cost: 4

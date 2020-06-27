@@ -25,7 +25,7 @@ image: /images/HauntedBlade.png
 durability: 3
 hero: necromancer
 ru-RU_name: "Одержимый клинок"
-ru-RU_description: "<u>Пассивно</u>: теряйте 1 здоровье всякий раз, когда карточка добавляется в подземелье"
+ru-RU_description: "<u>Пассивно</u>: наносит вам 1 урон, когда карточка добавляется на поле"
 ru-RU_flavor: "Этот полуразумный клинок одержим травмирующими воспоминаниями. Он не любит сюрпризы."
 tile_id: HauntedBlade
 cost: 2

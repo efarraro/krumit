@@ -121,7 +121,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 ru-RU_name: "Пиратский ящик"
-ru-RU_description: "<u>Вытягивание</u> случайный предмет"
+ru-RU_description: "<u>Вытягивает</u> случайный предмет"
 ru-RU_flavor: "Пираты - недоверчивые люди. Настоящий ключ к пиратском ящику - это прикосновение к их сердцу."
 tile_id: PirateLockbox
 cost: 2
@@ -129,7 +129,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 ru-RU_name: "Пиратский ящик"
-ru-RU_description: "<u>Вытягивание</u> случайный предмет"
+ru-RU_description: "<u>Вытягивает</u> случайный предмет"
 ru-RU_flavor: "Пираты - недоверчивые люди. Настоящий ключ к пиратском ящику - это прикосновение к их сердцу."
 tile_id: PirateLockbox
 cost: 2
@@ -137,7 +137,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 ru-RU_name: "Пиратский ящик"
-ru-RU_description: "<u>Вытягивание</u> случайный предмет"
+ru-RU_description: "<u>Вытягивает</u> случайный предмет"
 ru-RU_flavor: "Пираты - недоверчивые люди. Настоящий ключ к пиратском ящику - это прикосновение к их сердцу."
 tile_id: PirateLockbox
 cost: 2
@@ -145,7 +145,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 ru-RU_name: "Пиратский ящик"
-ru-RU_description: "<u>Вытягивание</u> случайный предмет"
+ru-RU_description: "<u>Вытягивает</u> случайный предмет"
 ru-RU_flavor: "Пираты - недоверчивые люди. Настоящий ключ к пиратском ящику - это прикосновение к их сердцу."
 tile_id: PirateLockbox
 cost: 2
@@ -153,7 +153,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 ru-RU_name: "Пиратский ящик"
-ru-RU_description: "<u>Вытягивание</u> случайный предмет"
+ru-RU_description: "<u>Вытягивает</u> случайный предмет"
 ru-RU_flavor: "Пираты - недоверчивые люди. Настоящий ключ к пиратском ящику - это прикосновение к их сердцу."
 tile_id: PirateLockbox
 cost: 2

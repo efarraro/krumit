@@ -9,21 +9,21 @@ image: /images/EnlightenWeapon.png
 hero: priest
 zh-CN_name: "开光武器"
 zh-CN_description: "<u>被动</u>:每当你获得一件近战武器时，增加那件武器2点🔸并在你的牌库中洗入一张<u>祝福</u>。"
-zh-CN_flavor: "Doesn't make a weapon lighter, but it definitely makes it brighter."
+zh-CN_flavor: "不会让你的武器突然充满神力，不过绝对能让它变得锃亮。"
 tile_id: EnlightenWeapon
 cost: 1
 image: /images/EnlightenWeapon.png
 hero: priest
 es-ES_name: "Iluminar Arma"
 es-ES_description: "<u>Pasiva</u>: Cada vez que adquieras un arma de melé, incrementa su 🔸 en 2 y baraja una <u>Bendición</u> en el mazo"
-es-ES_flavor: "Doesn't make a weapon lighter, but it definitely makes it brighter."
+es-ES_flavor: "No vuelve un arma más ligera, pero definitivamente la vuelve más brillante."
 tile_id: EnlightenWeapon
 cost: 1
 image: /images/EnlightenWeapon.png
 hero: priest
 ru-RU_name: "Просветить оружие"
 ru-RU_description: "<u>Пассивно</u>: Когда вы получаете оружие ближнего боя, увеличивает его 🔸 на 2 и замешивает <u>Благословение</u> в колоду подземелья"
-ru-RU_flavor: "Doesn't make a weapon lighter, but it definitely makes it brighter."
+ru-RU_flavor: "No vuelve un arma más ligera, pero definitivamente la vuelve más brillante."
 tile_id: EnlightenWeapon
 cost: 1
 image: /images/EnlightenWeapon.png

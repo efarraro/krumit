@@ -9,21 +9,21 @@ image: /images/HolyFury.png
 hero: priest
 zh-CN_name: "神圣之怒"
 zh-CN_description: "将你的初始能力替换成🟦神选，并用<a href = '../zh_cn/abilities#Smite'>重击</a>填满你的背包空位"
-zh-CN_flavor: "Most definitely not be confused with the 'holy furry'."
+zh-CN_flavor: "千万不要和‘神圣皮毛’弄混了。"
 tile_id: HolyFury
 cost: 2
 image: /images/HolyFury.png
 hero: priest
 es-ES_name: "Furia Sagrada"
 es-ES_description: "Intercambia tu ventaja inicial por 🟦Elegida y llena los espacios vacíos de tu inventario con <a href = '../es_es/abilities#Smite'>Castigar</a>"
-es-ES_flavor: "Most definitely not be confused with the 'holy furry'."
+es-ES_flavor: "No vayas a confundirla con la 'lujuria sagrada'."
 tile_id: HolyFury
 cost: 2
 image: /images/HolyFury.png
 hero: priest
 ru-RU_name: "Святая ярость"
 ru-RU_description: "Заменяет ваш стартовый перк на 🟦Избранный и заполняет ваши свободные слоты в снаряжении <a href = '../ru_ru/abilities#Smite'>Кара</a>"
-ru-RU_flavor: "Most definitely not be confused with the 'holy furry'."
+ru-RU_flavor: "No vayas a confundirla con la 'lujuria sagrada'."
 tile_id: HolyFury
 cost: 2
 image: /images/HolyFury.png

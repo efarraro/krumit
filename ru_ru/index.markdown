@@ -5,4 +5,4 @@
 layout: default
 lang: ru_ru
 ---
-Welcome to the Krumit's Tale Wiki! Choose a section from the header
+Добро пожаловать в энциклопедию игры Krumit’s Tale! Узнайте больше о предметах, врагах и подземельях в Krumit’s Tale.

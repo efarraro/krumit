@@ -9,21 +9,21 @@ image: /images/IllOmens.png
 hero: priest
 zh-CN_name: "恶兆"
 zh-CN_description: "向一列敌人施加 <u>腐化</u> (5)。<u>消耗</u>"
-zh-CN_flavor: "'I've got a bad feeling about this...' - Humbolt, The Fallen "
+zh-CN_flavor: "“我有一种不祥的预感……” - 陨落之人——洪堡"
 tile_id: IllOmens
 cost: 1
 image: /images/IllOmens.png
 hero: priest
 es-ES_name: "Malos Augurios"
 es-ES_description: " <u>Corrompe</u> (5) a un enemigo y a los otros enemigos en la misma fila. <u>Agota</u>"
-es-ES_flavor: "'I've got a bad feeling about this...' - Humbolt, The Fallen "
+es-ES_flavor: "'Esto me da un mal presentimiento...' - Humbolt, el Caído"
 tile_id: IllOmens
 cost: 1
 image: /images/IllOmens.png
 hero: priest
 ru-RU_name: "Больные предзнаменования"
 ru-RU_description: " <u>Осквернение</u> (5) врага и других врагов в том же ряду. <u>Сжигается</u>"
-ru-RU_flavor: "'I've got a bad feeling about this...' - Humbolt, The Fallen "
+ru-RU_flavor: "'Esto me da un mal presentimiento...' - Humbolt, el Caído"
 tile_id: IllOmens
 cost: 1
 image: /images/IllOmens.png

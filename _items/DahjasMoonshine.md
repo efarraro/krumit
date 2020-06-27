@@ -18,7 +18,7 @@ durability: 3
 hero: priest
 es-ES_name: "Aguardiente de Dahja"
 es-ES_description: "Recupera 4 ❤️ y baraja una <u>Maldición</u> en el mazo"
-es-ES_flavor: "Dahja's Moonshine is always a good time - followed by a bad time."
+es-ES_flavor: "El Aguardiente de Dahja siempre se presta para un buen rato - y luego un mal rato."
 tile_id: DahjasMoonshine
 cost: 2
 image: /images/DahjasMoonshine.png
@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 ru-RU_name: "Дажасов самогон"
 ru-RU_description: "Восстанавливает 4 ❤️ и замешивает <u>Проклятие</u> в колоду подземелья"
-ru-RU_flavor: "Dahja's Moonshine is always a good time - followed by a bad time."
+ru-RU_flavor: "El Aguardiente de Dahja siempre se presta para un buen rato - y luego un mal rato."
 tile_id: DahjasMoonshine
 cost: 2
 image: /images/DahjasMoonshine.png

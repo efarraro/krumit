@@ -16,14 +16,14 @@ image: /images/FlashHeal.png
 hero: priest
 es-ES_name: "Curación Rápida"
 es-ES_description: "Recupera 4 ❤️. También recupera 2 ❤️ cuando esta ficha sea añadida al tablero"
-es-ES_flavor: "Like inspiration, nourishment from the heavens can strike when you least expect it."
+es-ES_flavor: "Como la inspiración, el sustento divino puede caer sobre tí cuando menos lo esperas."
 tile_id: FlashHeal
 cost: 0
 image: /images/FlashHeal.png
 hero: priest
 ru-RU_name: "Быстрое лечение"
 ru-RU_description: "Восстанавливает 4 ❤️. Также восстанавливает 2 ❤️, когда добавляется в подземелье"
-ru-RU_flavor: "Like inspiration, nourishment from the heavens can strike when you least expect it."
+ru-RU_flavor: "Como la inspiración, el sustento divino puede caer sobre tí cuando menos lo esperas."
 tile_id: FlashHeal
 cost: 0
 image: /images/FlashHeal.png

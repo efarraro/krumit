@@ -18,7 +18,7 @@ durability: 1
 hero: priest
 es-ES_name: "El Grial de la Reina"
 es-ES_description: "Paga 25 ❤️ (reducido en 3 por cada enemigo que hayas  <u>corrompido</u> en esta mazmorra) para destruir *todas* las fichas en el mazo"
-es-ES_flavor: "The grail is filled from those who are damned. Each drop spilled is a terrible waste... "
+es-ES_flavor: "El grial se llena de la escencia de los condenados. Cada gota derramada es un terrible desperdicio..."
 tile_id: QueensGrail
 cost: 0
 image: /images/QueensGrail.png
@@ -26,7 +26,7 @@ durability: 1
 hero: priest
 ru-RU_name: "Грааль королевы"
 ru-RU_description: "Потратьте 25 ❤️ (уменьшена на 3 за каждого врага, которое вы  <u>осквернили</u> в этом подземельи), чтобы уничтожить *ВСЕ* карточки в колоде подземелья"
-ru-RU_flavor: "The grail is filled from those who are damned. Each drop spilled is a terrible waste... "
+ru-RU_flavor: "El grial se llena de la escencia de los condenados. Cada gota derramada es un terrible desperdicio..."
 tile_id: QueensGrail
 cost: 0
 image: /images/QueensGrail.png

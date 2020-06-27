@@ -18,7 +18,7 @@ durability: 3
 hero: priest
 es-ES_name: "Cinta de Kiki"
 es-ES_description: "Convierte una <u>Maldición</u> objetivo en una <u>Bendición</u>. Intercambia tu ventaja inicial por 🟦Elegida cuando adquieras esto"
-es-ES_flavor: "Kiki's blessing service was in such demand, she eventually enchanted a number of blessed bows to handle the workload."
+es-ES_flavor: "El servicio de bendiciones de Kiki tenía tanta demanda que a la larga tenrminó encantando un número de cintas benditas para que la ayudaran."
 tile_id: KikisBow
 cost: 1
 image: /images/KikisBow.png
@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 ru-RU_name: "Лук Кики"
 ru-RU_description: "Превратите выбранное <u>Проклятие</u> в <u>Благословение</u>. Замените ваш стартовый перк на 🟦Избранный, когда приобретаете это"
-ru-RU_flavor: "Kiki's blessing service was in such demand, she eventually enchanted a number of blessed bows to handle the workload."
+ru-RU_flavor: "El servicio de bendiciones de Kiki tenía tanta demanda que a la larga tenrminó encantando un número de cintas benditas para que la ayudaran."
 tile_id: KikisBow
 cost: 1
 image: /images/KikisBow.png

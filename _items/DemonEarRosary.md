@@ -18,7 +18,7 @@ durability: 3
 hero: priest
 es-ES_name: "Rosario de Orejas Demoníacas"
 es-ES_description: "El 🔸 de esta arma se incrementa en 2 por cada <u>Maldición</u> visible"
-es-ES_flavor: "Less effective than a Demon Fang necklace, but a lot less prone to somehow biting the wearer."
+es-ES_flavor: "Es menos efectivo que un Collar de Colmillos Demoníacos, pero mucho menos propenso a morder a la portadora."
 tile_id: DemonEarRosary
 cost: 2
 image: /images/DemonEarRosary.png
@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 ru-RU_name: "Демоническое ухо розари"
 ru-RU_description: "🔸 этого оружия увеличена на 2 за каждое видимое <u>Проклятие</u>"
-ru-RU_flavor: "Less effective than a Demon Fang necklace, but a lot less prone to somehow biting the wearer."
+ru-RU_flavor: "Es menos efectivo que un Collar de Colmillos Demoníacos, pero mucho menos propenso a morder a la portadora."
 tile_id: DemonEarRosary
 cost: 2
 image: /images/DemonEarRosary.png

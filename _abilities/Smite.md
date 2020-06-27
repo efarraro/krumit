@@ -16,7 +16,7 @@ image: /images/Smite.png
 hero: priest
 es-ES_name: "Castigar"
 es-ES_description: "Haz 3 de daño <u>penetrante</u> (+2 de daño penetrante si tienes toda tu ❤️). <u>Agota</u>"
-es-ES_flavor: "¡La venganza de Hana caerá sobre tí! - Rose"
+es-ES_flavor: "'Castiga a tus enemigos con virtuosa furia. Y luce bien mientras lo haces.' - Extracto de '¿Así Que Quieres Ser Una Sacerdotisa?'"
 tile_id: Smite
 cost: 1
 image: /images/Smite.png

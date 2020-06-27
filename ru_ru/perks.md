@@ -1,5 +1,5 @@
 ---
-title: Perks
+title: Перки
 permalink: /ru_ru/perks
 lang: ru_ru
 ---

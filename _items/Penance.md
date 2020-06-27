@@ -18,7 +18,7 @@ durability: 2
 hero: priest
 es-ES_name: "Penitencia"
 es-ES_description: "Cuando derrotes a un enemigo con esta arma, transforma una <u>Maldición</u> en el tablero en una <u>Bendición</u>"
-es-ES_flavor: "Flaggelate to accumulate."
+es-ES_flavor: "Flagelar para acumular."
 tile_id: Penance
 cost: 2
 image: /images/Penance.png
@@ -26,7 +26,7 @@ durability: 2
 hero: priest
 ru-RU_name: "Покаяние"
 ru-RU_description: "Когда вы атакуете с этим оружием, получите 2 <u>пронзающий</u> урона и <u>Мутировать</u> 🟦Избранный"
-ru-RU_flavor: "Flaggelate to accumulate."
+ru-RU_flavor: "Flagelar para acumular."
 tile_id: Penance
 cost: 2
 image: /images/Penance.png

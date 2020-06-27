@@ -1,5 +1,5 @@
 ---
-title: Heroes
+title: Герои
 permalink: /ru_ru/heroes
 lang: ru_ru
 ---

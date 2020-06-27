@@ -18,7 +18,7 @@ durability: 3
 hero: priest
 es-ES_name: "Cofre Demoníaco"
 es-ES_description: "Destruye una <u>Maldición</u> para <u>roba</u> una ficha de coste 2 💰 o menos"
-es-ES_flavor: "A strange box with many past owners. AKA The Sin Eater, AKA The Curse Consumer, AKA Bad Box AKA Lucifer's Lockbox AKA IT HUNGERS."
+es-ES_flavor: "Una extraña caja que ha pasado por muchas manos. Alias: El Comepecados, la Tragamaldiciones, la Caja Mala, el Baúl de Lucifer, TIENE HAMBRE."
 tile_id: DemonicChest
 cost: 3
 image: /images/DemonicChest.png
@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 ru-RU_name: "Демонический сундук"
 ru-RU_description: "Уничтожает <u>Проклятие</u>, чтобы <u>вытягивание</u> карточку стоимостью 2 💰 или меньше"
-ru-RU_flavor: "A strange box with many past owners. AKA The Sin Eater, AKA The Curse Consumer, AKA Bad Box AKA Lucifer's Lockbox AKA IT HUNGERS."
+ru-RU_flavor: "Una extraña caja que ha pasado por muchas manos. Alias: El Comepecados, la Tragamaldiciones, la Caja Mala, el Baúl de Lucifer, TIENE HAMBRE."
 tile_id: DemonicChest
 cost: 3
 image: /images/DemonicChest.png

@@ -9,21 +9,21 @@ image: /images/Perserverance.png
 hero: priest
 zh-CN_name: "坚毅"
 zh-CN_description: "获得8点🛡️️ <u>格挡</u>与<u>恢复</u>。<u>消耗</u>。处在<u>险境</u>状态下时费用-1"
-zh-CN_flavor: "The higher the odds, the more impressive it is when you keep going."
+zh-CN_flavor: "形势越艰难，你坚持前进的身姿就越发耀眼。"
 tile_id: Perserverance
 cost: 1
 image: /images/Perserverance.png
 hero: priest
 es-ES_name: "Perseverancia"
 es-ES_description: "Gana 8 de 🛡️️ <u>bloqueo</u> y <u>Regeneración</u>. <u>Agota</u>. Esto cuesta 1 menos si estás <u>abrumado</u>"
-es-ES_flavor: "The higher the odds, the more impressive it is when you keep going."
+es-ES_flavor: "Cuanto más está en juego, más impresionante es que sigas adelante."
 tile_id: Perserverance
 cost: 1
 image: /images/Perserverance.png
 hero: priest
 ru-RU_name: "Упорство"
 ru-RU_description: "Даёт 8 🛡️️ <u>Блокирование</u> и <u>Регенерация</u>. <u>Сжигается</u>. Это стоит на 1 меньше, если вы <u>ошеломлённым</u>"
-ru-RU_flavor: "The higher the odds, the more impressive it is when you keep going."
+ru-RU_flavor: "Cuanto más está en juego, más impresionante es que sigas adelante."
 tile_id: Perserverance
 cost: 1
 image: /images/Perserverance.png

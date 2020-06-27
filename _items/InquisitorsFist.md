@@ -18,7 +18,7 @@ durability: 2
 hero: priest
 es-ES_name: "Puño de Inquisidor"
 es-ES_description: "Mientras haya por lo menos una <u>Bendición</u> presente en el tablero, tu ataque gana  <u>Vampirismo</u> (3)"
-es-ES_flavor: "Believe strongly enough and even pain can be nourishing. Especially if it's not your pain."
+es-ES_flavor: "Con suficiente fe incluso el dolor puede ser reconfortante. Sobre todo si no es tu dolor."
 tile_id: InquisitorsFist
 cost: 2
 image: /images/InquisitorsFist.png
@@ -26,7 +26,7 @@ durability: 2
 hero: priest
 ru-RU_name: "Кулак инквизитора"
 ru-RU_description: "Пока в подземельи есть хотя бы одно <u>Благословение</u>, ваша атака имеет  <u>Вампиризм</u> (3)"
-ru-RU_flavor: "Believe strongly enough and even pain can be nourishing. Especially if it's not your pain."
+ru-RU_flavor: "Con suficiente fe incluso el dolor puede ser reconfortante. Sobre todo si no es tu dolor."
 tile_id: InquisitorsFist
 cost: 2
 image: /images/InquisitorsFist.png

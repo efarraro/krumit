@@ -18,7 +18,7 @@ durability: 3
 hero: priest
 es-ES_name: "Sanguijuela Enroscada"
 es-ES_description: "Esta arma tiene  <u>Vampirismo</u> (4) cuando atacas enemigos que tengan ❤️ llena"
-es-ES_flavor: "'They only drink from the fullest of cups. Picky little bastards.' Leech Farmer Lonzo"
+es-ES_flavor: "'Sólo beben de las copas más llenas, las monstruitas melindrosas.' Lonzo, Criador de Sanguijuelas"
 tile_id: CoiledLeech
 cost: 3
 image: /images/CoiledLeech.png
@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 ru-RU_name: "Спиральная пиявка"
 ru-RU_description: "Это оружие имеет  <u>Вампиризм</u> (4), когда атакуете врага с полным ❤️"
-ru-RU_flavor: "'They only drink from the fullest of cups. Picky little bastards.' Leech Farmer Lonzo"
+ru-RU_flavor: "'Sólo beben de las copas más llenas, las monstruitas melindrosas.' Lonzo, Criador de Sanguijuelas"
 tile_id: CoiledLeech
 cost: 3
 image: /images/CoiledLeech.png

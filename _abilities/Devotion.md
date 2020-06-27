@@ -16,14 +16,14 @@ image: /images/Devotion.png
 hero: priest
 es-ES_name: "Devoción"
 es-ES_description: "<u><u>Instantánea</u></u>. Baraja 3 <u>Bendiciones</u> en el mazo"
-es-ES_flavor: "Doubt gnaws on a soul. Devotion seals it in."
+es-ES_flavor: "Las dudas roen el alma. La devoción la protege."
 tile_id: Devotion
 cost: 1
 image: /images/Devotion.png
 hero: priest
 ru-RU_name: "Преданность"
 ru-RU_description: "<u><u>Мгновенная</u></u>. Замешивает 3 <u>Благословения</u> в колоду подземелья"
-ru-RU_flavor: "Doubt gnaws on a soul. Devotion seals it in."
+ru-RU_flavor: "Las dudas roen el alma. La devoción la protege."
 tile_id: Devotion
 cost: 1
 image: /images/Devotion.png

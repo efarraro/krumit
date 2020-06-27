@@ -1,5 +1,5 @@
 ---
-title: Dungeons
+title: Подземелья
 permalink: /ru_ru/dungeons
 lang: ru_ru
 ---

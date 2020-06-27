@@ -18,7 +18,7 @@ durability: 3
 hero: priest
 es-ES_name: "La Coraza Más Oscura"
 es-ES_description: "Cuando adquieras esto,  <u>Corrompe</u> (4) todos los enemigos visibles"
-es-ES_flavor: "Forged in the Sun-shy Vale from penumbrite smelted in nega-flame, merely looking upon the Darkest Cuirass can extinguish the light from your soul."
+es-ES_flavor: "Forjada en el Valle Solhuraño de penumbrita fundida en anti-llamas. Tan solo mirar la Corza Más Oscura puede extiguir la luz de tu alma."
 tile_id: TheDarkestCuirass
 cost: 3
 image: /images/TheDarkestCuirass.png
@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 ru-RU_name: "Тёмная кираса"
 ru-RU_description: "Когда вы получаете это,  <u>Осквернение</u> (4) всех видимых врагов"
-ru-RU_flavor: "Forged in the Sun-shy Vale from penumbrite smelted in nega-flame, merely looking upon the Darkest Cuirass can extinguish the light from your soul."
+ru-RU_flavor: "Forjada en el Valle Solhuraño de penumbrita fundida en anti-llamas. Tan solo mirar la Corza Más Oscura puede extiguir la luz de tu alma."
 tile_id: TheDarkestCuirass
 cost: 3
 image: /images/TheDarkestCuirass.png

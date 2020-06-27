@@ -1,5 +1,5 @@
 ---
-title: Items
+title: Предметы
 permalink: /ru_ru/items
 lang: ru_ru
 ---

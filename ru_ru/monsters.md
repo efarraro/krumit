@@ -1,5 +1,5 @@
 ---
-title: Monsters
+title: Монстры
 permalink: /ru_ru/monsters
 lang: ru_ru
 ---

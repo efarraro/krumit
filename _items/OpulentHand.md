@@ -18,7 +18,7 @@ durability: 3
 hero: priest
 es-ES_name: "Mano Opulenta"
 es-ES_description: "Cuando ataques a un enemigo  <u>corrompido</u> con esta arma, gana 1 💰"
-es-ES_flavor: "The Midas slap."
+es-ES_flavor: "La bofetada de Midas."
 tile_id: OpulentHand
 cost: 3
 image: /images/OpulentHand.png
@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 ru-RU_name: "Роскошная рука"
 ru-RU_description: "Когда вы атакуете  <u>осквернили</u> врага с этим оружием, даёт 1 💰"
-ru-RU_flavor: "The Midas slap."
+ru-RU_flavor: "La bofetada de Midas."
 tile_id: OpulentHand
 cost: 3
 image: /images/OpulentHand.png

@@ -1,5 +1,5 @@
 ---
-title: Abilities
+title: Способности
 permalink: /ru_ru/abilities
 lang: ru_ru
 ---

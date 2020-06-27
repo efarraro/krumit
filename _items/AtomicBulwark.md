@@ -18,7 +18,7 @@ durability: 3
 hero: priest
 es-ES_name: "Baluarte Atómico"
 es-ES_description: "Al  <u>desviar</u> con este ítem,  <u>envenena</u> (3) a tu oponente"
-es-ES_flavor: "You're unlikely to split it."
+es-ES_flavor: "Es muy improbable que puedas partirlo."
 tile_id: AtomicBulwark
 cost: 4
 image: /images/AtomicBulwark.png
@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 ru-RU_name: "Атомный фальшборт"
 ru-RU_description: "Когда вы  <u>парирование</u> с этим предметом,  <u>яд</u> (3) вашего врага"
-ru-RU_flavor: "You're unlikely to split it."
+ru-RU_flavor: "Es muy improbable que puedas partirlo."
 tile_id: AtomicBulwark
 cost: 4
 image: /images/AtomicBulwark.png

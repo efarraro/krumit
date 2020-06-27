@@ -10,7 +10,7 @@ durability: 3
 hero: priest
 zh-CN_name: "猴爪"
 zh-CN_description: "当你使用这件武器攻击时，将牌库中的一张技能牌转化成<u>诅咒</u>"
-zh-CN_flavor: "Enchanted under a gibbon moon (the opposite of a gibbous one), this gorey forepaw makes you careful what you wish for."
+zh-CN_flavor: "在猿月（不是圆月）下被注魔之后，这个可怕的前爪会教会你不要轻易许愿。"
 tile_id: MonkeysPaw
 cost: 1
 image: /images/MonkeysPaw.png
@@ -18,7 +18,7 @@ durability: 3
 hero: priest
 es-ES_name: "Pata de Mono"
 es-ES_description: "Cuando ataques con esta arma, transforma una habilidad en el mazo en una <u>Maldición</u>"
-es-ES_flavor: "Enchanted under a gibbon moon (the opposite of a gibbous one), this gorey forepaw makes you careful what you wish for."
+es-ES_flavor: "Esta zarpa sangrienta, encantada a la luz de una monona luna, te hace tener mucho cuidado con lo que deseas."
 tile_id: MonkeysPaw
 cost: 1
 image: /images/MonkeysPaw.png
@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 ru-RU_name: "Лапа обезьяны"
 ru-RU_description: "Когда вы атакуете с этим оружием, превратите навык в колоде подземелья в <u>Проклятие</u>"
-ru-RU_flavor: "Enchanted under a gibbon moon (the opposite of a gibbous one), this gorey forepaw makes you careful what you wish for."
+ru-RU_flavor: "Esta zarpa sangrienta, encantada a la luz de una monona luna, te hace tener mucho cuidado con lo que deseas."
 tile_id: MonkeysPaw
 cost: 1
 image: /images/MonkeysPaw.png

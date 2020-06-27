@@ -9,21 +9,21 @@ image: /images/Rejuvenate.png
 hero: priest
 zh-CN_name: "重振精神"
 zh-CN_description: "<u><u>即时</u></u>。获得<u>恢复</u>"
-zh-CN_flavor: "Great for mind, body, soul and your skin."
+zh-CN_flavor: "能对你的思想、身躯和灵魂有修复作用。"
 tile_id: Rejuvenate
 cost: 1
 image: /images/Rejuvenate.png
 hero: priest
 es-ES_name: "Rejuvenecer"
 es-ES_description: "<u><u>Instantánea</u></u>. Gana <u>Regeneración</u>"
-es-ES_flavor: "Great for mind, body, soul and your skin."
+es-ES_flavor: "Muy bueno para la mente, el cuerpo, el alma y la piel."
 tile_id: Rejuvenate
 cost: 1
 image: /images/Rejuvenate.png
 hero: priest
 ru-RU_name: "Омоложение"
 ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт <u>Регенерация</u>"
-ru-RU_flavor: "Great for mind, body, soul and your skin."
+ru-RU_flavor: "Muy bueno para la mente, el cuerpo, el alma y la piel."
 tile_id: Rejuvenate
 cost: 1
 image: /images/Rejuvenate.png

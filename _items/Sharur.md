@@ -18,7 +18,7 @@ durability: 3
 hero: priest
 es-ES_name: "Sharur"
 es-ES_description: "El 🔸 de esta arma se incrementa en 1 por cada enemigo diferente que hayas  <u>corrompido</u>"
-es-ES_flavor: "This Morning Star can have little a curse as a treat."
+es-ES_flavor: "Esta maza puede tener un poquillo de maldición, como premio."
 tile_id: Sharur
 cost: 4
 image: /images/Sharur.png
@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 ru-RU_name: "Шарур"
 ru-RU_description: "🔸 этого предмета увеличена на 1 за каждого различного врага, которого вы  <u>осквернили</u>"
-ru-RU_flavor: "This Morning Star can have little a curse as a treat."
+ru-RU_flavor: "Esta maza puede tener un poquillo de maldición, como premio."
 tile_id: Sharur
 cost: 4
 image: /images/Sharur.png

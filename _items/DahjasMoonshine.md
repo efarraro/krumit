@@ -10,7 +10,7 @@ durability: 3
 hero: priest
 zh-CN_name: "达哈斯的私酿"
 zh-CN_description: "恢复4点生命值并将一张<u>诅咒</u>洗进你的牌库。"
-zh-CN_flavor: "Dahja's Moonshine is always a good time - followed by a bad time."
+zh-CN_flavor: "达哈斯的私酿总能为你带来一段美好的时光——紧跟着一段糟糕的时光。"
 tile_id: DahjasMoonshine
 cost: 2
 image: /images/DahjasMoonshine.png
@@ -25,7 +25,7 @@ image: /images/DahjasMoonshine.png
 durability: 3
 hero: priest
 ru-RU_name: "Дажасов самогон"
-ru-RU_description: "Восстанавливает 4 ❤️ и замешивает <u>Проклятие</u> в колоду подземелья"
+ru-RU_description: "Восстанавливает 4 ❤️ и замешивает <u>проклятие</u> в колоду подземелья"
 ru-RU_flavor: "Дажасов самогон - это всегда хорошее времяпрепровождение, за которым следует плохое."
 tile_id: DahjasMoonshine
 cost: 2

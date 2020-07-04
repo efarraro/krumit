@@ -16,7 +16,7 @@ es-ES_flavor: "Las Harpías creen en la anarquía y la libertad personal, y desp
 tile_id: Harpy
 image: /images/Harpy.png
 ru-RU_name: "Панк"
-ru-RU_description: "Если этот враг достигает нижнего ряда, вы получаете 2 урона."
+ru-RU_description: "Когда этот враг достигает нижнего ряда, вы получаете 2 урона."
 ru-RU_flavor: "Гарпии верят в анархию и личную свободу и презирают упорядоченные цивилизации землян. Они любят красть еду у своих жертв во время еды, чтобы они могли видеть их лица."
 tile_id: Harpy
 image: /images/Harpy.png

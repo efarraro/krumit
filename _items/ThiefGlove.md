@@ -2,7 +2,7 @@
 
 EN_name: "Thief's Glove"
 EN_description: "While you flee, if this item is equipped, gain 1 💰"
-EN_flavor: "This gloves have sticky fingers. Useful in a pinch."
+EN_flavor: "These gloves have sticky fingers. Useful in a pinch."
 tile_id: ThiefGlove
 cost: 2
 image: /images/ThiefGlove.png

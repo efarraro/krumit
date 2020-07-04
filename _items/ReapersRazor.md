@@ -26,7 +26,7 @@ durability: 3
 hero: necromancer
 ru-RU_name: "Бритва жнеца"
 ru-RU_description: "Когда вы убиваете врага с этим предметом, увеличивает ваше максимальное ❤️ на 1"
-ru-RU_flavor: "Достаточно острая, чтобы сбрить чью-то жизнь, или самую нечестивую бороду. "
+ru-RU_flavor: "Достаточно острая, чтобы сбрить чью-то жизнь или самую нечестивую бороду. "
 tile_id: ReapersRazor
 cost: 3
 image: /images/ReapersRazor.png

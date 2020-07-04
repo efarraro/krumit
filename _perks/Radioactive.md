@@ -13,7 +13,7 @@ es-ES_description: " <u>envenena</u> a los enemigos cuando entren al tablero"
 tile_id: Radioactive
 image: /images/Radioactive.png
 ru-RU_name: "Радиоактивный"
-ru-RU_description: "Накладывает  <u>яд</u> на противником, когда они появляются"
+ru-RU_description: "Когда враг появляется на поле, накладывает  <u>яд</u> на него"
 tile_id: Radioactive
 image: /images/Radioactive.png
 ---

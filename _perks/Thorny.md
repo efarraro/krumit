@@ -13,7 +13,7 @@ es-ES_description: "Mientras tengas al menos 4 de 🛡️️ <u>bloqueo</u>, gan
 tile_id: Thorny
 image: /images/Thorny.png
 ru-RU_name: "Колючий"
-ru-RU_description: "Пока у вас 🛡️️ <u>Блокирование</u> не меньше 4, даёт <u>шипы</u> (2)"
+ru-RU_description: "Пока у вас не менее 4 🛡️️ <u>блока</u>, даёт <u>шипы</u> (2)"
 tile_id: Thorny
 image: /images/Thorny.png
 ---

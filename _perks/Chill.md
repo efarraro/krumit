@@ -13,7 +13,7 @@ es-ES_description: "Una vez por combate, <u>congela</u> a tu oponente después d
 tile_id: Chill
 image: /images/Chill.png
 ru-RU_name: "Охлаждение"
-ru-RU_description: "Раз в бой, после действия врага, замораживает его, если его действие включало 🔸"
+ru-RU_description: "Когда впервые за бой враг наносит вам урон своей 🔸, накладывает <u>мороз</u> на него"
 tile_id: Chill
 image: /images/Chill.png
 ---

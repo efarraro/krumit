@@ -10,7 +10,7 @@ durability: 2
 hero: priest
 zh-CN_name: "审判官之拳"
 zh-CN_description: "场上有至少一个<u>祝福</u>时，你的攻击拥有 <u>生命吸取</u> (3)"
-zh-CN_flavor: "Believe strongly enough and even pain can be nourishing. Especially if it's not your pain."
+zh-CN_flavor: "只要有足够坚定的信念，即使痛苦也可以为你带来滋养，特别是别人的痛苦。"
 tile_id: InquisitorsFist
 cost: 2
 image: /images/InquisitorsFist.png
@@ -25,7 +25,7 @@ image: /images/InquisitorsFist.png
 durability: 2
 hero: priest
 ru-RU_name: "Кулак инквизитора"
-ru-RU_description: "Пока на поле есть хотя бы одно <u>Благословение</u>, ваша атака имеет  <u>Вампиризм</u> (3)"
+ru-RU_description: "Пока на поле есть хотя бы одно <u>благословение</u>, ваша атака имеет  <u>Вампиризм</u> (3)"
 ru-RU_flavor: "При достаточной вере даже боль может стать пищей. Даже, если это не ваша боль."
 tile_id: InquisitorsFist
 cost: 2

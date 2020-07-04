@@ -22,7 +22,7 @@ cost: 2
 image: /images/Warmblooded.png
 hero: mage
 ru-RU_name: "Теплокровный"
-ru-RU_description: "Восстанавливает 2 ❤️. Перезаряжается, когда вы  <u>горит</u> врага."
+ru-RU_description: "Восстанавливает 2 ❤️. Перезаряжается после наложения  <u>ожог</u> на врага"
 ru-RU_flavor: "Наполните себя силой саламандры и питайтесь огнём своих врагов! И шашлыком поблизости!"
 tile_id: Warmblooded
 cost: 2

@@ -25,7 +25,7 @@ image: /images/BattlewornGauntlets.png
 durability: 3
 hero: warrior
 ru-RU_name: "Поношенные рукавицы"
-ru-RU_description: "Восстанови 1 прочности этого предмета при получении оружия"
+ru-RU_description: "Когда вы получаете оружие, восстанавливает 1 прочность этому предмету"
 ru-RU_flavor: "Эти рукавицы пред-осенней коллекции точно опытнее, чем вы когда-либо будете. Нося их, вы чувствуете  себя уверенно и элегантно."
 tile_id: BattlewornGauntlets
 cost: 3

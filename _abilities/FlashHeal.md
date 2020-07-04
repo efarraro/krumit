@@ -9,7 +9,7 @@ image: /images/FlashHeal.png
 hero: priest
 zh-CN_name: "迅捷治疗"
 zh-CN_description: "恢复4点生命值。 当此卡出现在场上时恢复玩家2点生命值"
-zh-CN_flavor: "Like inspiration, nourishment from the heavens can strike when you least expect it."
+zh-CN_flavor: "就像灵感一样，来自天堂的滋养会在你最意想不到的时候击中你。"
 tile_id: FlashHeal
 cost: 0
 image: /images/FlashHeal.png

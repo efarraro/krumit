@@ -12,7 +12,7 @@ es-ES_name: "Belicoso"
 es-ES_description: "Tus armas de melé tienen +1 🔸"
 tile_id: Warmonger
 image: /images/Warmonger.png
-ru-RU_name: "Поджигатель войны"
+ru-RU_name: "Воинственный"
 ru-RU_description: "Ваши рукопашные оружия имеют +1 🔸"
 tile_id: Warmonger
 image: /images/Warmonger.png

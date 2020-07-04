@@ -22,7 +22,7 @@ cost: 1
 image: /images/LifeSip.png
 hero: necromancer
 ru-RU_name: "Глоток жизни"
-ru-RU_description: "Наносит 2 <u>пронзающий</u>s урона и восстанавливает 3 ❤️. <u>Сжигается</u>"
+ru-RU_description: "Наносит 2 <u>пронзающий</u> урона и восстанавливает 3 ❤️. <u>Сжигается</u>"
 ru-RU_flavor: "'Только один глоток! Оставь немного для меня!'"
 tile_id: LifeSip
 cost: 1

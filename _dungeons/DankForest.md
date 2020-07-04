@@ -47,7 +47,7 @@ ru-RU_description: "Этот лес поистине самый сырой. И �
 tier: 1
 monsters:
   - monster:
-    name: "Варвар"
+    name: "Вардведь"
     image: /images/Bear.png
     quantity: 1
     url: /monsters/Bear

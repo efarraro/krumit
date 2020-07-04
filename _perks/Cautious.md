@@ -13,7 +13,7 @@ es-ES_description: "Ya no puedes desviar ataques, pero cada arma equipada te da 
 tile_id: Cautious
 image: /images/Cautious.png
 ru-RU_name: "Предусмотрительный"
-ru-RU_description: "Вы больше не может парировать, но каждое экипированное оружие даёт 2 🛡️️ <u>Блокирование</u>"
+ru-RU_description: "Вы больше не может парировать, но каждое экипированное оружие даёт 2 🛡️️ <u>блока</u>"
 tile_id: Cautious
 image: /images/Cautious.png
 ---

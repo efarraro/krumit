@@ -12,7 +12,7 @@ es-ES_name: "Enterrador"
 es-ES_description: "Tu 🔸 base se incrementa en 1 si hay al menos 3 <a href = '../es_es/items#Tombstone'>Lápida</a> en el tablero"
 tile_id: Cannibal
 image: /images/Cannibal.png
-ru-RU_name: "Могильщик"
+ru-RU_name: "Гробовщик"
 ru-RU_description: "Ваша базовая 🔸 увеличена на 1, если по крайней мере 3 <a href = '../ru_ru/items#Tombstone'>Надгробье</a> на столе"
 tile_id: Cannibal
 image: /images/Cannibal.png

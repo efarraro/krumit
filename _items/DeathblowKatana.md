@@ -25,7 +25,7 @@ image: /images/DeathblowKatana.png
 durability: 3
 hero: warrior
 ru-RU_name: "Добивающая катана"
-ru-RU_description: "Это оружие можно экипировать только после вашего  <u>парируете</u>"
+ru-RU_description: "Это оружие можно экипировать только после парирования"
 ru-RU_flavor: "Смертельное оружие из другого мира. Выцветшая надпись на рукояти гласит: «Когда найдете, пожалуйста, верните это Однорукому Волку»."
 tile_id: DeathblowKatana
 cost: 3

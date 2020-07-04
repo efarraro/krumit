@@ -15,9 +15,9 @@ es-ES_description: "En esta mazmorra, cada vez que descartes una ficha, destruye
 es-ES_flavor: "En vida, el Rey Fantasma fue un rey bastante guay. Ya muerto, lucha contra Calacas (y con cualquiera que esté en su camino) en una fiera y eterna rivaldad por recolectar almas frescas para su reino espeluznante."
 tile_id: GhostKing
 image: /images/GhostKing.png
-ru-RU_name: "Король-призрак"
-ru-RU_description: "В этом подземельи, когда вы сбрасываете карточку, уничтожает верхняя карта колоды подземелья (Король-призрак защищен от этого эффекта). Жуть!"
-ru-RU_flavor: "При жизни, Король-призрак был добрым и крутым правителем. При смерти, он борется с жестоким, вечным соперничеством с Калакасомs (и любым другим на его пути), чтобы собрать новые души для его жуткого королевства."
+ru-RU_name: "Призрачный король"
+ru-RU_description: "Когда вы сбрасываете карточку в этом подземельи, уничтожается верхняя карта колоды подземелья (Призрачный король защищен от этого эффекта). Жуть!"
+ru-RU_flavor: "При жизни Призрачный король был добрым и крутым правителем. При смерти он борется с жестоким, вечным соперничеством с Калакасом (и любым другим на его пути), чтобы собрать новые души для его жуткого королевства."
 tile_id: GhostKing
 image: /images/GhostKing.png
 ---

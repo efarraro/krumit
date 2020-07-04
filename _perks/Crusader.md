@@ -13,7 +13,7 @@ es-ES_description: "Mientras tengas la ❤️ llena, incrementa tu 🔸 base en 
 tile_id: Crusader
 image: /images/Crusader.png
 ru-RU_name: "Крестоносец"
-ru-RU_description: "Если у вас полное ❤️, увеличивает вашу базовую 🔸 на 1"
+ru-RU_description: "Ваша базовая 🔸 увеличена на 1, пока у вас полное ❤️."
 tile_id: Crusader
 image: /images/Crusader.png
 ---

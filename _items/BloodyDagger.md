@@ -25,7 +25,7 @@ image: /images/BloodyDagger.png
 durability: 3
 hero: rogue
 ru-RU_name: "Кровавый Кинжал"
-ru-RU_description: "Когда вы атакуете поврежденного врага, восстанавливает 3 ❤️."
+ru-RU_description: "Когда вы атакуете врага с неполным ❤️, восстанавливает 3 ❤️."
 ru-RU_flavor: "'Да, да... Сила... она зовет меня... ' - Мендек Безумный"
 tile_id: BloodyDagger
 cost: 3

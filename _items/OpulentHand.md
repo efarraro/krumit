@@ -10,7 +10,7 @@ durability: 3
 hero: priest
 zh-CN_name: "点金手"
 zh-CN_description: "当你使用这件武器攻击一位被 <u>腐化</u>的敌人时，获得1枚💰"
-zh-CN_flavor: "The Midas slap."
+zh-CN_flavor: "迈达斯之拳。"
 tile_id: OpulentHand
 cost: 3
 image: /images/OpulentHand.png
@@ -25,7 +25,7 @@ image: /images/OpulentHand.png
 durability: 3
 hero: priest
 ru-RU_name: "Роскошная рука"
-ru-RU_description: "Когда вы атакуете  <u>осквернили</u> врага с этим оружием, даёт 1 💰"
+ru-RU_description: "Когда вы атакуете  <u>оскверненного</u> врага с этим оружием, даёт 1 💰"
 ru-RU_flavor: "Пощечина Мидаса"
 tile_id: OpulentHand
 cost: 3

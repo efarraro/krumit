@@ -10,7 +10,7 @@ durability: 3
 hero: priest
 zh-CN_name: "恶魔宝箱"
 zh-CN_description: "摧毁一个<u>诅咒</u>并<u>制造</u>一张消耗为2枚💰或以下的卡牌"
-zh-CN_flavor: "A strange box with many past owners. AKA The Sin Eater, AKA The Curse Consumer, AKA Bad Box AKA Lucifer's Lockbox AKA IT HUNGERS."
+zh-CN_flavor: "一个奇怪的盒子，有着许多已经过世的主人。又名“食罪箱”，又名“诅咒吞噬箱”，又名“坏箱子”，又名“路西法的锁箱”，又名“它饿了！”。"
 tile_id: DemonicChest
 cost: 3
 image: /images/DemonicChest.png
@@ -25,7 +25,7 @@ image: /images/DemonicChest.png
 durability: 3
 hero: priest
 ru-RU_name: "Демонический сундук"
-ru-RU_description: "Уничтожает <u>Проклятие</u>, затем <u>вытягивает</u> карточку стоимостью 2 💰 или меньше"
+ru-RU_description: "Уничтожает <u>проклятие</u>, затем <u>вытягивает</u> карточку стоимостью 2 💰 или меньше"
 ru-RU_flavor: "Странный ящик со многими прошлыми владельцами. Он - пожиратель грехов. Он - поглотитель проклятий. Он - короб ужаса. Он - сундук Люцифера. Он ОЧЕНЬ ГОЛОДЕН."
 tile_id: DemonicChest
 cost: 3

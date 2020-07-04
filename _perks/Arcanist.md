@@ -13,7 +13,7 @@ es-ES_description: "Cada vez que adquieras una habilidad, haz 1 de daño <u>pene
 tile_id: Arcanist
 image: /images/Arcanist.png
 ru-RU_name: "Чародей"
-ru-RU_description: "Всякий раз, когда вы получаете способность, наносит 1 <u>пронзающий</u> урона крайнему верхнему врагу в том же столбце"
+ru-RU_description: "Когда вы получаете способность, наносит 1 <u>пронзающий</u> урон самому верхнему врагу в том же столбце"
 tile_id: Arcanist
 image: /images/Arcanist.png
 ---

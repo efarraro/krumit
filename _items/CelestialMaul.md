@@ -10,7 +10,7 @@ durability: 3
 hero: priest
 zh-CN_name: "神圣之槌"
 zh-CN_description: "当你的❤️为全满时，增加此武器4点🔸。此道具只有你拥有能力🟦神选时才能使用。"
-zh-CN_flavor: "A true artifact of the uncaring heavens, this pious pounder can only be wielded by those who embody the true relationship between light and shadow."
+zh-CN_flavor: "只有真正浸入光明与黑暗之间的人才能舞动这把神圣大槌。"
 tile_id: CelestialMaul
 cost: 3
 image: /images/CelestialMaul.png

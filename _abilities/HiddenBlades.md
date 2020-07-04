@@ -22,7 +22,7 @@ cost: 1
 image: /images/HiddenBlades.png
 hero: rogue
 ru-RU_name: "Скрытые клинки"
-ru-RU_description: "Замешивает 2 копий <a href = '../ru_ru/abilities#Stab'>Удар ножом</a> в колоду подземелья.  <u>Сжигается</u>"
+ru-RU_description: "Замешивает 2 копии <a href = '../ru_ru/abilities#Stab'>Удар ножом</a> в колоду подземелья.  <u>Сжигается</u>"
 ru-RU_flavor: "'Рукава - идеальное место для скрытия. Носки также подойдут. На крайняк можно спрятать и в нижнем белье.' - из популярного руководства для воров 'Было ваше, стало наше'"
 tile_id: HiddenBlades
 cost: 1

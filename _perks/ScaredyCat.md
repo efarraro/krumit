@@ -13,7 +13,7 @@ es-ES_description: "Cuando huyas de un combate, gana 2 de 🛡️️ <u>bloqueo<
 tile_id: ScaredyCat
 image: /images/ScaredyCat.png
 ru-RU_name: "Испуганная кошка"
-ru-RU_description: "Всякий раз, когда вы спасаетесь бегством, даёт 2 🛡️️ <u>Блокирование</u>"
+ru-RU_description: "Всякий раз, когда вы спасаетесь бегством, даёт 2 🛡️️ <u>блока</u>"
 tile_id: ScaredyCat
 image: /images/ScaredyCat.png
 ---

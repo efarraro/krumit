@@ -13,7 +13,7 @@ es-ES_description: "Tu 🔸 base se incrementa en 2 cuando atacas enemigos con a
 tile_id: Scrapper
 image: /images/Scrapper.png
 ru-RU_name: "Дуэлянт"
-ru-RU_description: "Ваша базовая 🔸 увеличена на 2, пока вы атакуете врага с броней или 🛡️️ <u>Блокирование</u>"
+ru-RU_description: "Ваша базовая 🔸 увеличена на 2, пока вы атакуете врага, который имеет броню или 🛡️️ <u>блок</u>"
 tile_id: Scrapper
 image: /images/Scrapper.png
 ---

@@ -13,7 +13,7 @@ es-ES_description: "'Apuñalar' hace +1 de daño"
 tile_id: Stabby
 image: /images/Stabby.png
 ru-RU_name: "Заточка"
-ru-RU_description: "Удар в спину наносит +1 урона."
+ru-RU_description: "<a href = '../ru_ru/abilities#Stab'>Удар ножом</a> имеет +1 🔸"
 tile_id: Stabby
 image: /images/Stabby.png
 ---

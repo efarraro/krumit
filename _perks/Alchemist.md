@@ -13,7 +13,7 @@ es-ES_description: "Al principio de cada mazmorra, baraja 3 pociones aleatorias 
 tile_id: Alchemist
 image: /images/Alchemist.png
 ru-RU_name: "Алхимик"
-ru-RU_description: "В начале каждого подземелья, замешивает 3 случайные зелья в колоду"
+ru-RU_description: "В начале каждого подземелья замешивает 3 случайные зелья в колоду подземелья"
 tile_id: Alchemist
 image: /images/Alchemist.png
 ---

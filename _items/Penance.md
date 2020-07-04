@@ -10,7 +10,7 @@ durability: 2
 hero: priest
 zh-CN_name: "苦修"
 zh-CN_description: "当你使用这件武器击败一个敌人时，将场上的一个<u>诅咒</u>转化为<u>祝福</u>"
-zh-CN_flavor: "Flaggelate to accumulate."
+zh-CN_flavor: "自我鞭笞有利身心。"
 tile_id: Penance
 cost: 2
 image: /images/Penance.png
@@ -25,7 +25,7 @@ image: /images/Penance.png
 durability: 2
 hero: priest
 ru-RU_name: "Покаяние"
-ru-RU_description: "Когда вы атакуете с этим оружием, наносит герою 2 <u>пронзающий</u>s урона и <u>мутирует</u> в 🟦Избранный"
+ru-RU_description: "Когда вы атакуете с этим оружием, наносит 2 <u>пронзающий</u> урона вам и <u>мутирует</u> в 🟦Избранный"
 ru-RU_flavor: "Flagelar para acumular."
 tile_id: Penance
 cost: 2

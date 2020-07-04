@@ -10,7 +10,7 @@ durability: 3
 hero: priest
 zh-CN_name: "恶魔耳链"
 zh-CN_description: "此武器的🔸受到场上每一个可见的<u>诅咒</u>的影响一共增加了2点攻击力。"
-zh-CN_flavor: "Less effective than a Demon Fang necklace, but a lot less prone to somehow biting the wearer."
+zh-CN_flavor: "效果不如魔牙项链，不过也不怎么咬人。"
 tile_id: DemonEarRosary
 cost: 2
 image: /images/DemonEarRosary.png
@@ -24,8 +24,8 @@ cost: 2
 image: /images/DemonEarRosary.png
 durability: 3
 hero: priest
-ru-RU_name: "Демоническое ухо розари"
-ru-RU_description: "🔸 этого оружия увеличена на 2 за каждое <u>Проклятие</u> на поле"
+ru-RU_name: "Ухо демона Розари"
+ru-RU_description: "🔸 этого оружия увеличена на 2 за каждое <u>проклятие</u> на поле"
 ru-RU_flavor: "Менее эффективное, чем ожерелье Демона Клыка, но гораздо менее склонное к укусам владельца."
 tile_id: DemonEarRosary
 cost: 2

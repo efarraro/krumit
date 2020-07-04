@@ -15,7 +15,7 @@ es-ES_description: "Ten cuidado - después de bloquear en el primer turno, este 
 es-ES_flavor: "Los Barbarosos creen que el significado de la vida yace en demostrar su fuerza y en rascarse la espalda contra un buen árbol. Desde su mutación nuclear, ya no necesitan hibernar - sólo tomar frecuentes siestas."
 tile_id: Bear
 image: /images/Bear.png
-ru-RU_name: "Варвар"
+ru-RU_name: "Вардведь"
 ru-RU_description: "Берегись, после блокирования на первом ходу этот парень бьет... БОЛЬНО!"
 ru-RU_flavor: "Вардведи верят, что их единственный смысл в  жизни – это отстаивание их силы и массаж на хорошем дереве. После их Нюк-мутации, им больше не нужно зимовать, вместо этого – им нужно просто вздремнуть."
 tile_id: Bear

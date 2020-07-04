@@ -25,7 +25,7 @@ image: /images/FrostbiteCharm.png
 durability: 3
 hero: mage
 ru-RU_name: "Амулет обморожения"
-ru-RU_description: "Превращает обычного <u>заморожен</u> врага в Скелета"
+ru-RU_description: "Превращает обычного <u>замороженного</u> врага в Скелета"
 ru-RU_flavor: "Нашими силами вместе взятыми..! Эх, неважно. – Герман фон Бек, несчастный искатель приключений."
 tile_id: FrostbiteCharm
 cost: 2

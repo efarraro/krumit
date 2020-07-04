@@ -10,7 +10,7 @@ durability: 3
 hero: priest
 zh-CN_name: "原子壁垒"
 zh-CN_description: "当你用此道具进行 <u>招架</u>时，给对手造成 <u>剧毒</u> (3)。"
-zh-CN_flavor: "You're unlikely to split it."
+zh-CN_flavor: "基本上不太可能将其分成两半。"
 tile_id: AtomicBulwark
 cost: 4
 image: /images/AtomicBulwark.png

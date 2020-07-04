@@ -15,7 +15,7 @@ es-ES_description: "En la Arena de Zarzal, descartar fichas ya recupera ❤️, 
 es-ES_flavor: "Zarzal, el rey de los Barbarosos, es también un aficionado a las <i>battle royales</i>. Aventureros de todo el mundo llega a su arena en búsqueda de riquezas y diversión."
 tile_id: Bramble
 image: /images/Bramble.png
-ru-RU_name: "Ежевика"
+ru-RU_name: "Брамбл"
 ru-RU_description: "На арене Брамбла сбрасывание карточек не восстанавливает ❤️, однако враги дают +1 💰, когда умирают."
 ru-RU_flavor: "Брамбл - король варваров и знаток королевских битв. Авантюристы приезжают со всего мира в поисках славы и признания на его арене."
 tile_id: Bramble

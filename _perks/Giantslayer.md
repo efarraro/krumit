@@ -13,7 +13,7 @@ es-ES_description: "Tu 🔸 base se incrementa en 2 contra jefes"
 tile_id: Giantslayer
 image: /images/Giantslayer.png
 ru-RU_name: "Убийца гигантов"
-ru-RU_description: "Ваша базовая 🔸 боссам увеличена на 2"
+ru-RU_description: "Ваша базовая 🔸 увеличена на 2, пока вы атакуете босса"
 tile_id: Giantslayer
 image: /images/Giantslayer.png
 ---

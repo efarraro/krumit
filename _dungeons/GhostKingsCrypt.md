@@ -87,8 +87,8 @@ monsters:
     image: /images/GhostKing.png
     quantity: 1
     url: /monsters/GhostKing
-ru-RU_name: "Склеп Короля-призрака"
-ru-RU_description: "«Я и Король-призрак? Эти бесплотные всезнайки? Да, мы возвращаемся назад. И я всегда имел лучше бороду». - бонелорд Калакас."
+ru-RU_name: "Склеп Призрачного короля"
+ru-RU_description: "«Я и Призрачный король? Эти бесплотные всезнайки? Да, мы возвращаемся назад. И я всегда имел лучше бороду». - бонелорд Калакас."
 tier: 5
 monsters:
   - monster:
@@ -112,7 +112,7 @@ monsters:
     quantity: 4
     url: /monsters/Zealnut
   - monster:
-    name: "Король-призрак"
+    name: "Призрачный король"
     image: /images/GhostKing.png
     quantity: 1
     url: /monsters/GhostKing

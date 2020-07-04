@@ -25,7 +25,7 @@ image: /images/BarrelAgedDjinn.png
 durability: 3
 hero: necromancer
 ru-RU_name: "Джинн из бочки"
-ru-RU_description: "Восстанавливает ваше ❤️ до максимума и добавляет <a href = '../ru_ru/abilities#Stupidity'>Тупасть</a> в ваше снаряжение"
+ru-RU_description: "Восстанавливает ваше ❤️ до максимума и добавляет <a href = '../ru_ru/abilities#Stupidity'>Глупасть</a> в ваше снаряжение"
 ru-RU_flavor: "Та бочка, которую, поставила Мулдорфа на путь судьбы. Третья ступенька снизу, прежде чем он вошел в стену и проснулся 2 дня спустя."
 tile_id: BarrelAgedDjinn
 cost: 2

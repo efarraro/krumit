@@ -7,9 +7,9 @@ tile_id: Devotion
 cost: 1
 image: /images/Devotion.png
 hero: priest
-zh-CN_name: "奉献"
+zh-CN_name: "虔诚"
 zh-CN_description: "<u><u>即时</u></u>.将3张<u>祝福</u>洗入你的牌库。"
-zh-CN_flavor: "Doubt gnaws on a soul. Devotion seals it in."
+zh-CN_flavor: "怀疑折磨灵魂。虔诚将其封印。"
 tile_id: Devotion
 cost: 1
 image: /images/Devotion.png

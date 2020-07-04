@@ -73,11 +73,11 @@ monsters:
     quantity: 1
     url: /monsters/Bramble
 ru-RU_name: "Арена сэра Брамбла"
-ru-RU_description: "'Залетайте на арену Брамбла! Лучшие варварские бои в городе! Почти законно!' - Шадрат, Арена Криер."
+ru-RU_description: "'Залетайте на арену Брамбла! Лучшие варварские бои в городе! Почти законно!' - Шадрат, глашатай арены."
 tier: 2
 monsters:
   - monster:
-    name: "Варвар"
+    name: "Вардведь"
     image: /images/Bear.png
     quantity: 2
     url: /monsters/Bear
@@ -92,7 +92,7 @@ monsters:
     quantity: 3
     url: /monsters/Gobloid
   - monster:
-    name: "Ежевика"
+    name: "Брамбл"
     image: /images/Bramble.png
     quantity: 1
     url: /monsters/Bramble

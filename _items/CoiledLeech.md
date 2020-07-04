@@ -10,7 +10,7 @@ durability: 3
 hero: priest
 zh-CN_name: "盘绕水蛭"
 zh-CN_description: "当使用此武器攻击满血敌人时，此武器获得4点 <u>生命吸取</u>"
-zh-CN_flavor: "'They only drink from the fullest of cups. Picky little bastards.' Leech Farmer Lonzo"
+zh-CN_flavor: "“只有杯子装满了它们才会喝，这群挑剔的小混蛋。”——水蛭养殖户隆佐"
 tile_id: CoiledLeech
 cost: 3
 image: /images/CoiledLeech.png
@@ -25,7 +25,7 @@ image: /images/CoiledLeech.png
 durability: 3
 hero: priest
 ru-RU_name: "Спиральная пиявка"
-ru-RU_description: "Это оружие имеет  <u>Вампиризм</u> (4), когда атакуете врага с полным ❤️"
+ru-RU_description: "Это оружие имеет  <u>Вампиризм</u> (4), пока вы атакуете врага с полным ❤️"
 ru-RU_flavor: "'Они пьют только из самых полных чашек. Придирчивые маленькие мерзавцы' - фермер-пиявка Лонзо"
 tile_id: CoiledLeech
 cost: 3

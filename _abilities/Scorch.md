@@ -22,7 +22,7 @@ cost: 1
 image: /images/Scorch.png
 hero: mage
 ru-RU_name: "Ожог"
-ru-RU_description: "Наносит 3 <u>пронзающий</u>s урона и накладывает  <u>ожог</u> (1)  на выбранного врага. <u>Сжигается</u>"
+ru-RU_description: "Наносит 3 <u>пронзающий</u> урона и накладывает  <u>ожог</u> (1)  на выбранного врага. <u>Сжигается</u>"
 ru-RU_flavor: "Высвободи огонь внутри тебя."
 tile_id: Scorch
 cost: 1

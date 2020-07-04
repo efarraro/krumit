@@ -16,7 +16,7 @@ es-ES_flavor: "Los más agresivos de los Gobloides son conocidos como Cabezas Du
 tile_id: GobloidKnucklehead
 image: /images/GobloidKnucklehead.png
 ru-RU_name: "Каскоголовый"
-ru-RU_description: "Когда этот противник повержен, кладёт копию <a href = '../ru_ru/abilities#Stupidity'>Тупасть</a> в ваше снаряжение."
+ru-RU_description: "Когда этот противник повержен, кладёт копию <a href = '../ru_ru/abilities#Stupidity'>Глупасть</a> в ваше снаряжение."
 ru-RU_flavor: "Самые агрессивные из Гоблоидов известные как тупоголовые. Они - сила, с которой приходится считаться - определенно не договариваться."
 tile_id: GobloidKnucklehead
 image: /images/GobloidKnucklehead.png

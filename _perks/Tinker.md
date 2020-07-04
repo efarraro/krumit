@@ -13,7 +13,7 @@ es-ES_description: "Por cada {0} ítems que descartes, repara 1 de durabilidad a
 tile_id: Tinker
 image: /images/Tinker.png
 ru-RU_name: "Инженер"
-ru-RU_description: "После сброса {0} предметов, восстановите 1 прочность случайному предмету в снаряжении. ({1}/{2})"
+ru-RU_description: "Всякий раз, когда вы сбрасываете {0} предмета, восстанавливает 1 прочность случайному предмету в снаряжении. ({1}/{2})"
 tile_id: Tinker
 image: /images/Tinker.png
 ---

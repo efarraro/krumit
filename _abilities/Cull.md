@@ -15,7 +15,7 @@ cost: 1
 image: /images/Cull.png
 hero: rogue
 es-ES_name: "Matanza"
-es-ES_description: "Destruye un enemigo <u>solitario</u> no-jefe. <u>Agota</u>"
+es-ES_description: "Destruye un enemigo objetivo (que no sea un jefe) que no tenga aliados adyacentes. <u>Agota</u>"
 es-ES_flavor: "Mantén a tus amigos cerca, y a tus enemigos bien lejos, preferentemente donde puedas verlos"
 tile_id: Cull
 cost: 1

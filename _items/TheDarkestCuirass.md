@@ -10,7 +10,7 @@ durability: 3
 hero: priest
 zh-CN_name: "至暗胸甲"
 zh-CN_description: "当你获得这件物品时对所有敌人施加 <u>腐化</u> (4)"
-zh-CN_flavor: "Forged in the Sun-shy Vale from penumbrite smelted in nega-flame, merely looking upon the Darkest Cuirass can extinguish the light from your soul."
+zh-CN_flavor: "在掩光山谷中，由在尼加火焰中熔化的半影铁矿锻造而成，仅仅是瞟上一眼至暗胸甲就能熄灭你灵魂的光芒。"
 tile_id: TheDarkestCuirass
 cost: 3
 image: /images/TheDarkestCuirass.png

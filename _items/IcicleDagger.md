@@ -25,7 +25,7 @@ image: /images/IcicleDagger.png
 durability: 3
 hero: mage
 ru-RU_name: "Сосулька"
-ru-RU_description: "Восстанавливает 1 прочность этому предмету всякий раз, когда вы <u>мороз</u> врага."
+ru-RU_description: "Когда вы накладываете <u>мороз</u> на врага, восстанавливает 1 прочность этому предмету"
 ru-RU_flavor: "Этот холодный кинжал питается холодом. Не пытайтесь облизать его."
 tile_id: IcicleDagger
 cost: 1

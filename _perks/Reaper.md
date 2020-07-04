@@ -13,7 +13,7 @@ es-ES_description: "Your 🔸 base se incrementa en 1 contra enemigos dañados"
 tile_id: Reaper
 image: /images/Reaper.png
 ru-RU_name: "Жнец"
-ru-RU_description: "Ваша базовая 🔸 увеличена на 1 против поврежденных врагов"
+ru-RU_description: "Ваша базовая 🔸 увеличена на 1, пока вы атакуете врага с неполным ❤️"
 tile_id: Reaper
 image: /images/Reaper.png
 ---

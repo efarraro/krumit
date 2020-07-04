@@ -2,7 +2,7 @@
 
 EN_name: "Perserverance"
 EN_description: "Gain 8 🛡️️ <u>block</u> and <u>Regeneration</u>. <u>Exhaust</u>. This costs 1 less if you are <u>overwhelmed</u>"
-EN_flavor: "The higher the odds, the more impressive it is when you keep going."
+EN_flavor: "When facing impossible odds, hope will show you the way"
 tile_id: Perserverance
 cost: 1
 image: /images/Perserverance.png
@@ -22,7 +22,7 @@ cost: 1
 image: /images/Perserverance.png
 hero: priest
 ru-RU_name: "Упорство"
-ru-RU_description: "Даёт 8 🛡️️ <u>Блокирование</u> и <u>регенерацию</u>. <u>Сжигается</u>. Это стоит на 1 меньше, если вы <u>ошеломлены</u>"
+ru-RU_description: "Даёт 8 🛡️️ <u>блока</u> и <u>регенерацию</u>. <u>Сжигается</u>. Это стоит на 1 меньше, если вы <u>ошеломлены</u>"
 ru-RU_flavor: "Чем выше шансы, тем больше впечатляет то, что ты продвигаешься."
 tile_id: Perserverance
 cost: 1

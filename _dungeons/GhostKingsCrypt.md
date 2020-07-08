@@ -58,6 +58,35 @@ monsters:
     image: /images/GhostKing.png
     quantity: 1
     url: /monsters/GhostKing
+ru-RU_name: "Склеп Призрачного короля"
+ru-RU_description: "«Я и Призрачный король? Эти бесплотные всезнайки? Да, мы возвращаемся назад. И я всегда имел лучше бороду». - бонелорд Калакас."
+tier: 5
+monsters:
+  - monster:
+    name: "Скелет"
+    image: /images/Skeleton.png
+    quantity: 6
+    url: /monsters/Skeleton
+  - monster:
+    name: "Древний скелет"
+    image: /images/AncientSkeleton.png
+    quantity: 5
+    url: /monsters/AncientSkeleton
+  - monster:
+    name: "Крутист"
+    image: /images/Cooltist.png
+    quantity: 3
+    url: /monsters/Cooltist
+  - monster:
+    name: "Зилнат"
+    image: /images/Zealnut.png
+    quantity: 4
+    url: /monsters/Zealnut
+  - monster:
+    name: "Призрачный король"
+    image: /images/GhostKing.png
+    quantity: 1
+    url: /monsters/GhostKing
 es-ES_name: "Criptorio del Rey Fantasma"
 es-ES_description: "'¿Yo y el Rey Fantasma? ¿Ese sabiondo etéreo? Sí, tenemos una larga historia. Y yo siempre he tenido la mejor barba.' - Calacas, Señor de los Huesos"
 tier: 5
@@ -87,32 +116,32 @@ monsters:
     image: /images/GhostKing.png
     quantity: 1
     url: /monsters/GhostKing
-ru-RU_name: "Склеп Призрачного короля"
-ru-RU_description: "«Я и Призрачный король? Эти бесплотные всезнайки? Да, мы возвращаемся назад. И я всегда имел лучше бороду». - бонелорд Калакас."
+pl-PL_name: "Kryptarium Króla Upiorów"
+pl-PL_description: "'Znam się z Królem Upiorów od dawna. Zawsze był nadętym bubkiem, i nadal ma krótszą brodę niż ja.' - Calacas"
 tier: 5
 monsters:
   - monster:
-    name: "Скелет"
+    name: "Szkielet"
     image: /images/Skeleton.png
     quantity: 6
     url: /monsters/Skeleton
   - monster:
-    name: "Древний скелет"
+    name: "Pradawny Szkielet"
     image: /images/AncientSkeleton.png
     quantity: 5
     url: /monsters/AncientSkeleton
   - monster:
-    name: "Крутист"
+    name: "Nadgorliwiec"
     image: /images/Cooltist.png
     quantity: 3
     url: /monsters/Cooltist
   - monster:
-    name: "Зилнат"
+    name: "Żarliwiec"
     image: /images/Zealnut.png
     quantity: 4
     url: /monsters/Zealnut
   - monster:
-    name: "Призрачный король"
+    name: "Król Upiorów"
     image: /images/GhostKing.png
     quantity: 1
     url: /monsters/GhostKing

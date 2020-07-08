@@ -14,6 +14,13 @@ tile_id: Intimidate
 cost: 4
 image: /images/Intimidate.png
 hero: warrior
+ru-RU_name: "Устрашение"
+ru-RU_description: "Увеличивает вашу 🔸 на 2. Можно использовать, если у вас больше ❤️, чем у врага"
+ru-RU_flavor: "«Ты действительно хочешь принять участие в мордобое с таким лицом, как у меня?» - размышлял Бруно, разминая шею."
+tile_id: Intimidate
+cost: 4
+image: /images/Intimidate.png
+hero: warrior
 es-ES_name: "Intimidar"
 es-ES_description: "Incrementa tu 🔸 en 2. Sólo puede ser usada cuando tienes más ❤️ que tu oponente"
 es-ES_flavor: "'¿En verdad quieres meterte en una competencia de cabezazos con una cabeza como la mía?', musitó Bruno, haciendo crujir su cuello."
@@ -21,9 +28,9 @@ tile_id: Intimidate
 cost: 4
 image: /images/Intimidate.png
 hero: warrior
-ru-RU_name: "Устрашение"
-ru-RU_description: "Увеличивает вашу 🔸 на 2. Можно использовать, если у вас больше ❤️, чем у врага"
-ru-RU_flavor: "«Ты действительно хочешь принять участие в мордобое с таким лицом, как у меня?» - размышлял Бруно, разминая шею."
+pl-PL_name: "Zastraszenie"
+pl-PL_description: "Zwiększ 🔸 o 2. Możesz użyć tylko, gdy masz więcej ❤️ niż przeciwnik."
+pl-PL_flavor: "'Jesteś pewien, że chcesz zmierzyć się z tym ryjem?' zagroził Bruno."
 tile_id: Intimidate
 cost: 4
 image: /images/Intimidate.png

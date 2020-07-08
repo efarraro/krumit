@@ -14,6 +14,13 @@ tile_id: Flex
 cost: 5
 image: /images/Flex.png
 hero: warrior
+ru-RU_name: "Игра мышцами"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Увеличивает ваш базовый 🔸 на 1 до конца подземелья"
+ru-RU_flavor: "Вардведи проводят большую часть времени, играя с мышцами перед зеркалами, восхищаясь их красотой."
+tile_id: Flex
+cost: 5
+image: /images/Flex.png
+hero: warrior
 es-ES_name: "Flexionar"
 es-ES_description: "<u><u>Instantánea</u></u>. Incrementa tu 🔸 en +1 por el resto de la mazmorra"
 es-ES_flavor: "Los Barbarosos pasan la mayor parte de su tiempo frente al espejo, flexionando y admirando sus músculos."
@@ -21,9 +28,9 @@ tile_id: Flex
 cost: 5
 image: /images/Flex.png
 hero: warrior
-ru-RU_name: "Игра мышцами"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Увеличивает ваш базовый 🔸 на 1 до конца подземелья"
-ru-RU_flavor: "Вардведи проводят большую часть времени, играя с мышцами перед зеркалами, восхищаясь их красотой."
+pl-PL_name: "Napinka"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. +1 🔸 do końca lochu."
+pl-PL_flavor: "Niedźwierzyńcy spędzają większość czasu napinając się przed lustrem i podziwiając się nawzajem."
 tile_id: Flex
 cost: 5
 image: /images/Flex.png

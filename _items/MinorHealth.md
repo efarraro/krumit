@@ -80,6 +80,46 @@ cost: 0
 image: /images/MinorHealth.png
 durability: 2
 hero: warrior
+ru-RU_name: "Флакон здоровья"
+ru-RU_description: "Восстанавливает 2 ❤️"
+ru-RU_flavor: "Как бинты, но только в бутылке."
+tile_id: MinorHealth
+cost: 0
+image: /images/MinorHealth.png
+durability: 2
+hero: warrior
+ru-RU_name: "Флакон здоровья"
+ru-RU_description: "Восстанавливает 2 ❤️"
+ru-RU_flavor: "Как бинты, но только в бутылке."
+tile_id: MinorHealth
+cost: 0
+image: /images/MinorHealth.png
+durability: 2
+hero: warrior
+ru-RU_name: "Флакон здоровья"
+ru-RU_description: "Восстанавливает 2 ❤️"
+ru-RU_flavor: "Как бинты, но только в бутылке."
+tile_id: MinorHealth
+cost: 0
+image: /images/MinorHealth.png
+durability: 2
+hero: warrior
+ru-RU_name: "Флакон здоровья"
+ru-RU_description: "Восстанавливает 2 ❤️"
+ru-RU_flavor: "Как бинты, но только в бутылке."
+tile_id: MinorHealth
+cost: 0
+image: /images/MinorHealth.png
+durability: 2
+hero: warrior
+ru-RU_name: "Флакон здоровья"
+ru-RU_description: "Восстанавливает 2 ❤️"
+ru-RU_flavor: "Как бинты, но только в бутылке."
+tile_id: MinorHealth
+cost: 0
+image: /images/MinorHealth.png
+durability: 2
+hero: warrior
 es-ES_name: "Redoma Curativa"
 es-ES_description: "Recupera 2 ❤️"
 es-ES_flavor: "Como un parche curita embotellado."
@@ -120,41 +160,41 @@ cost: 0
 image: /images/MinorHealth.png
 durability: 2
 hero: warrior
-ru-RU_name: "Флакон здоровья"
-ru-RU_description: "Восстанавливает 2 ❤️"
-ru-RU_flavor: "Как бинты, но только в бутылке."
+pl-PL_name: "Fiolka uzdrowienia"
+pl-PL_description: "Odnów 2 ❤️"
+pl-PL_flavor: "Jak plaster w butelce!"
 tile_id: MinorHealth
 cost: 0
 image: /images/MinorHealth.png
 durability: 2
 hero: warrior
-ru-RU_name: "Флакон здоровья"
-ru-RU_description: "Восстанавливает 2 ❤️"
-ru-RU_flavor: "Как бинты, но только в бутылке."
+pl-PL_name: "Fiolka uzdrowienia"
+pl-PL_description: "Odnów 2 ❤️"
+pl-PL_flavor: "Jak plaster w butelce!"
 tile_id: MinorHealth
 cost: 0
 image: /images/MinorHealth.png
 durability: 2
 hero: warrior
-ru-RU_name: "Флакон здоровья"
-ru-RU_description: "Восстанавливает 2 ❤️"
-ru-RU_flavor: "Как бинты, но только в бутылке."
+pl-PL_name: "Fiolka uzdrowienia"
+pl-PL_description: "Odnów 2 ❤️"
+pl-PL_flavor: "Jak plaster w butelce!"
 tile_id: MinorHealth
 cost: 0
 image: /images/MinorHealth.png
 durability: 2
 hero: warrior
-ru-RU_name: "Флакон здоровья"
-ru-RU_description: "Восстанавливает 2 ❤️"
-ru-RU_flavor: "Как бинты, но только в бутылке."
+pl-PL_name: "Fiolka uzdrowienia"
+pl-PL_description: "Odnów 2 ❤️"
+pl-PL_flavor: "Jak plaster w butelce!"
 tile_id: MinorHealth
 cost: 0
 image: /images/MinorHealth.png
 durability: 2
 hero: warrior
-ru-RU_name: "Флакон здоровья"
-ru-RU_description: "Восстанавливает 2 ❤️"
-ru-RU_flavor: "Как бинты, но только в бутылке."
+pl-PL_name: "Fiolka uzdrowienia"
+pl-PL_description: "Odnów 2 ❤️"
+pl-PL_flavor: "Jak plaster w butelce!"
 tile_id: MinorHealth
 cost: 0
 image: /images/MinorHealth.png

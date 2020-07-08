@@ -16,6 +16,14 @@ cost: 2
 image: /images/RedbeardsGlove.png
 durability: 2
 hero: mage
+ru-RU_name: "Перчатка Рыжебородого"
+ru-RU_description: "Когда вы накладываете  <u>ожог</u> на врага, увеличивает 🔸 этого предмета на 1"
+ru-RU_flavor: "'Те, кто недостойны владеть пламенем, обречены быть поглощенными им.' - Рыжебородый"
+tile_id: RedbeardsGlove
+cost: 2
+image: /images/RedbeardsGlove.png
+durability: 2
+hero: mage
 es-ES_name: "Guante de Barbarroja"
 es-ES_description: "Cada vez que  <u>quemes</u> a un enemigo, incrementa el 🔸 de esta arma en 1"
 es-ES_flavor: "'Aquellos indignos de portar la llama están condenados a ser consumidos por ella.' - Barbarroja"
@@ -24,9 +32,9 @@ cost: 2
 image: /images/RedbeardsGlove.png
 durability: 2
 hero: mage
-ru-RU_name: "Перчатка Рыжебородого"
-ru-RU_description: "Когда вы накладываете  <u>ожог</u> на врага, увеличивает 🔸 этого предмета на 1"
-ru-RU_flavor: "'Те, кто недостойны владеть пламенем, обречены быть поглощенными им.' - Рыжебородый"
+pl-PL_name: "Rękawica Rudobrodego"
+pl-PL_description: "Gdy podpalisz ( <u>podpalenie</u>) wroga, zwiększ 🔸 tej broni o 1."
+pl-PL_flavor: "'Niegodni władania ogniem są skazani na bycie pochłoniętym.' - Rudobrody"
 tile_id: RedbeardsGlove
 cost: 2
 image: /images/RedbeardsGlove.png

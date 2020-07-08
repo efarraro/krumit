@@ -16,6 +16,14 @@ cost: 3
 image: /images/BatKingsMantle.png
 durability: 3
 hero: priest
+ru-RU_name: "Мантия летучего короля"
+ru-RU_description: "Можно экипировать, только если у вас есть 🟦Королева"
+ru-RU_flavor: "Некогда призовую мантию короля летучих мышей сейчас можно одеть, находясь только в королевской позе."
+tile_id: BatKingsMantle
+cost: 3
+image: /images/BatKingsMantle.png
+durability: 3
+hero: priest
 es-ES_name: "Manto del Rey Murciélago"
 es-ES_description: "Sólo puede ser equipado si tienes 🟦Reina"
 es-ES_flavor: "El una vez preciado manto del Rey Murciélago solo puede ser vestido por aquellos de regia postura."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/BatKingsMantle.png
 durability: 3
 hero: priest
-ru-RU_name: "Мантия летучего короля"
-ru-RU_description: "Можно экипировать, только если у вас есть 🟦Королева"
-ru-RU_flavor: "Некогда призовую мантию короля летучих мышей сейчас можно одеть, находясь только в королевской позе."
+pl-PL_name: "Płaszcz Króla Nietoperzy"
+pl-PL_description: "Może być założony tylko jeżeli jesteś 🟦Królowa"
+pl-PL_flavor: "Niegdyś ceniony płaszcz Króla Nietoperzy może być noszony tylko przez osoby o monarszej posturze."
 tile_id: BatKingsMantle
 cost: 3
 image: /images/BatKingsMantle.png

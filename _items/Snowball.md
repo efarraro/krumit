@@ -16,6 +16,14 @@ cost: 2
 image: /images/Snowball.png
 durability: 3
 hero: mage
+ru-RU_name: "Снежок"
+ru-RU_description: "Накладывает <u>мороз</u> (1) на выбранного врага"
+ru-RU_flavor: "高度压缩的雪球，带有魔力的雪花来自高山之面的顶峰。"
+tile_id: Snowball
+cost: 2
+image: /images/Snowball.png
+durability: 3
+hero: mage
 es-ES_name: "Bola de Nieve"
 es-ES_description: "<u>Congela</u> (1) a un enemigo"
 es-ES_flavor: "Copos de nieve encantados y muy compactos de la meseta más alta de Caramontaña."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/Snowball.png
 durability: 3
 hero: mage
-ru-RU_name: "Снежок"
-ru-RU_description: "Накладывает <u>мороз</u> (1) на выбранного врага"
-ru-RU_flavor: "Copos de nieve encantados y muy compactos de la meseta más alta de Caramontaña."
+pl-PL_name: "Śnieżka"
+pl-PL_description: "Zamroź (<u>zamrożenie</u>) (1) wskazanego wroga."
+pl-PL_flavor: "Mocno ubita dzięki zaczarowanym płatkom z najwyższego płaskowyżu Twarzogóry."
 tile_id: Snowball
 cost: 2
 image: /images/Snowball.png

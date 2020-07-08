@@ -8,12 +8,16 @@ zh-CN_name: "狂战"
 zh-CN_description: "同时使用2把武器进行攻击时，总攻击力+3"
 tile_id: Berserker
 image: /images/Berserker.png
+ru-RU_name: "Берсерк"
+ru-RU_description: "Когда вы атакуете двумя оружиями, увеличивает вашу 🔸 на 3"
+tile_id: Berserker
+image: /images/Berserker.png
 es-ES_name: "Berserker"
 es-ES_description: "Cuando ataques con dos armas equipadas, añade +3 a tu 🔸"
 tile_id: Berserker
 image: /images/Berserker.png
-ru-RU_name: "Берсерк"
-ru-RU_description: "Когда вы атакуете двумя оружиями, увеличивает вашу 🔸 на 3"
+pl-PL_name: "Berserker"
+pl-PL_description: "Kiedy atakujesz dwoma dobytymi broniami, otrzymujesz +3 🔸."
 tile_id: Berserker
 image: /images/Berserker.png
 ---

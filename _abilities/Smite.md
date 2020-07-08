@@ -14,6 +14,13 @@ tile_id: Smite
 cost: 1
 image: /images/Smite.png
 hero: priest
+ru-RU_name: "Кара"
+ru-RU_description: "Наносит 3 <u>пронзающий</u> урона выбранному врагу (+2 <u>пронзающий</u> урона, если у вас полное ❤️). <u>Сжигается</u>"
+ru-RU_flavor: "'Покарайте своих врагов праведной яростью. И  выглядите хорошо, пока делаете это' - отрывок из 'Хотите ли вы быть святой жрицей?'"
+tile_id: Smite
+cost: 1
+image: /images/Smite.png
+hero: priest
 es-ES_name: "Castigar"
 es-ES_description: "Haz 3 de daño <u>penetrante</u> (+2 de daño penetrante si tienes toda tu ❤️). <u>Agota</u>"
 es-ES_flavor: "'Castiga a tus enemigos con virtuosa furia. Y luce bien mientras lo haces.' - Extracto de '¿Así Que Quieres Ser Una Sacerdotisa?'"
@@ -21,9 +28,9 @@ tile_id: Smite
 cost: 1
 image: /images/Smite.png
 hero: priest
-ru-RU_name: "Кара"
-ru-RU_description: "Наносит 3 <u>пронзающий</u> урона выбранному врагу (+2 <u>пронзающий</u> урона, если у вас полное ❤️). <u>Сжигается</u>"
-ru-RU_flavor: "'Покарайте своих врагов праведной яростью. И  выглядите хорошо, пока делаете это' - отрывок из 'Хотите ли вы быть святой жрицей?'"
+pl-PL_name: "Potępienie"
+pl-PL_description: "Zadaj 3 przenikliwych (<u>przenikający</u>) obrażeń (+2 jeżeli twoje ❤️ jest pełne). <u>Wyczerpany</u>"
+pl-PL_flavor: "'Potępienie wrogów jest skuteczną, efektywną i efektowną bronią.' - wyciąg z 'Kapłaństwa dla Żółtodziobów'"
 tile_id: Smite
 cost: 1
 image: /images/Smite.png

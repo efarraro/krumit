@@ -16,6 +16,14 @@ cost: 1
 image: /images/BrassKnuckles.png
 durability: 2
 hero: rogue
+ru-RU_name: "Кастет"
+ru-RU_description: "Если ваша атака имеет ⚡️ <u>блиц</u>, <u>оглушает</u> врага после атаки."
+ru-RU_flavor: "Обязательный атрибут, если вы планируете ввязаться в драку в баре"
+tile_id: BrassKnuckles
+cost: 1
+image: /images/BrassKnuckles.png
+durability: 2
+hero: rogue
 es-ES_name: "Manopla"
 es-ES_description: "Si tu ataque tiene ⚡️ <u>relámpago</u>, <u>aturde</u> a tu oponente después de atacar"
 es-ES_flavor: "Imprescindible si planeas meterte en peleas de bar."
@@ -24,9 +32,9 @@ cost: 1
 image: /images/BrassKnuckles.png
 durability: 2
 hero: rogue
-ru-RU_name: "Кастет"
-ru-RU_description: "Если ваша атака имеет ⚡️ <u>блиц</u>, <u>оглушает</u> врага после атаки."
-ru-RU_flavor: "Обязательный атрибут, если вы планируете ввязаться в драку в баре"
+pl-PL_name: "Brązowy Kastet"
+pl-PL_description: "Jeżeli twój atak ma Szarżę (⚡️ <u>blitz</u>), ogłusz (<u>ogłuszenie</u>) przeciwnika po ataku"
+pl-PL_flavor: "Niezastąpione w barowych bójkach"
 tile_id: BrassKnuckles
 cost: 1
 image: /images/BrassKnuckles.png

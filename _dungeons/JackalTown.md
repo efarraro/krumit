@@ -38,6 +38,25 @@ monsters:
     image: /images/Nukadog.png
     quantity: 5
     url: /monsters/Nukadog
+ru-RU_name: "Городские трущобы шакалов"
+ru-RU_description: "Чтобы посетить трущобы шакалов, нужно быть очень потерянным или очень уверенным, что сможете выжить с ножом в спине."
+tier: 4
+monsters:
+  - monster:
+    name: "Шакал"
+    image: /images/Jackal.png
+    quantity: 8
+    url: /monsters/Jackal
+  - monster:
+    name: "Вагабонд"
+    image: /images/JackalVagabond.png
+    quantity: 4
+    url: /monsters/JackalVagabond
+  - monster:
+    name: "Волк-сопляк"
+    image: /images/Nukadog.png
+    quantity: 5
+    url: /monsters/Nukadog
 es-ES_name: "Barriadas de Chacalena"
 es-ES_description: "Hay que estar bien perdido para visitar los barrios bajos de Chacalena - o bien seguro de poder sobrevivir un cuchillo en la espalda."
 tier: 4
@@ -57,22 +76,22 @@ monsters:
     image: /images/Nukadog.png
     quantity: 5
     url: /monsters/Nukadog
-ru-RU_name: "Городские трущобы шакалов"
-ru-RU_description: "Чтобы посетить трущобы шакалов, нужно быть очень потерянным или очень уверенным, что сможете выжить с ножом в спине."
+pl-PL_name: "Slumsy w Szakalowie"
+pl-PL_description: "Zanim odwiedzisz slumsy w Szakalowie upewnij się, że jesteś odporny na sztyletowanie."
 tier: 4
 monsters:
   - monster:
-    name: "Шакал"
+    name: "Szakal"
     image: /images/Jackal.png
     quantity: 8
     url: /monsters/Jackal
   - monster:
-    name: "Вагабонд"
+    name: "Włóczęga"
     image: /images/JackalVagabond.png
     quantity: 4
     url: /monsters/JackalVagabond
   - monster:
-    name: "Волк-сопляк"
+    name: "Glutwilk"
     image: /images/Nukadog.png
     quantity: 5
     url: /monsters/Nukadog

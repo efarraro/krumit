@@ -16,6 +16,14 @@ cost: 3
 image: /images/SnowParka.png
 durability: 2
 hero: mage
+ru-RU_name: "Парка Акорна"
+ru-RU_description: "Когда вы приобретаете это, накладывает <u>мороз</u> на врагов в этом ряду и столбце"
+ru-RU_flavor: "Холодный ветер дунет, и всякий, кто не сможет надеть эту пушистую парку, отморозит свои ягодицы."
+tile_id: SnowParka
+cost: 3
+image: /images/SnowParka.png
+durability: 2
+hero: mage
 es-ES_name: "Parka de Bellota"
 es-ES_description: "Cuando adquieras este ítem, <u>congela</u> a todos los enemigos en la misma fila y columna"
 es-ES_flavor: "Sopla un viento helado, y cualquiera que no esté enfundado en esta mullida Parka se va a congelar el trasero."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/SnowParka.png
 durability: 2
 hero: mage
-ru-RU_name: "Парка Акорна"
-ru-RU_description: "Когда вы приобретаете это, накладывает <u>мороз</u> на врагов в этом ряду и столбце"
-ru-RU_flavor: "Холодный ветер дунет, и всякий, кто не сможет надеть эту пушистую парку, отморозит свои ягодицы."
+pl-PL_name: "Parka Alojzego"
+pl-PL_description: "Gdy to uzyskasz, zamroź (<u>zamrożenie</u>) wrogów w tej samej kolumnie i wierszu."
+pl-PL_flavor: "Gdy zawieje zimny wiatr, każdy kto nie ma ciepłego kożucha odmrozi sobie... to i owo."
 tile_id: SnowParka
 cost: 3
 image: /images/SnowParka.png

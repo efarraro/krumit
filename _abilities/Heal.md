@@ -14,6 +14,13 @@ tile_id: Heal
 cost: 1
 image: /images/Heal.png
 hero: priest
+ru-RU_name: "Лечение"
+ru-RU_description: "Восстанавливает 8 ❤️.  <u>Сжигается</u>"
+ru-RU_flavor: "'Хана, прошу тебя - исцели эти раны, чтобы я могла наказать тех, кто их нанес!' - Роза"
+tile_id: Heal
+cost: 1
+image: /images/Heal.png
+hero: priest
 es-ES_name: "Curar"
 es-ES_description: "Recupera 8 ❤️. <u>Agota</u>"
 es-ES_flavor: "¡Hana, te imploro! ¡Cura estas heridas, para poder castigar a los que las infligieron! - Rose"
@@ -21,9 +28,9 @@ tile_id: Heal
 cost: 1
 image: /images/Heal.png
 hero: priest
-ru-RU_name: "Лечение"
-ru-RU_description: "Восстанавливает 8 ❤️.  <u>Сжигается</u>"
-ru-RU_flavor: "'Хана, прошу тебя - исцели эти раны, чтобы я могла наказать тех, кто их нанес!' - Роза"
+pl-PL_name: "Uzdrowienie"
+pl-PL_description: "Wylecz 8 ❤️. <u>Wyczerpany</u>"
+pl-PL_flavor: "'Hana mnie uzdrowi, potem mój młot cię uszkodzi!' - Róża"
 tile_id: Heal
 cost: 1
 image: /images/Heal.png

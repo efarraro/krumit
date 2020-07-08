@@ -68,6 +68,40 @@ monsters:
     image: /images/TheExile.png
     quantity: 1
     url: /monsters/TheExile
+ru-RU_name: "Сектор Ноль"
+ru-RU_description: "Сектор Ноль. Место, где начался новый мировой порядок. Сейчас это не что иное, как свалка токсичных отходов с громким названием"
+tier: 7
+monsters:
+  - monster:
+    name: "Глоббер"
+    image: /images/Slime.png
+    quantity: 4
+    url: /monsters/Slime
+  - monster:
+    name: "Волк-сопляк"
+    image: /images/Nukadog.png
+    quantity: 4
+    url: /monsters/Nukadog
+  - monster:
+    name: "Нюк-Викинг"
+    image: /images/Viking.png
+    quantity: 4
+    url: /monsters/Viking
+  - monster:
+    name: "Байкер-Мутант"
+    image: /images/Biker.png
+    quantity: 3
+    url: /monsters/Biker
+  - monster:
+    name: "Мусорный голем"
+    image: /images/TrashGolem.png
+    quantity: 2
+    url: /monsters/TrashGolem
+  - monster:
+    name: "Изгнанник"
+    image: /images/TheExile.png
+    quantity: 1
+    url: /monsters/TheExile
 es-ES_name: "Sector Cero"
 es-ES_description: "El Sector Cero, donde empezó el nuevo orden mundial. Ahora no es más que poza glorificada de fango tóxico con un nombre pegadizo."
 tier: 7
@@ -102,37 +136,37 @@ monsters:
     image: /images/TheExile.png
     quantity: 1
     url: /monsters/TheExile
-ru-RU_name: "Сектор Ноль"
-ru-RU_description: "Сектор Ноль. Место, где начался новый мировой порядок. Сейчас это не что иное, как свалка токсичных отходов с громким названием"
+pl-PL_name: "Sektor Zero"
+pl-PL_description: "Sektor Zero. Miejsce, gdzie kiedyś zrodził się nowy świat. Obecnie, jest to rozdmuchana kałuża toksycznego szlamu z podchwytliwą nazwą."
 tier: 7
 monsters:
   - monster:
-    name: "Глоббер"
+    name: "Szlamor"
     image: /images/Slime.png
     quantity: 4
     url: /monsters/Slime
   - monster:
-    name: "Волк-сопляк"
+    name: "Glutwilk"
     image: /images/Nukadog.png
     quantity: 4
     url: /monsters/Nukadog
   - monster:
-    name: "Нюк-Викинг"
+    name: "Nuklearny Wiking"
     image: /images/Viking.png
     quantity: 4
     url: /monsters/Viking
   - monster:
-    name: "Байкер-Мутант"
+    name: "Rowerzysta Mutant"
     image: /images/Biker.png
     quantity: 3
     url: /monsters/Biker
   - monster:
-    name: "Мусорный голем"
+    name: "Śmieciowy Golem"
     image: /images/TrashGolem.png
     quantity: 2
     url: /monsters/TrashGolem
   - monster:
-    name: "Изгнанник"
+    name: "Wygnaniec"
     image: /images/TheExile.png
     quantity: 1
     url: /monsters/TheExile

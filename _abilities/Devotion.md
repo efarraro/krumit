@@ -14,6 +14,13 @@ tile_id: Devotion
 cost: 1
 image: /images/Devotion.png
 hero: priest
+ru-RU_name: "Преданность"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Замешивает 3 <u>благословения</u> в колоду подземелья"
+ru-RU_flavor: "Сомнение грызёт душу. Преданность запечатывает её."
+tile_id: Devotion
+cost: 1
+image: /images/Devotion.png
+hero: priest
 es-ES_name: "Devoción"
 es-ES_description: "<u><u>Instantánea</u></u>. Baraja 3 <u>Bendiciones</u> en el mazo"
 es-ES_flavor: "Las dudas roen el alma. La devoción la protege."
@@ -21,9 +28,9 @@ tile_id: Devotion
 cost: 1
 image: /images/Devotion.png
 hero: priest
-ru-RU_name: "Преданность"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Замешивает 3 <u>благословения</u> в колоду подземелья"
-ru-RU_flavor: "Сомнение грызёт душу. Преданность запечатывает её."
+pl-PL_name: "Pacierz"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. Wtasuj 3 <u>Błogosławieństwa</u> do talii."
+pl-PL_flavor: "Zwątpienie żywi się duszą. Pacierz jest jak podpis na plastikowym pojemniku z duszą."
 tile_id: Devotion
 cost: 1
 image: /images/Devotion.png

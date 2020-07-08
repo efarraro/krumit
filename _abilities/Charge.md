@@ -14,6 +14,13 @@ tile_id: Charge
 cost: 0
 image: /images/Charge.png
 hero: warrior
+ru-RU_name: "Зарядка"
+ru-RU_description: "Наносит ваш базовый урон (2) выбранному врагу в нижнем ряду и даёт 1 💰. <u>Сжигается</u>"
+ru-RU_flavor: "Зачем ждать?"
+tile_id: Charge
+cost: 0
+image: /images/Charge.png
+hero: warrior
 es-ES_name: "Arrollar"
 es-ES_description: "Haz tu daño base (2) al enemigo objetivo en la fila inferior y gana 1 💰. <u>Agota</u>"
 es-ES_flavor: "¿Por qué esperar?"
@@ -21,9 +28,9 @@ tile_id: Charge
 cost: 0
 image: /images/Charge.png
 hero: warrior
-ru-RU_name: "Зарядка"
-ru-RU_description: "Наносит ваш базовый урон (2) выбранному врагу в нижнем ряду и даёт 1 💰. <u>Сжигается</u>"
-ru-RU_flavor: "Зачем ждать?"
+pl-PL_name: "Szarża"
+pl-PL_description: "Zadaj podstawowe obrażenia (2) wskazanemu przeciwnikowi w najniższym wierszu i uzyskaj 1 monetę. <u>Wyczerpany</u>"
+pl-PL_flavor: "Na co czekasz?"
 tile_id: Charge
 cost: 0
 image: /images/Charge.png

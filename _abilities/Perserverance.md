@@ -14,6 +14,13 @@ tile_id: Perserverance
 cost: 1
 image: /images/Perserverance.png
 hero: priest
+ru-RU_name: "Упорство"
+ru-RU_description: "Даёт 8 🛡️️ <u>блока</u> и <u>регенерацию</u>. <u>Сжигается</u>. Это стоит на 1 меньше, если вы <u>ошеломлены</u>"
+ru-RU_flavor: "Чем выше шансы, тем больше впечатляет то, что ты продвигаешься."
+tile_id: Perserverance
+cost: 1
+image: /images/Perserverance.png
+hero: priest
 es-ES_name: "Perseverancia"
 es-ES_description: "Gana 8 de 🛡️️ <u>bloqueo</u> y <u>Regeneración</u>. <u>Agota</u>. Esto cuesta 1 menos si estás <u>abrumado</u>"
 es-ES_flavor: "Cuanto más está en juego, más impresionante es que sigas adelante."
@@ -21,9 +28,9 @@ tile_id: Perserverance
 cost: 1
 image: /images/Perserverance.png
 hero: priest
-ru-RU_name: "Упорство"
-ru-RU_description: "Даёт 8 🛡️️ <u>блока</u> и <u>регенерацию</u>. <u>Сжигается</u>. Это стоит на 1 меньше, если вы <u>ошеломлены</u>"
-ru-RU_flavor: "Чем выше шансы, тем больше впечатляет то, что ты продвигаешься."
+pl-PL_name: "Wytrwałość"
+pl-PL_description: "Zyskaj 8 🛡️️ <u>blok</u> oraz <u>Regeneracja</u>. <u>Wyczerpany</u>. Kosztuje 1 mniej jeżeli jesteś <u>otoczona</u>."
+pl-PL_flavor: "Im mniejsze szanse na sukces, tym bardziej imponująca będzie twoja wytrwałość."
 tile_id: Perserverance
 cost: 1
 image: /images/Perserverance.png

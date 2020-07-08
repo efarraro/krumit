@@ -58,6 +58,35 @@ monsters:
     image: /images/Gobloid.png
     quantity: 2
     url: /monsters/Gobloid
+ru-RU_name: "Вопящие холмы"
+ru-RU_description: "Место настолько безумное, что даже сами холмы вопят"
+tier: 6
+monsters:
+  - monster:
+    name: "Бегущая по ветру"
+    image: /images/WindRunner.png
+    quantity: 4
+    url: /monsters/WindRunner
+  - monster:
+    name: "Нюк-Викинг"
+    image: /images/Viking.png
+    quantity: 8
+    url: /monsters/Viking
+  - monster:
+    name: "Панк"
+    image: /images/Harpy.png
+    quantity: 4
+    url: /monsters/Harpy
+  - monster:
+    name: "Каскоголовый"
+    image: /images/GobloidKnucklehead.png
+    quantity: 4
+    url: /monsters/GobloidKnucklehead
+  - monster:
+    name: "Гоблоид"
+    image: /images/Gobloid.png
+    quantity: 2
+    url: /monsters/Gobloid
 es-ES_name: "Las Colinas Gritonas"
 es-ES_description: "Un lugar tan loco que incluso las mismas colinas están gritando."
 tier: 6
@@ -87,32 +116,32 @@ monsters:
     image: /images/Gobloid.png
     quantity: 2
     url: /monsters/Gobloid
-ru-RU_name: "Вопящие холмы"
-ru-RU_description: "Место настолько безумное, что даже сами холмы вопят"
+pl-PL_name: "Wrzeszczące Wzgórza"
+pl-PL_description: "Ja wrzeszczę, ty wrzeszczysz, wzgórze wrzeszczy."
 tier: 6
 monsters:
   - monster:
-    name: "Бегущая по ветру"
+    name: "Riot Girl"
     image: /images/WindRunner.png
     quantity: 4
     url: /monsters/WindRunner
   - monster:
-    name: "Нюк-Викинг"
+    name: "Nuklearny Wiking"
     image: /images/Viking.png
     quantity: 8
     url: /monsters/Viking
   - monster:
-    name: "Панк"
+    name: "Pank"
     image: /images/Harpy.png
     quantity: 4
     url: /monsters/Harpy
   - monster:
-    name: "Каскоголовый"
+    name: "Wiadrołeb"
     image: /images/GobloidKnucklehead.png
     quantity: 4
     url: /monsters/GobloidKnucklehead
   - monster:
-    name: "Гоблоид"
+    name: "Gobloid"
     image: /images/Gobloid.png
     quantity: 2
     url: /monsters/Gobloid

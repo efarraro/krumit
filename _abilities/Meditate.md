@@ -14,6 +14,13 @@ tile_id: Meditate
 cost: 2
 image: /images/Meditate.png
 hero: mage
+ru-RU_name: "Медитация"
+ru-RU_description: "Уменьшает стоимость всех способностей на поле на 1 💰. <u>Сжигается</u>"
+ru-RU_flavor: "Oммммммммммм. Мooooooooooo."
+tile_id: Meditate
+cost: 2
+image: /images/Meditate.png
+hero: mage
 es-ES_name: "Meditar"
 es-ES_description: "Reduce el costo de todas las habilidades visibles en 1. <u>Agota</u>"
 es-ES_flavor: "Ommmmmmmmmmm. Mooooooooooo."
@@ -21,9 +28,9 @@ tile_id: Meditate
 cost: 2
 image: /images/Meditate.png
 hero: mage
-ru-RU_name: "Медитация"
-ru-RU_description: "Уменьшает стоимость всех способностей на поле на 1 💰. <u>Сжигается</u>"
-ru-RU_flavor: "Oммммммммммм. Мooooooooooo."
+pl-PL_name: "Medytacja"
+pl-PL_description: "Obniż koszt widocznych umiejętności o 1. <u>Wyczerpany</u>"
+pl-PL_flavor: "Ommmmmmmmmmm. Mooooooooooo."
 tile_id: Meditate
 cost: 2
 image: /images/Meditate.png

@@ -14,6 +14,13 @@ tile_id: ExplosiveRunes
 cost: 2
 image: /images/ExplosiveRunes.png
 hero: mage
+ru-RU_name: "Взрывные руны"
+ru-RU_description: "Уничтожает способность. Наносит <u>пронзающий</u> урон соседним врагам, равный стоимости способности + 2.  <u>Сжигается</u>"
+ru-RU_flavor: "Рунные кузнецы всегда предупреждают новых упрямых учеников, что не нужно в первую очередь связываться с взрывоопасными рунами. Рунные кузнецы постоянно нуждаются в учениках."
+tile_id: ExplosiveRunes
+cost: 2
+image: /images/ExplosiveRunes.png
+hero: mage
 es-ES_name: "Runas Explosivas"
 es-ES_description: "Destruye una habilidad objetivo. Haz daño <u>penetrante</u> equivalente al costo de esa habilidad + 2 a los enemigos adyacentes a ella. <u>Agota</u>"
 es-ES_flavor: "Los talladores de runas siempre advierten a sus tercos aprendices que no se metan prematuramente con símbolos explosivos. Los talladores de runas siempre terminan necesitando nuevos aprendices."
@@ -21,9 +28,9 @@ tile_id: ExplosiveRunes
 cost: 2
 image: /images/ExplosiveRunes.png
 hero: mage
-ru-RU_name: "Взрывные руны"
-ru-RU_description: "Уничтожает способность. Наносит <u>пронзающий</u> урон соседним врагам, равный стоимости способности + 2.  <u>Сжигается</u>"
-ru-RU_flavor: "Рунные кузнецы всегда предупреждают новых упрямых учеников, что не нужно в первую очередь связываться с взрывоопасными рунами. Рунные кузнецы постоянно нуждаются в учениках."
+pl-PL_name: "Wybuchowe Runy"
+pl-PL_description: "Zniszcz wskazaną umiejętność. Zadaj przenikające (<u>przenikający</u>) obrażenie sąsiadującym przeciwnikom równe kosztowi tej zdolności + 2. <u>Wyczerpany</u>"
+pl-PL_flavor: "'Stosowanie run wybuchowych powoduje utratę kończyn lub życia.' ostrzega Minister ds. Runicznych"
 tile_id: ExplosiveRunes
 cost: 2
 image: /images/ExplosiveRunes.png

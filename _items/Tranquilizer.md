@@ -80,6 +80,46 @@ cost: 3
 image: /images/Tranquilizer.png
 durability: 3
 hero: warrior
+ru-RU_name: "Транквилизатор"
+ru-RU_description: "В бою заменяет текущее действие соперника на 'Сон'."
+ru-RU_flavor: "Гарантировано отправит Вардведя в здоровый восьмичасовой сон."
+tile_id: Tranquilizer
+cost: 3
+image: /images/Tranquilizer.png
+durability: 3
+hero: warrior
+ru-RU_name: "Транквилизатор"
+ru-RU_description: "В бою заменяет текущее действие соперника на 'Сон'."
+ru-RU_flavor: "Гарантировано отправит Вардведя в здоровый восьмичасовой сон."
+tile_id: Tranquilizer
+cost: 3
+image: /images/Tranquilizer.png
+durability: 3
+hero: warrior
+ru-RU_name: "Транквилизатор"
+ru-RU_description: "В бою заменяет текущее действие соперника на 'Сон'."
+ru-RU_flavor: "Гарантировано отправит Вардведя в здоровый восьмичасовой сон."
+tile_id: Tranquilizer
+cost: 3
+image: /images/Tranquilizer.png
+durability: 3
+hero: warrior
+ru-RU_name: "Транквилизатор"
+ru-RU_description: "В бою заменяет текущее действие соперника на 'Сон'."
+ru-RU_flavor: "Гарантировано отправит Вардведя в здоровый восьмичасовой сон."
+tile_id: Tranquilizer
+cost: 3
+image: /images/Tranquilizer.png
+durability: 3
+hero: warrior
+ru-RU_name: "Транквилизатор"
+ru-RU_description: "В бою заменяет текущее действие соперника на 'Сон'."
+ru-RU_flavor: "Гарантировано отправит Вардведя в здоровый восьмичасовой сон."
+tile_id: Tranquilizer
+cost: 3
+image: /images/Tranquilizer.png
+durability: 3
+hero: warrior
 es-ES_name: "Tranquilizadora"
 es-ES_description: "En combate, reemplaza la acción actual de tu oponente por Dormir"
 es-ES_flavor: "Se garantiza que puede dejar a un Barbaroso adulto inconsciente, para que tenga las 7 horas recomendadas de sueño REM."
@@ -120,41 +160,41 @@ cost: 3
 image: /images/Tranquilizer.png
 durability: 3
 hero: warrior
-ru-RU_name: "Транквилизатор"
-ru-RU_description: "В бою заменяет текущее действие соперника на 'Сон'."
-ru-RU_flavor: "Гарантировано отправит Вардведя в здоровый восьмичасовой сон."
+pl-PL_name: "Środek Uspokajający"
+pl-PL_description: "W walce, zastąp akcję przeciwnika Snem."
+pl-PL_flavor: "Powala każdego Niedźwierzyńcę na 7 godzin rekomendowanego snu REM."
 tile_id: Tranquilizer
 cost: 3
 image: /images/Tranquilizer.png
 durability: 3
 hero: warrior
-ru-RU_name: "Транквилизатор"
-ru-RU_description: "В бою заменяет текущее действие соперника на 'Сон'."
-ru-RU_flavor: "Гарантировано отправит Вардведя в здоровый восьмичасовой сон."
+pl-PL_name: "Środek Uspokajający"
+pl-PL_description: "W walce, zastąp akcję przeciwnika Snem."
+pl-PL_flavor: "Powala każdego Niedźwierzyńcę na 7 godzin rekomendowanego snu REM."
 tile_id: Tranquilizer
 cost: 3
 image: /images/Tranquilizer.png
 durability: 3
 hero: warrior
-ru-RU_name: "Транквилизатор"
-ru-RU_description: "В бою заменяет текущее действие соперника на 'Сон'."
-ru-RU_flavor: "Гарантировано отправит Вардведя в здоровый восьмичасовой сон."
+pl-PL_name: "Środek Uspokajający"
+pl-PL_description: "W walce, zastąp akcję przeciwnika Snem."
+pl-PL_flavor: "Powala każdego Niedźwierzyńcę na 7 godzin rekomendowanego snu REM."
 tile_id: Tranquilizer
 cost: 3
 image: /images/Tranquilizer.png
 durability: 3
 hero: warrior
-ru-RU_name: "Транквилизатор"
-ru-RU_description: "В бою заменяет текущее действие соперника на 'Сон'."
-ru-RU_flavor: "Гарантировано отправит Вардведя в здоровый восьмичасовой сон."
+pl-PL_name: "Środek Uspokajający"
+pl-PL_description: "W walce, zastąp akcję przeciwnika Snem."
+pl-PL_flavor: "Powala każdego Niedźwierzyńcę na 7 godzin rekomendowanego snu REM."
 tile_id: Tranquilizer
 cost: 3
 image: /images/Tranquilizer.png
 durability: 3
 hero: warrior
-ru-RU_name: "Транквилизатор"
-ru-RU_description: "В бою заменяет текущее действие соперника на 'Сон'."
-ru-RU_flavor: "Гарантировано отправит Вардведя в здоровый восьмичасовой сон."
+pl-PL_name: "Środek Uspokajający"
+pl-PL_description: "W walce, zastąp akcję przeciwnika Snem."
+pl-PL_flavor: "Powala każdego Niedźwierzyńcę na 7 godzin rekomendowanego snu REM."
 tile_id: Tranquilizer
 cost: 3
 image: /images/Tranquilizer.png

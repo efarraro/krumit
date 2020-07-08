@@ -12,15 +12,21 @@ zh-CN_flavor: "上好的热带毒饮。"
 tile_id: ToxicBlood
 cost: -1
 image: /images/ToxicBlood.png
+ru-RU_name: "Токсичная кровь"
+ru-RU_description: "Получите это, когда получаете другую карточку в этом ряду. <u>Пассивно</u>: когда вы восстанавливаете ❤️, уменьшите это значение на 1"
+ru-RU_flavor: "Вкус отравленного рая"
+tile_id: ToxicBlood
+cost: -1
+image: /images/ToxicBlood.png
 es-ES_name: "Sangre Tóxica"
 es-ES_description: "Adquiere esta ficha cuando adquieras otra ficha en la misma fila. <u>Pasiva</u>: Cuando recuperes ❤️, reduce el monto en 1"
 es-ES_flavor: "Una pequeña probada de un paraíso envenenado."
 tile_id: ToxicBlood
 cost: -1
 image: /images/ToxicBlood.png
-ru-RU_name: "Токсичная кровь"
-ru-RU_description: "Получите это, когда получаете другую карточку в этом ряду. <u>Пассивно</u>: когда вы восстанавливаете ❤️, уменьшите это значение на 1"
-ru-RU_flavor: "Вкус отравленного рая"
+pl-PL_name: "Toksyczna Krew"
+pl-PL_description: "Uzyskaj to uzyskując inną płytkę w tym samym wierszu. <u>Pasywny</u>: Gdy odnawiasz ❤️, obniż wartość leczenia o 1."
+pl-PL_flavor: "Zasmakuj się w trutce."
 tile_id: ToxicBlood
 cost: -1
 image: /images/ToxicBlood.png

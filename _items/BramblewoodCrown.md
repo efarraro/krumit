@@ -16,6 +16,14 @@ cost: 2
 image: /images/BramblewoodCrown.png
 durability: 3
 hero: priest
+ru-RU_name: "Корона Брамблвуда"
+ru-RU_description: "Когда вы 🛡️️ <u>блокируете</u> с этим предметом, вы имеете <u>шипы</u>, равный вашему суммарному блоку (0)"
+ru-RU_flavor: "Маленькая щекотка для вас и большая царапка для них."
+tile_id: BramblewoodCrown
+cost: 2
+image: /images/BramblewoodCrown.png
+durability: 3
+hero: priest
 es-ES_name: "Corona de Zarzas"
 es-ES_description: "Cuando 🛡️️ <u>bloquees</u> con este ítem, tienes <u>espinas</u> equivalentes a tu 🛡️️ <u>bloqueo</u> total (0)"
 es-ES_flavor: "Te pica un poco, pero mucho, mucho menos que a ellos."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/BramblewoodCrown.png
 durability: 3
 hero: priest
-ru-RU_name: "Корона Брамблвуда"
-ru-RU_description: "Когда вы 🛡️️ <u>блокируете</u> с этим предметом, вы имеете <u>шипы</u>, равный вашему суммарному блоку (0)"
-ru-RU_flavor: "Маленькая щекотка для вас и большая царапка для них."
+pl-PL_name: "Korona z Drzazgokrzaku"
+pl-PL_description: "Gdy blokujesz tym przedmiotem, otrzymujesz thorns równe 🛡️️ <u>blok</u> (0)."
+pl-PL_flavor: "Trochę swędzi, ale kłuje tylko wrogów."
 tile_id: BramblewoodCrown
 cost: 2
 image: /images/BramblewoodCrown.png

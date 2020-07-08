@@ -16,6 +16,14 @@ cost: 3
 image: /images/CaptainsCutlass.png
 durability: 3
 hero: warrior
+ru-RU_name: "Сабля капитана"
+ru-RU_description: "Когда вы приобретаете это, даёт 1 💰 за каждого врага в том же ряду и столбце этого предмета"
+ru-RU_flavor: "Некоторые лезвия жаждут крови. Этот жаждет золота. И грог."
+tile_id: CaptainsCutlass
+cost: 3
+image: /images/CaptainsCutlass.png
+durability: 3
+hero: warrior
 es-ES_name: "Alfanje de Capitán"
 es-ES_description: "Cuando adquieras esta arma, gana 1 💰 por cada enemigo en la misma fila o columna que ella"
 es-ES_flavor: "Algunas espadas están sedientas de sangre. Esta está sedienta de oro. Y de grog."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/CaptainsCutlass.png
 durability: 3
 hero: warrior
-ru-RU_name: "Сабля капитана"
-ru-RU_description: "Когда вы приобретаете это, даёт 1 💰 за каждого врага в том же ряду и столбце этого предмета"
-ru-RU_flavor: "Некоторые лезвия жаждут крови. Этот жаждет золота. И грог."
+pl-PL_name: "Kapitański Kordelas"
+pl-PL_description: "Gdy uzyskasz tą broń, uzyskaj 1 💰 za każdego wroga w tym samym wierszu i kolumnie."
+pl-PL_flavor: "Są ostrza, które pragną krwi. To pragnie złota. I grogu."
 tile_id: CaptainsCutlass
 cost: 3
 image: /images/CaptainsCutlass.png

@@ -48,6 +48,30 @@ monsters:
     image: /images/AncientSkeleton.png
     quantity: 2
     url: /monsters/AncientSkeleton
+ru-RU_name: "Острые верхушки"
+ru-RU_description: "'Гарпии гнездятся на дальних вершинах, но они не слишком беспокоят гондолу. До тех пор, пока я не вспомню, что нужно провести на ней жертвоприношение' - контроллер гондолы Вивиан."
+tier: 3
+monsters:
+  - monster:
+    name: "Панк"
+    image: /images/Harpy.png
+    quantity: 5
+    url: /monsters/Harpy
+  - monster:
+    name: "Бегущая по ветру"
+    image: /images/WindRunner.png
+    quantity: 2
+    url: /monsters/WindRunner
+  - monster:
+    name: "Скелет"
+    image: /images/Skeleton.png
+    quantity: 6
+    url: /monsters/Skeleton
+  - monster:
+    name: "Древний скелет"
+    image: /images/AncientSkeleton.png
+    quantity: 2
+    url: /monsters/AncientSkeleton
 es-ES_name: "Picos Puntudos"
 es-ES_description: "'Las Harpías anidan en esos picos, pero no me molestan mucho. Siempre y cuando me acuerde de amarrar un sacrificio a la góndola, claro está.' - Vivian, Conductora de la Góndola."
 tier: 3
@@ -72,27 +96,27 @@ monsters:
     image: /images/AncientSkeleton.png
     quantity: 2
     url: /monsters/AncientSkeleton
-ru-RU_name: "Острые верхушки"
-ru-RU_description: "'Гарпии гнездятся на дальних вершинах, но они не слишком беспокоят гондолу. До тех пор, пока я не вспомню, что нужно провести на ней жертвоприношение' - контроллер гондолы Вивиан."
+pl-PL_name: "Spiczasty Szczyt"
+pl-PL_description: "'Harpie gnieżdżą się na tamtych szczytach, ale nie przeszkadzają mi w robocie jeżeli nie zapomnę o ofierze.' - gondolier Vivian."
 tier: 3
 monsters:
   - monster:
-    name: "Панк"
+    name: "Pank"
     image: /images/Harpy.png
     quantity: 5
     url: /monsters/Harpy
   - monster:
-    name: "Бегущая по ветру"
+    name: "Riot Girl"
     image: /images/WindRunner.png
     quantity: 2
     url: /monsters/WindRunner
   - monster:
-    name: "Скелет"
+    name: "Szkielet"
     image: /images/Skeleton.png
     quantity: 6
     url: /monsters/Skeleton
   - monster:
-    name: "Древний скелет"
+    name: "Pradawny Szkielet"
     image: /images/AncientSkeleton.png
     quantity: 2
     url: /monsters/AncientSkeleton

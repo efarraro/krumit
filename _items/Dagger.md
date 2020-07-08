@@ -16,6 +16,14 @@ cost: 2
 image: /images/Dagger.png
 durability: 2
 hero: rogue
+ru-RU_name: "Кинжал"
+ru-RU_description: "Обыкновенный предмет - никаких дополнительных свойств"
+ru-RU_flavor: "Приложись к ним острым концом или используй, чтобы нарезать яблоки."
+tile_id: Dagger
+cost: 2
+image: /images/Dagger.png
+durability: 2
+hero: rogue
 es-ES_name: "Daga"
 es-ES_description: "Ítem básico - sin efectos adicionales"
 es-ES_flavor: "Pínchalos con el extremo puntiagudo, o úsala para cortar una manzana."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/Dagger.png
 durability: 2
 hero: rogue
-ru-RU_name: "Кинжал"
-ru-RU_description: "Обыкновенный предмет - никаких дополнительных свойств"
-ru-RU_flavor: "Приложись к ним острым концом или используй, чтобы нарезать яблоки."
+pl-PL_name: "Sztylet"
+pl-PL_description: "Podstawowy przedmiot - brak dodatkowych efektów"
+pl-PL_flavor: "Nadziej na ostry koniec swoich wrogów i jabłka."
 tile_id: Dagger
 cost: 2
 image: /images/Dagger.png

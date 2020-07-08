@@ -8,12 +8,16 @@ zh-CN_name: "好战"
 zh-CN_description: "你的非远程攻击武器额外造成1点伤害"
 tile_id: Warmonger
 image: /images/Warmonger.png
+ru-RU_name: "Воинственный"
+ru-RU_description: "Ваши рукопашные оружия имеют +1 🔸"
+tile_id: Warmonger
+image: /images/Warmonger.png
 es-ES_name: "Belicoso"
 es-ES_description: "Tus armas de melé tienen +1 🔸"
 tile_id: Warmonger
 image: /images/Warmonger.png
-ru-RU_name: "Воинственный"
-ru-RU_description: "Ваши рукопашные оружия имеют +1 🔸"
+pl-PL_name: "Wojownik"
+pl-PL_description: "Twoje bronie do walki wręcz otrzymują +1 🔸."
 tile_id: Warmonger
 image: /images/Warmonger.png
 ---

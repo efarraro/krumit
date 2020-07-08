@@ -16,6 +16,14 @@ cost: 4
 image: /images/SpiritStone.png
 durability: 3
 hero: priest
+ru-RU_name: "Камень духа"
+ru-RU_description: "Когда вы получаете это, он сохраняет ваше текущее значение ❤️. Используйте это, чтобы установить ❤️ на это значение (не считается лечением)"
+ru-RU_flavor: "Кто знает, сколько беспокойных душ находятся в этом адском камне?"
+tile_id: SpiritStone
+cost: 4
+image: /images/SpiritStone.png
+durability: 3
+hero: priest
 es-ES_name: "Piedra de Espíritu"
 es-ES_description: "Cuando adquieras este ítem, guarda tu valor actual de ❤️. Úsala para cambiar tu ❤️ a ese valor (no cuenta como curación)"
 es-ES_flavor: "¿Quién sabe cuántas almas se apretujan dentro de esta piedra infernal?"
@@ -24,9 +32,9 @@ cost: 4
 image: /images/SpiritStone.png
 durability: 3
 hero: priest
-ru-RU_name: "Камень духа"
-ru-RU_description: "Когда вы получаете это, он сохраняет ваше текущее значение ❤️. Используйте это, чтобы установить ❤️ на это значение (не считается лечением)"
-ru-RU_flavor: "Кто знает, сколько беспокойных душ находятся в этом адском камне?"
+pl-PL_name: "Kamień Duszy"
+pl-PL_description: "Gdy uzyskasz ten przedmiot, zachowa on twój aktualny stan ❤️. Użyj przedmiotu aby ustawić ❤️ na zachowany stan (nie liczy się jako leczenie)."
+pl-PL_flavor: "Kto wie ile dusz zostało uwięzionych w tym piekielnym kamieniu..."
 tile_id: SpiritStone
 cost: 4
 image: /images/SpiritStone.png

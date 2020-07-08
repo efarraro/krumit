@@ -16,6 +16,14 @@ cost: 5
 image: /images/WitchHuntersCopotain.png
 durability: 3
 hero: priest
+ru-RU_name: "Шляпа охотника на ведьм"
+ru-RU_description: "Когда вы получаете это, также получаете копию <a href = '../ru_ru/items#WroughtIronTorch'>Факел из кованого железа</a>"
+ru-RU_flavor: "ВРЕМЯ ОЧИЩЕНИЯ."
+tile_id: WitchHuntersCopotain
+cost: 5
+image: /images/WitchHuntersCopotain.png
+durability: 3
+hero: priest
 es-ES_name: "Capotain de Cazabrujas"
 es-ES_description: "Cuando adquieras esto, también adquiere una copia de <a href = '../es_es/items#WroughtIronTorch'>Antorcha de Hierro Forjado</a>"
 es-ES_flavor: "ES HORA DE LIMPIAR."
@@ -24,9 +32,9 @@ cost: 5
 image: /images/WitchHuntersCopotain.png
 durability: 3
 hero: priest
-ru-RU_name: "Шляпа охотника на ведьм"
-ru-RU_description: "Когда вы получаете это, также получаете копию <a href = '../ru_ru/items#WroughtIronTorch'>Факел из кованого железа</a>"
-ru-RU_flavor: "ВРЕМЯ ОЧИЩЕНИЯ."
+pl-PL_name: "Kapotan Łowcy Czarownic"
+pl-PL_description: "Gdy uzyskasz ten przedmiot, uzyskaj <a href = '../pl_pl/items#WroughtIronTorch'>Pochodnia z kutego żelaza</a>."
+pl-PL_flavor: "PORA NA OCZYSZCZENIE!"
 tile_id: WitchHuntersCopotain
 cost: 5
 image: /images/WitchHuntersCopotain.png

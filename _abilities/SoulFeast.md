@@ -14,6 +14,13 @@ tile_id: SoulFeast
 cost: 2
 image: /images/SoulFeast.png
 hero: necromancer
+ru-RU_name: "Пиршество душ"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Увеличивает 🔸 и максимальное ❤️ ваших 💀 <u>миньонов</u> на 1."
+ru-RU_flavor: "У миньонов может быть немного души в качестве пиршества."
+tile_id: SoulFeast
+cost: 2
+image: /images/SoulFeast.png
+hero: necromancer
 es-ES_name: "Festín de Almas"
 es-ES_description: "<u><u>Instantánea</u></u>. Incrementa el 🔸 y la ❤️ máxima de tus 💀 <u>Esbirros</u> en 1"
 es-ES_flavor: "Los esbirros pueden tener un poquillo de alma, como festín."
@@ -21,9 +28,9 @@ tile_id: SoulFeast
 cost: 2
 image: /images/SoulFeast.png
 hero: necromancer
-ru-RU_name: "Пиршество душ"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Увеличивает 🔸 и максимальное ❤️ ваших 💀 <u>миньонов</u> на 1."
-ru-RU_flavor: "У миньонов может быть немного души в качестве пиршества."
+pl-PL_name: "Uczta Duchowa"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. Zwiększ 🔸 i maksymalne ❤️ twoich 💀 <u>Sługusy</u> o 1."
+pl-PL_flavor: "Sługusy zasługują na duchową ucztę od czasu do czasu."
 tile_id: SoulFeast
 cost: 2
 image: /images/SoulFeast.png

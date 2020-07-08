@@ -14,6 +14,13 @@ tile_id: MightySwing
 cost: 2
 image: /images/MightySwing.png
 hero: warrior
+ru-RU_name: "Сильный удар"
+ru-RU_description: "Увеличивает вашу 🔸 на значение, равное урону всех экипированных рукопашных оружий. Перезаряжается после 6 раундов боя"
+ru-RU_flavor: "ААААРРГХ! - Грэгори Лламатавр"
+tile_id: MightySwing
+cost: 2
+image: /images/MightySwing.png
+hero: warrior
 es-ES_name: "Gran Golpe"
 es-ES_description: "Incrementa tu 🔸 por un valor equivalente al daño de tus armas de melé equipadas. Recarga después de 6 rondas de combate."
 es-ES_flavor: "¡GGWAAARRR! – Gregory el Llamatauro"
@@ -21,9 +28,9 @@ tile_id: MightySwing
 cost: 2
 image: /images/MightySwing.png
 hero: warrior
-ru-RU_name: "Сильный удар"
-ru-RU_description: "Увеличивает вашу 🔸 на значение, равное урону всех экипированных рукопашных оружий. Перезаряжается после 6 раундов боя"
-ru-RU_flavor: "ААААРРГХ! - Грэгори Лламатавр"
+pl-PL_name: "Potężny Zamach"
+pl-PL_description: "Zwiększa 🔸 o wartość ataku dobytych broni. Ładuje się po 6 rundach walki."
+pl-PL_flavor: "GGWAAARRR! – Grzesiek, Lamataur"
 tile_id: MightySwing
 cost: 2
 image: /images/MightySwing.png

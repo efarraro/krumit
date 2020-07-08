@@ -16,6 +16,14 @@ cost: 3
 image: /images/CoiledLeech.png
 durability: 3
 hero: priest
+ru-RU_name: "Спиральная пиявка"
+ru-RU_description: "Это оружие имеет  <u>Вампиризм</u> (4), пока вы атакуете врага с полным ❤️"
+ru-RU_flavor: "'Они пьют только из самых полных чашек. Придирчивые маленькие мерзавцы' - фермер-пиявка Лонзо"
+tile_id: CoiledLeech
+cost: 3
+image: /images/CoiledLeech.png
+durability: 3
+hero: priest
 es-ES_name: "Sanguijuela Enroscada"
 es-ES_description: "Esta arma tiene  <u>Vampirismo</u> (4) cuando atacas enemigos que tengan ❤️ llena"
 es-ES_flavor: "'Sólo beben de las copas más llenas, las monstruitas melindrosas.' Lonzo, Criador de Sanguijuelas"
@@ -24,9 +32,9 @@ cost: 3
 image: /images/CoiledLeech.png
 durability: 3
 hero: priest
-ru-RU_name: "Спиральная пиявка"
-ru-RU_description: "Это оружие имеет  <u>Вампиризм</u> (4), пока вы атакуете врага с полным ❤️"
-ru-RU_flavor: "'Они пьют только из самых полных чашек. Придирчивые маленькие мерзавцы' - фермер-пиявка Лонзо"
+pl-PL_name: "Pijawczy Kiścień"
+pl-PL_description: "Ta broń ma  <u>Kradzież Życia</u> (4) gdy atakujesz przeciwnika z pełnym ❤️."
+pl-PL_flavor: "'Piją tylko z pełnych kubków, skubane.' - Pijoniusz, hodowca pijawek"
 tile_id: CoiledLeech
 cost: 3
 image: /images/CoiledLeech.png

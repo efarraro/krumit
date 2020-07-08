@@ -14,6 +14,13 @@ tile_id: IceArmor
 cost: 4
 image: /images/IceArmor.png
 hero: mage
+ru-RU_name: "Ледяной доспех"
+ru-RU_description: "Даёт 6 🛡️️ <u>блока</u> и накладывает <u>мороз</u> на врага в конце раунда. Перезаряжается после добавления 6 карточек на поле"
+ru-RU_flavor: "Айс, айс, бэйби."
+tile_id: IceArmor
+cost: 4
+image: /images/IceArmor.png
+hero: mage
 es-ES_name: "Armadura de Hielo"
 es-ES_description: "Gana 6 de 🛡️️ <u>bloqueo</u> y <u>congela</u> a tu oponente al final de la ronda. Recarga después de que 6 fichas sean añadidas al tablero"
 es-ES_flavor: "Frío, frío, como el agua del río."
@@ -21,9 +28,9 @@ tile_id: IceArmor
 cost: 4
 image: /images/IceArmor.png
 hero: mage
-ru-RU_name: "Ледяной доспех"
-ru-RU_description: "Даёт 6 🛡️️ <u>блока</u> и накладывает <u>мороз</u> на врага в конце раунда. Перезаряжается после добавления 6 карточек на поле"
-ru-RU_flavor: "Айс, айс, бэйби."
+pl-PL_name: "Pancerz z Lodu"
+pl-PL_description: "Zyskaj 6 🛡️️ <u>blok</u> i zamroź (<u>zamrożenie</u>) przeciwnika na koniec rundy. Naładuj po pojawieniu się na planszy 6 płytek."
+pl-PL_flavor: "Jak zrobisz mi pancerz, to kupię ci loda."
 tile_id: IceArmor
 cost: 4
 image: /images/IceArmor.png

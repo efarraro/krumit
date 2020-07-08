@@ -14,6 +14,13 @@ tile_id: DarkRitual
 cost: 0
 image: /images/DarkRitual.png
 hero: necromancer
+ru-RU_name: "Темный ритуал"
+ru-RU_description: "Потратьте 6 ❤️, чтобы увеличить 🔸 всех 💀 <u>миньонов</u> в вашем снаряжении на 1 и уменьшить ваше максимальное ❤️ на 1 до конца подземелья"
+ru-RU_flavor: "Хороший, темный ритуал содержит много крови, свечей, пения и точные геометрические схемы."
+tile_id: DarkRitual
+cost: 0
+image: /images/DarkRitual.png
+hero: necromancer
 es-ES_name: "Ritual Oscuro"
 es-ES_description: "Paga 6 ❤️ para incrementar el 🔸 de todos los 💀 <u>Esbirros</u> en tu inventario en 1. Usar ésto reduce tu ❤️ máxima en 1 por el resto de la mazmorra"
 es-ES_flavor: "Un auténtico ritual oscuro tiene mucha sangre, velas, cantos y diagramas geométricos exactos."
@@ -21,9 +28,9 @@ tile_id: DarkRitual
 cost: 0
 image: /images/DarkRitual.png
 hero: necromancer
-ru-RU_name: "Темный ритуал"
-ru-RU_description: "Потратьте 6 ❤️, чтобы увеличить 🔸 всех 💀 <u>миньонов</u> в вашем снаряжении на 1 и уменьшить ваше максимальное ❤️ на 1 до конца подземелья"
-ru-RU_flavor: "Хороший, темный ритуал содержит много крови, свечей, пения и точные геометрические схемы."
+pl-PL_name: "Czarny Rytuał"
+pl-PL_description: "Zapłać 6 ❤️ aby zwiększyć 🔸 wszystkich 💀 <u>Sługusy</u> w ekwipunku o 1 i obniżyć twoje maksymalne ❤️ o 1 do końca lochu."
+pl-PL_flavor: "Dobry mroczny rytuał zawiera mnóstwo krwi, świec, intonowania i precyzyjnych schematów geometrycznych."
 tile_id: DarkRitual
 cost: 0
 image: /images/DarkRitual.png

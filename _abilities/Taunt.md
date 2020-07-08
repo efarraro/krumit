@@ -14,6 +14,13 @@ tile_id: Taunt
 cost: 1
 image: /images/Taunt.png
 hero: warrior
+ru-RU_name: "Насмешка"
+ru-RU_description: "Замешивает невражеские карточки с поля в колоду подземелья и уменьшает их стоимость на 1 💰. Перезаряжается после убийства 3 врагов."
+ru-RU_flavor: "Бруно, обычно, практиковал свои насмешки перед зеркалом: 'Ну, давай, давай, подходи!', но они были настолько эффективны, что ему пришлось остановится. Зеркала не дешевые, в конце концов."
+tile_id: Taunt
+cost: 1
+image: /images/Taunt.png
+hero: warrior
 es-ES_name: "Insultar"
 es-ES_description: "Baraja todas las fichas no-enemigas en el mazo y reduce su costo en 1 💰. Derrota 3 enemigos para recargar"
 es-ES_flavor: "Bruno solía practicar sus insultos frente al espejo - '¡Ven por mí, colega! - pero eran demasiado efectivos, y tuvo que parar. Los espejos no son baratos, después de todo."
@@ -21,9 +28,9 @@ tile_id: Taunt
 cost: 1
 image: /images/Taunt.png
 hero: warrior
-ru-RU_name: "Насмешка"
-ru-RU_description: "Замешивает невражеские карточки с поля в колоду подземелья и уменьшает их стоимость на 1 💰. Перезаряжается после убийства 3 врагов."
-ru-RU_flavor: "Бруно, обычно, практиковал свои насмешки перед зеркалом: 'Ну, давай, давай, подходи!', но они были настолько эффективны, что ему пришлось остановится. Зеркала не дешевые, в конце концов."
+pl-PL_name: "Kpina"
+pl-PL_description: "Płytki, które nie są przeciwnikami wtasuj z planszy do talii i obniż ich koszt o 1 💰. Pokonaj 3 przeciwników aby naładować."
+pl-PL_flavor: "Bruno ćwiczył swoje obelgi w lustrze, ze zmiennym skutkiem. Czasami wygrywał on, czasami wygrywał ten drugi, za każdym razem przegrywało lustro."
 tile_id: Taunt
 cost: 1
 image: /images/Taunt.png

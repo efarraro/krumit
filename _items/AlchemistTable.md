@@ -16,6 +16,14 @@ cost: 3
 image: /images/AlchemistTable.png
 durability: 3
 hero: rogue
+ru-RU_name: "Алхимический набор"
+ru-RU_description: "<u>Вытягивает</u> случайное зелье"
+ru-RU_flavor: "Этот алхимический набор полностью металлический, что делает его прочным, но непрактичным для переноса."
+tile_id: AlchemistTable
+cost: 3
+image: /images/AlchemistTable.png
+durability: 3
+hero: rogue
 es-ES_name: "Kit de Alquimia"
 es-ES_description: "<u>Roba</u> una poción aleatoria"
 es-ES_flavor: "Este kit de alquimia es completamente metálico, lo que lo hace durable pero muy impráctico de llevar encima."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/AlchemistTable.png
 durability: 3
 hero: rogue
-ru-RU_name: "Алхимический набор"
-ru-RU_description: "<u>Вытягивает</u> случайное зелье"
-ru-RU_flavor: "Этот алхимический набор полностью металлический, что делает его прочным, но непрактичным для переноса."
+pl-PL_name: "Zestaw do alchemii"
+pl-PL_description: "<u>Wytwórz</u> losową miksturę."
+pl-PL_flavor: "Ten zestaw do alchemii jest w całości z metalu, co czyni go wytrzymałym, jak również niewygodnym do noszenia przy sobie."
 tile_id: AlchemistTable
 cost: 3
 image: /images/AlchemistTable.png

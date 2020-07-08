@@ -14,6 +14,13 @@ tile_id: EnlightenWeapon
 cost: 1
 image: /images/EnlightenWeapon.png
 hero: priest
+ru-RU_name: "Просветить оружие"
+ru-RU_description: "<u>Пассивно</u>: Когда вы получаете рукопашное оружие, увеличивает его 🔸 на 2 и замешивает <u>благословение</u> в колоду подземелья"
+ru-RU_flavor: "Не делает оружие легче, но определенно делает его ярче."
+tile_id: EnlightenWeapon
+cost: 1
+image: /images/EnlightenWeapon.png
+hero: priest
 es-ES_name: "Iluminar Arma"
 es-ES_description: "<u>Pasiva</u>: Cada vez que adquieras un arma de melé, incrementa su 🔸 en 2 y baraja una <u>Bendición</u> en el mazo"
 es-ES_flavor: "No vuelve un arma más ligera, pero definitivamente la vuelve más brillante."
@@ -21,9 +28,9 @@ tile_id: EnlightenWeapon
 cost: 1
 image: /images/EnlightenWeapon.png
 hero: priest
-ru-RU_name: "Просветить оружие"
-ru-RU_description: "<u>Пассивно</u>: Когда вы получаете рукопашное оружие, увеличивает его 🔸 на 2 и замешивает <u>благословение</u> в колоду подземелья"
-ru-RU_flavor: "Не делает оружие легче, но определенно делает его ярче."
+pl-PL_name: "Rozświetlenie Oręża"
+pl-PL_description: "<u>Pasywny</u>: Gdy uzyskasz broń, zwiększ jej 🔸 o 2 i wtasuj <u>Błogosławieństwo</u> do talii."
+pl-PL_flavor: "Uważaj na ostry kontur."
 tile_id: EnlightenWeapon
 cost: 1
 image: /images/EnlightenWeapon.png

@@ -16,6 +16,14 @@ cost: 1
 image: /images/UnsavoryRelic.png
 durability: 2
 hero: priest
+ru-RU_name: "Неприятная реликвия"
+ru-RU_description: "Накладывает  <u>осквернение</u> (3) на врага"
+ru-RU_flavor: "'Сокровище' для одной женщины является худшим кошмаром для всех остальных."
+tile_id: UnsavoryRelic
+cost: 1
+image: /images/UnsavoryRelic.png
+durability: 2
+hero: priest
 es-ES_name: "Reliquia Desagradable"
 es-ES_description: " <u>Corrompe</u> (3) un enemigo"
 es-ES_flavor: "El 'tesoro' de una mujer es la peor pesadilla de todos los demás."
@@ -24,9 +32,9 @@ cost: 1
 image: /images/UnsavoryRelic.png
 durability: 2
 hero: priest
-ru-RU_name: "Неприятная реликвия"
-ru-RU_description: "Накладывает  <u>осквернение</u> (3) на врага"
-ru-RU_flavor: "'Сокровище' для одной женщины является худшим кошмаром для всех остальных."
+pl-PL_name: "Prostacka Relikwia"
+pl-PL_description: "Zepsuj ( <u>Zepsuty</u>) (3) wskazanego wroga."
+pl-PL_flavor: "Dla jednego skarb, dla innych koszmar."
 tile_id: UnsavoryRelic
 cost: 1
 image: /images/UnsavoryRelic.png

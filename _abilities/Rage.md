@@ -14,6 +14,13 @@ tile_id: Rage
 cost: 4
 image: /images/Rage.png
 hero: warrior
+ru-RU_name: "Ярость"
+ru-RU_description: "Увеличивает ваш 🔸 на 3. Перезаряжается после получения дважды урона"
+ru-RU_flavor: "Дайте вашей крови закипеть."
+tile_id: Rage
+cost: 4
+image: /images/Rage.png
+hero: warrior
 es-ES_name: "Furia"
 es-ES_description: "Incrementa tu 🔸 en 3. Sufre daño dos veces para recargar"
 es-ES_flavor: "Que te hierva la sangre."
@@ -21,9 +28,9 @@ tile_id: Rage
 cost: 4
 image: /images/Rage.png
 hero: warrior
-ru-RU_name: "Ярость"
-ru-RU_description: "Увеличивает ваш 🔸 на 3. Перезаряжается после получения дважды урона"
-ru-RU_flavor: "Дайте вашей крови закипеть."
+pl-PL_name: "Amok"
+pl-PL_description: "Uzyskaj +3 🔸. Otrzymaj obrażenia dwukrotnie aby naładować."
+pl-PL_flavor: "Skoczyło ciśnienie?"
 tile_id: Rage
 cost: 4
 image: /images/Rage.png

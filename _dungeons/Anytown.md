@@ -28,6 +28,20 @@ monsters:
     image: /images/RoyalGuard.png
     quantity: 1
     url: /monsters/RoyalGuard
+ru-RU_name: "Неописуемая усадьба"
+ru-RU_description: "Такая незаметная, невинная, нейтральная и обыкновенная, она вполне может быть где угодно."
+tier: 0
+monsters:
+  - monster:
+    name: "Крестянин"
+    image: /images/Peasant.png
+    quantity: 5
+    url: /monsters/Peasant
+  - monster:
+    name: "Городская стража"
+    image: /images/RoyalGuard.png
+    quantity: 1
+    url: /monsters/RoyalGuard
 es-ES_name: "Granja Insulsa"
 es-ES_description: "Tan modesta, inocente, neutral y ordinaria que bien podría estar en cualquier parte."
 tier: 0
@@ -42,17 +56,17 @@ monsters:
     image: /images/RoyalGuard.png
     quantity: 1
     url: /monsters/RoyalGuard
-ru-RU_name: "Неописуемая усадьба"
-ru-RU_description: "Такая незаметная, невинная, нейтральная и обыкновенная, она вполне может быть где угодно."
+pl-PL_name: "Nieokreślone gospodarstwo"
+pl-PL_description: "Tak niewinne, neutralne, nieprzyciągające uwagi i niewywołujące emocji, że mogłoby by być gdziekolwiek."
 tier: 0
 monsters:
   - monster:
-    name: "Крестянин"
+    name: "Wieśniak"
     image: /images/Peasant.png
     quantity: 5
     url: /monsters/Peasant
   - monster:
-    name: "Городская стража"
+    name: "Strażnik Miejski"
     image: /images/RoyalGuard.png
     quantity: 1
     url: /monsters/RoyalGuard

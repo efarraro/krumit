@@ -68,6 +68,40 @@ monsters:
     image: /images/Cardoso.png
     quantity: 1
     url: /monsters/Cardoso
+ru-RU_name: "Кровавая пещера Кардозо"
+ru-RU_description: "По Рей Кардозо держит одинокий дворик в кроваво-красных стенах своего деревенского жилища. И он ненавидит гостей."
+tier: 5
+monsters:
+  - monster:
+    name: "Скелет"
+    image: /images/Skeleton.png
+    quantity: 4
+    url: /monsters/Skeleton
+  - monster:
+    name: "Глоббер"
+    image: /images/Slime.png
+    quantity: 2
+    url: /monsters/Slime
+  - monster:
+    name: "Бандит пустоши"
+    image: /images/Knave.png
+    quantity: 6
+    url: /monsters/Knave
+  - monster:
+    name: "Разбойница"
+    image: /images/PirateGirl.png
+    quantity: 1
+    url: /monsters/PirateGirl
+  - monster:
+    name: "Зилнат"
+    image: /images/Zealnut.png
+    quantity: 5
+    url: /monsters/Zealnut
+  - monster:
+    name: "Кардосо"
+    image: /images/Cardoso.png
+    quantity: 1
+    url: /monsters/Cardoso
 es-ES_name: "Sangrario de Cardoso"
 es-ES_description: "Poh Rei Cardoso preside sus solitarios dominios desde esta su rústica y sanguinolienta morada. Y odia a los visitantes."
 tier: 5
@@ -102,37 +136,37 @@ monsters:
     image: /images/Cardoso.png
     quantity: 1
     url: /monsters/Cardoso
-ru-RU_name: "Кровавая пещера Кардозо"
-ru-RU_description: "По Рей Кардозо держит одинокий дворик в кроваво-красных стенах своего деревенского жилища. И он ненавидит гостей."
+pl-PL_name: "Krwista Grota Cardosa"
+pl-PL_description: "W tej ozdobionej w kolorach czerwieni grocie przebywa samotny Cardoso. Samotny z wyboru, nie z tragedii."
 tier: 5
 monsters:
   - monster:
-    name: "Скелет"
+    name: "Szkielet"
     image: /images/Skeleton.png
     quantity: 4
     url: /monsters/Skeleton
   - monster:
-    name: "Глоббер"
+    name: "Szlamor"
     image: /images/Slime.png
     quantity: 2
     url: /monsters/Slime
   - monster:
-    name: "Бандит пустоши"
+    name: "Zbir z Pustkowi"
     image: /images/Knave.png
     quantity: 6
     url: /monsters/Knave
   - monster:
-    name: "Разбойница"
+    name: "Szczur okrętowy"
     image: /images/PirateGirl.png
     quantity: 1
     url: /monsters/PirateGirl
   - monster:
-    name: "Зилнат"
+    name: "Żarliwiec"
     image: /images/Zealnut.png
     quantity: 5
     url: /monsters/Zealnut
   - monster:
-    name: "Кардосо"
+    name: "Cardoso"
     image: /images/Cardoso.png
     quantity: 1
     url: /monsters/Cardoso

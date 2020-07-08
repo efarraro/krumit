@@ -16,6 +16,14 @@ cost: 4
 image: /images/OracleRod.png
 durability: 3
 hero: mage
+ru-RU_name: "Стержень оракула"
+ru-RU_description: "Стоит на 1 💰 меньше за каждого  <u>горящего</u> или <u>замороженного</u> врага на поле"
+ru-RU_flavor: "'Стержень оракула может показать человеку или зверю его будущее. Но это всегда болезненное будущее.' - провидец Дельфин"
+tile_id: OracleRod
+cost: 4
+image: /images/OracleRod.png
+durability: 3
+hero: mage
 es-ES_name: "Vara-Oráculo"
 es-ES_description: "Cuesta 1 💰 menos por cada enemigo  <u>quemado</u> o <u>congelado</u> en el tablero"
 es-ES_flavor: "'La Vara-Oráculo puede mostrarle el futuro a un humano o una bestia. Pero siempre es un futuro doloroso.' - Vidente Delphine"
@@ -24,9 +32,9 @@ cost: 4
 image: /images/OracleRod.png
 durability: 3
 hero: mage
-ru-RU_name: "Стержень оракула"
-ru-RU_description: "Стоит на 1 💰 меньше за каждого  <u>горящего</u> или <u>замороженного</u> врага на поле"
-ru-RU_flavor: "'Стержень оракула может показать человеку или зверю его будущее. Но это всегда болезненное будущее.' - провидец Дельфин"
+pl-PL_name: "Różdżka Wyroczni"
+pl-PL_description: "Kosztuje 1 💰 mniej za każdego widocznego płonącego ( <u>w płomieniach</u>) lub zamrożonego (<u>zamrożony</u>) wroga."
+pl-PL_flavor: "'Różdżka Wyroczni może ukazać przyszłość człowieka i bestii. Zazwyczaj jest bolesna.' - Wyrocznia Delphi"
 tile_id: OracleRod
 cost: 4
 image: /images/OracleRod.png

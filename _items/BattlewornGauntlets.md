@@ -16,6 +16,14 @@ cost: 3
 image: /images/BattlewornGauntlets.png
 durability: 3
 hero: warrior
+ru-RU_name: "Поношенные рукавицы"
+ru-RU_description: "Когда вы получаете оружие, восстанавливает 1 прочность этому предмету"
+ru-RU_flavor: "Эти рукавицы пред-осенней коллекции точно опытнее, чем вы когда-либо будете. Нося их, вы чувствуете  себя уверенно и элегантно."
+tile_id: BattlewornGauntlets
+cost: 3
+image: /images/BattlewornGauntlets.png
+durability: 3
+hero: warrior
 es-ES_name: "Guantes Veteranos"
 es-ES_description: "Cada vez que adquieras un arma, repara 1 de durabilidad a este ítem"
 es-ES_flavor: "Estos guantes de antes del Meteorismo son probablemente más experimentados que lo que tú jamás serás. Vestirlos te llena de confianza y sofisticación."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/BattlewornGauntlets.png
 durability: 3
 hero: warrior
-ru-RU_name: "Поношенные рукавицы"
-ru-RU_description: "Когда вы получаете оружие, восстанавливает 1 прочность этому предмету"
-ru-RU_flavor: "Эти рукавицы пред-осенней коллекции точно опытнее, чем вы когда-либо будете. Нося их, вы чувствуете  себя уверенно и элегантно."
+pl-PL_name: "Przetarte walką rękawice"
+pl-PL_description: "Kiedy zdobywasz broń, przywróć 1 trwałości temu przedmiotowi"
+pl-PL_flavor: "Te przedspadkowe rękawice są prawdopodobnie bardziej doświadczone niż ty kiedykolwiek będziesz. Z nimi czujesz się pewnie i szykownie."
 tile_id: BattlewornGauntlets
 cost: 3
 image: /images/BattlewornGauntlets.png

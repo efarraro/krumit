@@ -16,6 +16,14 @@ cost: 3
 image: /images/CowBell.png
 durability: 2
 hero: necromancer
+ru-RU_name: "Коровий колокольчик"
+ru-RU_description: "Наносит <u>пронзающий</u> урон, равный вашему недостающему ❤️, выбранному врагу (*0*)"
+ru-RU_flavor: "Ужасный трезвон этого коровьего гонга может разорвать барабанные перепонки и внушить мощную жажду сена."
+tile_id: CowBell
+cost: 3
+image: /images/CowBell.png
+durability: 2
+hero: necromancer
 es-ES_name: "Cencerro Siniestro"
 es-ES_description: "Haz *0* de daño <u>penetrante</u> (equivalente a tu ❤️ faltante) a un enemigo objetivo"
 es-ES_flavor: "Los terribles repiques de esta campana bovina pueden romper tímpanos e infundir una poderosa hambre de heno."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/CowBell.png
 durability: 2
 hero: necromancer
-ru-RU_name: "Коровий колокольчик"
-ru-RU_description: "Наносит <u>пронзающий</u> урон, равный вашему недостающему ❤️, выбранному врагу (*0*)"
-ru-RU_flavor: "Ужасный трезвон этого коровьего гонга может разорвать барабанные перепонки и внушить мощную жажду сена."
+pl-PL_name: "Nawiedzony Dzwon"
+pl-PL_description: "Zadaj *0* <u>przenikający</u> obrażeń (równe twojemu brakującemu ❤️) wskazanemu wrogowi."
+pl-PL_flavor: "Okropne dźwięki tego krowiego dzwonu potrafią ogłuszyć i wywołać potężną chętkę na siano."
 tile_id: CowBell
 cost: 3
 image: /images/CowBell.png

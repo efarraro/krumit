@@ -14,6 +14,13 @@ tile_id: Slay
 cost: 5
 image: /images/Slay.png
 hero: rogue
+ru-RU_name: "Убийство"
+ru-RU_description: "Наносит 3 <u>пронзающий</u> урона выбранному врагу. Если это убьёт его, увеличивает вашу базовую 🔸 на 1 до конца подземелья. <u>Сжигается</u>"
+ru-RU_flavor: "Просто убей"
+tile_id: Slay
+cost: 5
+image: /images/Slay.png
+hero: rogue
 es-ES_name: "Asesinar"
 es-ES_description: "Haz 3 de daño <u>penetrante</u> a un enemigo objetivo. Si es destruido, incrementa tu 🔸 base en 1 por el resto de la mazmorra. <u>Agota</u>"
 es-ES_flavor: "Todos se mueren por verte."
@@ -21,9 +28,9 @@ tile_id: Slay
 cost: 5
 image: /images/Slay.png
 hero: rogue
-ru-RU_name: "Убийство"
-ru-RU_description: "Наносит 3 <u>пронзающий</u> урона выбранному врагу. Если это убьёт его, увеличивает вашу базовую 🔸 на 1 до конца подземелья. <u>Сжигается</u>"
-ru-RU_flavor: "Просто убей"
+pl-PL_name: "Powalenie"
+pl-PL_description: "Zadaj 3 przenikających (<u>przenikający</u>) obrażeń wskazanemu przeciwnikowi. Jeżeli go pokonasz, otrzymasz +1 🔸 do końca lochu. <u>Wyczerpany</u>"
+pl-PL_flavor: "Zwala z nóg"
 tile_id: Slay
 cost: 5
 image: /images/Slay.png

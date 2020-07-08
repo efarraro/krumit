@@ -16,6 +16,14 @@ cost: 2
 image: /images/ThiefsBelt.png
 durability: 2
 hero: rogue
+ru-RU_name: "Толковый ремень"
+ru-RU_description: "<u>Вытягивает</u> копию <a href = '../ru_ru/items#PoisonPotion'>Пузырёк с ядом</a>, <a href = '../ru_ru/items#Blackjack'>Блэкджэк</a> или <a href = '../ru_ru/abilities#HiddenBlades'>Скрытые клинки</a>"
+ru-RU_flavor: "Вероятно, что этот пояс когда-то принадлежал водопроводчику, но теперь он нашел применение получше."
+tile_id: ThiefsBelt
+cost: 2
+image: /images/ThiefsBelt.png
+durability: 2
+hero: rogue
 es-ES_name: "Cinturón de Herramientas"
 es-ES_description: "<u>Roba</u> una copia de <a href = '../es_es/items#PoisonPotion'>Frasco de Veneno</a>, <a href = '../es_es/items#Blackjack'>Cachiporra</a>, o <a href = '../es_es/abilities#HiddenBlades'>Cuchillas Ocultas</a>"
 es-ES_flavor: "Probablemente le pertenecía a un fontanero, pero ahora se le ha dado un mejor uso."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/ThiefsBelt.png
 durability: 2
 hero: rogue
-ru-RU_name: "Толковый ремень"
-ru-RU_description: "<u>Вытягивает</u> копию <a href = '../ru_ru/items#PoisonPotion'>Пузырёк с ядом</a>, <a href = '../ru_ru/items#Blackjack'>Блэкджэк</a> или <a href = '../ru_ru/abilities#HiddenBlades'>Скрытые клинки</a>"
-ru-RU_flavor: "Вероятно, что этот пояс когда-то принадлежал водопроводчику, но теперь он нашел применение получше."
+pl-PL_name: "Pas z Gadżetami"
+pl-PL_description: "<u>Wytwórz</u> <a href = '../pl_pl/items#PoisonPotion'>Fiolka trucizny</a>, <a href = '../pl_pl/items#Blackjack'>Czarny Piotruś</a>, lub <a href = '../pl_pl/abilities#HiddenBlades'>Ukryte Ostrza</a>."
+pl-PL_flavor: "Prawdopodobnie należał do jakiegoś hydraulika, ledwie podtrzymując jego spodnie."
 tile_id: ThiefsBelt
 cost: 2
 image: /images/ThiefsBelt.png

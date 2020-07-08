@@ -14,6 +14,13 @@ tile_id: Shadowburn
 cost: 1
 image: /images/Shadowburn.png
 hero: priest
+ru-RU_name: "Теневой ожог"
+ru-RU_description: "Наносит 6 <u>пронзающий</u> урона выбранному врагу и 2 <u>пронзающий</u> урона вам. <u>мутирует</u> в 🟦Королева"
+ru-RU_flavor: "'Вы когда-нибудь чувствовали, как горит ваша тень? Я бы не пожелал этого моему третьему злейшему врагу.' - Аугуст, заместитель епископа Церкви святых катаклизмов."
+tile_id: Shadowburn
+cost: 1
+image: /images/Shadowburn.png
+hero: priest
 es-ES_name: "Fuego de Sombras"
 es-ES_description: "Haz 6 de daño <u>penetrante</u> a un enemigo objetivo e inflígete 2 de daño <u>penetrante</u>. Intercambia tu ventaja inicial por 🟦Reina"
 es-ES_flavor: "'¿Has sentido tu sombra arder, alguna vez? No se lo desearía ni a mi tercer peor enemigo' - Auguustus, Obispo Delegado de la Iglesia de los Santos Cataclísmicos"
@@ -21,9 +28,9 @@ tile_id: Shadowburn
 cost: 1
 image: /images/Shadowburn.png
 hero: priest
-ru-RU_name: "Теневой ожог"
-ru-RU_description: "Наносит 6 <u>пронзающий</u> урона выбранному врагу и 2 <u>пронзающий</u> урона вам. <u>мутирует</u> в 🟦Королева"
-ru-RU_flavor: "'Вы когда-нибудь чувствовали, как горит ваша тень? Я бы не пожелал этого моему третьему злейшему врагу.' - Аугуст, заместитель епископа Церкви святых катаклизмов."
+pl-PL_name: "Sparzenie Mrokiem"
+pl-PL_description: "Zadaj 6 przenikających (<u>przenikający</u>) obrażeń wskazanemu wrogowi i 2 przenikających obrażeń sobie. <u>Mutacja</u> 🟦Królowa"
+pl-PL_flavor: "'Czy poparzyliście się kiedyś swoim własnym cieniem? Nie życzyłbym tego swojemu trzeciemu najgorszemu wrogowi.' - Kancjan, Kapłan Kościoła Kataklizmowych Kanoników"
 tile_id: Shadowburn
 cost: 1
 image: /images/Shadowburn.png

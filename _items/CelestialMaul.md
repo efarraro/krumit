@@ -16,6 +16,14 @@ cost: 3
 image: /images/CelestialMaul.png
 durability: 3
 hero: priest
+ru-RU_name: "Небесный молот"
+ru-RU_description: "Пока у вас полное ❤️, увеличивает 🔸 этого оружия на 4. Можно использовать, только если у вас есть 🟦Избранный"
+ru-RU_flavor: "Как истинный артефакт неотступных небес, этим благочестивым мусором могут быть одержимы только те, кто олицетворяет истинные отношения между светом и тенью."
+tile_id: CelestialMaul
+cost: 3
+image: /images/CelestialMaul.png
+durability: 3
+hero: priest
 es-ES_name: "Mazo Celestial"
 es-ES_description: "Mientras tengas ❤️ llena, incrementa el 🔸 de esta arma en 4. Sólo puede ser usada si tienes 🟦Elegida"
 es-ES_flavor: "Este piadoso mazo, un genuino artefacto de los indiferentes cielos, sólo puede ser usado por aquellos que encarnan la verdadera relación entre luz y oscuridad."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/CelestialMaul.png
 durability: 3
 hero: priest
-ru-RU_name: "Небесный молот"
-ru-RU_description: "Пока у вас полное ❤️, увеличивает 🔸 этого оружия на 4. Можно использовать, только если у вас есть 🟦Избранный"
-ru-RU_flavor: "Как истинный артефакт неотступных небес, этим благочестивым мусором могут быть одержимы только те, кто олицетворяет истинные отношения между светом и тенью."
+pl-PL_name: "Niebiański Młot Bojowy"
+pl-PL_description: "Jeżeli masz pełne ❤️, zwiększ 🔸 tej broni o 4. Może być tylko użyte jeżeli jesteś 🟦Wybranka."
+pl-PL_flavor: "Prawdziwy niebiański artefakt, wbijak dla wierzących, może być dobyty tylko przez tych, którzy prawdziwie uosabiają balans jasności i mroku."
 tile_id: CelestialMaul
 cost: 3
 image: /images/CelestialMaul.png

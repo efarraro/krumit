@@ -16,6 +16,14 @@ cost: 0
 image: /images/Matches.png
 durability: 3
 hero: mage
+ru-RU_name: "Спички"
+ru-RU_description: "Накладывает  <u>ожог</u> (1) на выбранного врага"
+ru-RU_flavor: "Судя по меху и пятнам от грога (и логотипу), вы бы сказали, что эта маленькая коробка спичек из таверны 'Падение Метеора'."
+tile_id: Matches
+cost: 0
+image: /images/Matches.png
+durability: 3
+hero: mage
 es-ES_name: "Fósforos"
 es-ES_description: " <u>quema</u> (1) un enemigo"
 es-ES_flavor: "A juzgar por el pelambre y las manchas de grog (y por el logo guay), esta pequeña cajita de fósforos proviene de la Taberna del Meteorismo."
@@ -24,9 +32,9 @@ cost: 0
 image: /images/Matches.png
 durability: 3
 hero: mage
-ru-RU_name: "Спички"
-ru-RU_description: "Накладывает  <u>ожог</u> (1) на выбранного врага"
-ru-RU_flavor: "Судя по меху и пятнам от грога (и логотипу), вы бы сказали, что эта маленькая коробка спичек из таверны 'Падение Метеора'."
+pl-PL_name: "Zapałki"
+pl-PL_description: "Podal ( <u>podpalenie</u>) (1) wroga."
+pl-PL_flavor: "Sądząc po plamach grogu (i wywalonym logo), pudełko zapałek jest z Oberża Pod Spadającym Meteoroidem."
 tile_id: Matches
 cost: 0
 image: /images/Matches.png

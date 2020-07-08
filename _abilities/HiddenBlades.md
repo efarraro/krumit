@@ -14,6 +14,13 @@ tile_id: HiddenBlades
 cost: 1
 image: /images/HiddenBlades.png
 hero: rogue
+ru-RU_name: "Скрытые клинки"
+ru-RU_description: "Замешивает 2 копии <a href = '../ru_ru/abilities#Stab'>Удар ножом</a> в колоду подземелья.  <u>Сжигается</u>"
+ru-RU_flavor: "'Рукава - идеальное место для скрытия. Носки также подойдут. На крайняк можно спрятать и в нижнем белье.' - из популярного руководства для воров 'Было ваше, стало наше'"
+tile_id: HiddenBlades
+cost: 1
+image: /images/HiddenBlades.png
+hero: rogue
 es-ES_name: "Cuchillas Ocultas"
 es-ES_description: "Baraja 2 copias de <a href = '../es_es/abilities#Stab'>Apuñalar</a> en el mazo. <u>Agota</u>"
 es-ES_flavor: "'Las mangas son el escondite ideal. Un calcetín también puede ser suficiente. La ropa interior es una solución de última instancia.' - De la popular guía de ladrones, 'Lo que es Tuyo es Mío'"
@@ -21,9 +28,9 @@ tile_id: HiddenBlades
 cost: 1
 image: /images/HiddenBlades.png
 hero: rogue
-ru-RU_name: "Скрытые клинки"
-ru-RU_description: "Замешивает 2 копии <a href = '../ru_ru/abilities#Stab'>Удар ножом</a> в колоду подземелья.  <u>Сжигается</u>"
-ru-RU_flavor: "'Рукава - идеальное место для скрытия. Носки также подойдут. На крайняк можно спрятать и в нижнем белье.' - из популярного руководства для воров 'Было ваше, стало наше'"
+pl-PL_name: "Ukryte Ostrza"
+pl-PL_description: "Wtasuj 2 kopii <a href = '../pl_pl/abilities#Stab'>Dźgnięcie</a> do talii. <u>Wyczerpany</u>"
+pl-PL_flavor: "'Rękawy dobrze kryją, skarpetki też się nadadzą. Majtki - w ostateczności.' - cytat z bestsellera o życiu złodzieja 'Co twoje to moje'"
 tile_id: HiddenBlades
 cost: 1
 image: /images/HiddenBlades.png

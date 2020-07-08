@@ -14,6 +14,13 @@ tile_id: Temptation
 cost: 4
 image: /images/Temptation.png
 hero: priest
+ru-RU_name: "Искушение"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Увеличивает вашу базовую 🔸 на 1 до конца подземелья. Замешивает 3 <u>проклятия</u> в колоду подземелья"
+ru-RU_flavor: "Искушение имеет дурную репутацию. Кого волнует, что это грех, пока ты можешь получить то, что хочешь?"
+tile_id: Temptation
+cost: 4
+image: /images/Temptation.png
+hero: priest
 es-ES_name: "Tentación"
 es-ES_description: "<u><u>Instantánea</u></u>. Incrementa tu 🔸 en 1 por el resto de la mazmorra. Baraja 3 <u>maldiciones</u> en el mazo"
 es-ES_flavor: "La tentación tiene mala fama. ¿A quién le importa que sea un pecado mientras puedas obtener lo que quieres?"
@@ -21,9 +28,9 @@ tile_id: Temptation
 cost: 4
 image: /images/Temptation.png
 hero: priest
-ru-RU_name: "Искушение"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Увеличивает вашу базовую 🔸 на 1 до конца подземелья. Замешивает 3 <u>проклятия</u> в колоду подземелья"
-ru-RU_flavor: "Искушение имеет дурную репутацию. Кого волнует, что это грех, пока ты можешь получить то, что хочешь?"
+pl-PL_name: "Kuszenie"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. +1 🔸 do końca lochu. Wtasuj 3 <u>klątwy</u> do talii."
+pl-PL_flavor: "Wbrew wszystkiemu, kuszenie ma niezłe wzięcie. Mało kogo obchodzi grzech, skoro dostają coś w zamian."
 tile_id: Temptation
 cost: 4
 image: /images/Temptation.png

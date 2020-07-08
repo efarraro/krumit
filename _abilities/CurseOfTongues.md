@@ -12,15 +12,21 @@ zh-CN_flavor: "Blaglrlk Uhtzxz kkkckckckgfg eepyhzyx!"
 tile_id: CurseOfTongues
 cost: -1
 image: /images/CurseOfTongues.png
+ru-RU_name: "Curse of Tongues"
+ru-RU_description: "When you restore ❤️, reduce the amount by 1 while this tile is on the board. Pay 2 ❤️ to remove it"
+ru-RU_flavor: "Blaglrlk Uhtzxz kkkckckckgfg eepyhzyx!"
+tile_id: CurseOfTongues
+cost: -1
+image: /images/CurseOfTongues.png
 es-ES_name: "Curse of Tongues"
 es-ES_description: "When you restore ❤️, reduce the amount by 1 while this tile is on the board. Pay 2 ❤️ to remove it"
 es-ES_flavor: "Blaglrlk Uhtzxz kkkckckckgfg eepyhzyx!"
 tile_id: CurseOfTongues
 cost: -1
 image: /images/CurseOfTongues.png
-ru-RU_name: "Curse of Tongues"
-ru-RU_description: "When you restore ❤️, reduce the amount by 1 while this tile is on the board. Pay 2 ❤️ to remove it"
-ru-RU_flavor: "Blaglrlk Uhtzxz kkkckckckgfg eepyhzyx!"
+pl-PL_name: "Curse of Tongues"
+pl-PL_description: "When you restore ❤️, reduce the amount by 1 while this tile is on the board. Pay 2 ❤️ to remove it"
+pl-PL_flavor: "Blaglrlk Uhtzxz kkkckckckgfg eepyhzyx!"
 tile_id: CurseOfTongues
 cost: -1
 image: /images/CurseOfTongues.png

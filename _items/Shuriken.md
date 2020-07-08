@@ -16,6 +16,14 @@ cost: 3
 image: /images/Shuriken.png
 durability: 3
 hero: rogue
+ru-RU_name: "Сюрикен"
+ru-RU_description: "Наносит 4 урона выбранному врагу. Нельзя нацелиться на врагов с броней"
+ru-RU_flavor: "Удивительно смертоносное оружие, но неэффективное против врагов с броней."
+tile_id: Shuriken
+cost: 3
+image: /images/Shuriken.png
+durability: 3
+hero: rogue
 es-ES_name: "Shuriken"
 es-ES_description: "Haz 4 de daño a un enemigo objetivo. No puedes elegir como objetivo a enemigos con armadura"
 es-ES_flavor: "Un arma sorpresivamente letal, pero inefectiva contra armaduras."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/Shuriken.png
 durability: 3
 hero: rogue
-ru-RU_name: "Сюрикен"
-ru-RU_description: "Наносит 4 урона выбранному врагу. Нельзя нацелиться на врагов с броней"
-ru-RU_flavor: "Удивительно смертоносное оружие, но неэффективное против врагов с броней."
+pl-PL_name: "Shuriken"
+pl-PL_description: "Zadaj 4 obrażeń wskazanemu wrogowi. Nie możesz wskazać przeciwników w pancerzu."
+pl-PL_flavor: "Zaskakująco śmiertelna broń, choć nieskuteczna przeciwko opancerzonym wrogom."
 tile_id: Shuriken
 cost: 3
 image: /images/Shuriken.png

@@ -16,6 +16,14 @@ cost: 1
 image: /images/GoatAxe.png
 durability: 3
 hero: warrior
+ru-RU_name: "Козлиный топор"
+ru-RU_description: "Ваша атака становится ⚡️ <u>блиц</u>"
+ru-RU_flavor: "Это самодельное оружие вряд ли G.O.A.T."
+tile_id: GoatAxe
+cost: 1
+image: /images/GoatAxe.png
+durability: 3
+hero: warrior
 es-ES_name: "Hacha de Cabra"
 es-ES_description: "Tu ataque tiene ⚡️ <u>relámpago</u>"
 es-ES_flavor: "Esta tosca arma te deja un poco cabreado."
@@ -24,9 +32,9 @@ cost: 1
 image: /images/GoatAxe.png
 durability: 3
 hero: warrior
-ru-RU_name: "Козлиный топор"
-ru-RU_description: "Ваша атака становится ⚡️ <u>блиц</u>"
-ru-RU_flavor: "Это самодельное оружие вряд ли G.O.A.T."
+pl-PL_name: "Kozi Toporek"
+pl-PL_description: "Twój atak ma ⚡️ <u>blitz</u>."
+pl-PL_flavor: "Improwizowana broń, ulepszona wersja Motylego Toporka."
 tile_id: GoatAxe
 cost: 1
 image: /images/GoatAxe.png

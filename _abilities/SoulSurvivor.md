@@ -14,6 +14,13 @@ tile_id: SoulSurvivor
 cost: 3
 image: /images/SoulSurvivor.png
 hero: necromancer
+ru-RU_name: "Выжившая душа"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Уничтожает всех ваших 💀 <u>миньонов</u>, затем уничтожает такое же количество обычных врагов на поле"
+ru-RU_flavor: "Ни мертвые, ни живые не освобождаются от закона эквивалентного обмена."
+tile_id: SoulSurvivor
+cost: 3
+image: /images/SoulSurvivor.png
+hero: necromancer
 es-ES_name: "Sacrificio de Almas"
 es-ES_description: "<u><u>Instantánea</u></u>. Destruye todos tus 💀 <u>Esbirros</u> y destruye la misma cantidad de enemigos (que no sean jefes) en el tablero"
 es-ES_flavor: "Ni los vivos ni los muertos pueden librarse de la ley de intercambio equivalente."
@@ -21,9 +28,9 @@ tile_id: SoulSurvivor
 cost: 3
 image: /images/SoulSurvivor.png
 hero: necromancer
-ru-RU_name: "Выжившая душа"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Уничтожает всех ваших 💀 <u>миньонов</u>, затем уничтожает такое же количество обычных врагов на поле"
-ru-RU_flavor: "Ни мертвые, ни живые не освобождаются от закона эквивалентного обмена."
+pl-PL_name: "Duch Przetrwania"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. Poświęć swoich 💀 <u>Sługusy</u> i zniszcz tyle samo wrogów, którzy nie są bossami z planszy."
+pl-PL_flavor: "Zasada równoważnej wymiany dotyczy i żywych, i martwych."
 tile_id: SoulSurvivor
 cost: 3
 image: /images/SoulSurvivor.png

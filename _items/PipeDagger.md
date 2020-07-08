@@ -16,6 +16,14 @@ cost: 2
 image: /images/PipeDagger.png
 durability: 3
 hero: rogue
+ru-RU_name: "Тюремная заточка"
+ru-RU_description: "<u>пронзающий</u>. ⚡️ <u>Блиц</u>. Стоимость уменьшена на 1 💰, если вы имеете <u>скрытность</u>"
+ru-RU_flavor: "Делай с этим всё, что захочешь."
+tile_id: PipeDagger
+cost: 2
+image: /images/PipeDagger.png
+durability: 3
+hero: rogue
 es-ES_name: "Puñal de Prisión"
 es-ES_description: "<u>penetrante</u>. ⚡️ <u>Relámpago</u>. Su costo se reduce en 1 💰 si tienes <u>sigilo</u>"
 es-ES_flavor: "Se hace lo que se puede con lo que se tiene."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/PipeDagger.png
 durability: 3
 hero: rogue
-ru-RU_name: "Тюремная заточка"
-ru-RU_description: "<u>пронзающий</u>. ⚡️ <u>Блиц</u>. Стоимость уменьшена на 1 💰, если вы имеете <u>скрытность</u>"
-ru-RU_flavor: "Делай с этим всё, что захочешь."
+pl-PL_name: "Kosior"
+pl-PL_description: "<u>przenikający</u>. ⚡️ <u>Szarża</u>. Koszt obniżony o 1 💰 jeżeli się ukrywasz (<u>ukrywanie się</u>)."
+pl-PL_flavor: "Lepszy rydz niż nic."
 tile_id: PipeDagger
 cost: 2
 image: /images/PipeDagger.png

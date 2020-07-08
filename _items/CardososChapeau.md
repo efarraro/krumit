@@ -16,6 +16,14 @@ cost: 3
 image: /images/CardososChapeau.png
 durability: 3
 hero: necromancer
+ru-RU_name: "'Шапу' Кордозо"
+ru-RU_description: "Когда вы  <u>парируете</u> этим предметом, меняет местами ваше значение ❤️ с значением вашего обычного врага"
+ru-RU_flavor: "Если Кордозо снимает шляпу перед вами - не думай, что он хорошо воспитан."
+tile_id: CardososChapeau
+cost: 3
+image: /images/CardososChapeau.png
+durability: 3
+hero: necromancer
 es-ES_name: "Chapó de Cardoso"
 es-ES_description: "Después de  <u>desviar</u> este ítem, intercambia tu valor actual de ❤️ con el de tu oponente (mientras no sea un jefe)"
 es-ES_flavor: "Si Cardoso se quita el sombrero ante tí - no asumas que lo hace por buenos modales."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/CardososChapeau.png
 durability: 3
 hero: necromancer
-ru-RU_name: "'Шапу' Кордозо"
-ru-RU_description: "Когда вы  <u>парируете</u> этим предметом, меняет местами ваше значение ❤️ с значением вашего обычного врага"
-ru-RU_flavor: "Если Кордозо снимает шляпу перед вами - не думай, что он хорошо воспитан."
+pl-PL_name: "Kapelusz Cardosa"
+pl-PL_description: "Po odparowaniu przy pomocy tego przedmiotu, zamień punkty zdrowia z przeciwnikiem (nie może być bossem)"
+pl-PL_flavor: "Cardoso zawsze kłania się kapeluszem na powitanie, ale nie z powodu dobrego wychowania."
 tile_id: CardososChapeau
 cost: 3
 image: /images/CardososChapeau.png

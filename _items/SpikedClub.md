@@ -16,6 +16,14 @@ cost: 1
 image: /images/SpikedClub.png
 durability: 2
 hero: warrior
+ru-RU_name: "Шипастая дубинка"
+ru-RU_description: "Когда вы атакуете с этим предметом, наносит вам 1 <u>пронзающий</u> урон"
+ru-RU_flavor: "Гораздо более смертоносная версия биты, которым отдают предпочтение бродяги и оборванцы."
+tile_id: SpikedClub
+cost: 1
+image: /images/SpikedClub.png
+durability: 2
+hero: warrior
 es-ES_name: "Porra Claveteada"
 es-ES_description: "Después de atacar con esta arma, sufre 1 de daño <u>penetrante</u>"
 es-ES_flavor: "Una versión mucho más letal del porro, favorecida por vagabundos y pelagatos."
@@ -24,9 +32,9 @@ cost: 1
 image: /images/SpikedClub.png
 durability: 2
 hero: warrior
-ru-RU_name: "Шипастая дубинка"
-ru-RU_description: "Когда вы атакуете с этим предметом, наносит вам 1 <u>пронзающий</u> урон"
-ru-RU_flavor: "Гораздо более смертоносная версия биты, которым отдают предпочтение бродяги и оборванцы."
+pl-PL_name: "Naszpikowana maczuga"
+pl-PL_description: "Po ataku tą bronią, otrzymujesz 1 przenikających (<u>przenikający</u>) obrażeń."
+pl-PL_flavor: "Gdy przebijesz ją pierwszym gwoździem przestaje służyć do grania i nadaje się tylko do zabijania."
 tile_id: SpikedClub
 cost: 1
 image: /images/SpikedClub.png

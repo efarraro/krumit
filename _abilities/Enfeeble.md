@@ -14,6 +14,13 @@ tile_id: Enfeeble
 cost: 2
 image: /images/Enfeeble.png
 hero: necromancer
+ru-RU_name: "Ослабление"
+ru-RU_description: "Потратьте 2 ❤️, чтобы уменьшить вражескую 🔸 в этом раунде до 0. Перезаряжается после 6 раундов боя"
+ru-RU_flavor: "'Поднимите руку, если вы чувствуете себя странно... О! Точно! Вы не можете! АХАХАХА!' - По Рей Кардозо, коварный манавампир."
+tile_id: Enfeeble
+cost: 2
+image: /images/Enfeeble.png
+hero: necromancer
 es-ES_name: "Marchitar"
 es-ES_description: "Paga 2 ❤️ para reducir el 🔸 de tu oponente a 0 por esta ronda. Recarga después de 6 rondas"
 es-ES_flavor: "'Levanten la mano si no se sienten bien... ¡Oh! ¡Es verdad! ¡No pueden! ¡Buajajajajá!' - Poh Rei Cardoso, el pérfido Manavampiro"
@@ -21,9 +28,9 @@ tile_id: Enfeeble
 cost: 2
 image: /images/Enfeeble.png
 hero: necromancer
-ru-RU_name: "Ослабление"
-ru-RU_description: "Потратьте 2 ❤️, чтобы уменьшить вражескую 🔸 в этом раунде до 0. Перезаряжается после 6 раундов боя"
-ru-RU_flavor: "'Поднимите руку, если вы чувствуете себя странно... О! Точно! Вы не можете! АХАХАХА!' - По Рей Кардозо, коварный манавампир."
+pl-PL_name: "Osłabienie"
+pl-PL_description: "Zapłać 2 ❤️ aby obniżyć do 0 🔸 przeciwnika w tej rundzie. Naładuj po 6 rundach."
+pl-PL_flavor: "'Palec bo budkę kto pije... oh! Racja, nie dacie rady! Bahaha!' - Luca Cardoso, perfidny Manożerca."
 tile_id: Enfeeble
 cost: 2
 image: /images/Enfeeble.png

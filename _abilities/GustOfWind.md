@@ -14,6 +14,13 @@ tile_id: GustOfWind
 cost: 1
 image: /images/GustOfWind.png
 hero: mage
+ru-RU_name: "Порыв ветра"
+ru-RU_description: "Меняет местами выбранную карточку с крайней верхней карточкой в том же столбце. Перезаряжается после добавления 2 карточек на поле"
+ru-RU_flavor: "Через склеп пронесся сухой порыв ветра, и на мгновение вещи, давно умершие, взволновались и напугались, как будто живые."
+tile_id: GustOfWind
+cost: 1
+image: /images/GustOfWind.png
+hero: mage
 es-ES_name: "Ráfaga de Viento"
 es-ES_description: "Intercambia la ficha objetivo con la ficha de más arriba en su misma columna. Recarga después de que 2 fichas sean añadidas al tablero"
 es-ES_flavor: "Una ráfaga de viento seco sopló a través de la cripta y, por un momento, las cosas hace mucho muertas se batieron y resonaron como si estuvieran vivas."
@@ -21,9 +28,9 @@ tile_id: GustOfWind
 cost: 1
 image: /images/GustOfWind.png
 hero: mage
-ru-RU_name: "Порыв ветра"
-ru-RU_description: "Меняет местами выбранную карточку с крайней верхней карточкой в том же столбце. Перезаряжается после добавления 2 карточек на поле"
-ru-RU_flavor: "Через склеп пронесся сухой порыв ветра, и на мгновение вещи, давно умершие, взволновались и напугались, как будто живые."
+pl-PL_name: "Podmuch"
+pl-PL_description: "Zamień wskazaną płytkę z płytką z górnego wiersza w tej samej kolumnie. Naładuj po pojawieniu się na planszy 2 płytek."
+pl-PL_flavor: "Zimny podmuch wiatru zaświstał w szparach i szczelinach krypty, potrząsając i grzechocząc zapomnianymi starociami."
 tile_id: GustOfWind
 cost: 1
 image: /images/GustOfWind.png

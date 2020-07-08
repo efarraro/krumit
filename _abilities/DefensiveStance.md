@@ -14,6 +14,13 @@ tile_id: DefensiveStance
 cost: 3
 image: /images/DefensiveStance.png
 hero: warrior
+ru-RU_name: "Защитная стойка"
+ru-RU_description: "Даёт 2 🛡️️ <u>блока</u> каждый раунд и уменьшает вашу базовую 🔸 на 1 до конца боя"
+ru-RU_flavor: 
+tile_id: DefensiveStance
+cost: 3
+image: /images/DefensiveStance.png
+hero: warrior
 es-ES_name: "Postura Defensiva"
 es-ES_description: "Gana 🛡️️ <u>Bloqueo</u> (2) al principio de cada turno y reduce tu 🔸 base en 1 por el resto del combate"
 es-ES_flavor: 
@@ -21,9 +28,10 @@ tile_id: DefensiveStance
 cost: 3
 image: /images/DefensiveStance.png
 hero: warrior
-ru-RU_name: "Защитная стойка"
-ru-RU_description: "Даёт 2 🛡️️ <u>блока</u> каждый раунд и уменьшает вашу базовую 🔸 на 1 до конца боя"
-ru-RU_flavor: 
+pl-PL_name: "Postawa Defensywna"
+pl-PL_description: "2 🛡️️ <u>Blok</u> na początku każdej tury.
+-1 🔸 do końca walki."
+pl-PL_flavor: 
 tile_id: DefensiveStance
 cost: 3
 image: /images/DefensiveStance.png

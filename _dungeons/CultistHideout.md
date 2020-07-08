@@ -28,6 +28,20 @@ monsters:
     image: /images/Cooltist.png
     quantity: 4
     url: /monsters/Cooltist
+ru-RU_name: "Подземное собрание крутистов"
+ru-RU_description: "'Ааа... Все эти новые ребята... <i>Я</i> тусовался здесь ещё до того, как кто-нибудь знал об этом' -  Ма$тер Смерти K."
+tier: 1
+monsters:
+  - monster:
+    name: "Скелет"
+    image: /images/Skeleton.png
+    quantity: 4
+    url: /monsters/Skeleton
+  - monster:
+    name: "Крутист"
+    image: /images/Cooltist.png
+    quantity: 4
+    url: /monsters/Cooltist
 es-ES_name: "Reunión Kultista Clandestina"
 es-ES_description: "'Ugh, todos estos novatos - <i>Yo</i> estaba merodeando por aquí antes de que nadie más supiera de este lugar.' - Mae$tra de la Muerte K."
 tier: 1
@@ -42,17 +56,17 @@ monsters:
     image: /images/Cooltist.png
     quantity: 4
     url: /monsters/Cooltist
-ru-RU_name: "Подземное собрание крутистов"
-ru-RU_description: "'Ааа... Все эти новые ребята... <i>Я</i> тусовался здесь ещё до того, как кто-нибудь знал об этом' -  Ма$тер Смерти K."
+pl-PL_name: "Podziemna Kryjówka Gorliwców"
+pl-PL_description: "'Ugh, wszyscy jesteście pozerami - <i>Ja</i> znałem to miejsce zanim ktokolwiek inny o nim wiedział.' - $mierciomistrz K."
 tier: 1
 monsters:
   - monster:
-    name: "Скелет"
+    name: "Szkielet"
     image: /images/Skeleton.png
     quantity: 4
     url: /monsters/Skeleton
   - monster:
-    name: "Крутист"
+    name: "Nadgorliwiec"
     image: /images/Cooltist.png
     quantity: 4
     url: /monsters/Cooltist

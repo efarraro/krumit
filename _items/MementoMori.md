@@ -16,6 +16,14 @@ cost: 3
 image: /images/MementoMori.png
 durability: 3
 hero: necromancer
+ru-RU_name: "Memento Mori"
+ru-RU_description: "🔸 этого оружия увеличена на значение недостающего ❤️"
+ru-RU_flavor: "Помни, что ты умрешь - но возьми с собой несколько из них по дороге, а?"
+tile_id: MementoMori
+cost: 3
+image: /images/MementoMori.png
+durability: 3
+hero: necromancer
 es-ES_name: "Memento Mori"
 es-ES_description: "El 🔸 de esta arma se incrementa por la cantidad de ❤️ que te falta"
 es-ES_flavor: "Recuerda que morirás - pero llévate a unos cuantos de ellos contigo, ¿eh?"
@@ -24,9 +32,9 @@ cost: 3
 image: /images/MementoMori.png
 durability: 3
 hero: necromancer
-ru-RU_name: "Memento Mori"
-ru-RU_description: "🔸 этого оружия увеличена на значение недостающего ❤️"
-ru-RU_flavor: "Помни, что ты умрешь - но возьми с собой несколько из них по дороге, а?"
+pl-PL_name: "Memento Mori"
+pl-PL_description: "🔸 jest równy twojemu brakującemu ❤️."
+pl-PL_flavor: "Pamiętaj o śmierci - najpierw ich, potem swojej."
 tile_id: MementoMori
 cost: 3
 image: /images/MementoMori.png

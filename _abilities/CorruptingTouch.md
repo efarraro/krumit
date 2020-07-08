@@ -14,6 +14,13 @@ tile_id: CorruptingTouch
 cost: 1
 image: /images/CorruptingTouch.png
 hero: priest
+ru-RU_name: "Касание скверны"
+ru-RU_description: "Когда вы получаете это, <u>мутирует</u> в 🟦Королева. Ваша следующая атака является <u>пронзающий</u> и накладывает  <u>осквернение</u> (6). <u>Сжигается</u>"
+ru-RU_flavor: "'Прокляни их душу и докажи, что ты действительно желаешь вечный трон...' - Умбрала"
+tile_id: CorruptingTouch
+cost: 1
+image: /images/CorruptingTouch.png
+hero: priest
 es-ES_name: "Toque Corruptor"
 es-ES_description: "Cuando adquieras esto, intercambia tu ventaja inicial por iconReina. Tu siguiente ataque es <u>penetrante</u> y aplica  <u>corrupción</u> (6). <u>Agota</u>"
 es-ES_flavor: "'Condena su alma, y prueba que en verdad mereces el trono eterno...' - Umbrala"
@@ -21,9 +28,9 @@ tile_id: CorruptingTouch
 cost: 1
 image: /images/CorruptingTouch.png
 hero: priest
-ru-RU_name: "Касание скверны"
-ru-RU_description: "Когда вы получаете это, <u>мутирует</u> в 🟦Королева. Ваша следующая атака является <u>пронзающий</u> и накладывает  <u>осквернение</u> (6). <u>Сжигается</u>"
-ru-RU_flavor: "'Прокляни их душу и докажи, что ты действительно желаешь вечный трон...' - Умбрала"
+pl-PL_name: "Dotyk Zepsucia"
+pl-PL_description: "Po uzyskaniu <u>Mutacja</u> 🟦Królowa. Twój następny atak jest przenikający (<u>przenikający</u>) i powoduje  <u>zepsucie</u> (6). <u>Wyczerpany</u>"
+pl-PL_flavor: "'Ześlij potępienie na swoich wrogów i udowodnij, że pragniesz zasiąść na wiecznym tronie...' - Umbrala"
 tile_id: CorruptingTouch
 cost: 1
 image: /images/CorruptingTouch.png

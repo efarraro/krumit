@@ -16,6 +16,14 @@ cost: 2
 image: /images/FoxMask.png
 durability: 3
 hero: rogue
+ru-RU_name: "Маска коварной лисы"
+ru-RU_description: "<u>Пассивно</u>: <a href = '../ru_ru/abilities#Stab'>Удар ножом</a> наносит +1 урона."
+ru-RU_flavor: "Фаворит клана Удон. По какой-то причине она слабо пахнет сильно прожаренным тофу."
+tile_id: FoxMask
+cost: 2
+image: /images/FoxMask.png
+durability: 3
+hero: rogue
 es-ES_name: "Máscara de Zorro Astuto"
 es-ES_description: "<u>Pasiva</u>: <a href = '../es_es/abilities#Stab'>Apuñalar</a> hace +1 de daño"
 es-ES_flavor: "Favorecida por el Clan Udon. Por algún motivo huele vagamente a tofu frito."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/FoxMask.png
 durability: 3
 hero: rogue
-ru-RU_name: "Маска коварной лисы"
-ru-RU_description: "<u>Пассивно</u>: <a href = '../ru_ru/abilities#Stab'>Удар ножом</a> наносит +1 урона."
-ru-RU_flavor: "Фаворит клана Удон. По какой-то причине она слабо пахнет сильно прожаренным тофу."
+pl-PL_name: "Maska Chytrego Lisa"
+pl-PL_description: "<u>Pasywny</u>: <a href = '../pl_pl/abilities#Stab'>Dźgnięcie</a> zadaje +1 obrażeń."
+pl-PL_flavor: "Preferowana maska Klanu Udon. Z jakiegoś powodu pachnie smażonym tofu."
 tile_id: FoxMask
 cost: 2
 image: /images/FoxMask.png

@@ -16,6 +16,14 @@ cost: 2
 image: /images/ChainMail.png
 durability: 2
 hero: warrior
+ru-RU_name: "Кольчуга"
+ru-RU_description: "Обыкновенный предмет - никаких дополнительных свойств"
+ru-RU_flavor: "Гораздо тяжелее, чем может показаться."
+tile_id: ChainMail
+cost: 2
+image: /images/ChainMail.png
+durability: 2
+hero: warrior
 es-ES_name: "Cota de Malla"
 es-ES_description: "Ítem básico - sin efectos adicionales"
 es-ES_flavor: "Mucho más pesada de lo que parece."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/ChainMail.png
 durability: 2
 hero: warrior
-ru-RU_name: "Кольчуга"
-ru-RU_description: "Обыкновенный предмет - никаких дополнительных свойств"
-ru-RU_flavor: "Гораздо тяжелее, чем может показаться."
+pl-PL_name: "Kolczuga"
+pl-PL_description: "Podstawowy przedmiot - brak dodatkowych efektów"
+pl-PL_flavor: "Cięższa niż się wydaje."
 tile_id: ChainMail
 cost: 2
 image: /images/ChainMail.png

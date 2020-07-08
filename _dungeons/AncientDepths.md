@@ -38,6 +38,25 @@ monsters:
     image: /images/Slime.png
     quantity: 4
     url: /monsters/Slime
+ru-RU_name: "Глубины погибели"
+ru-RU_description: "«Я, могущий Бруно, не боюсь ни одного человека, ни указателя. Однако, зачем рисковать, ты понимаешь?» - Бруно"
+tier: 3
+monsters:
+  - monster:
+    name: "Крутист"
+    image: /images/Cooltist.png
+    quantity: 5
+    url: /monsters/Cooltist
+  - monster:
+    name: "Друид"
+    image: /images/Cleric.png
+    quantity: 3
+    url: /monsters/Cleric
+  - monster:
+    name: "Глоббер"
+    image: /images/Slime.png
+    quantity: 4
+    url: /monsters/Slime
 es-ES_name: "Abismos del Destino"
 es-ES_description: "'Yo - el gran Bruno - no temo a ningún hombre y a ningún signo. Pero, dicho esto, ¿por qué arriesgarse?' - Bruno"
 tier: 3
@@ -57,22 +76,22 @@ monsters:
     image: /images/Slime.png
     quantity: 4
     url: /monsters/Slime
-ru-RU_name: "Глубины погибели"
-ru-RU_description: "«Я, могущий Бруно, не боюсь ни одного человека, ни указателя. Однако, зачем рисковать, ты понимаешь?» - Бруно"
+pl-PL_name: "Głębiny Zatracenia"
+pl-PL_description: "'Ja - potężny Bruno - nie boję się ni człeka, ni drogowskazu. Ale, wiesz, po co ryzykować?'"
 tier: 3
 monsters:
   - monster:
-    name: "Крутист"
+    name: "Nadgorliwiec"
     image: /images/Cooltist.png
     quantity: 5
     url: /monsters/Cooltist
   - monster:
-    name: "Друид"
+    name: "Druid"
     image: /images/Cleric.png
     quantity: 3
     url: /monsters/Cleric
   - monster:
-    name: "Глоббер"
+    name: "Szlamor"
     image: /images/Slime.png
     quantity: 4
     url: /monsters/Slime

@@ -16,6 +16,14 @@ cost: 2
 image: /images/OniguardHelm.png
 durability: 2
 hero: warrior
+ru-RU_name: "Кровавый демонический шлем"
+ru-RU_description: "Когда вы 🛡️️ <u>блокируете</u> с этим предметом,  восстанавливает ❤️, равное вашей базовой 🔸"
+ru-RU_flavor: "Этот шлем процветает благодаря боли. Чем дольше его носят, тем больше их жажда крови."
+tile_id: OniguardHelm
+cost: 2
+image: /images/OniguardHelm.png
+durability: 2
+hero: warrior
 es-ES_name: "Yelmo de Sangre Endemoniada"
 es-ES_description: "Cuando bloquees con este ítem, recupera ❤️ equivalente a tu 🔸 base"
 es-ES_flavor: "Este yelmo se ceba en el dolor. Mientras más lo usas, más crece tu de sangre."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/OniguardHelm.png
 durability: 2
 hero: warrior
-ru-RU_name: "Кровавый демонический шлем"
-ru-RU_description: "Когда вы 🛡️️ <u>блокируете</u> с этим предметом,  восстанавливает ❤️, равное вашей базовой 🔸"
-ru-RU_flavor: "Этот шлем процветает благодаря боли. Чем дольше его носят, тем больше их жажда крови."
+pl-PL_name: "Kabuto z Krwią Demona"
+pl-PL_description: "Gdy blokujesz tą zbroją, odnów ❤️ równe twojemu podstawowemu 🔸."
+pl-PL_flavor: "Ten hełm żywi się bólem. Im dłużej go nosisz tym silniejsza żądza krwi."
 tile_id: OniguardHelm
 cost: 2
 image: /images/OniguardHelm.png

@@ -14,6 +14,13 @@ tile_id: Fear
 cost: 3
 image: /images/Fear.png
 hero: necromancer
+ru-RU_name: "Страх"
+ru-RU_description: "Выберите врага. Уничтожает врагов в том же ряду с меньшим ❤️, чем у выбранной цели. <u>Сжигается</u>"
+ru-RU_flavor: "Страх не просто убивает разум. Он убивает ещё и тело."
+tile_id: Fear
+cost: 3
+image: /images/Fear.png
+hero: necromancer
 es-ES_name: "Terror"
 es-ES_description: "Selecciona un enemigo. Destruye los enemigos en la misma con menos ❤️ que el objetivo. <u>Agota</u>"
 es-ES_flavor: "El miedo no sólo asesina la mente. Asesina el cuerpo también. Y lo hace en grande."
@@ -21,9 +28,9 @@ tile_id: Fear
 cost: 3
 image: /images/Fear.png
 hero: necromancer
-ru-RU_name: "Страх"
-ru-RU_description: "Выберите врага. Уничтожает врагов в том же ряду с меньшим ❤️, чем у выбранной цели. <u>Сжигается</u>"
-ru-RU_flavor: "Страх не просто убивает разум. Он убивает ещё и тело."
+pl-PL_name: "Groza"
+pl-PL_description: "Wskaż wrogów. Zniszcz wrogów w tym samym wierszu, którzy mają mniej ❤️ niż cel. <u>Wyczerpany</u>"
+pl-PL_flavor: "Strach zniekształca nie tylko umysł."
 tile_id: Fear
 cost: 3
 image: /images/Fear.png

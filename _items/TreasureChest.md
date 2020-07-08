@@ -80,6 +80,46 @@ cost: 0
 image: /images/TreasureChest.png
 durability: 1
 hero: warrior
+ru-RU_name: "Сундук с сокровищами"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт 2 💰."
+ru-RU_flavor: "Деньги не растут на деревьях. Но по какой-то причине они на самому деле растут внутри этих."
+tile_id: TreasureChest
+cost: 0
+image: /images/TreasureChest.png
+durability: 1
+hero: warrior
+ru-RU_name: "Сундук с сокровищами"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт 2 💰."
+ru-RU_flavor: "Деньги не растут на деревьях. Но по какой-то причине они на самому деле растут внутри этих."
+tile_id: TreasureChest
+cost: 0
+image: /images/TreasureChest.png
+durability: 1
+hero: warrior
+ru-RU_name: "Сундук с сокровищами"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт 2 💰."
+ru-RU_flavor: "Деньги не растут на деревьях. Но по какой-то причине они на самому деле растут внутри этих."
+tile_id: TreasureChest
+cost: 0
+image: /images/TreasureChest.png
+durability: 1
+hero: warrior
+ru-RU_name: "Сундук с сокровищами"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт 2 💰."
+ru-RU_flavor: "Деньги не растут на деревьях. Но по какой-то причине они на самому деле растут внутри этих."
+tile_id: TreasureChest
+cost: 0
+image: /images/TreasureChest.png
+durability: 1
+hero: warrior
+ru-RU_name: "Сундук с сокровищами"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт 2 💰."
+ru-RU_flavor: "Деньги не растут на деревьях. Но по какой-то причине они на самому деле растут внутри этих."
+tile_id: TreasureChest
+cost: 0
+image: /images/TreasureChest.png
+durability: 1
+hero: warrior
 es-ES_name: "Cofre del Tesoro"
 es-ES_description: "<u><u>Instantánea</u></u>. Gana 2 💰"
 es-ES_flavor: "El dinero no crece en los árboles. Pero por alguna razón crece dentro de éstos."
@@ -120,41 +160,41 @@ cost: 0
 image: /images/TreasureChest.png
 durability: 1
 hero: warrior
-ru-RU_name: "Сундук с сокровищами"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт 2 💰."
-ru-RU_flavor: "Деньги не растут на деревьях. Но по какой-то причине они на самому деле растут внутри этих."
+pl-PL_name: "Skrzynia skarbów"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. Uzyskaj 2 💰."
+pl-PL_flavor: "Pieniądze nie rosną na drzewach. Z jakiegoś powodu rosną w środku tych skrzyń."
 tile_id: TreasureChest
 cost: 0
 image: /images/TreasureChest.png
 durability: 1
 hero: warrior
-ru-RU_name: "Сундук с сокровищами"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт 2 💰."
-ru-RU_flavor: "Деньги не растут на деревьях. Но по какой-то причине они на самому деле растут внутри этих."
+pl-PL_name: "Skrzynia skarbów"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. Uzyskaj 2 💰."
+pl-PL_flavor: "Pieniądze nie rosną na drzewach. Z jakiegoś powodu rosną w środku tych skrzyń."
 tile_id: TreasureChest
 cost: 0
 image: /images/TreasureChest.png
 durability: 1
 hero: warrior
-ru-RU_name: "Сундук с сокровищами"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт 2 💰."
-ru-RU_flavor: "Деньги не растут на деревьях. Но по какой-то причине они на самому деле растут внутри этих."
+pl-PL_name: "Skrzynia skarbów"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. Uzyskaj 2 💰."
+pl-PL_flavor: "Pieniądze nie rosną na drzewach. Z jakiegoś powodu rosną w środku tych skrzyń."
 tile_id: TreasureChest
 cost: 0
 image: /images/TreasureChest.png
 durability: 1
 hero: warrior
-ru-RU_name: "Сундук с сокровищами"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт 2 💰."
-ru-RU_flavor: "Деньги не растут на деревьях. Но по какой-то причине они на самому деле растут внутри этих."
+pl-PL_name: "Skrzynia skarbów"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. Uzyskaj 2 💰."
+pl-PL_flavor: "Pieniądze nie rosną na drzewach. Z jakiegoś powodu rosną w środku tych skrzyń."
 tile_id: TreasureChest
 cost: 0
 image: /images/TreasureChest.png
 durability: 1
 hero: warrior
-ru-RU_name: "Сундук с сокровищами"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт 2 💰."
-ru-RU_flavor: "Деньги не растут на деревьях. Но по какой-то причине они на самому деле растут внутри этих."
+pl-PL_name: "Skrzynia skarbów"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. Uzyskaj 2 💰."
+pl-PL_flavor: "Pieniądze nie rosną na drzewach. Z jakiegoś powodu rosną w środku tych skrzyń."
 tile_id: TreasureChest
 cost: 0
 image: /images/TreasureChest.png

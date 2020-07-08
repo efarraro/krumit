@@ -16,6 +16,14 @@ cost: 3
 image: /images/ApprenticeCap.png
 durability: 3
 hero: mage
+ru-RU_name: "Шляпа подмастерья"
+ru-RU_description: "Когда вы получаете это, стоимость соседних способностей становится равна 2 💰"
+ru-RU_flavor: "Обязательный головной убор для волхва первогодки. Тем не менее, носи его около местных жителей на свой страх и риск."
+tile_id: ApprenticeCap
+cost: 3
+image: /images/ApprenticeCap.png
+durability: 3
+hero: mage
 es-ES_name: "Sombrero de Aprendiz"
 es-ES_description: "Cuando adquieras este ítem, fija el costo de todas las habilidades adyacentes en 2 💰"
 es-ES_flavor: "Un sombrero obligatorio para los magos de primer año. Entre los pueblerinos locales, sin embargo, vístelo bajo tu propio riesgo."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/ApprenticeCap.png
 durability: 3
 hero: mage
-ru-RU_name: "Шляпа подмастерья"
-ru-RU_description: "Когда вы получаете это, стоимость соседних способностей становится равна 2 💰"
-ru-RU_flavor: "Обязательный головной убор для волхва первогодки. Тем не менее, носи его около местных жителей на свой страх и риск."
+pl-PL_name: "Tiara nowicjusza"
+pl-PL_description: "Gdy uzyskasz ten przedmiot, koszt sąsiadujących umiejętności zmieni się na 2 💰."
+pl-PL_flavor: "Obowiązkowe nakrycie głowy pierwszorocznych magów. Przy wieśniakach noś na własne ryzyko."
 tile_id: ApprenticeCap
 cost: 3
 image: /images/ApprenticeCap.png

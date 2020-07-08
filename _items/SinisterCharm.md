@@ -16,6 +16,14 @@ cost: 2
 image: /images/SinisterCharm.png
 durability: 3
 hero: rogue
+ru-RU_name: "Зловещий амулет"
+ru-RU_description: "Накладывает  <u>яд</u> (1) на врага, затем наносит <u>пронзающий</u> урон, равный его показателю  <u>яд</u>"
+ru-RU_flavor: "Озорница сняла очки и восхищалась своей работой. О да, это действительно был бы подарком, за который можно умереть. "
+tile_id: SinisterCharm
+cost: 2
+image: /images/SinisterCharm.png
+durability: 3
+hero: rogue
 es-ES_name: "Amuleto Siniestro"
 es-ES_description: " <u>envenena</u> (1) a un enemigo, y luego hazle daño <u>penetrante</u> equivalente a su valor de  <u>veneno</u>"
 es-ES_flavor: "Travesuras se sacó las gafas y admiró su trabajo. Oh sí, este en verdad sería un regalo para morirse."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/SinisterCharm.png
 durability: 3
 hero: rogue
-ru-RU_name: "Зловещий амулет"
-ru-RU_description: "Накладывает  <u>яд</u> (1) на врага, затем наносит <u>пронзающий</u> урон, равный его показателю  <u>яд</u>"
-ru-RU_flavor: "Озорница сняла очки и восхищалась своей работой. О да, это действительно был бы подарком, за который можно умереть. "
+pl-PL_name: "Złowieszcza Zawieszka"
+pl-PL_description: " <u>trucizna</u> (1) wroga, potem zadaj przenikliwe (<u>przenikający</u>) obrażenia równe jego  <u>trucizna</u>."
+pl-PL_flavor: "Psota zdjęła okulary ochronne i przyjrzała się swojemu rękodziełu. Była to wspaniale śmiercionośna  błyskotka."
 tile_id: SinisterCharm
 cost: 2
 image: /images/SinisterCharm.png

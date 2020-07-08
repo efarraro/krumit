@@ -16,6 +16,14 @@ cost: 4
 image: /images/AncientTome.png
 durability: 2
 hero: mage
+ru-RU_name: "Древний том"
+ru-RU_description: "<u>Вытягивает</u> копию способности, которую вы получили во время этого подземелья."
+ru-RU_flavor: "Серобородый надеялся, что в этом томе будут подсказки, как остановить рост его бороды. Его ждало еще одно разочарование."
+tile_id: AncientTome
+cost: 4
+image: /images/AncientTome.png
+durability: 2
+hero: mage
 es-ES_name: "Tomo Ancestral"
 es-ES_description: "<u>Roba</u> una copia de una habilidad que hayas adquerido en esta mazmorra"
 es-ES_flavor: "Barbagrís esperaba encontrar en este tomo alguna pista sobre cómo evitar que su barba siguiera creciendo. Y una vez más terminó decepcionado."
@@ -24,9 +32,9 @@ cost: 4
 image: /images/AncientTome.png
 durability: 2
 hero: mage
-ru-RU_name: "Древний том"
-ru-RU_description: "<u>Вытягивает</u> копию способности, которую вы получили во время этого подземелья."
-ru-RU_flavor: "Серобородый надеялся, что в этом томе будут подсказки, как остановить рост его бороды. Его ждало еще одно разочарование."
+pl-PL_name: "Przedwieczna Księga"
+pl-PL_description: "<u>Wytwórz</u> kopię umiejętności uzyskanej w tym lochu."
+pl-PL_flavor: "Szarobrody miał nadzieję znaleźć w księdze jakąś wskazówkę odnośnie zatrzymania przyrostu jego brody. Jedyne, co znalazł, to rozczarowanie."
 tile_id: AncientTome
 cost: 4
 image: /images/AncientTome.png

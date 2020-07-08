@@ -16,6 +16,14 @@ cost: 2
 image: /images/DemonEarRosary.png
 durability: 3
 hero: priest
+ru-RU_name: "Ухо демона Розари"
+ru-RU_description: "🔸 этого оружия увеличена на 2 за каждое <u>проклятие</u> на поле"
+ru-RU_flavor: "Менее эффективное, чем ожерелье Демона Клыка, но гораздо менее склонное к укусам владельца."
+tile_id: DemonEarRosary
+cost: 2
+image: /images/DemonEarRosary.png
+durability: 3
+hero: priest
 es-ES_name: "Rosario de Orejas Demoníacas"
 es-ES_description: "El 🔸 de esta arma se incrementa en 2 por cada <u>Maldición</u> visible"
 es-ES_flavor: "Es menos efectivo que un Collar de Colmillos Demoníacos, pero mucho menos propenso a morder a la portadora."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/DemonEarRosary.png
 durability: 3
 hero: priest
-ru-RU_name: "Ухо демона Розари"
-ru-RU_description: "🔸 этого оружия увеличена на 2 за каждое <u>проклятие</u> на поле"
-ru-RU_flavor: "Менее эффективное, чем ожерелье Демона Клыка, но гораздо менее склонное к укусам владельца."
+pl-PL_name: "Różaniec z Uszów Demonów"
+pl-PL_description: "🔸 tej broni jest zwiększony o 2 za każdą widoczną <u>Klątwa</u>"
+pl-PL_flavor: "Mniej efektywny niż naszyjnik z zębów demonów, ale przynajmniej nie gryzie."
 tile_id: DemonEarRosary
 cost: 2
 image: /images/DemonEarRosary.png

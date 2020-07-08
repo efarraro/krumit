@@ -16,6 +16,14 @@ cost: 2
 image: /images/NecrodudesCap.png
 durability: 2
 hero: necromancer
+ru-RU_name: "Кепка некрочувака"
+ru-RU_description: "Когда вы  <u>парируете</u> этим предметом, увеличивает максимальное ❤️ ваших 💀 <u>миньонов</u> на 2"
+ru-RU_flavor: "Избранный головной убор любого некрочувака! Поглощает кинетическую энергию перед передачей ближайшим миньонам."
+tile_id: NecrodudesCap
+cost: 2
+image: /images/NecrodudesCap.png
+durability: 2
+hero: necromancer
 es-ES_name: "Gorra de Necrolega"
 es-ES_description: "Después de  <u>desviar</u> con este ítem, incrementa la ❤️ máxima de tus 💀 <u>Esbirros</u> en 2"
 es-ES_flavor: "¡El sombrero adecuado para cualquier Necrolega con amor propio! Absorbe energía kinética y la transfiere a tus esbirros cercanos."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/NecrodudesCap.png
 durability: 2
 hero: necromancer
-ru-RU_name: "Кепка некрочувака"
-ru-RU_description: "Когда вы  <u>парируете</u> этим предметом, увеличивает максимальное ❤️ ваших 💀 <u>миньонов</u> на 2"
-ru-RU_flavor: "Избранный головной убор любого некрочувака! Поглощает кинетическую энергию перед передачей ближайшим миньонам."
+pl-PL_name: "Czapka Nekroziomka"
+pl-PL_description: "Gdy odparowujesz tym przedmiotem zwiększ maksymalne ❤️ swoich 💀 <u>Sługusy</u> o 2."
+pl-PL_flavor: "Ulubione nakrycie głowy Nekroziomków z bloków. Absorbuje energię kinetyczną uderzeń do pobliskich sługusów."
 tile_id: NecrodudesCap
 cost: 2
 image: /images/NecrodudesCap.png

@@ -16,6 +16,14 @@ cost: 2
 image: /images/FirestarterStaff.png
 durability: 2
 hero: mage
+ru-RU_name: "Посох поджигателя MK II"
+ru-RU_description: "Когда вы получаете это, накладывает  <u>ожог</u> (2) на соседних врагов"
+ru-RU_flavor: "Серая Борода забыл добавить к первой огнезащитное зачарование. Его брови никогда не были прежними."
+tile_id: FirestarterStaff
+cost: 2
+image: /images/FirestarterStaff.png
+durability: 2
+hero: mage
 es-ES_name: "Báculo Incendiario MK II"
 es-ES_description: "Cuando adquieras esta ficha,  <u>quema</u> (2) a todos los enemigos adyacentes a ella"
 es-ES_flavor: "Barbagrís olvidó añadir un encantamiento pirorretardante al primer modelo. Sus cejas nunca fueron las mismas."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/FirestarterStaff.png
 durability: 2
 hero: mage
-ru-RU_name: "Посох поджигателя MK II"
-ru-RU_description: "Когда вы получаете это, накладывает  <u>ожог</u> (2) на соседних врагов"
-ru-RU_flavor: "Серая Борода забыл добавить к первой огнезащитное зачарование. Его брови никогда не были прежними."
+pl-PL_name: "Pod-Pałka MK II"
+pl-PL_description: "Gdy uzyskasz tą broń, podal ( <u>podpalenie</u>) (2) sąsiadujących wrogów."
+pl-PL_flavor: "Pierwsza wersja nie miała odporności na ogień, podobnie jak brwi Siwobrodego."
 tile_id: FirestarterStaff
 cost: 2
 image: /images/FirestarterStaff.png

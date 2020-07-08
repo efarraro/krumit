@@ -14,6 +14,13 @@ tile_id: SoulBurst
 cost: 4
 image: /images/SoulBurst.png
 hero: necromancer
+ru-RU_name: "Взрыв душ"
+ru-RU_description: "Потратьте 4 ❤️, чтобы нанести 4 <u>пронзающий</u> урона всем врагам на поле. Перезаряжается после убийства 2 врагов"
+ru-RU_flavor: "Когда первые манавампиры и некроманты искали, где живет Душа, никто не ожидал найти оружие."
+tile_id: SoulBurst
+cost: 4
+image: /images/SoulBurst.png
+hero: necromancer
 es-ES_name: "Explosión de Almas"
 es-ES_description: "Paga 4 ❤️ para hacer 4 de daño <u>penetrante</u> a todos los enemigos visibles. Derrota a 2 enemigos para recargar"
 es-ES_flavor: "Cuando los primeros Manavampiros y Nigromántidos buscaron el lugar donde reside el Alma, ninguno esperaba encontrar un arma."
@@ -21,9 +28,9 @@ tile_id: SoulBurst
 cost: 4
 image: /images/SoulBurst.png
 hero: necromancer
-ru-RU_name: "Взрыв душ"
-ru-RU_description: "Потратьте 4 ❤️, чтобы нанести 4 <u>пронзающий</u> урона всем врагам на поле. Перезаряжается после убийства 2 врагов"
-ru-RU_flavor: "Когда первые манавампиры и некроманты искали, где живет Душа, никто не ожидал найти оружие."
+pl-PL_name: "Rozerwanie Duszy"
+pl-PL_description: "Zapłać 4 ❤️, aby zadać 4 <u>przenikający</u> obrażeń wszystkim widocznym wrogom. Pokonaj 2 wrogów aby naładować."
+pl-PL_flavor: "Gdy Manożercy i Nekromanci szukali skąd pochodzą dusze, nikt nie spodziewał się, że odnajdą tak wspaniały oręż."
 tile_id: SoulBurst
 cost: 4
 image: /images/SoulBurst.png

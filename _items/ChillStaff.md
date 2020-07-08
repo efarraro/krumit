@@ -16,6 +16,14 @@ cost: 3
 image: /images/ChillStaff.png
 durability: 2
 hero: mage
+ru-RU_name: "Посох холода"
+ru-RU_description: "Когда вы убиваете врага с этим предметом, добавляет копию <a href = '../ru_ru/abilities#Icebolt'>Ледяной снаряд</a> в ваше снаряжение"
+ru-RU_flavor: "'Почему бы тебе не остыть, дед?' - Акорн, первый ученик Серобородого. 'Прочь отсюда' - Серобородый своему последнему ученику, Акорну."
+tile_id: ChillStaff
+cost: 3
+image: /images/ChillStaff.png
+durability: 2
+hero: mage
 es-ES_name: "Báculo Refrescante"
 es-ES_description: "Cuando ataques y destruyas a un enemigo con esta arma, añade una copia de <a href = '../es_es/abilities#Icebolt'>Dardo de Hielo</a> a tu inventario"
 es-ES_flavor: "'¡Tienes que relajarte, abuelo! ¿Por qué no te vas a tomar el fresco?' - Bellota, primera aprendiz de Barbagrís.  'Estás despedida.' - Barbagrís a Bellota, su última aprendiz."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/ChillStaff.png
 durability: 2
 hero: mage
-ru-RU_name: "Посох холода"
-ru-RU_description: "Когда вы убиваете врага с этим предметом, добавляет копию <a href = '../ru_ru/abilities#Icebolt'>Ледяной снаряд</a> в ваше снаряжение"
-ru-RU_flavor: "'Почему бы тебе не остыть, дед?' - Акорн, первый ученик Серобородого. 'Прочь отсюда' - Серобородый своему последнему ученику, Акорну."
+pl-PL_name: "Laska Chłodu"
+pl-PL_description: "Gdy pokonasz przeciwnika przy użyciu tej broni, dodaj <a href = '../pl_pl/abilities#Icebolt'>Sopel</a> do ekwipunku."
+pl-PL_flavor: "'Fajna laska, dziadku!' - Alojzy, pierwszy i ostatni uczeń Siwobrodego."
 tile_id: ChillStaff
 cost: 3
 image: /images/ChillStaff.png

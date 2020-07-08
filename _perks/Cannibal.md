@@ -8,12 +8,16 @@ zh-CN_name: "掘墓者"
 zh-CN_description: "场上至少有3张<a href = '../zh_cn/items#Tombstone'>墓碑</a>时，你的基础🔸+1"
 tile_id: Cannibal
 image: /images/Cannibal.png
+ru-RU_name: "Гробовщик"
+ru-RU_description: "Ваша базовая 🔸 увеличена на 1, если по крайней мере 3 <a href = '../ru_ru/items#Tombstone'>Надгробье</a> на столе"
+tile_id: Cannibal
+image: /images/Cannibal.png
 es-ES_name: "Enterrador"
 es-ES_description: "Tu 🔸 base se incrementa en 1 si hay al menos 3 <a href = '../es_es/items#Tombstone'>Lápida</a> en el tablero"
 tile_id: Cannibal
 image: /images/Cannibal.png
-ru-RU_name: "Гробовщик"
-ru-RU_description: "Ваша базовая 🔸 увеличена на 1, если по крайней мере 3 <a href = '../ru_ru/items#Tombstone'>Надгробье</a> на столе"
+pl-PL_name: "Grabarz"
+pl-PL_description: "Twój podstawowy atak jest zwiększony o 1 jeżeli na planszy znajdują się przynajmniej 3 Nagrobki (<a href = '../pl_pl/items#Tombstone'>Nagrobek</a>)"
 tile_id: Cannibal
 image: /images/Cannibal.png
 ---

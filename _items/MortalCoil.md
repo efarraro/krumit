@@ -16,6 +16,14 @@ cost: 3
 image: /images/MortalCoil.png
 durability: 2
 hero: necromancer
+ru-RU_name: "Смертельная спираль"
+ru-RU_description: "Когда вы убиваете врага с этим предметом, призывает 💀 <u>Миньон</u> Скелет"
+ru-RU_flavor: "'Спираль' - выбранный танец на вечеринке скелетов текущего года"
+tile_id: MortalCoil
+cost: 3
+image: /images/MortalCoil.png
+durability: 2
+hero: necromancer
 es-ES_name: "Espiral Mortal"
 es-ES_description: "Cuando derrotes a un enemigo con esta arma, invoca un 💀 <u>Esbirro</u> Esqueleto"
 es-ES_flavor: "'El Espiral' - El paso de baile favorito en las Fiestas Esqueléticas."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/MortalCoil.png
 durability: 2
 hero: necromancer
-ru-RU_name: "Смертельная спираль"
-ru-RU_description: "Когда вы убиваете врага с этим предметом, призывает 💀 <u>Миньон</u> Скелет"
-ru-RU_flavor: "'Спираль' - выбранный танец на вечеринке скелетов текущего года"
+pl-PL_name: "Pęta Śmiertelności"
+pl-PL_description: "Gdy pokonasz przeciwnika tą bronią, przywołaj Szkielet 💀 <u>Sługus</u>."
+pl-PL_flavor: "Najpierw spróbuj zachęcić pętem kiełbasy."
 tile_id: MortalCoil
 cost: 3
 image: /images/MortalCoil.png

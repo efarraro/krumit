@@ -14,6 +14,13 @@ tile_id: Devour
 cost: 1
 image: /images/Devour.png
 hero: necromancer
+ru-RU_name: "Пожирание"
+ru-RU_description: "Уничтожает выбранное <a href = '../ru_ru/items#Tombstone'>Надгробье</a> и увеличивает ваше максимальное ❤️ на 4 до конца подземелья. <u>Сжигается</u>"
+ru-RU_flavor: "«Я не говорю, что он гробовщик. Однако...», - обеспокоенный местным прихожанином Мерседес"
+tile_id: Devour
+cost: 1
+image: /images/Devour.png
+hero: necromancer
 es-ES_name: "Devorar"
 es-ES_description: "Destruye una <a href = '../es_es/items#Tombstone'>Lápida</a> objetivo e incrementa tu ❤️ máxima en 4 por el resto de la mazmorra. <u>Agota</u>"
 es-ES_flavor: "'No digo que sea un enterrador. Pero...' - Mercedes, feligresa preocupada."
@@ -21,9 +28,9 @@ tile_id: Devour
 cost: 1
 image: /images/Devour.png
 hero: necromancer
-ru-RU_name: "Пожирание"
-ru-RU_description: "Уничтожает выбранное <a href = '../ru_ru/items#Tombstone'>Надгробье</a> и увеличивает ваше максимальное ❤️ на 4 до конца подземелья. <u>Сжигается</u>"
-ru-RU_flavor: "«Я не говорю, что он гробовщик. Однако...», - обеспокоенный местным прихожанином Мерседес"
+pl-PL_name: "Pochłonięcie"
+pl-PL_description: "Zniszcz wskazany <a href = '../pl_pl/items#Tombstone'>Nagrobek</a> i zwiększ maksymalne ❤️ o 4 do końca lochu. <u>Wyczerpany</u>"
+pl-PL_flavor: "'Szkoda tych nagrobków, ale przynajmniej nie ciamka przy jedzeniu.' - Krzyżtoff, sąsiad Muldorfa"
 tile_id: Devour
 cost: 1
 image: /images/Devour.png

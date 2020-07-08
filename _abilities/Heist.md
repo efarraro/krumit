@@ -14,6 +14,13 @@ tile_id: Heist
 cost: 1
 image: /images/Heist.png
 hero: rogue
+ru-RU_name: "Ограбление"
+ru-RU_description: "Если верхняя карта в колоде подземелья - это предмет или способность, добавляет его в ваше снаряжение бесплатно. <u>Сжигается</u>"
+ru-RU_flavor: "'Вы понимаете, что ограбление прошло гладко, когда они даже не знают, чего именно не хватает' - Озорница"
+tile_id: Heist
+cost: 1
+image: /images/Heist.png
+hero: rogue
 es-ES_name: "Atraco"
 es-ES_description: "Si la 'Siguiente' ficha es un ítem o habilidad, ponla en tu inventario sin pagar su costo. <u>Agota</u>"
 es-ES_flavor: "'Sabes que un atraco ha salido bien cuando ni siquiera se dan cuenta de que falta algo.' - Travesuras"
@@ -21,9 +28,9 @@ tile_id: Heist
 cost: 1
 image: /images/Heist.png
 hero: rogue
-ru-RU_name: "Ограбление"
-ru-RU_description: "Если верхняя карта в колоде подземелья - это предмет или способность, добавляет его в ваше снаряжение бесплатно. <u>Сжигается</u>"
-ru-RU_flavor: "'Вы понимаете, что ограбление прошло гладко, когда они даже не знают, чего именно не хватает' - Озорница"
+pl-PL_name: "Napad"
+pl-PL_description: "Jeżeli następna płytka jest przedmiotem lub umiejętnością, dodaj ją do ekwipunku bez opłacenia jej kosztu. <u>Wyczerpany</u>"
+pl-PL_flavor: "'Jak wszystko pójdzie gładko i zgodnie z planem, to nawet nie zauważą, że czegoś brakuje.' - Psota"
 tile_id: Heist
 cost: 1
 image: /images/Heist.png

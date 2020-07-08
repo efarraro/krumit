@@ -16,6 +16,14 @@ cost: 4
 image: /images/AtomicBulwark.png
 durability: 3
 hero: priest
+ru-RU_name: "Атомный оплот"
+ru-RU_description: "Когда вы  <u>парируете</u> с этим предметом, накладывает  <u>яд</u> (3) на вашего врага"
+ru-RU_flavor: "Вы вряд ли разделите его."
+tile_id: AtomicBulwark
+cost: 4
+image: /images/AtomicBulwark.png
+durability: 3
+hero: priest
 es-ES_name: "Baluarte Atómico"
 es-ES_description: "Al  <u>desviar</u> con este ítem,  <u>envenena</u> (3) a tu oponente"
 es-ES_flavor: "Es muy improbable que puedas partirlo."
@@ -24,9 +32,9 @@ cost: 4
 image: /images/AtomicBulwark.png
 durability: 3
 hero: priest
-ru-RU_name: "Атомный оплот"
-ru-RU_description: "Когда вы  <u>парируете</u> с этим предметом, накладывает  <u>яд</u> (3) на вашего врага"
-ru-RU_flavor: "Вы вряд ли разделите его."
+pl-PL_name: "Atomowy bastion"
+pl-PL_description: "Kiedy wykonujesz odbicie tym przedmiotem, zatruwasz (3) swojego przeciwnika"
+pl-PL_flavor: "Lepiej żeby się nie rozszczepiła."
 tile_id: AtomicBulwark
 cost: 4
 image: /images/AtomicBulwark.png

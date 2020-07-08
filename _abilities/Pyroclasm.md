@@ -14,6 +14,13 @@ tile_id: Pyroclasm
 cost: 4
 image: /images/Pyroclasm.png
 hero: mage
+ru-RU_name: "Пироклазм"
+ru-RU_description: "Наносит 15 <u>пронзающий</u> урона выбранному врагу.  <u>Сжигается</u>"
+ru-RU_flavor: "Такая первичная сила может удерживаться только в течение длительного времени. Молитесь, чтобы вас не было рядом, когда она освободится."
+tile_id: Pyroclasm
+cost: 4
+image: /images/Pyroclasm.png
+hero: mage
 es-ES_name: "Piroclastía"
 es-ES_description: "Haz 15 de daño <u>penetrante</u> a un enemigo objetivo. <u>Agota</u>"
 es-ES_flavor: "Estas fuerzas tan primordiales solo pueden ser contenidas por un tiempo limitado. Reza por que estés bien lejos cuando sean liberadas."
@@ -21,9 +28,9 @@ tile_id: Pyroclasm
 cost: 4
 image: /images/Pyroclasm.png
 hero: mage
-ru-RU_name: "Пироклазм"
-ru-RU_description: "Наносит 15 <u>пронзающий</u> урона выбранному врагу.  <u>Сжигается</u>"
-ru-RU_flavor: "Такая первичная сила может удерживаться только в течение длительного времени. Молитесь, чтобы вас не было рядом, когда она освободится."
+pl-PL_name: "Wypalenie"
+pl-PL_description: "Zadaj 15 przenikliwych (<u>przenikający</u>) obrażeń wskazanemu przeciwnikowi. <u>Wyczerpany</u>"
+pl-PL_flavor: "'Gdy pożar wymknie się spod kontroli, ogień ogniem zwyciężaj.' - Ignacy Zima, po paru kolejkach"
 tile_id: Pyroclasm
 cost: 4
 image: /images/Pyroclasm.png

@@ -14,6 +14,13 @@ tile_id: Rejuvenate
 cost: 1
 image: /images/Rejuvenate.png
 hero: priest
+ru-RU_name: "Омоложение"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт <u>регенерацию</u>"
+ru-RU_flavor: "Отлично подходит для вашего ума, тела, души и кожи."
+tile_id: Rejuvenate
+cost: 1
+image: /images/Rejuvenate.png
+hero: priest
 es-ES_name: "Rejuvenecer"
 es-ES_description: "<u><u>Instantánea</u></u>. Gana <u>Regeneración</u>"
 es-ES_flavor: "Muy bueno para la mente, el cuerpo, el alma y la piel."
@@ -21,9 +28,9 @@ tile_id: Rejuvenate
 cost: 1
 image: /images/Rejuvenate.png
 hero: priest
-ru-RU_name: "Омоложение"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт <u>регенерацию</u>"
-ru-RU_flavor: "Отлично подходит для вашего ума, тела, души и кожи."
+pl-PL_name: "Odmłodzenie"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. Regeneration"
+pl-PL_flavor: "Dobre dla ciała, ducha, umysłu i skóry."
 tile_id: Rejuvenate
 cost: 1
 image: /images/Rejuvenate.png

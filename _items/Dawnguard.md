@@ -16,6 +16,14 @@ cost: 3
 image: /images/Dawnguard.png
 durability: 3
 hero: priest
+ru-RU_name: "Рассветная охрана"
+ru-RU_description: "<u>Разрушение</u>: <u>мутирует</u> в 🟦Избранный, затем восстанавливает ваше ❤️ до максимума"
+ru-RU_flavor: "Эта кираса позволяет вам восхвалять солнце, оставаясь в тени."
+tile_id: Dawnguard
+cost: 3
+image: /images/Dawnguard.png
+durability: 3
+hero: priest
 es-ES_name: "Guardamañanas"
 es-ES_description: "<u>Vaciado</u>: Intercambia tu ventaja inicial por 🟦Elegida, y luego recupera toda tu ❤️"
 es-ES_flavor: "Esta coraza te mantiene fresco mientras adoras al sol."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/Dawnguard.png
 durability: 3
 hero: priest
-ru-RU_name: "Рассветная охрана"
-ru-RU_description: "<u>Разрушение</u>: <u>мутирует</u> в 🟦Избранный, затем восстанавливает ваше ❤️ до максимума"
-ru-RU_flavor: "Эта кираса позволяет вам восхвалять солнце, оставаясь в тени."
+pl-PL_name: "Pancerz Świtu"
+pl-PL_description: "<u>Spożytkowanie</u>: <u>Mutacja</u> 🟦Wybranka, po czym odnów ❤️ do pełna."
+pl-PL_flavor: "Chwalić słońce!"
 tile_id: Dawnguard
 cost: 3
 image: /images/Dawnguard.png

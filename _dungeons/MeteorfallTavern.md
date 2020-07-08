@@ -68,6 +68,40 @@ monsters:
     image: /images/GobloidKnucklehead.png
     quantity: 2
     url: /monsters/GobloidKnucklehead
+ru-RU_name: "Старая таверна 'Падение Метеора'"
+ru-RU_description: "'Я слышала, они там играют какую-то чудную карточною игру - Meteorfall, не так ли? Я всегда хотела попробовать её.' - Роза"
+tier: 4
+monsters:
+  - monster:
+    name: "Байкер-Мутант"
+    image: /images/Biker.png
+    quantity: 3
+    url: /monsters/Biker
+  - monster:
+    name: "Головорез"
+    image: /images/Pirate.png
+    quantity: 3
+    url: /monsters/Pirate
+  - monster:
+    name: "Вагабонд"
+    image: /images/JackalVagabond.png
+    quantity: 3
+    url: /monsters/JackalVagabond
+  - monster:
+    name: "Крестянин"
+    image: /images/Peasant.png
+    quantity: 2
+    url: /monsters/Peasant
+  - monster:
+    name: "Городская стража"
+    image: /images/RoyalGuard.png
+    quantity: 2
+    url: /monsters/RoyalGuard
+  - monster:
+    name: "Каскоголовый"
+    image: /images/GobloidKnucklehead.png
+    quantity: 2
+    url: /monsters/GobloidKnucklehead
 es-ES_name: "Taberna del Meteorismo"
 es-ES_description: "'Escuché que ahí juegan una especie de juego de cartas extravagante - creo que se llamaba 'Meteorismo', o quizás 'Meteorfall'. Siempre he querido probarlo.' - Rose"
 tier: 4
@@ -102,37 +136,37 @@ monsters:
     image: /images/GobloidKnucklehead.png
     quantity: 2
     url: /monsters/GobloidKnucklehead
-ru-RU_name: "Старая таверна 'Падение Метеора'"
-ru-RU_description: "'Я слышала, они там играют какую-то чудную карточною игру - Meteorfall, не так ли? Я всегда хотела попробовать её.' - Роза"
+pl-PL_name: "Oberża Pod Spadającym Meteoroidem"
+pl-PL_description: "'Szyszałam, że grają tam w karty, w grę Meteorfall. Zawsze chciałam spróbować.' - Róża"
 tier: 4
 monsters:
   - monster:
-    name: "Байкер-Мутант"
+    name: "Rowerzysta Mutant"
     image: /images/Biker.png
     quantity: 3
     url: /monsters/Biker
   - monster:
-    name: "Головорез"
+    name: "Korsarz"
     image: /images/Pirate.png
     quantity: 3
     url: /monsters/Pirate
   - monster:
-    name: "Вагабонд"
+    name: "Włóczęga"
     image: /images/JackalVagabond.png
     quantity: 3
     url: /monsters/JackalVagabond
   - monster:
-    name: "Крестянин"
+    name: "Wieśniak"
     image: /images/Peasant.png
     quantity: 2
     url: /monsters/Peasant
   - monster:
-    name: "Городская стража"
+    name: "Strażnik Miejski"
     image: /images/RoyalGuard.png
     quantity: 2
     url: /monsters/RoyalGuard
   - monster:
-    name: "Каскоголовый"
+    name: "Wiadrołeb"
     image: /images/GobloidKnucklehead.png
     quantity: 2
     url: /monsters/GobloidKnucklehead

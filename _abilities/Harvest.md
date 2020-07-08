@@ -20,6 +20,16 @@ tile_id: Harvest
 cost: 1
 image: /images/Harvest.png
 hero: necromancer
+ru-RU_name: "Урожай"
+ru-RU_description: "Ваша 🔸 увеличивается на 3 и имеет  <u>Вампиризм</u>, равный суммарной атаке. <u>Сжигается</u>"
+ru-RU_flavor: "稻子熟了。
+丰收近了。
+鲜血红了。
+天空远了。"
+tile_id: Harvest
+cost: 1
+image: /images/Harvest.png
+hero: necromancer
 es-ES_name: "Segar"
 es-ES_description: "Tu 🔸 se incrementa en 3 y tiene  <u>Vampirismo</u> equivalente al daño total. <u>Agota</u>"
 es-ES_flavor: "El fruto madura.
@@ -30,12 +40,12 @@ tile_id: Harvest
 cost: 1
 image: /images/Harvest.png
 hero: necromancer
-ru-RU_name: "Урожай"
-ru-RU_description: "Ваша 🔸 увеличивается на 3 и имеет  <u>Вампиризм</u>, равный суммарной атаке. <u>Сжигается</u>"
-ru-RU_flavor: "El fruto madura.
-Se acerca la cosecha.
-La guadaña baila
-hasta estar satisfecha."
+pl-PL_name: "Żniwa"
+pl-PL_description: "Zwiększ 🔸 o 3 i dodaj  <u>Kradzież Życia</u> o wartości równej zadanym obrażeniom. <u>Wyczerpany</u>"
+pl-PL_flavor: "Dojrzała uprawa
+Żniwa bliskie
+Pogoda krwawa
+Niebo niebieskie"
 tile_id: Harvest
 cost: 1
 image: /images/Harvest.png

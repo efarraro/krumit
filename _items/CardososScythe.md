@@ -16,6 +16,14 @@ cost: 4
 image: /images/CardososScythe.png
 durability: 3
 hero: necromancer
+ru-RU_name: "Коса Кордозо"
+ru-RU_description: " <u>Вампиризм</u> (равный вашей 🔸: 0). Когда вы атакуете с этим оружием, уменьшает ваше максимальное ❤️ на 1."
+ru-RU_flavor: "'Умеренно используй её, ибо она требует собственной дани...'"
+tile_id: CardososScythe
+cost: 4
+image: /images/CardososScythe.png
+durability: 3
+hero: necromancer
 es-ES_name: "Guadaña de Cardoso"
 es-ES_description: " <u>Vampirismo</u> (equivalente a tu 🔸: 0). Cuando ataques, reduce tu ❤️ máxima en 1"
 es-ES_flavor: "'Úsala con moderación, porque demanda su propio tributo...'"
@@ -24,9 +32,10 @@ cost: 4
 image: /images/CardososScythe.png
 durability: 3
 hero: necromancer
-ru-RU_name: "Коса Кордозо"
-ru-RU_description: " <u>Вампиризм</u> (равный вашей 🔸: 0). Когда вы атакуете с этим оружием, уменьшает ваше максимальное ❤️ на 1."
-ru-RU_flavor: "'Умеренно используй её, ибо она требует собственной дани...'"
+pl-PL_name: "Kosa Cardosa"
+pl-PL_description: " <u>Kradzież Życia</u> (równe wartości twojego ataku: 0).
+Gdy atakujesz, obniż maksymalne punkty życia o 1"
+pl-PL_flavor: "'Używaj z rozwagą, pobiera opłatę czy tego chcesz, czy nie...'"
 tile_id: CardososScythe
 cost: 4
 image: /images/CardososScythe.png

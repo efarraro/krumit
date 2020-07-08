@@ -16,6 +16,14 @@ cost: 2
 image: /images/JeweledSlippers.png
 durability: 3
 hero: mage
+ru-RU_name: "Ювелирные тапки"
+ru-RU_description: "Замешивает все карточки обратно в колоду подземелья. Если активируется в бою, также завершает его"
+ru-RU_flavor: "Просто цокните вашими пятками и... н-нет, все ещё в подземелье."
+tile_id: JeweledSlippers
+cost: 2
+image: /images/JeweledSlippers.png
+durability: 3
+hero: mage
 es-ES_name: "Pantuflas Enjoyadas"
 es-ES_description: "Baraja todas las fichas de vuelta en el mazo. Si estás en combate, déjalo también."
 es-ES_flavor: "Solo entrechoca tus tacones, y... no, sigues en la mazmorra."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/JeweledSlippers.png
 durability: 3
 hero: mage
-ru-RU_name: "Ювелирные тапки"
-ru-RU_description: "Замешивает все карточки обратно в колоду подземелья. Если активируется в бою, также завершает его"
-ru-RU_flavor: "Просто цокните вашими пятками и... н-нет, все ещё в подземелье."
+pl-PL_name: "Kapcie Wysadzane Klejnotami"
+pl-PL_description: "Wtasuj wszystkie płytki z planszy do talii. Jeżeli użyte w walce, dodatkowo opuść walkę."
+pl-PL_flavor: "Stylowe, kupione na ryneczku za pół ceny."
 tile_id: JeweledSlippers
 cost: 2
 image: /images/JeweledSlippers.png

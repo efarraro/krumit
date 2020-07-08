@@ -14,6 +14,13 @@ tile_id: Slam
 cost: 3
 image: /images/Slam.png
 hero: warrior
+ru-RU_name: "Удар"
+ru-RU_description: "В бою наносит урон, равный вашему текущему ❤️ (*10*). Если у вас полное ❤️, также <u>оглушает</u> врага. <u>Сжигается</u>"
+ru-RU_flavor: "Необычная техника приготовления блинов."
+tile_id: Slam
+cost: 3
+image: /images/Slam.png
+hero: warrior
 es-ES_name: "Martillar"
 es-ES_description: "En combate, haz daño equivalente a tu ❤️ actual (*10*). Si tienes toda tu ❤️, también <u>aturde</u>. <u>Agota</u>"
 es-ES_flavor: "Una técnica inusual para hacer panqueques."
@@ -21,9 +28,9 @@ tile_id: Slam
 cost: 3
 image: /images/Slam.png
 hero: warrior
-ru-RU_name: "Удар"
-ru-RU_description: "В бою наносит урон, равный вашему текущему ❤️ (*10*). Если у вас полное ❤️, также <u>оглушает</u> врага. <u>Сжигается</u>"
-ru-RU_flavor: "Необычная техника приготовления блинов."
+pl-PL_name: "Łomot"
+pl-PL_description: "W walce, zadaj obrażenia równe poziomowi health (*10*) oraz, jeżeli masz pełne health, <u>ogłuszenie</u>. <u>Wyczerpany</u>."
+pl-PL_flavor: "'Przyszedłem spuścić wodę i łomot!' - Bruno"
 tile_id: Slam
 cost: 3
 image: /images/Slam.png

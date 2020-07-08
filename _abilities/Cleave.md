@@ -14,6 +14,13 @@ tile_id: Cleave
 cost: 1
 image: /images/Cleave.png
 hero: warrior
+ru-RU_name: "Рассечение"
+ru-RU_description: "Наносит 5 урона всем врагам в нижнем ряду.  <u>Сжигается</u>"
+ru-RU_flavor: "'Гоблоиды не любят честные бои. Поэтому убедитесь, что вы можете уравнять шансы.' - военные размышления Брамбла."
+tile_id: Cleave
+cost: 1
+image: /images/Cleave.png
+hero: warrior
 es-ES_name: "Hendir"
 es-ES_description: "Haz 5 de daño a todos los enemigos en la fila inferior. <u>Agota</u>"
 es-ES_flavor: "A los Gobloides no les gustan las luchas de igual a igual. Así que asegúrate de poder emparejar las cosas. - Meditaciones Bélicas de Zarzal"
@@ -21,9 +28,9 @@ tile_id: Cleave
 cost: 1
 image: /images/Cleave.png
 hero: warrior
-ru-RU_name: "Рассечение"
-ru-RU_description: "Наносит 5 урона всем врагам в нижнем ряду.  <u>Сжигается</u>"
-ru-RU_flavor: "'Гоблоиды не любят честные бои. Поэтому убедитесь, что вы можете уравнять шансы.' - военные размышления Брамбла."
+pl-PL_name: "Zamach"
+pl-PL_description: "Zadaj 5 obrażeń przeciwnikom w najniższym wierszu. <u>Wyczerpany</u>"
+pl-PL_flavor: "Jak się dobrze zamachniesz to i trzy głowy Gobloidów zetniesz jednym cięciem. - cytat z Wskazówek Miśka z Cierniowa"
 tile_id: Cleave
 cost: 1
 image: /images/Cleave.png

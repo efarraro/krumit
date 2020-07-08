@@ -16,6 +16,14 @@ cost: 4
 image: /images/Tentacle.png
 durability: 3
 hero: warrior
+ru-RU_name: "Рука Окто"
+ru-RU_description: "В конце каждого раунда боя увеличивает 🔸 этого предмета на 1 (сбрасывается в конце боя)"
+ru-RU_flavor: "奥克托有八根这东西，呃，现在只剩七根了。除非他又搞到了一根钉须，还是该叫它触钉？"
+tile_id: Tentacle
+cost: 4
+image: /images/Tentacle.png
+durability: 3
+hero: warrior
 es-ES_name: "Brazo de Okto"
 es-ES_description: "Al final de cada ronda de combate, incrementa el 🔸 de esta arma en 1 hasta el final del combate"
 es-ES_flavor: "Okto tiene ocho de éstos - bueno, ahora son siete. A menos que se haya conseguido un tentáculo de palo. ¿Un tentápalo?"
@@ -24,9 +32,9 @@ cost: 4
 image: /images/Tentacle.png
 durability: 3
 hero: warrior
-ru-RU_name: "Рука Окто"
-ru-RU_description: "В конце каждого раунда боя увеличивает 🔸 этого предмета на 1 (сбрасывается в конце боя)"
-ru-RU_flavor: "Okto tiene ocho de éstos - bueno, ahora son siete. A menos que se haya conseguido un tentáculo de palo. ¿Un tentápalo?"
+pl-PL_name: "Macka Oktawiusza"
+pl-PL_description: "Na końcu rundy w walce, zwiększ 🔸 tej broni o 1 (resetuje się po walce)."
+pl-PL_flavor: "Oktawiusz ma ich osiem. No, teraz siedem. Podobno zrobił sobie drewnianą protezę."
 tile_id: Tentacle
 cost: 4
 image: /images/Tentacle.png

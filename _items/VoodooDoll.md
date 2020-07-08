@@ -16,6 +16,14 @@ cost: 2
 image: /images/VoodooDoll.png
 durability: 3
 hero: necromancer
+ru-RU_name: "Кукла вуду"
+ru-RU_description: "Выберите врага. Пока этот враг не умрёт, он будет получать 4 <u>пронзающий</u> урона, когда вы призываете 💀 <u>Миньон</u>"
+ru-RU_flavor: "'Использованные' куклы вуду могут быть безопасно переработаны в подарки для маленьких детей. Только лучше не говорить им откуда вы её взяли."
+tile_id: VoodooDoll
+cost: 2
+image: /images/VoodooDoll.png
+durability: 3
+hero: necromancer
 es-ES_name: "Muñeca de Vudú"
 es-ES_description: "Elige a un enemigo. Éste sufre 4 de daño <u>penetrante</u> cada vez que invoques a un esbirro, hasta que muera"
 es-ES_flavor: "Las muñecas de vudú 'usadas' son lo suficientemente seguras como para ser regaladas a los niños pequeños. Es mejor no decirles de dónde las sacaste, eso sí."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/VoodooDoll.png
 durability: 3
 hero: necromancer
-ru-RU_name: "Кукла вуду"
-ru-RU_description: "Выберите врага. Пока этот враг не умрёт, он будет получать 4 <u>пронзающий</u> урона, когда вы призываете 💀 <u>Миньон</u>"
-ru-RU_flavor: "'Использованные' куклы вуду могут быть безопасно переработаны в подарки для маленьких детей. Только лучше не говорить им откуда вы её взяли."
+pl-PL_name: "Laleczka Voodoo"
+pl-PL_description: "Wskaż wroga. Dopóki nie zostanie pokonany, otrzymuje 4 przenikających (<u>przenikający</u>) obrażeń za każdym razem gdy przywołasz sługusa."
+pl-PL_flavor: "Zużyte lalki voodoo można ponownie wprowadzić do obiegu jako prezenty dla małych dzieci. Tylko lepiej nie mów im skąd je masz."
 tile_id: VoodooDoll
 cost: 2
 image: /images/VoodooDoll.png

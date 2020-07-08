@@ -14,6 +14,13 @@ tile_id: SurgingFlame
 cost: 3
 image: /images/SurgingFlame.png
 hero: mage
+ru-RU_name: "Бушующее пламя"
+ru-RU_description: "Накладывает  <u>ожог</u> (4) на выбранного врага, затем накладывает  <u>ожог</u> (2) на других врагов в этом ряду. <u>Сжигается</u>"
+ru-RU_flavor: "Как пробка в воде: попытайтесь отбросить пламя назад, и оно станет сильнее."
+tile_id: SurgingFlame
+cost: 3
+image: /images/SurgingFlame.png
+hero: mage
 es-ES_name: "Llamas Surgientes"
 es-ES_description: " <u>quema</u> (4) un enemigo, y luego  <u>quema</u> (2) todos los otros enemigos en la misma fila. <u>Agota</u>"
 es-ES_flavor: "Como un corcho en el agua - trata de hundirlo, y solo surgirá con más fuerza."
@@ -21,9 +28,9 @@ tile_id: SurgingFlame
 cost: 3
 image: /images/SurgingFlame.png
 hero: mage
-ru-RU_name: "Бушующее пламя"
-ru-RU_description: "Накладывает  <u>ожог</u> (4) на выбранного врага, затем накладывает  <u>ожог</u> (2) на других врагов в этом ряду. <u>Сжигается</u>"
-ru-RU_flavor: "Как пробка в воде: попытайтесь отбросить пламя назад, и оно станет сильнее."
+pl-PL_name: "Wzbierający Płomień"
+pl-PL_description: " <u>podpalenie</u> przeciwnika (4), po czym  <u>podpalenie</u> (2) przeciwników w tym samym wierszu. <u>Wyczerpany</u>"
+pl-PL_flavor: "Olej na wierzch wypływa, bo tam pali się najlepiej."
 tile_id: SurgingFlame
 cost: 3
 image: /images/SurgingFlame.png

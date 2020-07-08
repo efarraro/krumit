@@ -16,6 +16,14 @@ cost: 3
 image: /images/StaffOfTheSeraphim.png
 durability: 3
 hero: priest
+ru-RU_name: "Посох Серафима"
+ru-RU_description: "Восстанавливает 5 ❤️"
+ru-RU_flavor: "Как громоотвод, но для божественной маны вместо молнии."
+tile_id: StaffOfTheSeraphim
+cost: 3
+image: /images/StaffOfTheSeraphim.png
+durability: 3
+hero: priest
 es-ES_name: "Báculo del Serafín"
 es-ES_description: "Recupera 5 ❤️"
 es-ES_flavor: "Como un pararrayos, pero para maná divino en lugar de rayos."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/StaffOfTheSeraphim.png
 durability: 3
 hero: priest
-ru-RU_name: "Посох Серафима"
-ru-RU_description: "Восстанавливает 5 ❤️"
-ru-RU_flavor: "Как громоотвод, но для божественной маны вместо молнии."
+pl-PL_name: "Laska Serafinów"
+pl-PL_description: "Odnów 5 ❤️"
+pl-PL_flavor: "Pręt, który na szczęście ściąga energię niebiańską zamiast piorunów."
 tile_id: StaffOfTheSeraphim
 cost: 3
 image: /images/StaffOfTheSeraphim.png

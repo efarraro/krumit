@@ -16,6 +16,14 @@ cost: 2
 image: /images/ShadowCrown.png
 durability: 2
 hero: priest
+ru-RU_name: "Тёмная корона"
+ru-RU_description: "Когда вы  <u>парируете</u> с этим предметом, удваивает количество стаков  <u>осквернение</u> на вашем враге"
+ru-RU_flavor: "Дотянись до бездны, и бездна дотянется до тебя."
+tile_id: ShadowCrown
+cost: 2
+image: /images/ShadowCrown.png
+durability: 2
+hero: priest
 es-ES_name: "La Corona Oscura"
 es-ES_description: "Al  <u>desviar</u> con este ítem, duplica el monto de  <u>corrupción</u> en tu oponente"
 es-ES_flavor: "Rebusca en el abismo y el abismo rebuscará en tí."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/ShadowCrown.png
 durability: 2
 hero: priest
-ru-RU_name: "Тёмная корона"
-ru-RU_description: "Когда вы  <u>парируете</u> с этим предметом, удваивает количество стаков  <u>осквернение</u> на вашем враге"
-ru-RU_flavor: "Дотянись до бездны, и бездна дотянется до тебя."
+pl-PL_name: "Korona Ciemności"
+pl-PL_description: "Gdy odparowujesz ( <u>Odparowanie</u>) tym przedmiotem, podwój  <u>zepsucie</u> przeciwnika."
+pl-PL_flavor: "Czeluść musisz przywołać, sama nie przyjdzie."
 tile_id: ShadowCrown
 cost: 2
 image: /images/ShadowCrown.png

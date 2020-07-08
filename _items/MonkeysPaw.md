@@ -16,6 +16,14 @@ cost: 1
 image: /images/MonkeysPaw.png
 durability: 3
 hero: priest
+ru-RU_name: "Лапа обезьяны"
+ru-RU_description: "Когда вы атакуете с этим оружием, превращает способность в колоде подземелья в <u>проклятие</u>"
+ru-RU_flavor: "Очарованная светом обезьяньей луны (а не полнолунием), эта кровавая лапа заставляет вас быть осторожными в своих желаниях."
+tile_id: MonkeysPaw
+cost: 1
+image: /images/MonkeysPaw.png
+durability: 3
+hero: priest
 es-ES_name: "Pata de Mono"
 es-ES_description: "Cuando ataques con esta arma, transforma una habilidad en el mazo en una <u>Maldición</u>"
 es-ES_flavor: "Esta zarpa sangrienta, encantada a la luz de una monona luna, te hace tener mucho cuidado con lo que deseas."
@@ -24,9 +32,9 @@ cost: 1
 image: /images/MonkeysPaw.png
 durability: 3
 hero: priest
-ru-RU_name: "Лапа обезьяны"
-ru-RU_description: "Когда вы атакуете с этим оружием, превращает способность в колоде подземелья в <u>проклятие</u>"
-ru-RU_flavor: "Очарованная светом обезьяньей луны (а не полнолунием), эта кровавая лапа заставляет вас быть осторожными в своих желаниях."
+pl-PL_name: "Małpia Dłoń"
+pl-PL_description: "Gdy atakujesz tą bronią, przemień umiejętność z talii w klątwę (<u>Klątwa</u>)."
+pl-PL_flavor: "Uważaj o co prosisz, może się spełnić."
 tile_id: MonkeysPaw
 cost: 1
 image: /images/MonkeysPaw.png

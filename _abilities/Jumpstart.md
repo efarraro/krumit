@@ -14,6 +14,13 @@ tile_id: Jumpstart
 cost: 3
 image: /images/Jumpstart.png
 hero: mage
+ru-RU_name: "Толчок"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Заполняет свободные слоты в вашем снаряжении случайными способностями стоимостью 1 💰 или меньше"
+ru-RU_flavor: "Магия может быть непостоянной музой. Иногда короткий, резкий шок - это то, что нужно для того, чтобы заставить ее двигаться снова."
+tile_id: Jumpstart
+cost: 3
+image: /images/Jumpstart.png
+hero: mage
 es-ES_name: "Energizar"
 es-ES_description: "<u><u>Instantánea</u></u>. Llena los espacios vacíos de tu inventario con habilidades aleatorias que cuesten 1 💰 o menos"
 es-ES_flavor: "La magia puede ser una musa caprichosa. A veces necesita una súbita descarga de energía para ponerse de vuelta en marcha."
@@ -21,9 +28,9 @@ tile_id: Jumpstart
 cost: 3
 image: /images/Jumpstart.png
 hero: mage
-ru-RU_name: "Толчок"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Заполняет свободные слоты в вашем снаряжении случайными способностями стоимостью 1 💰 или меньше"
-ru-RU_flavor: "Магия может быть непостоянной музой. Иногда короткий, резкий шок - это то, что нужно для того, чтобы заставить ее двигаться снова."
+pl-PL_name: "Rozruch"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. Wypełnij puste miejsca w ekwipunku losowymi umiejętnościami o koszcie 1 💰 lub mniej."
+pl-PL_flavor: "Magia zmienną jest. Czasem potrzebuje iskierki aby rozpalić potężny płomień."
 tile_id: Jumpstart
 cost: 3
 image: /images/Jumpstart.png

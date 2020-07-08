@@ -16,6 +16,14 @@ cost: 6
 image: /images/RubyRing.png
 durability: 3
 hero: mage
+ru-RU_name: "Рубиновое кольцо"
+ru-RU_description: "Наносит 4 <u>пронзающий</u> урона горящему врагу. Если это убивает его, увеличивает вашу базовую 🔸 на 1 до конца подземелья"
+ru-RU_flavor: "Кольцо, зачарованное жадным пиромантом. Говорят, что кольцо жаждет власти, как и его изобретатель. Может содержать и его душу."
+tile_id: RubyRing
+cost: 6
+image: /images/RubyRing.png
+durability: 3
+hero: mage
 es-ES_name: "Anillo de Rubí"
 es-ES_description: "Haz 4 de daño <u>penetrante</u> a un enemigo  <u>quemado</u>. Si esto lo destruye, incrementa tu 🔸 base en 1 por el resto de la mazmorra"
 es-ES_flavor: "Un anillo encantado por un codicioso Piromante. Se dice que el anillo está sediento de poder, tal como su creador. Y puede que también contenga su alma."
@@ -24,9 +32,9 @@ cost: 6
 image: /images/RubyRing.png
 durability: 3
 hero: mage
-ru-RU_name: "Рубиновое кольцо"
-ru-RU_description: "Наносит 4 <u>пронзающий</u> урона горящему врагу. Если это убивает его, увеличивает вашу базовую 🔸 на 1 до конца подземелья"
-ru-RU_flavor: "Кольцо, зачарованное жадным пиромантом. Говорят, что кольцо жаждет власти, как и его изобретатель. Может содержать и его душу."
+pl-PL_name: "Pierścień z rubinem"
+pl-PL_description: "Zadaj 4 <u>przenikający</u> obrażeń  <u>w płomieniach</u> wrogowi. Jeżeli pokonasz go w ten sposób, zwiększ 🔸 o 1 do końca lochu."
+pl-PL_flavor: "Pierścień zaczarowany przez chciwego pyromantę. Podobno łaknie mocy tak samo jak jego twórca. Może zawierać szczątki jego duszy."
 tile_id: RubyRing
 cost: 6
 image: /images/RubyRing.png

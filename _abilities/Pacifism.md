@@ -14,6 +14,13 @@ tile_id: Pacifism
 cost: 3
 image: /images/Pacifism.png
 hero: priest
+ru-RU_name: "Пацифизм"
+ru-RU_description: "Удаляет обычного врага с подземелья (не считается убийством). Перезаряжается после срабатывания <u>сверхлечение</u> 2 раз"
+ru-RU_flavor: "Мое сердце переполнено!"
+tile_id: Pacifism
+cost: 3
+image: /images/Pacifism.png
+hero: priest
 es-ES_name: "Pacifismo"
 es-ES_description: "Remueve un enemigo del tablero (no puede ser un jefe, y no cuenta como matar a un enemigo). <u>Sobrecura</u> 2 veces para recargar"
 es-ES_flavor: "¡Mi corazón está rebosando!"
@@ -21,9 +28,9 @@ tile_id: Pacifism
 cost: 3
 image: /images/Pacifism.png
 hero: priest
-ru-RU_name: "Пацифизм"
-ru-RU_description: "Удаляет обычного врага с подземелья (не считается убийством). Перезаряжается после срабатывания <u>сверхлечение</u> 2 раз"
-ru-RU_flavor: "Мое сердце переполнено!"
+pl-PL_name: "Pacyfizm"
+pl-PL_description: "Usuń przeciwnika, który nie jest bossem z lochu (nie liczy się jako pokonanie przeciwnika). <u>Przeleczenie</u> 2 razy aby naładować."
+pl-PL_flavor: "Serce rośnie!"
 tile_id: Pacifism
 cost: 3
 image: /images/Pacifism.png

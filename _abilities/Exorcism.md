@@ -14,6 +14,13 @@ tile_id: Exorcism
 cost: 1
 image: /images/Exorcism.png
 hero: priest
+ru-RU_name: "Экзорцизм"
+ru-RU_description: "Удаляет выбранное благословение, затем уничтожает всех обычных врагов в том же ряду и столбце. <u>Сжигается</u>"
+ru-RU_flavor: "'Просто помни, что когда ты изгонишь дьявола, он будет в ярости.' - первый экзорцист Фолаянг"
+tile_id: Exorcism
+cost: 1
+image: /images/Exorcism.png
+hero: priest
 es-ES_name: "Exorcismo"
 es-ES_description: "Destruye todas las <u>maldiciones</u> y haz {0} de daño <u>penetrante</u> a cada enemigo adyacente por cada maldición destruida"
 es-ES_flavor: "'Recuerda que el demonio va a estar increíblemente cabreado cuando lo saques.' - Folayang, Primer Exorcista"
@@ -21,9 +28,9 @@ tile_id: Exorcism
 cost: 1
 image: /images/Exorcism.png
 hero: priest
-ru-RU_name: "Экзорцизм"
-ru-RU_description: "Удаляет выбранное благословение, затем уничтожает всех обычных врагов в том же ряду и столбце. <u>Сжигается</u>"
-ru-RU_flavor: "'Просто помни, что когда ты изгонишь дьявола, он будет в ярости.' - первый экзорцист Фолаянг"
+pl-PL_name: "Egzorcyzm"
+pl-PL_description: "Usuń wskazane błogosławieństwo aby zniszczyć wszystkich przeciwników, którzy nie są bossami w tej samej kolumnie i wierszu."
+pl-PL_flavor: "'Jak pogonisz diabła, to diabeł cię pogoni.' - powiedzenie egzorcystów"
 tile_id: Exorcism
 cost: 1
 image: /images/Exorcism.png

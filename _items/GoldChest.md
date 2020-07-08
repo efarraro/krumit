@@ -80,6 +80,46 @@ cost: 0
 image: /images/GoldChest.png
 durability: 1
 hero: warrior
+ru-RU_name: "Золотой сундук"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт 3 💰"
+ru-RU_flavor: "Сам сундук, скорее всего, стоит больше, чем само сокровище, но он не поместится в ваших карманах."
+tile_id: GoldChest
+cost: 0
+image: /images/GoldChest.png
+durability: 1
+hero: warrior
+ru-RU_name: "Золотой сундук"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт 3 💰"
+ru-RU_flavor: "Сам сундук, скорее всего, стоит больше, чем само сокровище, но он не поместится в ваших карманах."
+tile_id: GoldChest
+cost: 0
+image: /images/GoldChest.png
+durability: 1
+hero: warrior
+ru-RU_name: "Золотой сундук"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт 3 💰"
+ru-RU_flavor: "Сам сундук, скорее всего, стоит больше, чем само сокровище, но он не поместится в ваших карманах."
+tile_id: GoldChest
+cost: 0
+image: /images/GoldChest.png
+durability: 1
+hero: warrior
+ru-RU_name: "Золотой сундук"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт 3 💰"
+ru-RU_flavor: "Сам сундук, скорее всего, стоит больше, чем само сокровище, но он не поместится в ваших карманах."
+tile_id: GoldChest
+cost: 0
+image: /images/GoldChest.png
+durability: 1
+hero: warrior
+ru-RU_name: "Золотой сундук"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт 3 💰"
+ru-RU_flavor: "Сам сундук, скорее всего, стоит больше, чем само сокровище, но он не поместится в ваших карманах."
+tile_id: GoldChest
+cost: 0
+image: /images/GoldChest.png
+durability: 1
+hero: warrior
 es-ES_name: "Cofre Dorado"
 es-ES_description: "<u><u>Instantánea</u></u>. Gana 3 💰"
 es-ES_flavor: "El cofre en sí probablemente vale más que el tesoro, pero no cabe en tus bolsillos."
@@ -120,41 +160,41 @@ cost: 0
 image: /images/GoldChest.png
 durability: 1
 hero: warrior
-ru-RU_name: "Золотой сундук"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт 3 💰"
-ru-RU_flavor: "Сам сундук, скорее всего, стоит больше, чем само сокровище, но он не поместится в ваших карманах."
+pl-PL_name: "Złota Skrzynka"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. +3 💰"
+pl-PL_flavor: "Sama skrzynia pewnie jest warta więcej niż zawartość, ale nie zmieści się w kieszeni."
 tile_id: GoldChest
 cost: 0
 image: /images/GoldChest.png
 durability: 1
 hero: warrior
-ru-RU_name: "Золотой сундук"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт 3 💰"
-ru-RU_flavor: "Сам сундук, скорее всего, стоит больше, чем само сокровище, но он не поместится в ваших карманах."
+pl-PL_name: "Złota Skrzynka"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. +3 💰"
+pl-PL_flavor: "Sama skrzynia pewnie jest warta więcej niż zawartość, ale nie zmieści się w kieszeni."
 tile_id: GoldChest
 cost: 0
 image: /images/GoldChest.png
 durability: 1
 hero: warrior
-ru-RU_name: "Золотой сундук"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт 3 💰"
-ru-RU_flavor: "Сам сундук, скорее всего, стоит больше, чем само сокровище, но он не поместится в ваших карманах."
+pl-PL_name: "Złota Skrzynka"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. +3 💰"
+pl-PL_flavor: "Sama skrzynia pewnie jest warta więcej niż zawartość, ale nie zmieści się w kieszeni."
 tile_id: GoldChest
 cost: 0
 image: /images/GoldChest.png
 durability: 1
 hero: warrior
-ru-RU_name: "Золотой сундук"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт 3 💰"
-ru-RU_flavor: "Сам сундук, скорее всего, стоит больше, чем само сокровище, но он не поместится в ваших карманах."
+pl-PL_name: "Złota Skrzynka"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. +3 💰"
+pl-PL_flavor: "Sama skrzynia pewnie jest warta więcej niż zawartość, ale nie zmieści się w kieszeni."
 tile_id: GoldChest
 cost: 0
 image: /images/GoldChest.png
 durability: 1
 hero: warrior
-ru-RU_name: "Золотой сундук"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Даёт 3 💰"
-ru-RU_flavor: "Сам сундук, скорее всего, стоит больше, чем само сокровище, но он не поместится в ваших карманах."
+pl-PL_name: "Złota Skrzynka"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. +3 💰"
+pl-PL_flavor: "Sama skrzynia pewnie jest warta więcej niż zawartość, ale nie zmieści się w kieszeni."
 tile_id: GoldChest
 cost: 0
 image: /images/GoldChest.png

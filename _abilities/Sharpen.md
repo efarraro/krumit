@@ -14,6 +14,13 @@ tile_id: Sharpen
 cost: 1
 image: /images/Sharpen.png
 hero: warrior
+ru-RU_name: "Точилка"
+ru-RU_description: "Увеличивает 🔸 всех рукопашных оружий на поле на 2. <u>Сжигается</u>"
+ru-RU_flavor: "Тупое лезвие, как тупой ум - не очень хорош в кроссвордах."
+tile_id: Sharpen
+cost: 1
+image: /images/Sharpen.png
+hero: warrior
 es-ES_name: "Afilar"
 es-ES_description: "Incrementa el 🔸 de todas las armas de melé en el tablero en 2. <u>Agota</u>"
 es-ES_flavor: "Una espada roma es como una mente roma - bastante inútil para resolver crucigramas."
@@ -21,9 +28,9 @@ tile_id: Sharpen
 cost: 1
 image: /images/Sharpen.png
 hero: warrior
-ru-RU_name: "Точилка"
-ru-RU_description: "Увеличивает 🔸 всех рукопашных оружий на поле на 2. <u>Сжигается</u>"
-ru-RU_flavor: "Тупое лезвие, как тупой ум - не очень хорош в кроссвордах."
+pl-PL_name: "Osełka"
+pl-PL_description: "Wszystkie bronie na planszy otrzymują +2 🔸. <u>Wyczerpany</u>"
+pl-PL_flavor: "Tępe ostrze jest jak tępy łeb - nie nadaje się do rozwiązywania krzyżówek."
 tile_id: Sharpen
 cost: 1
 image: /images/Sharpen.png

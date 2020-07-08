@@ -14,6 +14,13 @@ tile_id: Char
 cost: 1
 image: /images/Char.png
 hero: mage
+ru-RU_name: "Обжигание"
+ru-RU_description: "Накладывает  <u>ожог</u> (3) на выбранного врага. <u>Сжигается</u>"
+ru-RU_flavor: "Простое заклинание пироманта: чаще всего используется для барбекю, чем для битвы."
+tile_id: Char
+cost: 1
+image: /images/Char.png
+hero: mage
 es-ES_name: "Chamuscar"
 es-ES_description: " <u>quema</u> (3) un enemigo. <u>Agota</u>"
 es-ES_flavor: "Un simple hechizo de piromancia, más propenso a ser usado en una barbacoa que en una batalla."
@@ -21,9 +28,9 @@ tile_id: Char
 cost: 1
 image: /images/Char.png
 hero: mage
-ru-RU_name: "Обжигание"
-ru-RU_description: "Накладывает  <u>ожог</u> (3) на выбранного врага. <u>Сжигается</u>"
-ru-RU_flavor: "Простое заклинание пироманта: чаще всего используется для барбекю, чем для битвы."
+pl-PL_name: "Przypalenie"
+pl-PL_description: "Wskazany przeciwnik otrzymuje  <u>podpalenie</u> (3). <u>Wyczerpany</u>"
+pl-PL_flavor: "Proste zaklęcie magii ognia, częściej używane na karkówkę niż na przeciwnika."
 tile_id: Char
 cost: 1
 image: /images/Char.png

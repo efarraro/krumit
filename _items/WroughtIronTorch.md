@@ -16,6 +16,14 @@ cost: 3
 image: /images/WroughtIronTorch.png
 durability: 3
 hero: priest
+ru-RU_name: "Факел из кованого железа"
+ru-RU_description: "<u>Разрушение</u>: <u>мутирует</u> в 🟦Королева"
+ru-RU_flavor: "Просветите чью-то голову этим просветляющим подсвечником!"
+tile_id: WroughtIronTorch
+cost: 3
+image: /images/WroughtIronTorch.png
+durability: 3
+hero: priest
 es-ES_name: "Antorcha de Hierro Forjado"
 es-ES_description: "<u>Vaciado</u>: Intercambia tu ventaja inicial por 🟦Reina"
 es-ES_flavor: "¡Con estas llamas a la sazón quemarás a un cabezón!"
@@ -24,9 +32,9 @@ cost: 3
 image: /images/WroughtIronTorch.png
 durability: 3
 hero: priest
-ru-RU_name: "Факел из кованого железа"
-ru-RU_description: "<u>Разрушение</u>: <u>мутирует</u> в 🟦Королева"
-ru-RU_flavor: "Просветите чью-то голову этим просветляющим подсвечником!"
+pl-PL_name: "Pochodnia z kutego żelaza"
+pl-PL_description: "<u>Spożytkowanie</u>: <u>Mutacja</u> 🟦Królowa"
+pl-PL_flavor: "Służy do gaszenia heretycznych pomysłów. Ciekawe."
 tile_id: WroughtIronTorch
 cost: 3
 image: /images/WroughtIronTorch.png

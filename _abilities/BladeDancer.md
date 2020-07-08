@@ -14,6 +14,13 @@ tile_id: BladeDancer
 cost: 6
 image: /images/BladeDancer.png
 hero: rogue
+ru-RU_name: "Танцор Клинка"
+ru-RU_description: "Наносит урон всем врагам, равный количеству использованных <a href = '../ru_ru/abilities#Stab'>Удар ножом</a> в этом подземельи. <u>Сжигается</u>"
+ru-RU_flavor: "'От ваших зрителей – овации стоя. От ваших врагов – тишина.' – инструктор труппы Торнивальд"
+tile_id: BladeDancer
+cost: 6
+image: /images/BladeDancer.png
+hero: rogue
 es-ES_name: "Danza de las Espadas"
 es-ES_description: "Haz daño a todos los enemigos equivalente al número de veces que hayas usado <a href = '../es_es/abilities#Stab'>Apuñalar</a> en esta mazmorra. <u>Agota</u>"
 es-ES_flavor: "De tu audiencia, una ovación de pie. De tus víctimas - silencio.' - Tornivald, Instructor del Elenco"
@@ -21,9 +28,9 @@ tile_id: BladeDancer
 cost: 6
 image: /images/BladeDancer.png
 hero: rogue
-ru-RU_name: "Танцор Клинка"
-ru-RU_description: "Наносит урон всем врагам, равный количеству использованных <a href = '../ru_ru/abilities#Stab'>Удар ножом</a> в этом подземельи. <u>Сжигается</u>"
-ru-RU_flavor: "'От ваших зрителей – овации стоя. От ваших врагов – тишина.' – инструктор труппы Торнивальд"
+pl-PL_name: "Tańczący z ostrzami"
+pl-PL_description: "Zadaj wszystkim przeciwnikom obrażenia równe liczbie <a href = '../pl_pl/abilities#Stab'>Dźgnięcie</a> użytych w tym lochu. <u>Wyczerpany</u>"
+pl-PL_flavor: "Od twych widzów, owacje na stojąco. Od twych ofiar - cisza.' - Tornivald, Instruktor trupy"
 tile_id: BladeDancer
 cost: 6
 image: /images/BladeDancer.png

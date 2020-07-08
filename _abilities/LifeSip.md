@@ -14,6 +14,13 @@ tile_id: LifeSip
 cost: 1
 image: /images/LifeSip.png
 hero: necromancer
+ru-RU_name: "Глоток жизни"
+ru-RU_description: "Наносит 2 <u>пронзающий</u> урона и восстанавливает 3 ❤️. <u>Сжигается</u>"
+ru-RU_flavor: "'Только один глоток! Оставь немного для меня!'"
+tile_id: LifeSip
+cost: 1
+image: /images/LifeSip.png
+hero: necromancer
 es-ES_name: "Trago Vital"
 es-ES_description: "Haz 2 de daño <u>penetrante</u> a un enemigo objetivo y recupera 3 ❤️. <u>Agota</u>"
 es-ES_flavor: "'¡Sólo un traguito! ¡Déjame un poco!'"
@@ -21,9 +28,9 @@ tile_id: LifeSip
 cost: 1
 image: /images/LifeSip.png
 hero: necromancer
-ru-RU_name: "Глоток жизни"
-ru-RU_description: "Наносит 2 <u>пронзающий</u> урона и восстанавливает 3 ❤️. <u>Сжигается</u>"
-ru-RU_flavor: "'Только один глоток! Оставь немного для меня!'"
+pl-PL_name: "Łyk Życia"
+pl-PL_description: "Zadaj 2 przenikliwych (<u>przenikający</u>) obrażeń wskazanemu przeciwnikowi i odzyskaj 3 ❤️. <u>Wyczerpany</u>"
+pl-PL_flavor: "'Daj łyka...'"
 tile_id: LifeSip
 cost: 1
 image: /images/LifeSip.png

@@ -10,14 +10,19 @@ zh-CN_description: "在本层地下城中，每次触发 <u>剧毒</u>时都会�
 zh-CN_flavor: "目前暂时被关在了（人们是这么认为的……）毒药库中，沼泥垃平时会制作各种毒药和诡异的点心。她一直寻找着失散已久的妹妹玛莎，两人之间还有一些事情没有解决。"
 tile_id: Swampalina
 image: /images/Swampalina.png
+ru-RU_name: "Свампалина"
+ru-RU_description: "Когда враги появляются на поле, они накладывают  <u>яд</u> (1) на вас. Глобберы также имеют дополнительную атаку с ядом"
+ru-RU_flavor: "В настоящее время заключенная (или, как они думают...) в Токсичном убежищи, Свампалина - коварная пивоварница мерзких ядов и странных тортов. Она всё еще ищет свою давно потерянную сестру Маршу, с которой у нее остались незаконченные дела."
+tile_id: Swampalina
+image: /images/Swampalina.png
 es-ES_name: "Pantanuela"
 es-ES_description: "En esta mazmorra, los enemigos te infligen  <u>veneno</u> (1) cuando entran al tablero. Además, los Babotes ganan un ataque venenoso extra"
 es-ES_flavor: "Pantanuela es una malévola fabricante de viles venenos y bizarros pasteles, actualmente aprisionada (o eso creen...) en la Bóveda Tóxica. Sigue buscando a su hermana Cenagosa, perdida hace mucho tiempo, con quien tiene asuntos sin terminar."
 tile_id: Swampalina
 image: /images/Swampalina.png
-ru-RU_name: "Свампалина"
-ru-RU_description: "Когда враги появляются на поле, они накладывают  <u>яд</u> (1) на вас. Глобберы также имеют дополнительную атаку с ядом"
-ru-RU_flavor: "В настоящее время заключенная (или, как они думают...) в Токсичном убежищи, Свампалина - коварная пивоварница мерзких ядов и странных тортов. Она всё еще ищет свою давно потерянную сестру Маршу, с которой у нее остались незаконченные дела."
+pl-PL_name: "Baglinka"
+pl-PL_description: "W tym lochu, pojawiający się przeciwnicy zadają  <u>trucizna</u> (1). Szlamory zatruwają swoim pierwszym atakiem."
+pl-PL_flavor: "Uwięziona (oficjalnie...) w Toksycznej Krypcie, Bagninka jest przebiegłą warzycielką trucizn i dziwacznych ciast. Gdy nie zajmuje się warzeniem, planuje zrewanżowanie się swojej siostrze, Bajorce."
 tile_id: Swampalina
 image: /images/Swampalina.png
 ---

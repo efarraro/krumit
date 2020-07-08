@@ -16,6 +16,14 @@ cost: 1
 image: /images/MysticEyepatch.png
 durability: 2
 hero: mage
+ru-RU_name: "Мистическая повязка для глаз"
+ru-RU_description: "Когда эта карточка добавляется на поле, уменьшает стоимость способностей в том же столбце на 2"
+ru-RU_flavor: "Кому нужно глубинное зрение, когда есть пиратское?"
+tile_id: MysticEyepatch
+cost: 1
+image: /images/MysticEyepatch.png
+durability: 2
+hero: mage
 es-ES_name: "Parche de Ojo Místico"
 es-ES_description: "Cuando esta ficha sea añadida al tablero, reduce el costo de las habilidades en la misma columna en 2"
 es-ES_flavor: "¿Quién necesita visión estereoscópica cuando puedes tener visión piratesca?"
@@ -24,9 +32,9 @@ cost: 1
 image: /images/MysticEyepatch.png
 durability: 2
 hero: mage
-ru-RU_name: "Мистическая повязка для глаз"
-ru-RU_description: "Когда эта карточка добавляется на поле, уменьшает стоимость способностей в том же столбце на 2"
-ru-RU_flavor: "Кому нужно глубинное зрение, когда есть пиратское?"
+pl-PL_name: "Mistyczna Przepaska na Oko"
+pl-PL_description: "Gdy ta płytka pojawia się na planszy, koszt umiejętności w tej samej kolumnie jest zmniejszony 2."
+pl-PL_flavor: "Po co komu widzenie obuoczne?"
 tile_id: MysticEyepatch
 cost: 1
 image: /images/MysticEyepatch.png

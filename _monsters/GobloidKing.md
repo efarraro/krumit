@@ -10,14 +10,19 @@ zh-CN_description: "地下城中的所有哥布森+1攻击力。向地下城牌�
 zh-CN_flavor: "为了伟大哥布森共和国而奋斗着，就如创始哥布森踏布预言的一样。固守着武力和恶臭的力量。"
 tile_id: GobloidKing
 image: /images/GobloidKing.png
+ru-RU_name: "Гоблорд Ваггу"
+ru-RU_description: "В этом подземельи все гоблоиды имеют +1 🔸. В начале этого подземелья замешивает 3 копии <a href = '../ru_ru/items#Tranquilizer'>Транквилизатор</a> в колоду подземелья"
+ru-RU_flavor: "Сражается в погоне за Великой республикой Гоблоидов, как предсказывал основатель Гоблоидов, Т'аббу. Цепляется за власть с силой и вонью."
+tile_id: GobloidKing
+image: /images/GobloidKing.png
 es-ES_name: "Jefe Gobloide Waggu"
 es-ES_description: "Todos los Gobloides tienen +1 🔸 en esta mazmorra. Baraja 3x <a href = '../es_es/items#Tranquilizer'>Tranquilizadora</a> en el mazo"
 es-ES_flavor: "Lucha en pos de la Gran República Gobloide, como fue predicho por el Fundador Gobloide, T’abbu. Se aferra al poder con toda su fuerza y hedor."
 tile_id: GobloidKing
 image: /images/GobloidKing.png
-ru-RU_name: "Гоблорд Ваггу"
-ru-RU_description: "В этом подземельи все гоблоиды имеют +1 🔸. В начале этого подземелья замешивает 3 копии <a href = '../ru_ru/items#Tranquilizer'>Транквилизатор</a> в колоду подземелья"
-ru-RU_flavor: "Сражается в погоне за Великой республикой Гоблоидов, как предсказывал основатель Гоблоидов, Т'аббу. Цепляется за власть с силой и вонью."
+pl-PL_name: "Goblord Waggu"
+pl-PL_description: "Wszystkie Gobloidy mają +1 🔸 w tym lochu. Wtasuj 3 <a href = '../pl_pl/items#Tranquilizer'>Środek Uspokajający</a> do talii."
+pl-PL_flavor: "Walczy o zjednoczenie Wielkiego Państwa Gobloidzkiego, zgodnie z przepowiednią Proroka Gobloidów, T'abbu. Utrzymuje się przy władzy siłą i smrodem."
 tile_id: GobloidKing
 image: /images/GobloidKing.png
 ---

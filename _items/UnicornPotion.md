@@ -80,6 +80,46 @@ cost: 3
 image: /images/UnicornPotion.png
 durability: 3
 hero: warrior
+ru-RU_name: "Зелье трансмогрификации"
+ru-RU_description: "Преобразовывает предмет в случайный и уменьшает стоимость этого предмета на 2."
+ru-RU_flavor: "Посыпьте на что-нибудь несколько капель слюны единорога, и смотрите, как она превращается в другое! Но не ожидайте, что сможете вывести пятно."
+tile_id: UnicornPotion
+cost: 3
+image: /images/UnicornPotion.png
+durability: 3
+hero: warrior
+ru-RU_name: "Зелье трансмогрификации"
+ru-RU_description: "Преобразовывает предмет в случайный и уменьшает стоимость этого предмета на 2."
+ru-RU_flavor: "Посыпьте на что-нибудь несколько капель слюны единорога, и смотрите, как она превращается в другое! Но не ожидайте, что сможете вывести пятно."
+tile_id: UnicornPotion
+cost: 3
+image: /images/UnicornPotion.png
+durability: 3
+hero: warrior
+ru-RU_name: "Зелье трансмогрификации"
+ru-RU_description: "Преобразовывает предмет в случайный и уменьшает стоимость этого предмета на 2."
+ru-RU_flavor: "Посыпьте на что-нибудь несколько капель слюны единорога, и смотрите, как она превращается в другое! Но не ожидайте, что сможете вывести пятно."
+tile_id: UnicornPotion
+cost: 3
+image: /images/UnicornPotion.png
+durability: 3
+hero: warrior
+ru-RU_name: "Зелье трансмогрификации"
+ru-RU_description: "Преобразовывает предмет в случайный и уменьшает стоимость этого предмета на 2."
+ru-RU_flavor: "Посыпьте на что-нибудь несколько капель слюны единорога, и смотрите, как она превращается в другое! Но не ожидайте, что сможете вывести пятно."
+tile_id: UnicornPotion
+cost: 3
+image: /images/UnicornPotion.png
+durability: 3
+hero: warrior
+ru-RU_name: "Зелье трансмогрификации"
+ru-RU_description: "Преобразовывает предмет в случайный и уменьшает стоимость этого предмета на 2."
+ru-RU_flavor: "Посыпьте на что-нибудь несколько капель слюны единорога, и смотрите, как она превращается в другое! Но не ожидайте, что сможете вывести пятно."
+tile_id: UnicornPotion
+cost: 3
+image: /images/UnicornPotion.png
+durability: 3
+hero: warrior
 es-ES_name: "Poción de Transmogrificación"
 es-ES_description: "Transforma un ítem de tu elección en un ítem aleatorio, y reduce el costo de ese ítem en 2"
 es-ES_flavor: "¡Rocía algunas gotas de saliva de Unicornio sobre algo, y observa cómo se transmogrifica en otra cosa! Pero no esperes poder sacar las manchas."
@@ -120,41 +160,41 @@ cost: 3
 image: /images/UnicornPotion.png
 durability: 3
 hero: warrior
-ru-RU_name: "Зелье трансмогрификации"
-ru-RU_description: "Преобразовывает предмет в случайный и уменьшает стоимость этого предмета на 2."
-ru-RU_flavor: "Посыпьте на что-нибудь несколько капель слюны единорога, и смотрите, как она превращается в другое! Но не ожидайте, что сможете вывести пятно."
+pl-PL_name: "Mikstura Transmogrifikacji"
+pl-PL_description: "Przemień wskazany przedmiot w inny losowy przedmiot i obniż jego koszt o 2 💰."
+pl-PL_flavor: "Skroplenie kilku kropel śliny jednorożca wystarczy aby przedmiot przemienił się w coś zupełnie nowego! Plama, niestety, się nie odpierze."
 tile_id: UnicornPotion
 cost: 3
 image: /images/UnicornPotion.png
 durability: 3
 hero: warrior
-ru-RU_name: "Зелье трансмогрификации"
-ru-RU_description: "Преобразовывает предмет в случайный и уменьшает стоимость этого предмета на 2."
-ru-RU_flavor: "Посыпьте на что-нибудь несколько капель слюны единорога, и смотрите, как она превращается в другое! Но не ожидайте, что сможете вывести пятно."
+pl-PL_name: "Mikstura Transmogrifikacji"
+pl-PL_description: "Przemień wskazany przedmiot w inny losowy przedmiot i obniż jego koszt o 2 💰."
+pl-PL_flavor: "Skroplenie kilku kropel śliny jednorożca wystarczy aby przedmiot przemienił się w coś zupełnie nowego! Plama, niestety, się nie odpierze."
 tile_id: UnicornPotion
 cost: 3
 image: /images/UnicornPotion.png
 durability: 3
 hero: warrior
-ru-RU_name: "Зелье трансмогрификации"
-ru-RU_description: "Преобразовывает предмет в случайный и уменьшает стоимость этого предмета на 2."
-ru-RU_flavor: "Посыпьте на что-нибудь несколько капель слюны единорога, и смотрите, как она превращается в другое! Но не ожидайте, что сможете вывести пятно."
+pl-PL_name: "Mikstura Transmogrifikacji"
+pl-PL_description: "Przemień wskazany przedmiot w inny losowy przedmiot i obniż jego koszt o 2 💰."
+pl-PL_flavor: "Skroplenie kilku kropel śliny jednorożca wystarczy aby przedmiot przemienił się w coś zupełnie nowego! Plama, niestety, się nie odpierze."
 tile_id: UnicornPotion
 cost: 3
 image: /images/UnicornPotion.png
 durability: 3
 hero: warrior
-ru-RU_name: "Зелье трансмогрификации"
-ru-RU_description: "Преобразовывает предмет в случайный и уменьшает стоимость этого предмета на 2."
-ru-RU_flavor: "Посыпьте на что-нибудь несколько капель слюны единорога, и смотрите, как она превращается в другое! Но не ожидайте, что сможете вывести пятно."
+pl-PL_name: "Mikstura Transmogrifikacji"
+pl-PL_description: "Przemień wskazany przedmiot w inny losowy przedmiot i obniż jego koszt o 2 💰."
+pl-PL_flavor: "Skroplenie kilku kropel śliny jednorożca wystarczy aby przedmiot przemienił się w coś zupełnie nowego! Plama, niestety, się nie odpierze."
 tile_id: UnicornPotion
 cost: 3
 image: /images/UnicornPotion.png
 durability: 3
 hero: warrior
-ru-RU_name: "Зелье трансмогрификации"
-ru-RU_description: "Преобразовывает предмет в случайный и уменьшает стоимость этого предмета на 2."
-ru-RU_flavor: "Посыпьте на что-нибудь несколько капель слюны единорога, и смотрите, как она превращается в другое! Но не ожидайте, что сможете вывести пятно."
+pl-PL_name: "Mikstura Transmogrifikacji"
+pl-PL_description: "Przemień wskazany przedmiot w inny losowy przedmiot i obniż jego koszt o 2 💰."
+pl-PL_flavor: "Skroplenie kilku kropel śliny jednorożca wystarczy aby przedmiot przemienił się w coś zupełnie nowego! Plama, niestety, się nie odpierze."
 tile_id: UnicornPotion
 cost: 3
 image: /images/UnicornPotion.png

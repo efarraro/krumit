@@ -38,6 +38,25 @@ monsters:
     image: /images/GobloidKing.png
     quantity: 1
     url: /monsters/GobloidKing
+ru-RU_name: "Столица Гоблоидов: В'аггу"
+ru-RU_description: "В'аггу - это название столицы Гоблоидов. И имя их короля. И их фирменное блюдо. И самое популярное имя ребенка Гоблоида."
+tier: 2
+monsters:
+  - monster:
+    name: "Гоблоид"
+    image: /images/Gobloid.png
+    quantity: 5
+    url: /monsters/Gobloid
+  - monster:
+    name: "Каскоголовый"
+    image: /images/GobloidKnucklehead.png
+    quantity: 4
+    url: /monsters/GobloidKnucklehead
+  - monster:
+    name: "Гоблорд Ваггу"
+    image: /images/GobloidKing.png
+    quantity: 1
+    url: /monsters/GobloidKing
 es-ES_name: "Capital Gobloide: W'aggu"
 es-ES_description: "W'aggu es la 'ciudad' capital de los Gobloides. Y también es el nombre de su rey. Y de su plato típico. Y también es el nombre más popular para los bebés Gobloides."
 tier: 2
@@ -57,22 +76,22 @@ monsters:
     image: /images/GobloidKing.png
     quantity: 1
     url: /monsters/GobloidKing
-ru-RU_name: "Столица Гоблоидов: В'аггу"
-ru-RU_description: "В'аггу - это название столицы Гоблоидов. И имя их короля. И их фирменное блюдо. И самое популярное имя ребенка Гоблоида."
+pl-PL_name: "W'aggu, Stolica Gobloidów"
+pl-PL_description: "W'aggu jest stolicą Gobloidów. I imieniem ich króla. I nazwą tradycyjnej potrawy. I najpopularniejszym imieniem   przez ostatnie dziesięć tysięcy lat."
 tier: 2
 monsters:
   - monster:
-    name: "Гоблоид"
+    name: "Gobloid"
     image: /images/Gobloid.png
     quantity: 5
     url: /monsters/Gobloid
   - monster:
-    name: "Каскоголовый"
+    name: "Wiadrołeb"
     image: /images/GobloidKnucklehead.png
     quantity: 4
     url: /monsters/GobloidKnucklehead
   - monster:
-    name: "Гоблорд Ваггу"
+    name: "Goblord Waggu"
     image: /images/GobloidKing.png
     quantity: 1
     url: /monsters/GobloidKing

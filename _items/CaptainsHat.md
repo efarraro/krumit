@@ -16,6 +16,14 @@ cost: 2
 image: /images/CaptainsHat.png
 durability: 2
 hero: necromancer
+ru-RU_name: "Шляпа капитана"
+ru-RU_description: "Когда вы получаете этот предмет, увеличивает 🔸 ваших 💀 <u>миньонов</u> на 1"
+ru-RU_flavor: "Возьмите одну на команду, затем возглавьте атаку."
+tile_id: CaptainsHat
+cost: 2
+image: /images/CaptainsHat.png
+durability: 2
+hero: necromancer
 es-ES_name: "Sombrero de Capitán"
 es-ES_description: "Cuando adquieras este ítem, incrementa el 🔸 de tus 💀 <u>Esbirros</u> en 1"
 es-ES_flavor: "Sacrifícate por el equipo, y luego lidera la carga."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/CaptainsHat.png
 durability: 2
 hero: necromancer
-ru-RU_name: "Шляпа капитана"
-ru-RU_description: "Когда вы получаете этот предмет, увеличивает 🔸 ваших 💀 <u>миньонов</u> на 1"
-ru-RU_flavor: "Возьмите одну на команду, затем возглавьте атаку."
+pl-PL_name: "Kapelusz Kapitana"
+pl-PL_description: "Gdy blokujesz tym przedmiotem, zwiększ atak swoich sługusów o 1 (💀 <u>Sługus</u>)"
+pl-PL_flavor: "Jeden za wszystkich, potem wszyscy za jednym."
 tile_id: CaptainsHat
 cost: 2
 image: /images/CaptainsHat.png

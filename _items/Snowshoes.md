@@ -16,6 +16,14 @@ cost: 3
 image: /images/Snowshoes.png
 durability: 3
 hero: mage
+ru-RU_name: "Снегоступы"
+ru-RU_description: "Стоит на 1 💰 за каждого <u>замороженного</u> врага в этом ряду и столбце"
+ru-RU_flavor: "Они не предназначены для игры в теннис. Или пинг-понг. Или бадминтон."
+tile_id: Snowshoes
+cost: 3
+image: /images/Snowshoes.png
+durability: 3
+hero: mage
 es-ES_name: "Raquetas de Nieve"
 es-ES_description: "El costo de adquirir este ítem se reduce en 1 por cada enemigo <u>congelado</u> en la misma fila o columna"
 es-ES_flavor: "No son para jugar al tenis. Ni al ping-pong. Ni al bádminton. Ni al- yo creo que ya entendiste."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/Snowshoes.png
 durability: 3
 hero: mage
-ru-RU_name: "Снегоступы"
-ru-RU_description: "Стоит на 1 💰 за каждого <u>замороженного</u> врага в этом ряду и столбце"
-ru-RU_flavor: "Они не предназначены для игры в теннис. Или пинг-понг. Или бадминтон."
+pl-PL_name: "Rakiety śniegowe"
+pl-PL_description: "Koszt uzyskania tego przedmiotu jest obniżony o 1 💰 za każdego zamrożonego (<u>zamrożony</u>) wroga w tej samej kolumnie i wierszu"
+pl-PL_flavor: "Cukinia czy ogórek? Pomarańcza czy grejpfrut? Rakieta tenisowa czy śniegowa? Niektórzy nie potrafią ich odróżnić od siebie."
 tile_id: Snowshoes
 cost: 3
 image: /images/Snowshoes.png

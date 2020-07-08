@@ -16,6 +16,14 @@ cost: 4
 image: /images/SummoningStaff.png
 durability: 3
 hero: necromancer
+ru-RU_name: "Посох злодея"
+ru-RU_description: "Когда вы получаете это, призывает 2 💀 <u>миньонов</u> Скелет"
+ru-RU_flavor: "В наши дни так трудно найти персонал. Но когда ты это делаешь, так легко найти миньонов."
+tile_id: SummoningStaff
+cost: 4
+image: /images/SummoningStaff.png
+durability: 3
+hero: necromancer
 es-ES_name: "Báculo Malvado"
 es-ES_description: "Cuando adquieras esto, invoca 2 💀 <u>Esbirros</u>
 Esqueleto"
@@ -25,9 +33,9 @@ cost: 4
 image: /images/SummoningStaff.png
 durability: 3
 hero: necromancer
-ru-RU_name: "Посох злодея"
-ru-RU_description: "Когда вы получаете это, призывает 2 💀 <u>миньонов</u> Скелет"
-ru-RU_flavor: "В наши дни так трудно найти персонал. Но когда ты это делаешь, так легко найти миньонов."
+pl-PL_name: "Laska Nikczemności"
+pl-PL_description: "Gdy uzyskasz, przywołaj 2 Szkielet 💀 <u>Sługusy</u>."
+pl-PL_flavor: "Laska tak nikczemna, że bezpieczniej jej nie dotykać. Lepiej pozwolić sługusom nosić ją za tobą."
 tile_id: SummoningStaff
 cost: 4
 image: /images/SummoningStaff.png

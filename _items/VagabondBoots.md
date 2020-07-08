@@ -16,6 +16,14 @@ cost: 2
 image: /images/VagabondBoots.png
 durability: 3
 hero: rogue
+ru-RU_name: "Сапоги бродяги"
+ru-RU_description: "Когда вы используете способность, восстанавливает 1 прочность этому предмету"
+ru-RU_flavor: "Пара ботинок для бега так же важны, как острый кинжал."
+tile_id: VagabondBoots
+cost: 2
+image: /images/VagabondBoots.png
+durability: 3
+hero: rogue
 es-ES_name: "Botas de Vagabundo"
 es-ES_description: "Repara 1 de durabilidad a este ítem cada vez que uses una habilidad"
 es-ES_flavor: "Un par de zapatos para correr son tan importantes como una daga bien afilada."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/VagabondBoots.png
 durability: 3
 hero: rogue
-ru-RU_name: "Сапоги бродяги"
-ru-RU_description: "Когда вы используете способность, восстанавливает 1 прочность этому предмету"
-ru-RU_flavor: "Пара ботинок для бега так же важны, как острый кинжал."
+pl-PL_name: "Buty Wagabunda"
+pl-PL_description: "Odnów 1 trwałości tego gdy użyjesz umiejętności."
+pl-PL_flavor: "Para butów do biegania jest równie ważna jak ostry sztylet."
 tile_id: VagabondBoots
 cost: 2
 image: /images/VagabondBoots.png

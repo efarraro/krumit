@@ -16,6 +16,14 @@ cost: 3
 image: /images/Crowbar.png
 durability: 3
 hero: warrior
+ru-RU_name: "Лом"
+ru-RU_description: "Снимает всю броню и 🛡️️ <u>блок</u> с выбранного врага. Добавляет <a href = '../ru_ru/items#PlateArmor'>Латный доспех</a> с 1 прочностью в ваше снаряжение"
+ru-RU_flavor: "Универсальный и простой в использовании. Часто используется в качестве предмета для перемещения по дому."
+tile_id: Crowbar
+cost: 3
+image: /images/Crowbar.png
+durability: 3
+hero: warrior
 es-ES_name: "Pata de Cabra"
 es-ES_description: "Remueve toda la armadura y 🛡️️ <u>bloqueo</u> de un enemigo objetivo. Añade una <a href = '../es_es/items#PlateArmor'>Coraza de Acero</a> con 1 de durabilidad a tu inventario"
 es-ES_flavor: "¡No vayas a confundirla con el plato favorito de Bruno!"
@@ -24,9 +32,9 @@ cost: 3
 image: /images/Crowbar.png
 durability: 3
 hero: warrior
-ru-RU_name: "Лом"
-ru-RU_description: "Снимает всю броню и 🛡️️ <u>блок</u> с выбранного врага. Добавляет <a href = '../ru_ru/items#PlateArmor'>Латный доспех</a> с 1 прочностью в ваше снаряжение"
-ru-RU_flavor: "Универсальный и простой в использовании. Часто используется в качестве предмета для перемещения по дому."
+pl-PL_name: "Łom"
+pl-PL_description: "Usuń cały pancerz i 🛡️️ <u>blok</u> wskazanego wroga. Dodaj <a href = '../pl_pl/items#PlateArmor'>Zbroja Płytowa</a> o trwałości 1 do ekwipunku."
+pl-PL_flavor: "'Dobry łom przemieni zbroję w złom!' - powiedzonko Bruna."
 tile_id: Crowbar
 cost: 3
 image: /images/Crowbar.png

@@ -16,6 +16,14 @@ cost: 2
 image: /images/PipeSword.png
 durability: 3
 hero: warrior
+ru-RU_name: "Трубный меч"
+ru-RU_description: "Обыкновенный предмет - никаких дополнительных свойств"
+ru-RU_flavor: "Ceci n’est pas une pipe."
+tile_id: PipeSword
+cost: 2
+image: /images/PipeSword.png
+durability: 3
+hero: warrior
 es-ES_name: "Espada de pipa"
 es-ES_description: "Ítem básico - sin efectos adicionales"
 es-ES_flavor: "Ceci n'est pas une pipe. Es una espadipa. Un espadaño. Una cañispada."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/PipeSword.png
 durability: 3
 hero: warrior
-ru-RU_name: "Трубный меч"
-ru-RU_description: "Обыкновенный предмет - никаких дополнительных свойств"
-ru-RU_flavor: "Ceci n’est pas une pipe."
+pl-PL_name: "Gazrurka"
+pl-PL_description: "Podstawowy przedmiot - brak dodatkowych efektów"
+pl-PL_flavor: "Widziałem na ulicach Nukr0polis gaz."
 tile_id: PipeSword
 cost: 2
 image: /images/PipeSword.png

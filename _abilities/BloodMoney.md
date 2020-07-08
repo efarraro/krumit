@@ -14,6 +14,13 @@ tile_id: BloodMoney
 cost: 0
 image: /images/BloodMoney.png
 hero: necromancer
+ru-RU_name: "Кровавые деньги"
+ru-RU_description: "Потратьте 2 ❤️, чтобы получить 1 💰"
+ru-RU_flavor: "Дает ответ на вопрос 'А сколько стоит жизнь?'"
+tile_id: BloodMoney
+cost: 0
+image: /images/BloodMoney.png
+hero: necromancer
 es-ES_name: "Dinero Sangriento"
 es-ES_description: "Paga 2 ❤️ para ganar 1 💰"
 es-ES_flavor: "La respuesta a la pregunta '¿puedes ponerle precio a una vida?'"
@@ -21,9 +28,9 @@ tile_id: BloodMoney
 cost: 0
 image: /images/BloodMoney.png
 hero: necromancer
-ru-RU_name: "Кровавые деньги"
-ru-RU_description: "Потратьте 2 ❤️, чтобы получить 1 💰"
-ru-RU_flavor: "Дает ответ на вопрос 'А сколько стоит жизнь?'"
+pl-PL_name: "Krwawe pieniądze"
+pl-PL_description: "Zapłać 2 ❤️, by uzyskać 1 💰."
+pl-PL_flavor: "Odpowiada na pytanie 'Czy życiu można narzucić cenę?'"
 tile_id: BloodMoney
 cost: 0
 image: /images/BloodMoney.png

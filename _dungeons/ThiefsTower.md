@@ -78,6 +78,45 @@ monsters:
     image: /images/JackalVagabond.png
     quantity: 4
     url: /monsters/JackalVagabond
+ru-RU_name: "Башня воров"
+ru-RU_description: "'Вы не найдете более отвратительного места подлости и злодейства, чем башня воров. Я надеюсь переехать туда однажды' - Озорница"
+tier: 6
+monsters:
+  - monster:
+    name: "Гоблоид"
+    image: /images/Gobloid.png
+    quantity: 2
+    url: /monsters/Gobloid
+  - monster:
+    name: "Каскоголовый"
+    image: /images/GobloidKnucklehead.png
+    quantity: 3
+    url: /monsters/GobloidKnucklehead
+  - monster:
+    name: "Панк"
+    image: /images/Harpy.png
+    quantity: 4
+    url: /monsters/Harpy
+  - monster:
+    name: "Шакал"
+    image: /images/Jackal.png
+    quantity: 3
+    url: /monsters/Jackal
+  - monster:
+    name: "Ассасин"
+    image: /images/JackalAssassin.png
+    quantity: 3
+    url: /monsters/JackalAssassin
+  - monster:
+    name: "Разбойница"
+    image: /images/PirateGirl.png
+    quantity: 2
+    url: /monsters/PirateGirl
+  - monster:
+    name: "Вагабонд"
+    image: /images/JackalVagabond.png
+    quantity: 4
+    url: /monsters/JackalVagabond
 es-ES_name: "Torre de Ladrones"
 es-ES_description: "'No existe una colmena más miserable de escoria y villanía que la Torre de los Ladrones. Espero poder mudarme ahí algún día.' - Travesuras"
 tier: 6
@@ -117,42 +156,42 @@ monsters:
     image: /images/JackalVagabond.png
     quantity: 4
     url: /monsters/JackalVagabond
-ru-RU_name: "Башня воров"
-ru-RU_description: "'Вы не найдете более отвратительного места подлости и злодейства, чем башня воров. Я надеюсь переехать туда однажды' - Озорница"
+pl-PL_name: "Wieża Łotrzyków"
+pl-PL_description: "'Nigdzie nie znajdziesz równie ohydnej przystani łajdactwa i występku jak Wieża Łotrzyków. Nie mogę się doczekać aż zwolni się miejsce dla mnie.' - Psota"
 tier: 6
 monsters:
   - monster:
-    name: "Гоблоид"
+    name: "Gobloid"
     image: /images/Gobloid.png
     quantity: 2
     url: /monsters/Gobloid
   - monster:
-    name: "Каскоголовый"
+    name: "Wiadrołeb"
     image: /images/GobloidKnucklehead.png
     quantity: 3
     url: /monsters/GobloidKnucklehead
   - monster:
-    name: "Панк"
+    name: "Pank"
     image: /images/Harpy.png
     quantity: 4
     url: /monsters/Harpy
   - monster:
-    name: "Шакал"
+    name: "Szakal"
     image: /images/Jackal.png
     quantity: 3
     url: /monsters/Jackal
   - monster:
-    name: "Ассасин"
+    name: "Skrytobójca"
     image: /images/JackalAssassin.png
     quantity: 3
     url: /monsters/JackalAssassin
   - monster:
-    name: "Разбойница"
+    name: "Szczur okrętowy"
     image: /images/PirateGirl.png
     quantity: 2
     url: /monsters/PirateGirl
   - monster:
-    name: "Вагабонд"
+    name: "Włóczęga"
     image: /images/JackalVagabond.png
     quantity: 4
     url: /monsters/JackalVagabond

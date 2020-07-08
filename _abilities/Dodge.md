@@ -14,6 +14,13 @@ tile_id: Dodge
 cost: 2
 image: /images/Dodge.png
 hero: rogue
+ru-RU_name: "Уклонение"
+ru-RU_description: "Убирает все 🔸 с текущего действия врага. Перезаряжается после использования 4 способностей"
+ru-RU_flavor: "'Пффф, кому нужен щит, когда у тебя такие движения?' – Озорница"
+tile_id: Dodge
+cost: 2
+image: /images/Dodge.png
+hero: rogue
 es-ES_name: "Esquivar"
 es-ES_description: "Remueve cualquier 🔸 de la acción actual de tu oponente. Usa 4 habilidades para recargar"
 es-ES_flavor: "'Pfff, ¿quién necesita un escudo cuando puedes moverte así?' - Travesuras"
@@ -21,9 +28,9 @@ tile_id: Dodge
 cost: 2
 image: /images/Dodge.png
 hero: rogue
-ru-RU_name: "Уклонение"
-ru-RU_description: "Убирает все 🔸 с текущего действия врага. Перезаряжается после использования 4 способностей"
-ru-RU_flavor: "'Пффф, кому нужен щит, когда у тебя такие движения?' – Озорница"
+pl-PL_name: "Unik"
+pl-PL_description: "Usuń 🔸 z akcji przeciwnika. Użyj 4 umiejętności aby naładować."
+pl-PL_flavor: "'Niepotrzebna tarcza, gibkość mi wystarcza' - Psota"
 tile_id: Dodge
 cost: 2
 image: /images/Dodge.png

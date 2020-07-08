@@ -16,6 +16,14 @@ cost: 4
 image: /images/NecroTome.png
 durability: 2
 hero: necromancer
+ru-RU_name: "Некротом"
+ru-RU_description: "Уничтожает <a href = '../ru_ru/items#Tombstone'>Надгробье</a>, затем <u>вытягивает</u> копию <a href = '../ru_ru/abilities#HeartyBones'>Добротные кости</a>, <a href = '../ru_ru/abilities#SoulFeast'>Пиршество душ</a> или <a href = '../ru_ru/abilities#SkeletonParty'>Вечеринка скелетов</a>"
+ru-RU_flavor: "Покрытие сделано из смуглой человеческой кожи; клей, который скрепляет страницы из костной муки, сделан на 100% из мёртвой лошади; чернила - это чистейшая кровь жука. Способности внутри - ожить можно."
+tile_id: NecroTome
+cost: 4
+image: /images/NecroTome.png
+durability: 2
+hero: necromancer
 es-ES_name: "¡El Necrotomo!"
 es-ES_description: "Destruye una Lápida y luego <u>roba</u> una copia de <a href = '../es_es/abilities#HeartyBones'>Huesos Sanos</a>, <a href = '../es_es/abilities#SoulFeast'>Festín de Almas</a>, o  <a href = '../es_es/abilities#SkeletonParty'>Fiesta Esquelética</a>"
 es-ES_flavor: "Las cubiertas están hechas de cuero humano; el pegamento que empasta las páginas (hechas de pasta de hueso) es 100% de caballo muerto; la tinta es sangre pura de escarabajo. Los hechizos aquí escritos son como para no-morirse."
@@ -24,9 +32,9 @@ cost: 4
 image: /images/NecroTome.png
 durability: 2
 hero: necromancer
-ru-RU_name: "Некротом"
-ru-RU_description: "Уничтожает <a href = '../ru_ru/items#Tombstone'>Надгробье</a>, затем <u>вытягивает</u> копию <a href = '../ru_ru/abilities#HeartyBones'>Добротные кости</a>, <a href = '../ru_ru/abilities#SoulFeast'>Пиршество душ</a> или <a href = '../ru_ru/abilities#SkeletonParty'>Вечеринка скелетов</a>"
-ru-RU_flavor: "Покрытие сделано из смуглой человеческой кожи; клей, который скрепляет страницы из костной муки, сделан на 100% из мёртвой лошади; чернила - это чистейшая кровь жука. Способности внутри - ожить можно."
+pl-PL_name: "Nektotomik"
+pl-PL_description: "Zniszcz nagrobek aby <u>wytwórz</u> <a href = '../pl_pl/abilities#HeartyBones'>Krzepkie Kości</a>, <a href = '../pl_pl/abilities#SoulFeast'>Uczta Duchowa</a>, lub <a href = '../pl_pl/abilities#SkeletonParty'>Schadzka Szkieletów</a>."
+pl-PL_flavor: "Okładki są zrobione z utwardzonej ludzkiej skóry; klej, który wiąże strony strony (z mączki kostnej) jest zrobiony z martwych koni; atrament jest z czystej krwi żuków. Zawarte w niej czary są zabójcze."
 tile_id: NecroTome
 cost: 4
 image: /images/NecroTome.png

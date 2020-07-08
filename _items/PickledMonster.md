@@ -16,6 +16,14 @@ cost: 1
 image: /images/PickledMonster.png
 durability: 3
 hero: necromancer
+ru-RU_name: "Маринованный монстр"
+ru-RU_description: "Восстанавливает 2 ❤️. Когда враг умирает, восстанавливает 1 прочность этому предмету"
+ru-RU_flavor: "Удобная, заквашенная закуска с длительным сроком годности. С годами становится только лучше."
+tile_id: PickledMonster
+cost: 1
+image: /images/PickledMonster.png
+durability: 3
+hero: necromancer
 es-ES_name: "Monstruo en Vinagre"
 es-ES_description: "Recupera 2 ❤️. Añade 1 de durabilidad a este ítem cada vez que un enemigo sea destruído"
 es-ES_flavor: "Un bocadillo fermentado, conveniente y de larga duración. Se hace más sabroso con los años."
@@ -24,9 +32,10 @@ cost: 1
 image: /images/PickledMonster.png
 durability: 3
 hero: necromancer
-ru-RU_name: "Маринованный монстр"
-ru-RU_description: "Восстанавливает 2 ❤️. Когда враг умирает, восстанавливает 1 прочность этому предмету"
-ru-RU_flavor: "Удобная, заквашенная закуска с длительным сроком годности. С годами становится только лучше."
+pl-PL_name: "Potwór Małosolny"
+pl-PL_description: "Użyj, aby wylecz 2 ❤️. Gdy przeciwnik umrze, 
+ten przedmiot odzyskuje 1 punkt trwałości"
+pl-PL_flavor: "Wygodna, zakwaszona przekąska z długim terminem ważności. Z czasem nabiera smaku."
 tile_id: PickledMonster
 cost: 1
 image: /images/PickledMonster.png

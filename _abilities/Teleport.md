@@ -14,6 +14,13 @@ tile_id: Teleport
 cost: 0
 image: /images/Teleport.png
 hero: mage
+ru-RU_name: "Телепортация"
+ru-RU_description: "Замешивает все карточки обратно в колоду и восстанавливает 4 ❤️. Если активируется в бою, также завершает его. <u>Сжигается</u>"
+ru-RU_flavor: "Когда происходящее становится напряжённым, напряжённое становится транслокационным."
+tile_id: Teleport
+cost: 0
+image: /images/Teleport.png
+hero: mage
 es-ES_name: "Teletransportar"
 es-ES_description: "Baraja todas las fichas de vuelta en el mazo y recupera 4 ❤️. Si estás en combate, déjalo también. <u>Agota</u>"
 es-ES_flavor: "Cuando las cosas se vuelven duras, los duros se vuelven trans-locacionales."
@@ -21,9 +28,9 @@ tile_id: Teleport
 cost: 0
 image: /images/Teleport.png
 hero: mage
-ru-RU_name: "Телепортация"
-ru-RU_description: "Замешивает все карточки обратно в колоду и восстанавливает 4 ❤️. Если активируется в бою, также завершает его. <u>Сжигается</u>"
-ru-RU_flavor: "Когда происходящее становится напряжённым, напряжённое становится транслокационным."
+pl-PL_name: "Teleport"
+pl-PL_description: "Wtasuj wszystkie płytki do talii i odzyskaj 4 ❤️. Jeżeli użyte w walce, przerywa walkę. <u>Wyczerpany</u>"
+pl-PL_flavor: "Po co iść pod wiatr, skoro można się teleportować."
 tile_id: Teleport
 cost: 0
 image: /images/Teleport.png

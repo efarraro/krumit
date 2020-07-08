@@ -8,12 +8,16 @@ zh-CN_name: "毒蜂"
 zh-CN_description: "使用武器攻击会施加 <u>剧毒</u>。对中毒的敌人+1伤害"
 tile_id: Hornet
 image: /images/Hornet.png
+ru-RU_name: "Шершень"
+ru-RU_description: "После того как вы атакуете оружием, накладывает  <u>яд</u>. Наносит +1 отравленным врагам."
+tile_id: Hornet
+image: /images/Hornet.png
 es-ES_name: "Avispa"
 es-ES_description: "Después de atacar con un arma, inflige  <u>veneno</u>. Haz +1 de daño contra enemigos envenenados"
 tile_id: Hornet
 image: /images/Hornet.png
-ru-RU_name: "Шершень"
-ru-RU_description: "После того как вы атакуете оружием, накладывает  <u>яд</u>. Наносит +1 отравленным врагам."
+pl-PL_name: "Szerszeń"
+pl-PL_description: "Atakując bronią, zatruj przeciwnika ( <u>trucizna</u>). +1 🔸 przeciwko zatrutym przeciwnikom."
 tile_id: Hornet
 image: /images/Hornet.png
 ---

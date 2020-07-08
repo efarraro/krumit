@@ -16,6 +16,14 @@ cost: 1
 image: /images/AcolyteRobes.png
 durability: 1
 hero: necromancer
+ru-RU_name: "Робы некрумантии"
+ru-RU_description: "<u>Пассивно</u>: стоимость призыва 💀 <u>Миньон</u> с <a href = '../ru_ru/items#Tombstone'>Надгробье</a> уменьшается на 1 ❤️"
+ru-RU_flavor: "Эти устаревшие робы имеют руны, пришитые вдоль швов, дарующие скидку носителю в темных сделках некромантии."
+tile_id: AcolyteRobes
+cost: 1
+image: /images/AcolyteRobes.png
+durability: 1
+hero: necromancer
 es-ES_name: "Túnica de Nukromancia"
 es-ES_description: "<u>Pasiva</u>: El costo de invocar un 💀 <u>Esbirro</u> de una <a href = '../es_es/items#Tombstone'>Lápida</a> se reduce en 1 ❤️"
 es-ES_flavor: "Esta túnica mohosa tiene runas bordadas a lo largo de las costuras, lo que permite al usuario regatear en los oscuros trueques de la nigromancia."
@@ -24,9 +32,9 @@ cost: 1
 image: /images/AcolyteRobes.png
 durability: 1
 hero: necromancer
-ru-RU_name: "Робы некрумантии"
-ru-RU_description: "<u>Пассивно</u>: стоимость призыва 💀 <u>Миньон</u> с <a href = '../ru_ru/items#Tombstone'>Надгробье</a> уменьшается на 1 ❤️"
-ru-RU_flavor: "Эти устаревшие робы имеют руны, пришитые вдоль швов, дарующие скидку носителю в темных сделках некромантии."
+pl-PL_name: "Szaty Nukromancji"
+pl-PL_description: "<u>Pasywny</u>: Koszt przywołania sługusa (💀 <u>Sługus</u>) z <a href = '../pl_pl/items#Tombstone'>Nagrobek</a> jest zmniejszony o 1 ❤️."
+pl-PL_flavor: "Tym zatęchłym szatom wzdłuż szwów przyszyto runy, zapewniając noszącemu zmniejszenie kosztu posługiwania się mroczną sztuką nekromancji."
 tile_id: AcolyteRobes
 cost: 1
 image: /images/AcolyteRobes.png

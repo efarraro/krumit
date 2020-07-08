@@ -14,6 +14,13 @@ tile_id: NinjaTraining
 cost: 3
 image: /images/NinjaTraining.png
 hero: rogue
+ru-RU_name: "Школа ниндзя"
+ru-RU_description: "Когда вы получаете этот предмет, даёт <u>скрытность</u>. После убийства 5 врагов используйте это, чтобы увеличить базовую 🔸 на 1. <u>Сжигается</u>"
+ru-RU_flavor: "«Первое правило в школе ниндзя: никто не издает никаких звуков в школе ниндзя. Второе правило - никаких сюрикенов в обеденном зале». - Тоширо, Смертельный Мудрец"
+tile_id: NinjaTraining
+cost: 3
+image: /images/NinjaTraining.png
+hero: rogue
 es-ES_name: "Escuela de Asesinos"
 es-ES_description: "Derrota 5 enemigos. Cuando lo hagas, usa esta habilidad para incrementar tu 🔸 base en 1 por el resto de la mazmorra. Gana <u>sigilo</u> cuando la adquieras. <u>Agota</u>"
 es-ES_flavor: "'La primera regla de la Escuela Ninja: nadie hace un sonido en la Escuela Ninja. Segunda regla, no se permiten shurikens en el comedor.' - Toshiro, el Sabio Mortífero"
@@ -21,9 +28,9 @@ tile_id: NinjaTraining
 cost: 3
 image: /images/NinjaTraining.png
 hero: rogue
-ru-RU_name: "Школа ниндзя"
-ru-RU_description: "Когда вы получаете этот предмет, даёт <u>скрытность</u>. После убийства 5 врагов используйте это, чтобы увеличить базовую 🔸 на 1. <u>Сжигается</u>"
-ru-RU_flavor: "«Первое правило в школе ниндзя: никто не издает никаких звуков в школе ниндзя. Второе правило - никаких сюрикенов в обеденном зале». - Тоширо, Смертельный Мудрец"
+pl-PL_name: "Szkoła Skrytobójców"
+pl-PL_description: "Pokonaj 5 przeciwników aby zyskać +1 🔸 do końca lochu. Gdy uzyskasz tą płytkę, ukryj się (<u>ukrywanie się</u>). <u>Wyczerpany</u>"
+pl-PL_flavor: "'Pierwsza zasada Szkoły Skrytobójców: nie wydawaj dźwięków w Szkole Skrytobójców. Druga zasada: żadnych shurikenów na korytarzu.' - Toshiro, Rektor Szkoły Skrytobójców"
 tile_id: NinjaTraining
 cost: 3
 image: /images/NinjaTraining.png

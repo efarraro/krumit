@@ -16,6 +16,14 @@ cost: 3
 image: /images/KrisOfTheAbyss.png
 durability: 3
 hero: necromancer
+ru-RU_name: "Крис бездны"
+ru-RU_description: "Когда вы призываете 💀 <u>Миньон</u>, увеличивает 🔸 этого предмета на 1."
+ru-RU_flavor: "Поговаривают, что крис бездны способен разорвать нить, связывающую душу с загробной жизнью."
+tile_id: KrisOfTheAbyss
+cost: 3
+image: /images/KrisOfTheAbyss.png
+durability: 3
+hero: necromancer
 es-ES_name: "Kris del Abismo"
 es-ES_description: "Cada vez que invoques un 💀 <u>Esbirro</u>, incrementa el 🔸 de esta arma en 1"
 es-ES_flavor: "Se dice que el Kris del Abismo puede cortar el hilo que ata las almas al más allá."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/KrisOfTheAbyss.png
 durability: 3
 hero: necromancer
-ru-RU_name: "Крис бездны"
-ru-RU_description: "Когда вы призываете 💀 <u>Миньон</u>, увеличивает 🔸 этого предмета на 1."
-ru-RU_flavor: "Поговаривают, что крис бездны способен разорвать нить, связывающую душу с загробной жизнью."
+pl-PL_name: "Kris z Czeluści"
+pl-PL_description: "Gdy przywołasz 💀 <u>Sługus</u>, zwiększ 🔸 tej broni o 1."
+pl-PL_flavor: "Podobno jest tak ostry, że może odciąć nitkę duszy od życia po życiu."
 tile_id: KrisOfTheAbyss
 cost: 3
 image: /images/KrisOfTheAbyss.png

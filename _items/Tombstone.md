@@ -14,6 +14,13 @@ tile_id: Tombstone
 cost: -99
 image: /images/Tombstone.png
 durability: 1
+ru-RU_name: "Надгробье"
+ru-RU_description: "Потратьте 3 ❤️, чтобы призвать 💀 <u>Миньон</u> Скелет. Сбросьте это, чтобы восстановить 2 ❤️ вам и 1 ❤️ вашим миньонам."
+ru-RU_flavor: "'Надгробный камень? Больше похоже на надгробную кость!' - любимая шутка Мульдорфа, к сожалению."
+tile_id: Tombstone
+cost: -99
+image: /images/Tombstone.png
+durability: 1
 es-ES_name: "Lápida"
 es-ES_description: "Paga 3 ❤️ para invocar un 💀 <u>Esbirro</u> Esqueleto. Descarta este ítem para recuperar 2 ❤️, y 1 ❤️ a tus esbirros"
 es-ES_flavor: "'¿Lápida? ¿No querrás decir, lápida-mente serás huesos? ¡Muajajá!' - El chiste favorito de Muldorf. Desafortunadamente."
@@ -21,9 +28,9 @@ tile_id: Tombstone
 cost: -99
 image: /images/Tombstone.png
 durability: 1
-ru-RU_name: "Надгробье"
-ru-RU_description: "Потратьте 3 ❤️, чтобы призвать 💀 <u>Миньон</u> Скелет. Сбросьте это, чтобы восстановить 2 ❤️ вам и 1 ❤️ вашим миньонам."
-ru-RU_flavor: "'Надгробный камень? Больше похоже на надгробную кость!' - любимая шутка Мульдорфа, к сожалению."
+pl-PL_name: "Nagrobek"
+pl-PL_description: "Zapłać 3 punktów zdrowia aby przywołać Szkielet. Odrzuć aby wyleczyć siebie o 2 punkty zdrowia i sługusów o 1 punkt zdrowia"
+pl-PL_flavor: "'Jeżeli nagrobek jest na wierzchu to trup to pod-grobek! Haha-ha!' - ulubiony żart Muldorfa. Niestety."
 tile_id: Tombstone
 cost: -99
 image: /images/Tombstone.png

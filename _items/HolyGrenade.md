@@ -16,6 +16,14 @@ cost: 3
 image: /images/HolyGrenade.png
 durability: 1
 hero: priest
+ru-RU_name: "Святая граната"
+ru-RU_description: "Наносит 4 урона выбранному врагу и соседним врагам. Восстанавливает 2 ❤️ за каждого врага, получивший урон"
+ru-RU_flavor: "Брось эту святую гранату, сделанную, по слухам, в королевстве Анти-Оха."
+tile_id: HolyGrenade
+cost: 3
+image: /images/HolyGrenade.png
+durability: 1
+hero: priest
 es-ES_name: "Granada Sagrada"
 es-ES_description: "Haz 4 de daño <u>penetrante</u> a un enemigo objetivo y todos los enemigos adyacentes. Recupera 2 ❤️ por cada enemigo afectado"
 es-ES_flavor: "Arrojaréis fentonces festa sacra granada, la que se rumorea proviene de las luengas tierras de Anti-Oquía."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/HolyGrenade.png
 durability: 1
 hero: priest
-ru-RU_name: "Святая граната"
-ru-RU_description: "Наносит 4 урона выбранному врагу и соседним врагам. Восстанавливает 2 ❤️ за каждого врага, получивший урон"
-ru-RU_flavor: "Брось эту святую гранату, сделанную, по слухам, в королевстве Анти-Оха."
+pl-PL_name: "Święty Granat"
+pl-PL_description: "Zadaj 4 przenikliwych (<u>przenikający</u>) obrażeń wskazanemu i sąsiadującym mu wrogom. Odnów 2 ❤️ za każdego z nich."
+pl-PL_flavor: "Instrukcja obsługi zawarta w Księdze Zbrojeń, rozdział 2, wersety od 9 do 21."
 tile_id: HolyGrenade
 cost: 3
 image: /images/HolyGrenade.png

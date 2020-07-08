@@ -16,6 +16,14 @@ cost: 2
 image: /images/Drums.png
 durability: 3
 hero: warrior
+ru-RU_name: "Барабаны войны"
+ru-RU_description: "В бою заменяет текущее действие врага на (🔸 2)"
+ru-RU_flavor: "'Правильный ритм может разозлить врага и заставить его атаковать, не задумываясь. Также делает эту их мысль последней.' - рифманты Мешугги"
+tile_id: Drums
+cost: 2
+image: /images/Drums.png
+durability: 3
+hero: warrior
 es-ES_name: "Tambor de Guerra"
 es-ES_description: "En combate, remplaza la acción actual de tu oponente por (🔸 2)"
 es-ES_flavor: "'El ritmo correcto puede enfurecer a un enemigo, haciéndolo atacar sin pensarlo dos veces. Y, la mayoría de las veces, sin pensarlo nunca más. ' - Los Ritmomantes de Meshugga"
@@ -24,9 +32,9 @@ cost: 2
 image: /images/Drums.png
 durability: 3
 hero: warrior
-ru-RU_name: "Барабаны войны"
-ru-RU_description: "В бою заменяет текущее действие врага на (🔸 2)"
-ru-RU_flavor: "'Правильный ритм может разозлить врага и заставить его атаковать, не задумываясь. Также делает эту их мысль последней.' - рифманты Мешугги"
+pl-PL_name: "Bębny Wojenne"
+pl-PL_description: "W walce, zastąp akcję przeciwnika atakiem 🔸 2."
+pl-PL_flavor: "'Odpowiedni rytm potrafi tak rozwścieczyć wroga, że zaatakuje cię bez namysłu. Nie żeby gobloidy spędzały dużo czasu na planowaniu ataku.' - Rytmomancerzy z Meshuggi"
 tile_id: Drums
 cost: 2
 image: /images/Drums.png

@@ -16,6 +16,14 @@ cost: 2
 image: /images/DeathMask.png
 durability: 1
 hero: priest
+ru-RU_name: "Смертельная маска Ханы"
+ru-RU_description: "<u>Пассивно</u>: Когда вы получаете смертельный урон, <u>Сжигается</u>. <u>мутирует</u> с 🟦Избранный и восстанавливает ваше ❤️ до максимума"
+ru-RU_flavor: "Маска, посвященная двуликой богине полутени Хане."
+tile_id: DeathMask
+cost: 2
+image: /images/DeathMask.png
+durability: 1
+hero: priest
 es-ES_name: "Máscara Mortuoria de Hana"
 es-ES_description: "<u>Pasiva</u>: Si sufres daño fatal, <u>Agota</u> este ítem. Intercambia tu ventaja inicial por 🟦Elegida y recupera toda tu ❤️"
 es-ES_flavor: "Una máscara dedicada a la diosa bicéfala de la penumbra, Hana."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/DeathMask.png
 durability: 1
 hero: priest
-ru-RU_name: "Смертельная маска Ханы"
-ru-RU_description: "<u>Пассивно</u>: Когда вы получаете смертельный урон, <u>Сжигается</u>. <u>мутирует</u> с 🟦Избранный и восстанавливает ваше ❤️ до максимума"
-ru-RU_flavor: "Маска, посвященная двуликой богине полутени Хане."
+pl-PL_name: "Maska Śmierci Hanny"
+pl-PL_description: "<u>Pasywny</u>: Jeżeli otrzymasz śmiertelne obrażenia, <u>Wyczerpany</u>. <u>Mutacja</u> 🟦Wybranka i odnów ❤️ do pełna."
+pl-PL_flavor: "Maska poświęcona dwulicowej bogini półcieni, Hanie."
 tile_id: DeathMask
 cost: 2
 image: /images/DeathMask.png

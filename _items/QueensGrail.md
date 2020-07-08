@@ -16,6 +16,14 @@ cost: 0
 image: /images/QueensGrail.png
 durability: 1
 hero: priest
+ru-RU_name: "Грааль королевы"
+ru-RU_description: "Потратьте 25 ❤️ (уменьшена на 3 за каждого  <u>оскверненного</u> врага в этом подземельи), чтобы уничтожить *ВСЕ* карточки в колоде подземелья"
+ru-RU_flavor: "Грааль наполняется теми, кого прокляли. Каждая пролитая капля - ужасная трата... "
+tile_id: QueensGrail
+cost: 0
+image: /images/QueensGrail.png
+durability: 1
+hero: priest
 es-ES_name: "El Grial de la Reina"
 es-ES_description: "Paga 25 ❤️ (reducido en 3 por cada enemigo que hayas  <u>corrompido</u> en esta mazmorra) para destruir *todas* las fichas en el mazo"
 es-ES_flavor: "El grial se llena de la escencia de los condenados. Cada gota derramada es un terrible desperdicio..."
@@ -24,9 +32,9 @@ cost: 0
 image: /images/QueensGrail.png
 durability: 1
 hero: priest
-ru-RU_name: "Грааль королевы"
-ru-RU_description: "Потратьте 25 ❤️ (уменьшена на 3 за каждого  <u>оскверненного</u> врага в этом подземельи), чтобы уничтожить *ВСЕ* карточки в колоде подземелья"
-ru-RU_flavor: "Грааль наполняется теми, кого прокляли. Каждая пролитая капля - ужасная трата... "
+pl-PL_name: "Graal Królowej"
+pl-PL_description: "Zapłać 25 ❤️ (obniżone o 3 za każdego  <u>zepsuty</u> przeciwnika w tym lochu) aby zniszczyć *wszystkie* płytki w talii."
+pl-PL_flavor: "Graal jest pełen potępionych dusz. Nie podnoś pokrywki, bo uciekną!"
 tile_id: QueensGrail
 cost: 0
 image: /images/QueensGrail.png

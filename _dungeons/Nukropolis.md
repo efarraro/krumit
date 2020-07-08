@@ -78,6 +78,45 @@ monsters:
     image: /images/TrashGolem.png
     quantity: 3
     url: /monsters/TrashGolem
+ru-RU_name: "Нукр0полис"
+ru-RU_description: "'...Затем появился Нукр0полис, казалось бы, из ниоткуда - безвкусный храм для отравления и распада. Испортил ещё и горизонт' - Крумит"
+tier: 8
+monsters:
+  - monster:
+    name: "Уберлич"
+    image: /images/Uberlich.png
+    quantity: 1
+    url: /monsters/Uberlich
+  - monster:
+    name: "Скелет"
+    image: /images/Skeleton.png
+    quantity: 2
+    url: /monsters/Skeleton
+  - monster:
+    name: "Крутист"
+    image: /images/Cooltist.png
+    quantity: 4
+    url: /monsters/Cooltist
+  - monster:
+    name: "Зилнат"
+    image: /images/Zealnut.png
+    quantity: 5
+    url: /monsters/Zealnut
+  - monster:
+    name: "Нукр0мант"
+    image: /images/Automaton.png
+    quantity: 4
+    url: /monsters/Automaton
+  - monster:
+    name: "Нукр0мант v2.0"
+    image: /images/AutomatonV2.png
+    quantity: 4
+    url: /monsters/AutomatonV2
+  - monster:
+    name: "Мусорный голем"
+    image: /images/TrashGolem.png
+    quantity: 3
+    url: /monsters/TrashGolem
 es-ES_name: "La Nukre0polis"
 es-ES_description: "'...Y entonces la Nukre0polis se alzó, aparentemente de la nada - un templo chillón al veneno y la corrupción. Y, para ser honesto, de un mal gusto increíble.' - Krumit"
 tier: 8
@@ -117,42 +156,42 @@ monsters:
     image: /images/TrashGolem.png
     quantity: 3
     url: /monsters/TrashGolem
-ru-RU_name: "Нукр0полис"
-ru-RU_description: "'...Затем появился Нукр0полис, казалось бы, из ниоткуда - безвкусный храм для отравления и распада. Испортил ещё и горизонт' - Крумит"
+pl-PL_name: "Nukr0polis"
+pl-PL_description: "'... Wtedy pojawiło się Nukr0polis, prawie jak miraż - krzykliwa świątynia skażenia i rozkładu... Zepsuło mi widok z okna.' - Krumit"
 tier: 8
 monsters:
   - monster:
-    name: "Уберлич"
+    name: "Uberlicz"
     image: /images/Uberlich.png
     quantity: 1
     url: /monsters/Uberlich
   - monster:
-    name: "Скелет"
+    name: "Szkielet"
     image: /images/Skeleton.png
     quantity: 2
     url: /monsters/Skeleton
   - monster:
-    name: "Крутист"
+    name: "Nadgorliwiec"
     image: /images/Cooltist.png
     quantity: 4
     url: /monsters/Cooltist
   - monster:
-    name: "Зилнат"
+    name: "Żarliwiec"
     image: /images/Zealnut.png
     quantity: 5
     url: /monsters/Zealnut
   - monster:
-    name: "Нукр0мант"
+    name: "Nukr0manta"
     image: /images/Automaton.png
     quantity: 4
     url: /monsters/Automaton
   - monster:
-    name: "Нукр0мант v2.0"
+    name: "Nukr0manta v2.0"
     image: /images/AutomatonV2.png
     quantity: 4
     url: /monsters/AutomatonV2
   - monster:
-    name: "Мусорный голем"
+    name: "Śmieciowy Golem"
     image: /images/TrashGolem.png
     quantity: 3
     url: /monsters/TrashGolem

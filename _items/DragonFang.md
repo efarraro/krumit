@@ -16,6 +16,14 @@ cost: 4
 image: /images/DragonFang.png
 durability: 3
 hero: rogue
+ru-RU_name: "Клык Драгорна"
+ru-RU_description: "Этот предмет имеет +4 🔸, пока вы имеете <u>скрытность</u>"
+ru-RU_flavor: "'...Днями, всё, что ты можешь ощутить, это запах золота и зловещий шелест перьев...' - отрывок из мемуаров о Ладлоу 'Змеиная еда' Гэблснозе."
+tile_id: DragonFang
+cost: 4
+image: /images/DragonFang.png
+durability: 3
+hero: rogue
 es-ES_name: "Colmillo de Dragullo"
 es-ES_description: "Si tienes <u>sigilo</u>, esta arma tiene +4 🔸"
 es-ES_flavor: "'...Por días, todo lo he podido sentir es el olor metálico del oro, y un siniestro susurro de plumas...' -  - Extracto de las memorias de Ludlow 'Comida-de-serpiente' Gabblesnoz."
@@ -24,9 +32,9 @@ cost: 4
 image: /images/DragonFang.png
 durability: 3
 hero: rogue
-ru-RU_name: "Клык Драгорна"
-ru-RU_description: "Этот предмет имеет +4 🔸, пока вы имеете <u>скрытность</u>"
-ru-RU_flavor: "'...Днями, всё, что ты можешь ощутить, это запах золота и зловещий шелест перьев...' - отрывок из мемуаров о Ладлоу 'Змеиная еда' Гэблснозе."
+pl-PL_name: "Smroczy Kieł"
+pl-PL_description: "Jeżeli ukrywasz się (<u>ukrywanie się</u>), ta broń ma +4 🔸."
+pl-PL_flavor: "'... Przez wiele dni czujesz posmak złota i słyszysz szelest piór...' - wyciąg z życiorysu Ludwika 'Wężera' Trajkotki"
 tile_id: DragonFang
 cost: 4
 image: /images/DragonFang.png

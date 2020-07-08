@@ -10,14 +10,19 @@ zh-CN_description: "地下城开始时向牌库中洗入4张<a href = '../zh_cn/
 zh-CN_flavor: "崇拜卡杜索吧：堕落的大法师，第一位吸魔者，著名探险家与美食家。"
 tile_id: Cardoso
 image: /images/Cardoso.png
+ru-RU_name: "Кардосо"
+ru-RU_description: "В начале подземелья замешивает 4 копии <a href = '../ru_ru/abilities#ToxicBlood'>Токсичная кровь</a> в колоду подземелья. Если в вашем снаряжении находится <a href = '../ru_ru/abilities#ToxicBlood'>Токсичная кровь</a>, Кардозо не восстанавливает ❤️, когда атакует."
+ru-RU_flavor: "Будете ли вы восхищаться Кардозо? Падший архимаг, великий манавампир, знаменитый исследователь и гурман."
+tile_id: Cardoso
+image: /images/Cardoso.png
 es-ES_name: "Cardoso"
 es-ES_description: "Baraja 4x <a href = '../es_es/abilities#ToxicBlood'>Sangre Tóxica</a> en el mazo al principio de esta mazmorra. Si posees <a href = '../es_es/abilities#ToxicBlood'>Sangre Tóxica</a>, Cardoso no recuperará ❤️ al atacar"
 es-ES_flavor: "Cardoso, el archimago caído, el más grande de los Manavampiros, el afamado explorador y gourmand... ¿No lo encuentras admirable?"
 tile_id: Cardoso
 image: /images/Cardoso.png
-ru-RU_name: "Кардосо"
-ru-RU_description: "В начале подземелья замешивает 4 копии <a href = '../ru_ru/abilities#ToxicBlood'>Токсичная кровь</a> в колоду подземелья. Если в вашем снаряжении находится <a href = '../ru_ru/abilities#ToxicBlood'>Токсичная кровь</a>, Кардозо не восстанавливает ❤️, когда атакует."
-ru-RU_flavor: "Будете ли вы восхищаться Кардозо? Падший архимаг, великий манавампир, знаменитый исследователь и гурман."
+pl-PL_name: "Cardoso"
+pl-PL_description: "Wtasuj 4 <a href = '../pl_pl/abilities#ToxicBlood'>Toksyczna Krew</a> do talii na początku lochu. Jeżeli posiadasz <a href = '../pl_pl/abilities#ToxicBlood'>Toksyczna Krew</a>, Cardoso nie będzie mógł się leczyć swoimi atakami"
+pl-PL_flavor: "Cardoso, Upadły arcymag, Pierwszy Wampir Many, słynny odkrywca i smakosz. Czcigodny?"
 tile_id: Cardoso
 image: /images/Cardoso.png
 ---

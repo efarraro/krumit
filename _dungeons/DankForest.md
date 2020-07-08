@@ -28,6 +28,20 @@ monsters:
     image: /images/Nukadog.png
     quantity: 6
     url: /monsters/Nukadog
+ru-RU_name: "Сырой лес"
+ru-RU_description: "Этот лес поистине самый сырой. И всё-таки, похоже, что это не смущает боевых медведей и их брутальных Вардведей!"
+tier: 1
+monsters:
+  - monster:
+    name: "Вардведь"
+    image: /images/Bear.png
+    quantity: 1
+    url: /monsters/Bear
+  - monster:
+    name: "Волк-сопляк"
+    image: /images/Nukadog.png
+    quantity: 6
+    url: /monsters/Nukadog
 es-ES_name: "El Bosque Hediondo"
 es-ES_description: "Este bosque es verdaderamente hediondo, ¡aunque esto no parace molestar a los sarnosos Moquencos o a los brutales Barbarosos que lo habitan!"
 tier: 1
@@ -42,17 +56,17 @@ monsters:
     image: /images/Nukadog.png
     quantity: 6
     url: /monsters/Nukadog
-ru-RU_name: "Сырой лес"
-ru-RU_description: "Этот лес поистине самый сырой. И всё-таки, похоже, что это не смущает боевых медведей и их брутальных Вардведей!"
+pl-PL_name: "Podmokły Bor"
+pl-PL_description: "Ten las jest tak stary, że nie wiadomo, czy jego podmokła natura bierze się z pobliskiego bagna, czy od potu Niedźwierzyńców podnoszących ciężary."
 tier: 1
 monsters:
   - monster:
-    name: "Вардведь"
+    name: "Niedźwiedźarian"
     image: /images/Bear.png
     quantity: 1
     url: /monsters/Bear
   - monster:
-    name: "Волк-сопляк"
+    name: "Glutwilk"
     image: /images/Nukadog.png
     quantity: 6
     url: /monsters/Nukadog

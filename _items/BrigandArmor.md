@@ -16,6 +16,14 @@ cost: 2
 image: /images/BrigandArmor.png
 durability: 3
 hero: rogue
+ru-RU_name: "Доспех разбойника"
+ru-RU_description: "Вы должны иметь <u>скрытность</u>, чтобы экипировать это"
+ru-RU_flavor: "Этот темный, коварный доспех идеален для шаловливых засад."
+tile_id: BrigandArmor
+cost: 2
+image: /images/BrigandArmor.png
+durability: 3
+hero: rogue
 es-ES_name: "Armadura de Bandido"
 es-ES_description: "Debes tener <u>sigilo</u> para equipar esta armadura"
 es-ES_flavor: "Esta armadura oscura y sigilosa es perfecta para emboscadas traviesas."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/BrigandArmor.png
 durability: 3
 hero: rogue
-ru-RU_name: "Доспех разбойника"
-ru-RU_description: "Вы должны иметь <u>скрытность</u>, чтобы экипировать это"
-ru-RU_flavor: "Этот темный, коварный доспех идеален для шаловливых засад."
+pl-PL_name: "Zbroja Zbójnika"
+pl-PL_description: "Musisz się skradać (<u>ukrywanie się</u>) aby to założyć"
+pl-PL_flavor: "Mroczna kurtka, idealna na wieczorne zasadzki."
 tile_id: BrigandArmor
 cost: 2
 image: /images/BrigandArmor.png

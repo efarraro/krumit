@@ -16,6 +16,14 @@ cost: 2
 image: /images/Spear.png
 durability: 2
 hero: warrior
+ru-RU_name: "Копье"
+ru-RU_description: "<u>пронзающий</u>"
+ru-RU_flavor: "Делает броню горячим маслом. Не буквально - это не зачарованная версия!"
+tile_id: Spear
+cost: 2
+image: /images/Spear.png
+durability: 2
+hero: warrior
 es-ES_name: "Lanza"
 es-ES_description: "<u>penetrante</u>"
 es-ES_flavor: "Transforma la armadura en mantequilla caliente. Bueno, no literalmente - ¡esta no es la versión encantada!"
@@ -24,9 +32,9 @@ cost: 2
 image: /images/Spear.png
 durability: 2
 hero: warrior
-ru-RU_name: "Копье"
-ru-RU_description: "<u>пронзающий</u>"
-ru-RU_flavor: "Делает броню горячим маслом. Не буквально - это не зачарованная версия!"
+pl-PL_name: "Włócznia"
+pl-PL_description: "<u>przenikający</u>"
+pl-PL_flavor: "Zamienia zbroje w ciepłe masło. Nie dosłownie - to nie jest umagiczniona wersja!"
 tile_id: Spear
 cost: 2
 image: /images/Spear.png

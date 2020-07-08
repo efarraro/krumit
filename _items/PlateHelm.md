@@ -16,6 +16,14 @@ cost: 3
 image: /images/PlateHelm.png
 durability: 3
 hero: warrior
+ru-RU_name: "Латный шлем"
+ru-RU_description: "Пока этот предмет экипирован, нельзя экипировать другие оружия"
+ru-RU_flavor: "Хорошая защита, если только вы не возражаете против шлема с волосами."
+tile_id: PlateHelm
+cost: 3
+image: /images/PlateHelm.png
+durability: 3
+hero: warrior
 es-ES_name: "Yelmo de Acero"
 es-ES_description: "Al equiparlo, desequipa todas las armas de melé equipadas"
 es-ES_flavor: "Muy protectivo, siempre que no te importe tener pelo de casco."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/PlateHelm.png
 durability: 3
 hero: warrior
-ru-RU_name: "Латный шлем"
-ru-RU_description: "Пока этот предмет экипирован, нельзя экипировать другие оружия"
-ru-RU_flavor: "Хорошая защита, если только вы не возражаете против шлема с волосами."
+pl-PL_name: "Hełm Płytowy"
+pl-PL_description: "Gdy to założysz, odłóż wszystkie dobyte bronie."
+pl-PL_flavor: "Całkiem dobrze chroni jeżeli nie przeszkadza ci fryzura w tym samym kształcie."
 tile_id: PlateHelm
 cost: 3
 image: /images/PlateHelm.png

@@ -10,14 +10,19 @@ zh-CN_description: "在本层地下城中，你每次丢弃卡牌时会摧毁地
 zh-CN_flavor: "幽王生前是个挺不错的统治者。死后，他为了给自己的幽冥王国收集新鲜的灵魂，与卡拉卡斯（还有任何阻碍他的人）陷入了的无尽争斗之中。"
 tile_id: GhostKing
 image: /images/GhostKing.png
+ru-RU_name: "Призрачный король"
+ru-RU_description: "Когда вы сбрасываете карточку в этом подземельи, уничтожается верхняя карта колоды подземелья (Призрачный король защищен от этого эффекта). Жуть!"
+ru-RU_flavor: "При жизни Призрачный король был добрым и крутым правителем. При смерти он борется с жестоким, вечным соперничеством с Калакасом (и любым другим на его пути), чтобы собрать новые души для его жуткого королевства."
+tile_id: GhostKing
+image: /images/GhostKing.png
 es-ES_name: "Rey Fantasma"
 es-ES_description: "En esta mazmorra, cada vez que descartes una ficha, destruye la carta superior del mazo (el Rey Fantasma es inmune a este efecto). ¡Qué miedo!"
 es-ES_flavor: "En vida, el Rey Fantasma fue un rey bastante guay. Ya muerto, lucha contra Calacas (y con cualquiera que esté en su camino) en una fiera y eterna rivaldad por recolectar almas frescas para su reino espeluznante."
 tile_id: GhostKing
 image: /images/GhostKing.png
-ru-RU_name: "Призрачный король"
-ru-RU_description: "Когда вы сбрасываете карточку в этом подземельи, уничтожается верхняя карта колоды подземелья (Призрачный король защищен от этого эффекта). Жуть!"
-ru-RU_flavor: "При жизни Призрачный король был добрым и крутым правителем. При смерти он борется с жестоким, вечным соперничеством с Калакасом (и любым другим на его пути), чтобы собрать новые души для его жуткого королевства."
+pl-PL_name: "Król Upiorów"
+pl-PL_description: "W tym lochu, gdy odrzucasz płytkę, zniszcz następną kartę z talii (poza Królem Upiorów). Straszeczne!"
+pl-PL_flavor: "Za życia, Król Upiorów był przyjemną i przemiłą duszyczką. Po śmierci, wiecznie prowadzi okrutną rywalizację z Calacasem i wszystkim innym, co stanie mu na drodze gromadzenia duszy."
 tile_id: GhostKing
 image: /images/GhostKing.png
 ---

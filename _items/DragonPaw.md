@@ -16,6 +16,14 @@ cost: 4
 image: /images/DragonPaw.png
 durability: 3
 hero: mage
+ru-RU_name: "Лапа Драгорна"
+ru-RU_description: "Восстанавливает 2 здоровья, когда вы атакуете  <u>горящего</u> врага"
+ru-RU_flavor: "'Этот трижды проклятый Серобородый... Я найду его и верну свою руку. И если он хочет свои деньги обратно - обойдётся.' - Бартоломью"
+tile_id: DragonPaw
+cost: 4
+image: /images/DragonPaw.png
+durability: 3
+hero: mage
 es-ES_name: "Zarpa de Dragullo"
 es-ES_description: "Recupera 2 ❤️ cuando ataques a un enemigo  <u>quemado</u>"
 es-ES_flavor: "'Ese tres veces maldito Barbagrís... lo encontraré, y RECUPERARÉ mi zarpa. Y si quiere su dinero de vuelta, puede esperarlo sentado.' – Bartholomew"
@@ -24,9 +32,9 @@ cost: 4
 image: /images/DragonPaw.png
 durability: 3
 hero: mage
-ru-RU_name: "Лапа Драгорна"
-ru-RU_description: "Восстанавливает 2 здоровья, когда вы атакуете  <u>горящего</u> врага"
-ru-RU_flavor: "'Этот трижды проклятый Серобородый... Я найду его и верну свою руку. И если он хочет свои деньги обратно - обойдётся.' - Бартоломью"
+pl-PL_name: "Smrocze Łapsko"
+pl-PL_description: "Odnów 2 ❤️ gdy zaatakujesz płonącego ( <u>w płomieniach</u>) wroga."
+pl-PL_flavor: "'Siwobrody, ta zaraza... Znajdę go i odzyskam swoją rękę. A jak zażąda zwrotu pieniędzy to może sobie pogwizdać' - Bartpłomień"
 tile_id: DragonPaw
 cost: 4
 image: /images/DragonPaw.png

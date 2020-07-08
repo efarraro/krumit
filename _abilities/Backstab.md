@@ -14,6 +14,13 @@ tile_id: Backstab
 cost: 1
 image: /images/Backstab.png
 hero: rogue
+ru-RU_name: "Удар в спину"
+ru-RU_description: "Наносит 6 <u>пронзающий</u> урона врагу. Можно использовать только против <u>одинокого</u> врага, или если у вас есть <u>скрытность</u>. <u>Сжигается</u>"
+ru-RU_flavor: "Если у них нету глаз на затылке - оторвись как следует."
+tile_id: Backstab
+cost: 1
+image: /images/Backstab.png
+hero: rogue
 es-ES_name: "Puñalada por la Espalda"
 es-ES_description: "Haz 6 de daño <u>penetrante</u> a un enemigo. Solo puede ser usado contra enemigos <u>solitario</u>, o si tienes tealth. <u>Agota</u>"
 es-ES_flavor: "Si no tienen ojos en la nuca, hazlos picadillo."
@@ -21,9 +28,9 @@ tile_id: Backstab
 cost: 1
 image: /images/Backstab.png
 hero: rogue
-ru-RU_name: "Удар в спину"
-ru-RU_description: "Наносит 6 <u>пронзающий</u> урона врагу. Можно использовать только против <u>одинокого</u> врага, или если у вас есть <u>скрытность</u>. <u>Сжигается</u>"
-ru-RU_flavor: "Если у них нету глаз на затылке - оторвись как следует."
+pl-PL_name: "Nóż w plecy"
+pl-PL_description: "Zadaj 6 przenikliwych (<u>przenikający</u>) obrażeń przeciwnikowi. Można użyć jedynie na przeciwnikach, którzy są <u>samotny</u>, lub jeśli się ukrywasz (<u>ukrywanie się</u>). <u>Wyczerpany</u>"
+pl-PL_flavor: "Jeśli nie mają oczu z tyłu głowy, baw się na całego."
 tile_id: Backstab
 cost: 1
 image: /images/Backstab.png

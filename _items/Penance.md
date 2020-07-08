@@ -16,6 +16,14 @@ cost: 2
 image: /images/Penance.png
 durability: 2
 hero: priest
+ru-RU_name: "Покаяние"
+ru-RU_description: "Когда вы атакуете с этим оружием, наносит 2 <u>пронзающий</u> урона вам и <u>мутирует</u> в 🟦Избранный"
+ru-RU_flavor: "自我鞭笞有利身心。"
+tile_id: Penance
+cost: 2
+image: /images/Penance.png
+durability: 2
+hero: priest
 es-ES_name: "Penitencia"
 es-ES_description: "Cuando derrotes a un enemigo con esta arma, transforma una <u>Maldición</u> en el tablero en una <u>Bendición</u>"
 es-ES_flavor: "Flagelar para acumular."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/Penance.png
 durability: 2
 hero: priest
-ru-RU_name: "Покаяние"
-ru-RU_description: "Когда вы атакуете с этим оружием, наносит 2 <u>пронзающий</u> урона вам и <u>мутирует</u> в 🟦Избранный"
-ru-RU_flavor: "Flagelar para acumular."
+pl-PL_name: "Pokuta"
+pl-PL_description: "Po zaatakowaniu tą bronią otrzymasz 2 <u>przenikający</u> obrażeń <u>Mutacja</u> 🟦Wybranka"
+pl-PL_flavor: "Biczowanie na śniadanie."
 tile_id: Penance
 cost: 2
 image: /images/Penance.png

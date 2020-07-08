@@ -80,6 +80,46 @@ cost: 3
 image: /images/DragonsGold.png
 durability: 3
 hero: warrior
+ru-RU_name: "Драконье золото"
+ru-RU_description: "Конвертирует выбранный предмет в 5 💰"
+ru-RU_flavor: "'Кому нужно больше хлама в их жизни? Перерабатывайте ненужные вещи в золото и накапливайте!' - отрывок из 'Минимализм для драконов', Фрайдриха Конмари"
+tile_id: DragonsGold
+cost: 3
+image: /images/DragonsGold.png
+durability: 3
+hero: warrior
+ru-RU_name: "Драконье золото"
+ru-RU_description: "Конвертирует выбранный предмет в 5 💰"
+ru-RU_flavor: "'Кому нужно больше хлама в их жизни? Перерабатывайте ненужные вещи в золото и накапливайте!' - отрывок из 'Минимализм для драконов', Фрайдриха Конмари"
+tile_id: DragonsGold
+cost: 3
+image: /images/DragonsGold.png
+durability: 3
+hero: warrior
+ru-RU_name: "Драконье золото"
+ru-RU_description: "Конвертирует выбранный предмет в 5 💰"
+ru-RU_flavor: "'Кому нужно больше хлама в их жизни? Перерабатывайте ненужные вещи в золото и накапливайте!' - отрывок из 'Минимализм для драконов', Фрайдриха Конмари"
+tile_id: DragonsGold
+cost: 3
+image: /images/DragonsGold.png
+durability: 3
+hero: warrior
+ru-RU_name: "Драконье золото"
+ru-RU_description: "Конвертирует выбранный предмет в 5 💰"
+ru-RU_flavor: "'Кому нужно больше хлама в их жизни? Перерабатывайте ненужные вещи в золото и накапливайте!' - отрывок из 'Минимализм для драконов', Фрайдриха Конмари"
+tile_id: DragonsGold
+cost: 3
+image: /images/DragonsGold.png
+durability: 3
+hero: warrior
+ru-RU_name: "Драконье золото"
+ru-RU_description: "Конвертирует выбранный предмет в 5 💰"
+ru-RU_flavor: "'Кому нужно больше хлама в их жизни? Перерабатывайте ненужные вещи в золото и накапливайте!' - отрывок из 'Минимализм для драконов', Фрайдриха Конмари"
+tile_id: DragonsGold
+cost: 3
+image: /images/DragonsGold.png
+durability: 3
+hero: warrior
 es-ES_name: "Oro Dracónico"
 es-ES_description: "Convierte un ítem objetivo en 5 💰"
 es-ES_flavor: "'¿Quién necesita más basura en sus vidas? ¡Transforma tus objetos indeseados en oro, y acapara eso en su lugar!' – Extracto de 'Minimalismo Para Dragones', de Freidrich Konmari"
@@ -120,41 +160,41 @@ cost: 3
 image: /images/DragonsGold.png
 durability: 3
 hero: warrior
-ru-RU_name: "Драконье золото"
-ru-RU_description: "Конвертирует выбранный предмет в 5 💰"
-ru-RU_flavor: "'Кому нужно больше хлама в их жизни? Перерабатывайте ненужные вещи в золото и накапливайте!' - отрывок из 'Минимализм для драконов', Фрайдриха Конмари"
+pl-PL_name: "Smocze Złoto"
+pl-PL_description: "Przemień wskazany przedmiot w 5 💰."
+pl-PL_flavor: "'Toniesz w rupieciach? Przemień niepotrzebny szmelc w złoto i zanurz się w nim po szyję!' - wyciąg z 'Alchemii Sprzątania' autorstwa Frederyki Konmari."
 tile_id: DragonsGold
 cost: 3
 image: /images/DragonsGold.png
 durability: 3
 hero: warrior
-ru-RU_name: "Драконье золото"
-ru-RU_description: "Конвертирует выбранный предмет в 5 💰"
-ru-RU_flavor: "'Кому нужно больше хлама в их жизни? Перерабатывайте ненужные вещи в золото и накапливайте!' - отрывок из 'Минимализм для драконов', Фрайдриха Конмари"
+pl-PL_name: "Smocze Złoto"
+pl-PL_description: "Przemień wskazany przedmiot w 5 💰."
+pl-PL_flavor: "'Toniesz w rupieciach? Przemień niepotrzebny szmelc w złoto i zanurz się w nim po szyję!' - wyciąg z 'Alchemii Sprzątania' autorstwa Frederyki Konmari."
 tile_id: DragonsGold
 cost: 3
 image: /images/DragonsGold.png
 durability: 3
 hero: warrior
-ru-RU_name: "Драконье золото"
-ru-RU_description: "Конвертирует выбранный предмет в 5 💰"
-ru-RU_flavor: "'Кому нужно больше хлама в их жизни? Перерабатывайте ненужные вещи в золото и накапливайте!' - отрывок из 'Минимализм для драконов', Фрайдриха Конмари"
+pl-PL_name: "Smocze Złoto"
+pl-PL_description: "Przemień wskazany przedmiot w 5 💰."
+pl-PL_flavor: "'Toniesz w rupieciach? Przemień niepotrzebny szmelc w złoto i zanurz się w nim po szyję!' - wyciąg z 'Alchemii Sprzątania' autorstwa Frederyki Konmari."
 tile_id: DragonsGold
 cost: 3
 image: /images/DragonsGold.png
 durability: 3
 hero: warrior
-ru-RU_name: "Драконье золото"
-ru-RU_description: "Конвертирует выбранный предмет в 5 💰"
-ru-RU_flavor: "'Кому нужно больше хлама в их жизни? Перерабатывайте ненужные вещи в золото и накапливайте!' - отрывок из 'Минимализм для драконов', Фрайдриха Конмари"
+pl-PL_name: "Smocze Złoto"
+pl-PL_description: "Przemień wskazany przedmiot w 5 💰."
+pl-PL_flavor: "'Toniesz w rupieciach? Przemień niepotrzebny szmelc w złoto i zanurz się w nim po szyję!' - wyciąg z 'Alchemii Sprzątania' autorstwa Frederyki Konmari."
 tile_id: DragonsGold
 cost: 3
 image: /images/DragonsGold.png
 durability: 3
 hero: warrior
-ru-RU_name: "Драконье золото"
-ru-RU_description: "Конвертирует выбранный предмет в 5 💰"
-ru-RU_flavor: "'Кому нужно больше хлама в их жизни? Перерабатывайте ненужные вещи в золото и накапливайте!' - отрывок из 'Минимализм для драконов', Фрайдриха Конмари"
+pl-PL_name: "Smocze Złoto"
+pl-PL_description: "Przemień wskazany przedmiot w 5 💰."
+pl-PL_flavor: "'Toniesz w rupieciach? Przemień niepotrzebny szmelc w złoto i zanurz się w nim po szyję!' - wyciąg z 'Alchemii Sprzątania' autorstwa Frederyki Konmari."
 tile_id: DragonsGold
 cost: 3
 image: /images/DragonsGold.png

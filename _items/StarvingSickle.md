@@ -16,6 +16,14 @@ cost: 9
 image: /images/StarvingSickle.png
 durability: 3
 hero: necromancer
+ru-RU_name: "Голодный серп"
+ru-RU_description: "Стоимость этого предмета уменьшена на значение недостающего ❤️ (0)."
+ru-RU_flavor: "Очарованный духовной связью, этот причудливый серп работает на пике аппетита своего владельца (будь то хлеб и/или разрушение)."
+tile_id: StarvingSickle
+cost: 9
+image: /images/StarvingSickle.png
+durability: 3
+hero: necromancer
 es-ES_name: "Hoz Hambrienta"
 es-ES_description: "El costo 💰 de este ítem es reducido por la cantidad de ❤️ que te falta (0)"
 es-ES_flavor: "Encantada con una conexión espiritual, esta caprichosa hoz sirve los apetitos de su usuario (sean de pan y/o de destrucción)."
@@ -24,9 +32,9 @@ cost: 9
 image: /images/StarvingSickle.png
 durability: 3
 hero: necromancer
-ru-RU_name: "Голодный серп"
-ru-RU_description: "Стоимость этого предмета уменьшена на значение недостающего ❤️ (0)."
-ru-RU_flavor: "Очарованный духовной связью, этот причудливый серп работает на пике аппетита своего владельца (будь то хлеб и/или разрушение)."
+pl-PL_name: "Wygłodniały Sierp"
+pl-PL_description: "Koszt 💰 jest obniżony o ilość utraconego ❤️ (0)."
+pl-PL_flavor: "Apetyt sierpa rośnie w miarę jedzenia ducha."
 tile_id: StarvingSickle
 cost: 9
 image: /images/StarvingSickle.png

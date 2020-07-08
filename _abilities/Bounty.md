@@ -14,6 +14,13 @@ tile_id: Bounty
 cost: 0
 image: /images/Bounty.png
 hero: rogue
+ru-RU_name: "Вознаграждение"
+ru-RU_description: "Когда вы убиваете врага рядом с этой карточкой, добавляет 1 💰 на эту карточку. Когда вы получаете это, даёт накопленное 💰. <u><u>Мгновенная</u></u>"
+ru-RU_flavor: "'У них деньги на голове. Что? Да, я уверен, безусловно. И они пошли в ту сторону.' - Гиральт, А.К.А. Стукач."
+tile_id: Bounty
+cost: 0
+image: /images/Bounty.png
+hero: rogue
 es-ES_name: "Recompensa"
 es-ES_description: "Cuando derrotes a un enemigo adyacente a esta ficha, añade 1 💰 a Recompensa. Adquiere esta ficha para ganar esa cantidad de 💰. <u><u>Instantánea</u></u>"
 es-ES_flavor: "'Han puesto precio a sus cabezas. ¿Cómo? Sí, por supuesto que estoy seguro. Se fueron por allá.' - Gyralt, alias El Soplón"
@@ -21,9 +28,9 @@ tile_id: Bounty
 cost: 0
 image: /images/Bounty.png
 hero: rogue
-ru-RU_name: "Вознаграждение"
-ru-RU_description: "Когда вы убиваете врага рядом с этой карточкой, добавляет 1 💰 на эту карточку. Когда вы получаете это, даёт накопленное 💰. <u><u>Мгновенная</u></u>"
-ru-RU_flavor: "'У них деньги на голове. Что? Да, я уверен, безусловно. И они пошли в ту сторону.' - Гиральт, А.К.А. Стукач."
+pl-PL_name: "Nagroda"
+pl-PL_description: "Gdy pokonasz wroga sąsiadującego z tą płytką, dodaj 1 💰 do Nagrody. Uzyskaj tą płytkę aby zyskać 💰. <u><u>Niezwłoczny</u></u>"
+pl-PL_flavor: "'Jest nagroda za jego głowę. Tak, jestem pewien. Jestem pewien, że poszli w tym kierunku.' - Gyralt, zwany Kapusiem"
 tile_id: Bounty
 cost: 0
 image: /images/Bounty.png

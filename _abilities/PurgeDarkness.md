@@ -14,6 +14,13 @@ tile_id: PurgeDarkness
 cost: 1
 image: /images/PurgeDarkness.png
 hero: priest
+ru-RU_name: "Очищение Тьмы"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Заменяет ваш стартовый перк на 🟦Избранный, затем восстанавливает 4 ❤️"
+ru-RU_flavor: 
+tile_id: PurgeDarkness
+cost: 1
+image: /images/PurgeDarkness.png
+hero: priest
 es-ES_name: "Purgar Oscuridad"
 es-ES_description: "<u><u>Instantánea</u></u>. Intercambia tu ventaja inicial por 🟦Elegida, y luego recupera 4 ❤️"
 es-ES_flavor: 
@@ -21,9 +28,9 @@ tile_id: PurgeDarkness
 cost: 1
 image: /images/PurgeDarkness.png
 hero: priest
-ru-RU_name: "Очищение Тьмы"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Заменяет ваш стартовый перк на 🟦Избранный, затем восстанавливает 4 ❤️"
-ru-RU_flavor: 
+pl-PL_name: "Oczyszczenie z Ciemności"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. Podmień startową zaletę na 🟦Wybranka, po czym odnów 4 ❤️."
+pl-PL_flavor: 
 tile_id: PurgeDarkness
 cost: 1
 image: /images/PurgeDarkness.png

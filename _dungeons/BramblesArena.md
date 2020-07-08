@@ -48,6 +48,30 @@ monsters:
     image: /images/Bramble.png
     quantity: 1
     url: /monsters/Bramble
+ru-RU_name: "Арена сэра Брамбла"
+ru-RU_description: "'Залетайте на арену Брамбла! Лучшие варварские бои в городе! Почти законно!' - Шадрат, глашатай арены."
+tier: 2
+monsters:
+  - monster:
+    name: "Вардведь"
+    image: /images/Bear.png
+    quantity: 2
+    url: /monsters/Bear
+  - monster:
+    name: "Крестянин"
+    image: /images/Peasant.png
+    quantity: 3
+    url: /monsters/Peasant
+  - monster:
+    name: "Гоблоид"
+    image: /images/Gobloid.png
+    quantity: 3
+    url: /monsters/Gobloid
+  - monster:
+    name: "Брамбл"
+    image: /images/Bramble.png
+    quantity: 1
+    url: /monsters/Bramble
 es-ES_name: "Arena de Zarzal"
 es-ES_description: "'¡Vengan todos a la Arena de Zarzal! ¡Vean las luchas más barbarosas del pueblo! ¡Son 'escosomente' legales! - Shadrat, Pregonero de la Arena"
 tier: 2
@@ -72,27 +96,27 @@ monsters:
     image: /images/Bramble.png
     quantity: 1
     url: /monsters/Bramble
-ru-RU_name: "Арена сэра Брамбла"
-ru-RU_description: "'Залетайте на арену Брамбла! Лучшие варварские бои в городе! Почти законно!' - Шадрат, глашатай арены."
+pl-PL_name: "Arena w Cierniowie"
+pl-PL_description: "'Zapraszamy na Arenę w Cierniowie! Miód i łososie w barze!' - Shadrat, naganiacz."
 tier: 2
 monsters:
   - monster:
-    name: "Вардведь"
+    name: "Niedźwiedźarian"
     image: /images/Bear.png
     quantity: 2
     url: /monsters/Bear
   - monster:
-    name: "Крестянин"
+    name: "Wieśniak"
     image: /images/Peasant.png
     quantity: 3
     url: /monsters/Peasant
   - monster:
-    name: "Гоблоид"
+    name: "Gobloid"
     image: /images/Gobloid.png
     quantity: 3
     url: /monsters/Gobloid
   - monster:
-    name: "Брамбл"
+    name: "Misiek z Cierniowa"
     image: /images/Bramble.png
     quantity: 1
     url: /monsters/Bramble

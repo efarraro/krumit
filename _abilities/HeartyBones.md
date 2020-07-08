@@ -14,6 +14,13 @@ tile_id: HeartyBones
 cost: 2
 image: /images/HeartyBones.png
 hero: necromancer
+ru-RU_name: "Добротные кости"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Увеличивает максимальное ❤️ ваших 💀 <u>миньонов</u> на 3"
+ru-RU_flavor: "Сбалансированная диета, наполненная железом, кальцием и b12, необходима для роста костей. Но инфернальная магия сойдёт на крайний случай."
+tile_id: HeartyBones
+cost: 2
+image: /images/HeartyBones.png
+hero: necromancer
 es-ES_name: "Huesos Sanos"
 es-ES_description: "<u><u>Instantánea</u></u>. Incrementa la ❤️ máxima de tus 💀 <u>Esbirros</u> en 3"
 es-ES_flavor: "Una dieta balanceada rica en hierro, calcio y B12 es esencial para que los huesos crezcan sanos. Pero, en un apuro, las magias infernales también sirven."
@@ -21,9 +28,9 @@ tile_id: HeartyBones
 cost: 2
 image: /images/HeartyBones.png
 hero: necromancer
-ru-RU_name: "Добротные кости"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Увеличивает максимальное ❤️ ваших 💀 <u>миньонов</u> на 3"
-ru-RU_flavor: "Сбалансированная диета, наполненная железом, кальцием и b12, необходима для роста костей. Но инфернальная магия сойдёт на крайний случай."
+pl-PL_name: "Krzepkie Kości"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. Zwiększ maksymalne ❤️ swoich 💀 <u>Sługusy</u> o 3."
+pl-PL_flavor: "Zbilansowana dieta, bogata w żelazo, wapń i B12 jest konieczna aby zapewnić wzrost silnych kości. To, albo chtoniczna magia."
 tile_id: HeartyBones
 cost: 2
 image: /images/HeartyBones.png

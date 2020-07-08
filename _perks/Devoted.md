@@ -8,12 +8,16 @@ zh-CN_name: "虔诚"
 zh-CN_description: "当每一次进入新的地下城时，在你的卡组里洗入3张<u>祝福</u>"
 tile_id: Devoted
 image: /images/Devoted.png
+ru-RU_name: "Посвященный"
+ru-RU_description: "В начале каждого подземелья замешивает 3 случайных <u>благословения</u> в колоду подземелья"
+tile_id: Devoted
+image: /images/Devoted.png
 es-ES_name: "Devota"
 es-ES_description: "Al inicio de cada mazmorra, baraja 3 <u>Bendiciones</u> aleatorias en el mazo de mazmorra"
 tile_id: Devoted
 image: /images/Devoted.png
-ru-RU_name: "Посвященный"
-ru-RU_description: "В начале каждого подземелья замешивает 3 случайных <u>благословения</u> в колоду подземелья"
+pl-PL_name: "Oddany"
+pl-PL_description: "Na początku każdego lochu, wtasuj 3 losowe <u>Błogosławieństwa</u> do talii."
 tile_id: Devoted
 image: /images/Devoted.png
 ---

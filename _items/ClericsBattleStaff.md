@@ -16,6 +16,14 @@ cost: 3
 image: /images/ClericsBattleStaff.png
 durability: 3
 hero: priest
+ru-RU_name: "Боевой посох клирика"
+ru-RU_description: "<u>Сверхлечение</u>: увеличивает 🔸 этого оружия на 1"
+ru-RU_flavor: "Клирик Ханы обязан принести жизнь и свет во тьму, обычно с помощью силы."
+tile_id: ClericsBattleStaff
+cost: 3
+image: /images/ClericsBattleStaff.png
+durability: 3
+hero: priest
 es-ES_name: "Báculo de Guerra Clerical"
 es-ES_description: "<u>Sobrecura</u>: Incrementa el 🔸 de esta arma en 1"
 es-ES_flavor: "El báculo de un Clérigo de Hana está hecho para llevar la luz y la vida a la oscuridad, usualmente por la fuerza."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/ClericsBattleStaff.png
 durability: 3
 hero: priest
-ru-RU_name: "Боевой посох клирика"
-ru-RU_description: "<u>Сверхлечение</u>: увеличивает 🔸 этого оружия на 1"
-ru-RU_flavor: "Клирик Ханы обязан принести жизнь и свет во тьму, обычно с помощью силы."
+pl-PL_name: "Buława Kleryka"
+pl-PL_description: "<u>Przeleczenie</u>: Zwiększ 🔸 tej broni o 1."
+pl-PL_flavor: "Kleryk Hany używa buławy aby przynieść światłem rozgonić mrok. A jak nie światłem, to siłą."
 tile_id: ClericsBattleStaff
 cost: 3
 image: /images/ClericsBattleStaff.png

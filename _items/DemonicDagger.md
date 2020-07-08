@@ -16,6 +16,14 @@ cost: 2
 image: /images/DemonicDagger.png
 durability: 3
 hero: necromancer
+ru-RU_name: "Демонический кинжал"
+ru-RU_description: "<u>пронзающий</u>.  <u>Вампиризм</u> (2)"
+ru-RU_flavor: "Однажды этот кинжал смертельно ранил малого демона, который отказался умирать и таким образом заточил свою душу внутри клинка."
+tile_id: DemonicDagger
+cost: 2
+image: /images/DemonicDagger.png
+durability: 3
+hero: necromancer
 es-ES_name: "Daga Demoníaca"
 es-ES_description: "<u>penetrante</u>.  <u>Vampirismo</u> (2)"
 es-ES_flavor: "Esta daga una vez hirió mortalmente a un demonio menor - quien, rehusándose a morir, sepultó su alma dentro de la hoja."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/DemonicDagger.png
 durability: 3
 hero: necromancer
-ru-RU_name: "Демонический кинжал"
-ru-RU_description: "<u>пронзающий</u>.  <u>Вампиризм</u> (2)"
-ru-RU_flavor: "Однажды этот кинжал смертельно ранил малого демона, который отказался умирать и таким образом заточил свою душу внутри клинка."
+pl-PL_name: "Demoniczne Ostrze"
+pl-PL_description: "<u>przenikający</u>.  <u>Kradzież Życia</u> (2)"
+pl-PL_flavor: "Ostrze tej broni jest wiecznym grobowcem demona, który został niegdyś prze zeń śmiertelnie zraniony."
 tile_id: DemonicDagger
 cost: 2
 image: /images/DemonicDagger.png

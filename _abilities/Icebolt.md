@@ -14,6 +14,13 @@ tile_id: Icebolt
 cost: 1
 image: /images/Icebolt.png
 hero: mage
+ru-RU_name: "Ледяной снаряд"
+ru-RU_description: "Наносит 3 <u>пронзающий</u> урона и накладывает <u>мороз</u> на выбранного врага.  <u>Сжигается</u>"
+ru-RU_flavor: "Заклинание, любимое начинающими магами - полезно для замораживания гоблоидов и охлаждения напитков."
+tile_id: Icebolt
+cost: 1
+image: /images/Icebolt.png
+hero: mage
 es-ES_name: "Dardo de Hielo"
 es-ES_description: "Haz 3 de daño <u>penetrante</u> y <u>congela</u> a un enemigo. <u>Agota</u>"
 es-ES_flavor: "Un hechizo favorecido por los magos novatos - útil para congelar gobloides y enfriar bebidas."
@@ -21,9 +28,9 @@ tile_id: Icebolt
 cost: 1
 image: /images/Icebolt.png
 hero: mage
-ru-RU_name: "Ледяной снаряд"
-ru-RU_description: "Наносит 3 <u>пронзающий</u> урона и накладывает <u>мороз</u> на выбранного врага.  <u>Сжигается</u>"
-ru-RU_flavor: "Заклинание, любимое начинающими магами - полезно для замораживания гоблоидов и охлаждения напитков."
+pl-PL_name: "Sopel"
+pl-PL_description: "Zadaj 3 przenikliwych (<u>przenikający</u>) obrażeń i zamroź (<u>zamrożenie</u>) przeciwnika. <u>Wyczerpany</u>"
+pl-PL_flavor: "Ulubiony czar początkujących magów - spowolni gobloida i schłodzi drinka."
 tile_id: Icebolt
 cost: 1
 image: /images/Icebolt.png

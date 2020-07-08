@@ -38,6 +38,25 @@ monsters:
     image: /images/SkeletonKing.png
     quantity: 1
     url: /monsters/SkeletonKing
+ru-RU_name: "Костбище"
+ru-RU_description: "Калакас ухаживает за Костбищем, как за омерзительным садом. С правильными частями он может создать нового скелета, чтобы тот присоединился к его бледному королевству."
+tier: 2
+monsters:
+  - monster:
+    name: "Древний скелет"
+    image: /images/AncientSkeleton.png
+    quantity: 3
+    url: /monsters/AncientSkeleton
+  - monster:
+    name: "Скелет"
+    image: /images/Skeleton.png
+    quantity: 6
+    url: /monsters/Skeleton
+  - monster:
+    name: "Калакас"
+    image: /images/SkeletonKing.png
+    quantity: 1
+    url: /monsters/SkeletonKing
 es-ES_name: "El Osario"
 es-ES_description: "Calacas cuida su Osario como un jardín mórbido. Con las partes correctas, puede cultivar un nuevo esqueleto para añadir a su pálido reino."
 tier: 2
@@ -57,22 +76,22 @@ monsters:
     image: /images/SkeletonKing.png
     quantity: 1
     url: /monsters/SkeletonKing
-ru-RU_name: "Костбище"
-ru-RU_description: "Калакас ухаживает за Костбищем, как за омерзительным садом. С правильными частями он может создать нового скелета, чтобы тот присоединился к его бледному королевству."
+pl-PL_name: "Cmentarzysko"
+pl-PL_description: "Calacas dogląda Cmentarzyska jak ponurego ogródka. Troszeczkę kości, troszeczkę mroku i nowy szkielet dołącza do jego królestwa."
 tier: 2
 monsters:
   - monster:
-    name: "Древний скелет"
+    name: "Pradawny Szkielet"
     image: /images/AncientSkeleton.png
     quantity: 3
     url: /monsters/AncientSkeleton
   - monster:
-    name: "Скелет"
+    name: "Szkielet"
     image: /images/Skeleton.png
     quantity: 6
     url: /monsters/Skeleton
   - monster:
-    name: "Калакас"
+    name: "Calacas"
     image: /images/SkeletonKing.png
     quantity: 1
     url: /monsters/SkeletonKing

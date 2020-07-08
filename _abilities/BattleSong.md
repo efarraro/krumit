@@ -14,6 +14,13 @@ tile_id: BattleSong
 cost: 2
 image: /images/BattleSong.png
 hero: warrior
+ru-RU_name: "Боевая песня"
+ru-RU_description: "Увеличивает 🔸 всех рукопашных оружий на поле на 1. Перезаряжается после приобретения 2 оружий."
+ru-RU_flavor: "'Молот богов загонит наши корабли в новые земли! Чтобы бороться с ордой и петь, и плакать, Нюк-халла, я иду!' - Нед Зепп, военный бард Вопящих холмов"
+tile_id: BattleSong
+cost: 2
+image: /images/BattleSong.png
+hero: warrior
 es-ES_name: "Canción de Batalla"
 es-ES_description: "Incrementa el 🔸 de todas las armas de melé visibles en la mazmorra en 1. Adquiere 2 armas cualquiera para recargar esta habilidad."
 es-ES_flavor: "'¡El martillo de los dioses conducirá a nuestras naves a nuevas tierras! ¡A luchar con la horda, a cantar y gritar, Nuclea-halla, allá voy!' - Ned Zepp, Bardo-Guerrero de las Colinas Gritonas"
@@ -21,9 +28,9 @@ tile_id: BattleSong
 cost: 2
 image: /images/BattleSong.png
 hero: warrior
-ru-RU_name: "Боевая песня"
-ru-RU_description: "Увеличивает 🔸 всех рукопашных оружий на поле на 1. Перезаряжается после приобретения 2 оружий."
-ru-RU_flavor: "'Молот богов загонит наши корабли в новые земли! Чтобы бороться с ордой и петь, и плакать, Нюк-халла, я иду!' - Нед Зепп, военный бард Вопящих холмов"
+pl-PL_name: "Pieśń wojenna"
+pl-PL_description: "Zwiększ 🔸 wszystkich broni widocznych na planszy o 1. Zdobądź jakiekolwiek 2 bronie aby naładować."
+pl-PL_flavor: "Młot bogów poprowadzi nasze łodzie ku nowym lądom! Aby walczyć z hordą i śpiewać, i płakać, Nuke-halla, nadchodzę! ' - Ned Zepp, Wojenny Bard Krzykliwych Pagórków"
 tile_id: BattleSong
 cost: 2
 image: /images/BattleSong.png

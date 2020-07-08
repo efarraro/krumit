@@ -16,6 +16,14 @@ cost: 2
 image: /images/InquisitorsFist.png
 durability: 2
 hero: priest
+ru-RU_name: "Кулак инквизитора"
+ru-RU_description: "Пока на поле есть хотя бы одно <u>благословение</u>, ваша атака имеет  <u>Вампиризм</u> (3)"
+ru-RU_flavor: "При достаточной вере даже боль может стать пищей. Даже, если это не ваша боль."
+tile_id: InquisitorsFist
+cost: 2
+image: /images/InquisitorsFist.png
+durability: 2
+hero: priest
 es-ES_name: "Puño de Inquisidor"
 es-ES_description: "Mientras haya por lo menos una <u>Bendición</u> presente en el tablero, tu ataque gana  <u>Vampirismo</u> (3)"
 es-ES_flavor: "Con suficiente fe incluso el dolor puede ser reconfortante. Sobre todo si no es tu dolor."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/InquisitorsFist.png
 durability: 2
 hero: priest
-ru-RU_name: "Кулак инквизитора"
-ru-RU_description: "Пока на поле есть хотя бы одно <u>благословение</u>, ваша атака имеет  <u>Вампиризм</u> (3)"
-ru-RU_flavor: "При достаточной вере даже боль может стать пищей. Даже, если это не ваша боль."
+pl-PL_name: "Pięść Inkwizytora"
+pl-PL_description: "Jeżeli na planszy znajduje się <u>Błogosławieństwo</u>, twój atak ma  <u>Kradzież Życia</u> (3)."
+pl-PL_flavor: "Wystarczająco silna wiara pozwala wzmocnić się mimo boleści. Szczególnie, jeżeli to nie ciebie to boli."
 tile_id: InquisitorsFist
 cost: 2
 image: /images/InquisitorsFist.png

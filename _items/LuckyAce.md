@@ -32,6 +32,22 @@ cost: 2
 image: /images/LuckyAce.png
 durability: 1
 hero: rogue
+ru-RU_name: "Счастливый туз"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Замешивает копии каждой способности в вашем снаряжении в колоду подземелья"
+ru-RU_flavor: "'Мы сами творцы своей удачи. Поэтому когда фишки заканчиваются, я иду ва-банк и срываю джекпоты' - Роза"
+tile_id: LuckyAce
+cost: 2
+image: /images/LuckyAce.png
+durability: 1
+hero: rogue
+ru-RU_name: "Счастливый туз"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Замешивает копии каждой способности в вашем снаряжении в колоду подземелья"
+ru-RU_flavor: "'Мы сами творцы своей удачи. Поэтому когда фишки заканчиваются, я иду ва-банк и срываю джекпоты' - Роза"
+tile_id: LuckyAce
+cost: 2
+image: /images/LuckyAce.png
+durability: 1
+hero: rogue
 es-ES_name: "As de la Fortuna"
 es-ES_description: "<u><u>Instantánea</u></u>. Baraja copias de cada habilidad en tu inventario en el mazo"
 es-ES_flavor: "'Yo me hago mi propia fortuna. A la hora de la verdad, lo apuesto todo - y reviento la casa.' - Rose"
@@ -48,17 +64,17 @@ cost: 2
 image: /images/LuckyAce.png
 durability: 1
 hero: rogue
-ru-RU_name: "Счастливый туз"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Замешивает копии каждой способности в вашем снаряжении в колоду подземелья"
-ru-RU_flavor: "'Мы сами творцы своей удачи. Поэтому когда фишки заканчиваются, я иду ва-банк и срываю джекпоты' - Роза"
+pl-PL_name: "Szczęśliwy As"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. Wtasuj kopie umiejętności z ekwipunku do talii."
+pl-PL_flavor: "'Jesteś odpowiedzialny za swoje szczęście. Gdy stawka jest większa niż życie, postaw wszystko na jedną kartę.' - Róża"
 tile_id: LuckyAce
 cost: 2
 image: /images/LuckyAce.png
 durability: 1
 hero: rogue
-ru-RU_name: "Счастливый туз"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Замешивает копии каждой способности в вашем снаряжении в колоду подземелья"
-ru-RU_flavor: "'Мы сами творцы своей удачи. Поэтому когда фишки заканчиваются, я иду ва-банк и срываю джекпоты' - Роза"
+pl-PL_name: "Szczęśliwy As"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. Wtasuj kopie umiejętności z ekwipunku do talii."
+pl-PL_flavor: "'Jesteś odpowiedzialny za swoje szczęście. Gdy stawka jest większa niż życie, postaw wszystko na jedną kartę.' - Róża"
 tile_id: LuckyAce
 cost: 2
 image: /images/LuckyAce.png

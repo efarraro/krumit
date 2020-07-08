@@ -80,6 +80,46 @@ cost: 2
 image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
+ru-RU_name: "Пиратский ящик"
+ru-RU_description: "<u>Вытягивает</u> случайный предмет"
+ru-RU_flavor: "Пираты - недоверчивые люди. Настоящий ключ к пиратском ящику - это прикосновение к их сердцу."
+tile_id: PirateLockbox
+cost: 2
+image: /images/PirateLockbox.png
+durability: 1
+hero: warrior
+ru-RU_name: "Пиратский ящик"
+ru-RU_description: "<u>Вытягивает</u> случайный предмет"
+ru-RU_flavor: "Пираты - недоверчивые люди. Настоящий ключ к пиратском ящику - это прикосновение к их сердцу."
+tile_id: PirateLockbox
+cost: 2
+image: /images/PirateLockbox.png
+durability: 1
+hero: warrior
+ru-RU_name: "Пиратский ящик"
+ru-RU_description: "<u>Вытягивает</u> случайный предмет"
+ru-RU_flavor: "Пираты - недоверчивые люди. Настоящий ключ к пиратском ящику - это прикосновение к их сердцу."
+tile_id: PirateLockbox
+cost: 2
+image: /images/PirateLockbox.png
+durability: 1
+hero: warrior
+ru-RU_name: "Пиратский ящик"
+ru-RU_description: "<u>Вытягивает</u> случайный предмет"
+ru-RU_flavor: "Пираты - недоверчивые люди. Настоящий ключ к пиратском ящику - это прикосновение к их сердцу."
+tile_id: PirateLockbox
+cost: 2
+image: /images/PirateLockbox.png
+durability: 1
+hero: warrior
+ru-RU_name: "Пиратский ящик"
+ru-RU_description: "<u>Вытягивает</u> случайный предмет"
+ru-RU_flavor: "Пираты - недоверчивые люди. Настоящий ключ к пиратском ящику - это прикосновение к их сердцу."
+tile_id: PirateLockbox
+cost: 2
+image: /images/PirateLockbox.png
+durability: 1
+hero: warrior
 es-ES_name: "Cofre de Piratas"
 es-ES_description: "<u>Roba</u> un ítem aleatorio"
 es-ES_flavor: "Los piratas son tipejos desconfiados. La verdadera llave a un cofre de piratas yace en tocarles el corazoncillo."
@@ -120,41 +160,41 @@ cost: 2
 image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
-ru-RU_name: "Пиратский ящик"
-ru-RU_description: "<u>Вытягивает</u> случайный предмет"
-ru-RU_flavor: "Пираты - недоверчивые люди. Настоящий ключ к пиратском ящику - это прикосновение к их сердцу."
+pl-PL_name: "Piracka skrytka"
+pl-PL_description: "<u>Wytwórz</u> losowy przedmiot."
+pl-PL_flavor: "Piraci są nieufni z natury, ale sentymentalni. Klucz do pirackiej skrytki trzymają blisko serca."
 tile_id: PirateLockbox
 cost: 2
 image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
-ru-RU_name: "Пиратский ящик"
-ru-RU_description: "<u>Вытягивает</u> случайный предмет"
-ru-RU_flavor: "Пираты - недоверчивые люди. Настоящий ключ к пиратском ящику - это прикосновение к их сердцу."
+pl-PL_name: "Piracka skrytka"
+pl-PL_description: "<u>Wytwórz</u> losowy przedmiot."
+pl-PL_flavor: "Piraci są nieufni z natury, ale sentymentalni. Klucz do pirackiej skrytki trzymają blisko serca."
 tile_id: PirateLockbox
 cost: 2
 image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
-ru-RU_name: "Пиратский ящик"
-ru-RU_description: "<u>Вытягивает</u> случайный предмет"
-ru-RU_flavor: "Пираты - недоверчивые люди. Настоящий ключ к пиратском ящику - это прикосновение к их сердцу."
+pl-PL_name: "Piracka skrytka"
+pl-PL_description: "<u>Wytwórz</u> losowy przedmiot."
+pl-PL_flavor: "Piraci są nieufni z natury, ale sentymentalni. Klucz do pirackiej skrytki trzymają blisko serca."
 tile_id: PirateLockbox
 cost: 2
 image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
-ru-RU_name: "Пиратский ящик"
-ru-RU_description: "<u>Вытягивает</u> случайный предмет"
-ru-RU_flavor: "Пираты - недоверчивые люди. Настоящий ключ к пиратском ящику - это прикосновение к их сердцу."
+pl-PL_name: "Piracka skrytka"
+pl-PL_description: "<u>Wytwórz</u> losowy przedmiot."
+pl-PL_flavor: "Piraci są nieufni z natury, ale sentymentalni. Klucz do pirackiej skrytki trzymają blisko serca."
 tile_id: PirateLockbox
 cost: 2
 image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
-ru-RU_name: "Пиратский ящик"
-ru-RU_description: "<u>Вытягивает</u> случайный предмет"
-ru-RU_flavor: "Пираты - недоверчивые люди. Настоящий ключ к пиратском ящику - это прикосновение к их сердцу."
+pl-PL_name: "Piracka skrytka"
+pl-PL_description: "<u>Wytwórz</u> losowy przedmiot."
+pl-PL_flavor: "Piraci są nieufni z natury, ale sentymentalni. Klucz do pirackiej skrytki trzymają blisko serca."
 tile_id: PirateLockbox
 cost: 2
 image: /images/PirateLockbox.png

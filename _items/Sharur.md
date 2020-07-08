@@ -16,6 +16,14 @@ cost: 4
 image: /images/Sharur.png
 durability: 3
 hero: priest
+ru-RU_name: "Шарур"
+ru-RU_description: "🔸 этого предмета увеличена на 1 за каждого  <u>оскверненного</u> врага в этом подземельи"
+ru-RU_flavor: "Эта утренняя звезда может иметь маленькое проклятие в качестве угощения."
+tile_id: Sharur
+cost: 4
+image: /images/Sharur.png
+durability: 3
+hero: priest
 es-ES_name: "Sharur"
 es-ES_description: "El 🔸 de esta arma se incrementa en 1 por cada enemigo diferente que hayas  <u>corrompido</u>"
 es-ES_flavor: "Esta maza puede tener un poquillo de maldición, como premio."
@@ -24,9 +32,9 @@ cost: 4
 image: /images/Sharur.png
 durability: 3
 hero: priest
-ru-RU_name: "Шарур"
-ru-RU_description: "🔸 этого предмета увеличена на 1 за каждого  <u>оскверненного</u> врага в этом подземельи"
-ru-RU_flavor: "Эта утренняя звезда может иметь маленькое проклятие в качестве угощения."
+pl-PL_name: "Kropacz"
+pl-PL_description: "🔸 tej broni jest zwiększony o 1 za każdego  <u>zepsuty</u> wroga."
+pl-PL_flavor: "Morgenszterny można karmić klątwami, w nagrodę."
 tile_id: Sharur
 cost: 4
 image: /images/Sharur.png

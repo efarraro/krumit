@@ -16,6 +16,14 @@ cost: 3
 image: /images/BoneShardDagger.png
 durability: 3
 hero: necromancer
+ru-RU_name: "Кинжал из костяного осколка"
+ru-RU_description: "Когда вы получаете это, 🔸 этого оружия увеличивается на 1 за каждого 💀 <u>Миньон</u> в вашем снаряжении."
+ru-RU_flavor: "Заточенная кость, заточенная на костях."
+tile_id: BoneShardDagger
+cost: 3
+image: /images/BoneShardDagger.png
+durability: 3
+hero: necromancer
 es-ES_name: "Esquirla de Hueso"
 es-ES_description: "Cuando adquieras esta arma, su 🔸 se incrementa en 1 por cada 💀 <u>Esbirro</u> en tu inventario"
 es-ES_flavor: "Un afilado hueso afilado en huesos."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/BoneShardDagger.png
 durability: 3
 hero: necromancer
-ru-RU_name: "Кинжал из костяного осколка"
-ru-RU_description: "Когда вы получаете это, 🔸 этого оружия увеличивается на 1 за каждого 💀 <u>Миньон</u> в вашем снаряжении."
-ru-RU_flavor: "Заточенная кость, заточенная на костях."
+pl-PL_name: "Sztylet z Odłamka Kości"
+pl-PL_description: "W momencie uzyskania, 🔸 wzrasta o 1 za każdego sługusa (💀 <u>Sługus</u>) w ekwipunku."
+pl-PL_flavor: "Ostra kość, choć nie ość."
 tile_id: BoneShardDagger
 cost: 3
 image: /images/BoneShardDagger.png

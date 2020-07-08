@@ -14,6 +14,13 @@ tile_id: SkeletonParty
 cost: 3
 image: /images/SkeletonParty.png
 hero: necromancer
+ru-RU_name: "Вечеринка скелетов"
+ru-RU_description: "Уменьшает ваше ❤️ до 1 и заполняет свободные слоты снаряжения 💀 <u>Миньон</u> Скелет. <u>Сжигается</u>"
+ru-RU_flavor: "'Это моя вечеринка и я оживу, если захочу' - Мульдорф"
+tile_id: SkeletonParty
+cost: 3
+image: /images/SkeletonParty.png
+hero: necromancer
 es-ES_name: "Fiesta Esquelética"
 es-ES_description: "Reduce tu ❤️ a 1 y llena los espacios vacíos en tu inventario con Esqueleto. <u>Agota</u>"
 es-ES_flavor: "'¡Es mi fiesta y me haré no-muerto si quiero!' - Muldorf"
@@ -21,9 +28,9 @@ tile_id: SkeletonParty
 cost: 3
 image: /images/SkeletonParty.png
 hero: necromancer
-ru-RU_name: "Вечеринка скелетов"
-ru-RU_description: "Уменьшает ваше ❤️ до 1 и заполняет свободные слоты снаряжения 💀 <u>Миньон</u> Скелет. <u>Сжигается</u>"
-ru-RU_flavor: "'Это моя вечеринка и я оживу, если захочу' - Мульдорф"
+pl-PL_name: "Schadzka Szkieletów"
+pl-PL_description: "Obniż ❤️ do 1 i uzupełnij puste miejsca w ekwipunku kopiami Szkielet. <u>Wyczerpany</u>"
+pl-PL_flavor: "'To moja impreza i skończę tak jak sobie chcę!' - Muldorf"
 tile_id: SkeletonParty
 cost: 3
 image: /images/SkeletonParty.png

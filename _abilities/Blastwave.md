@@ -14,6 +14,13 @@ tile_id: Blastwave
 cost: 6
 image: /images/Blastwave.png
 hero: mage
+ru-RU_name: "Взрывная волна"
+ru-RU_description: "Наносит 5 <u>пронзающий</u> урона и накладывает  <u>ожог</u> (5) на всех врагов в нижнем ряду, затем замешивает их в колоду подземелья. <u>Сжигается</u>"
+ru-RU_flavor: "Если ты не можешь выдержать жар, тогда выбирайся из подземелья."
+tile_id: Blastwave
+cost: 6
+image: /images/Blastwave.png
+hero: mage
 es-ES_name: "Onda de Choque"
 es-ES_description: "Haz 5 de daño <u>penetrante</u> y  <u>quema</u> (5) a todos los enemigos en la fila inferior. Barájalos de vuelta en el mazo de mazmorra. <u>Agota</u>"
 es-ES_flavor: "Si no aguantas el calor, lárgate de la mazmorra."
@@ -21,9 +28,9 @@ tile_id: Blastwave
 cost: 6
 image: /images/Blastwave.png
 hero: mage
-ru-RU_name: "Взрывная волна"
-ru-RU_description: "Наносит 5 <u>пронзающий</u> урона и накладывает  <u>ожог</u> (5) на всех врагов в нижнем ряду, затем замешивает их в колоду подземелья. <u>Сжигается</u>"
-ru-RU_flavor: "Если ты не можешь выдержать жар, тогда выбирайся из подземелья."
+pl-PL_name: "PODMUCH"
+pl-PL_description: "Zadaj 5 przenikliwych (<u>przenikający</u>) obrażeń i podpal (5) ( <u>podpalenie</u>) wszystkich wrogów dolnym wierszu. Wtasuj ich do talii. <u>Wyczerpany</u>"
+pl-PL_flavor: "Jeśli nie możesz wytrzymać gorąca, wyjdź z lochu."
 tile_id: Blastwave
 cost: 6
 image: /images/Blastwave.png

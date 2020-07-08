@@ -16,6 +16,14 @@ cost: 16
 image: /images/GreatAxe.png
 durability: 3
 hero: warrior
+ru-RU_name: "Мой топор"
+ru-RU_description: "Пока этот предмет находится на поле, его стоимость уменьшается на 2 💰, когда вы убиваете врага"
+ru-RU_flavor: "У тебя уже есть мой лук, теперь ты тоже хочешь мой топор?"
+tile_id: GreatAxe
+cost: 16
+image: /images/GreatAxe.png
+durability: 3
+hero: warrior
 es-ES_name: "Mi Hacha"
 es-ES_description: "Mientras este ítem sea visible en el tablero, reduce su costo en 2 💰 cada vez que derrotes a un enemigo"
 es-ES_flavor: "Ya tienes mi arco, ¿y ahora también quieres mi hacha?"
@@ -24,9 +32,9 @@ cost: 16
 image: /images/GreatAxe.png
 durability: 3
 hero: warrior
-ru-RU_name: "Мой топор"
-ru-RU_description: "Пока этот предмет находится на поле, его стоимость уменьшается на 2 💰, когда вы убиваете врага"
-ru-RU_flavor: "У тебя уже есть мой лук, теперь ты тоже хочешь мой топор?"
+pl-PL_name: "Moja Siekiera"
+pl-PL_description: "Gdy ta broń jest na planszy, obniż jej koszt o 2 💰 gdy pokonasz wroga."
+pl-PL_flavor: "Masz już mój łuk, teraz chcesz mój topór?"
 tile_id: GreatAxe
 cost: 16
 image: /images/GreatAxe.png

@@ -16,6 +16,14 @@ cost: 2
 image: /images/IcePick.png
 durability: 3
 hero: mage
+ru-RU_name: "Ледоруб"
+ru-RU_description: "Это оружие имеет +4 🔸, пока вы атакуете <u>замороженного</u> врага"
+ru-RU_flavor: "Элитный, талакийный композит модели Glacier-Racer."
+tile_id: IcePick
+cost: 2
+image: /images/IcePick.png
+durability: 3
+hero: mage
 es-ES_name: "Pico de Hielo"
 es-ES_description: "El 🔸 de esta arma se incrementa en 4 contra enemigos <u>congelados</u>"
 es-ES_flavor: "Un modelo Zapahielos de primerísima calidad, hecho de un compuesto de brillanio y durantina."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/IcePick.png
 durability: 3
 hero: mage
-ru-RU_name: "Ледоруб"
-ru-RU_description: "Это оружие имеет +4 🔸, пока вы атакуете <u>замороженного</u> врага"
-ru-RU_flavor: "Элитный, талакийный композит модели Glacier-Racer."
+pl-PL_name: "Czekan"
+pl-PL_description: "🔸 zwiększony o 4 przeciwko zamrożonym (<u>zamrożony</u>) przeciwnikom."
+pl-PL_flavor: "Towar z najwyższej półki, model Glacier-Racer."
 tile_id: IcePick
 cost: 2
 image: /images/IcePick.png

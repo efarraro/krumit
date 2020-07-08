@@ -14,6 +14,13 @@ tile_id: Thrust
 cost: 0
 image: /images/Thrust.png
 hero: warrior
+ru-RU_name: "Удар копьем"
+ru-RU_description: "Когда вы получаете это, даёт 1 💰. Ваша атака с рукопашным оружием становится <u>пронзающий</u> и имеет +2 🔸. <u>Сжигается</u>."
+ru-RU_flavor: "'Атакуйте их слабое место! Не жалеть их' - мастер по сверлу Исмериумвилля Редзепи"
+tile_id: Thrust
+cost: 0
+image: /images/Thrust.png
+hero: warrior
 es-ES_name: "Estocada"
 es-ES_description: "Gana 1 💰 cuando adquieras esto. Tu ataque con un arma de melé es <u>penetrante</u> y tiene +2 🔸. <u>Agota</u>."
 es-ES_flavor: "¡Ataquen su punto débil! ¡Usen todas sus fuerzas! – Redzepi, Maestra Entrenadora de Imperiovilla"
@@ -21,9 +28,9 @@ tile_id: Thrust
 cost: 0
 image: /images/Thrust.png
 hero: warrior
-ru-RU_name: "Удар копьем"
-ru-RU_description: "Когда вы получаете это, даёт 1 💰. Ваша атака с рукопашным оружием становится <u>пронзающий</u> и имеет +2 🔸. <u>Сжигается</u>."
-ru-RU_flavor: "'Атакуйте их слабое место! Не жалеть их' - мастер по сверлу Исмериумвилля Редзепи"
+pl-PL_name: "Pchnięcie"
+pl-PL_description: "Uzyskując to otrzymasz 1 💰. Twój atak bronią zada przenikliwe (<u>przenikający</u>) obrażenia i +2 🔸. <u>Wyczerpany</u>"
+pl-PL_flavor: "'Uderz w miękkie podbrzusze! Nie wstrzymuj miecza!' - Mistrz Ostrzy Adam Andrzej"
 tile_id: Thrust
 cost: 0
 image: /images/Thrust.png

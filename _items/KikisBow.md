@@ -16,6 +16,14 @@ cost: 1
 image: /images/KikisBow.png
 durability: 3
 hero: priest
+ru-RU_name: "Бант Кики"
+ru-RU_description: "Превращает выбранное <u>проклятие</u> в <u>благословение</u>. Когда вы получаете это, <u>мутирует</u> в 🟦Избранный"
+ru-RU_flavor: "Ведьмина служба благословения оказалась настолько востребованной, что в конце концов Кики наколдовала несколько благословенных луков, чтобы справиться с рабочей нагрузкой."
+tile_id: KikisBow
+cost: 1
+image: /images/KikisBow.png
+durability: 3
+hero: priest
 es-ES_name: "Cinta de Kiki"
 es-ES_description: "Convierte una <u>Maldición</u> objetivo en una <u>Bendición</u>. Intercambia tu ventaja inicial por 🟦Elegida cuando adquieras esto"
 es-ES_flavor: "El servicio de bendiciones de Kiki tenía tanta demanda que a la larga tenrminó encantando un número de cintas benditas para que la ayudaran."
@@ -24,9 +32,9 @@ cost: 1
 image: /images/KikisBow.png
 durability: 3
 hero: priest
-ru-RU_name: "Бант Кики"
-ru-RU_description: "Превращает выбранное <u>проклятие</u> в <u>благословение</u>. Когда вы получаете это, <u>мутирует</u> в 🟦Избранный"
-ru-RU_flavor: "Ведьмина служба благословения оказалась настолько востребованной, что в конце концов Кики наколдовала несколько благословенных луков, чтобы справиться с рабочей нагрузкой."
+pl-PL_name: "Wstążka Kiki"
+pl-PL_description: "Przemień wskazaną klątwę (<u>Klątwa</u>) w <u>Błogosławieństwo</u>. <u>Mutacja</u> 🟦Wybranka gdy uzyskasz tą płytkę."
+pl-PL_flavor: "Podniebne błogosławieństwa Kiki okazały się tak popularne, że łatwiej było pobłogosławić i rozdać wstążki niż odbywać wizyty domowe."
 tile_id: KikisBow
 cost: 1
 image: /images/KikisBow.png

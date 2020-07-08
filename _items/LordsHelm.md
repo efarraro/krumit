@@ -16,6 +16,14 @@ cost: 2
 image: /images/LordsHelm.png
 durability: 2147483647
 hero: warrior
+ru-RU_name: "Шлем лорда"
+ru-RU_description: "Когда вы 🛡️️ <u>блокируете</u> с этим предметом, потеряйте 1 💰. Вы должны иметь хотя бы 1 💰 для того, чтобы экипировать это."
+ru-RU_flavor: "Когда-то принадлежал богатому лорду. Достаточно крепкая, но модная покраска очень дорога в ремонте."
+tile_id: LordsHelm
+cost: 2
+image: /images/LordsHelm.png
+durability: 2147483647
+hero: warrior
 es-ES_name: "Yelmo Señorial"
 es-ES_description: "Pierde 1 💰 cuando 🛡️️ <u>bloquees</u> con este ítem. Debes tener al menos 1 💰 para equiparlo"
 es-ES_flavor: "Alguna vez le perteneció a un opulento noble. Es bastante robusto, pero la ostentosa pintura sale muy cara de reparar."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/LordsHelm.png
 durability: 2147483647
 hero: warrior
-ru-RU_name: "Шлем лорда"
-ru-RU_description: "Когда вы 🛡️️ <u>блокируете</u> с этим предметом, потеряйте 1 💰. Вы должны иметь хотя бы 1 💰 для того, чтобы экипировать это."
-ru-RU_flavor: "Когда-то принадлежал богатому лорду. Достаточно крепкая, но модная покраска очень дорога в ремонте."
+pl-PL_name: "Magnacki hełm"
+pl-PL_description: "Gdy 🛡️️ <u>blok</u> tą zbroją w walce, tracisz 1 💰. Musisz mieć przynajmniej 1 💰 aby założyć tą zbroję."
+pl-PL_flavor: "Należał niegdyś do bogatego pana. Wytrzymały gdzie trzeba, choć ekstrawaganckie wzory i zdobienia często trzeba naprawiać"
 tile_id: LordsHelm
 cost: 2
 image: /images/LordsHelm.png

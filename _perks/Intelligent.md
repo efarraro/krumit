@@ -8,12 +8,16 @@ zh-CN_name: "聪慧"
 zh-CN_description: "你的牌组上限+3"
 tile_id: Intelligent
 image: /images/Intelligent.png
+ru-RU_name: "Смышлёный"
+ru-RU_description: "Увеличивает вашу вместимость колоды на 3"
+tile_id: Intelligent
+image: /images/Intelligent.png
 es-ES_name: "Inteligente"
 es-ES_description: "Incrementa el tamaño máximo de tu mazo en 3"
 tile_id: Intelligent
 image: /images/Intelligent.png
-ru-RU_name: "Смышлёный"
-ru-RU_description: "Увеличивает вашу вместимость колоды на 3"
+pl-PL_name: "Inteligencja"
+pl-PL_description: "Zwiększa rozmiar talii o 3"
 tile_id: Intelligent
 image: /images/Intelligent.png
 ---

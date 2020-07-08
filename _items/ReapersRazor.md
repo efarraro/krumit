@@ -16,6 +16,14 @@ cost: 3
 image: /images/ReapersRazor.png
 durability: 3
 hero: necromancer
+ru-RU_name: "Бритва жнеца"
+ru-RU_description: "Когда вы убиваете врага с этим предметом, увеличивает ваше максимальное ❤️ на 1"
+ru-RU_flavor: "Достаточно острая, чтобы сбрить чью-то жизнь или самую нечестивую бороду. "
+tile_id: ReapersRazor
+cost: 3
+image: /images/ReapersRazor.png
+durability: 3
+hero: necromancer
 es-ES_name: "Navaja de la Muerte"
 es-ES_description: "Cuando derrotes a un enemigo con esta arma, incrementa tu ❤️ máxima en 1"
 es-ES_flavor: "Lo suficientemente afilada como para cortar la esencia vital... o una barba muy endemoniada."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/ReapersRazor.png
 durability: 3
 hero: necromancer
-ru-RU_name: "Бритва жнеца"
-ru-RU_description: "Когда вы убиваете врага с этим предметом, увеличивает ваше максимальное ❤️ на 1"
-ru-RU_flavor: "Достаточно острая, чтобы сбрить чью-то жизнь или самую нечестивую бороду. "
+pl-PL_name: "Kosa Żniwiarza"
+pl-PL_description: "Gdy pokonasz przeciwnika tą bronią, zwiększ maksymalne ❤️ o 1."
+pl-PL_flavor: "Skutecznie kosi zarówno zboże jak i żywota."
 tile_id: ReapersRazor
 cost: 3
 image: /images/ReapersRazor.png

@@ -16,6 +16,14 @@ cost: 3
 image: /images/DemonicChest.png
 durability: 3
 hero: priest
+ru-RU_name: "Демонический сундук"
+ru-RU_description: "Уничтожает <u>проклятие</u>, затем <u>вытягивает</u> карточку стоимостью 2 💰 или меньше"
+ru-RU_flavor: "Странный ящик со многими прошлыми владельцами. Он - пожиратель грехов. Он - поглотитель проклятий. Он - короб ужаса. Он - сундук Люцифера. Он ОЧЕНЬ ГОЛОДЕН."
+tile_id: DemonicChest
+cost: 3
+image: /images/DemonicChest.png
+durability: 3
+hero: priest
 es-ES_name: "Cofre Demoníaco"
 es-ES_description: "Destruye una <u>Maldición</u> para <u>roba</u> una ficha de coste 2 💰 o menos"
 es-ES_flavor: "Una extraña caja que ha pasado por muchas manos. Alias: El Comepecados, la Tragamaldiciones, la Caja Mala, el Baúl de Lucifer, TIENE HAMBRE."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/DemonicChest.png
 durability: 3
 hero: priest
-ru-RU_name: "Демонический сундук"
-ru-RU_description: "Уничтожает <u>проклятие</u>, затем <u>вытягивает</u> карточку стоимостью 2 💰 или меньше"
-ru-RU_flavor: "Странный ящик со многими прошлыми владельцами. Он - пожиратель грехов. Он - поглотитель проклятий. Он - короб ужаса. Он - сундук Люцифера. Он ОЧЕНЬ ГОЛОДЕН."
+pl-PL_name: "Skrzynia Demonów"
+pl-PL_description: "Zniszcz klątwę (<u>Klątwa</u>) aby wytworzyć (<u>wytwórz</u>) płytkę, która kosztuje 2 💰 lub mniej."
+pl-PL_flavor: "Dziwne pudło przekazywane z rąk do rąk. Znane jako Pożeracz Grzechu, albo Niszczyciel Klątw, albo Przykre Pudło, albo Skrytka Lucyfera, albo NAKARM MNIE."
 tile_id: DemonicChest
 cost: 3
 image: /images/DemonicChest.png

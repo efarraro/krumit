@@ -16,6 +16,14 @@ cost: 2
 image: /images/SpellbenderBracers.png
 durability: 3
 hero: mage
+ru-RU_name: "Наручи заклинателя"
+ru-RU_description: "Накладывает  <u>ожог</u> (1) и <u>мороз</u> на выбранного врага. Если выбранный обычный враг уже  <u>горит</u> и <u>заморожен</u>, вместо этого уничтожьте его."
+ru-RU_flavor: "Когда вы хотите контролировать магические элементы и правила."
+tile_id: SpellbenderBracers
+cost: 2
+image: /images/SpellbenderBracers.png
+durability: 3
+hero: mage
 es-ES_name: "Brazales de Hechicero Maestro"
 es-ES_description: " <u>quema</u> (1) y <u>congela</u> un enemigo. Si este enemigo ya está  <u>quemado</u> y <u>congelado</u>, destrúyelo (siempre que no sea un jefe)"
 es-ES_flavor: "Para cuando quieres controlar las reglas además de los elementos."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/SpellbenderBracers.png
 durability: 3
 hero: mage
-ru-RU_name: "Наручи заклинателя"
-ru-RU_description: "Накладывает  <u>ожог</u> (1) и <u>мороз</u> на выбранного врага. Если выбранный обычный враг уже  <u>горит</u> и <u>заморожен</u>, вместо этого уничтожьте его."
-ru-RU_flavor: "Когда вы хотите контролировать магические элементы и правила."
+pl-PL_name: "Naramienniki Zaklinacza"
+pl-PL_description: " <u>podpalenie</u> (1) i <u>zamrożenie</u> wroga. Zniszcz go jeżeli nie jest on bossem i jest już  <u>w płomieniach</u> oraz <u>zamrożony</u>."
+pl-PL_flavor: "Na te okazje gdy chcesz nagiąć żywioły i zasady."
 tile_id: SpellbenderBracers
 cost: 2
 image: /images/SpellbenderBracers.png

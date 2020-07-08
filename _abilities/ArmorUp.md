@@ -14,6 +14,13 @@ tile_id: ArmorUp
 cost: 2
 image: /images/ArmorUp.png
 hero: warrior
+ru-RU_name: "Поднять щиты!"
+ru-RU_description: "Полностью восстанавливает прочность всей брони в вашем снаряжении и увеличивает значение 🛡️️ <u>блока</u> на 2. <u>Сжигается</u>"
+ru-RU_flavor: "Иногда лучшим нападением будет спрятаться в свой панцирь и позволить своему врагу изнашиваться."
+tile_id: ArmorUp
+cost: 2
+image: /images/ArmorUp.png
+hero: warrior
 es-ES_name: "¡Blindaje!"
 es-ES_description: "Restaura completamente todas las armaduras en tu inventario, e incrementa su valor de 🛡️️ <u>bloqueo</u> en 2. <u>Agota</u>"
 es-ES_flavor: "A veces el mejor ataque es esconderte dentro de tu caparazón y dejar que tus enemigos se cansen."
@@ -21,9 +28,9 @@ tile_id: ArmorUp
 cost: 2
 image: /images/ArmorUp.png
 hero: warrior
-ru-RU_name: "Поднять щиты!"
-ru-RU_description: "Полностью восстанавливает прочность всей брони в вашем снаряжении и увеличивает значение 🛡️️ <u>блока</u> на 2. <u>Сжигается</u>"
-ru-RU_flavor: "Иногда лучшим нападением будет спрятаться в свой панцирь и позволить своему врагу изнашиваться."
+pl-PL_name: "Pancerz w górę!"
+pl-PL_description: "Przywróć trwałość wszystkich pancerzy w swoim inwentarzu do pełna i zwiększ wartość ich 🛡️️ <u>blok</u> o 2. <u>Wyczerpany</u>"
+pl-PL_flavor: "Czasami najlepszym atakiem jest ucieczka do swej skorupki i pozwolenie wrogowi wyczerpać się samemu."
 tile_id: ArmorUp
 cost: 2
 image: /images/ArmorUp.png

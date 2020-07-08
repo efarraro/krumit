@@ -16,6 +16,14 @@ cost: 2
 image: /images/MysticDagger.png
 durability: 3
 hero: mage
+ru-RU_name: "Мистический кинжал"
+ru-RU_description: "🔸 этого оружия равна числу способностей, находящиеся на поле"
+ru-RU_flavor: "Этот кинжал может прорезать ткань реальности так же легко, как и кусок сыра."
+tile_id: MysticDagger
+cost: 2
+image: /images/MysticDagger.png
+durability: 3
+hero: mage
 es-ES_name: "Daga Mística"
 es-ES_description: "El 🔸 de esta arma es equivalente al número de habilidades en el tablero"
 es-ES_flavor: "Esta daga puede cortar el tejido de la realidad tan fácilmente como puede cortar un pedazo de queso."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/MysticDagger.png
 durability: 3
 hero: mage
-ru-RU_name: "Мистический кинжал"
-ru-RU_description: "🔸 этого оружия равна числу способностей, находящиеся на поле"
-ru-RU_flavor: "Этот кинжал может прорезать ткань реальности так же легко, как и кусок сыра."
+pl-PL_name: "Mistyczny Puginał"
+pl-PL_description: "🔸 tej broni jest równy liczbie umiejętności na planszy."
+pl-PL_flavor: "Ostrze z łatwością otwiera puszki fasolki i portale do innych wymiarów."
 tile_id: MysticDagger
 cost: 2
 image: /images/MysticDagger.png

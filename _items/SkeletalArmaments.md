@@ -16,6 +16,14 @@ cost: 2
 image: /images/SkeletalArmaments.png
 durability: 3
 hero: necromancer
+ru-RU_name: "Скелетное вооружение"
+ru-RU_description: "Используется только на 💀 <u>миньонов</u>. Даёт +2 🔸 и 2 🛡️️ <u>блока</u> пока экипирован"
+ru-RU_flavor: "Палки и камни сломают им кости, так что дайте им хоть какую-то защиту. "
+tile_id: SkeletalArmaments
+cost: 2
+image: /images/SkeletalArmaments.png
+durability: 3
+hero: necromancer
 es-ES_name: "Armamentos Esqueléticos"
 es-ES_description: "Sólo puede ser usada por 💀 <u>Esbirros</u>, quienes ganan +2 🔸 y 2 🛡️️ <u>bloqueo</u> mientras está equipada"
 es-ES_flavor: "Palos y piedras les romperán los huesos, así que dales un poco de protección por lo menos."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/SkeletalArmaments.png
 durability: 3
 hero: necromancer
-ru-RU_name: "Скелетное вооружение"
-ru-RU_description: "Используется только на 💀 <u>миньонов</u>. Даёт +2 🔸 и 2 🛡️️ <u>блока</u> пока экипирован"
-ru-RU_flavor: "Палки и камни сломают им кости, так что дайте им хоть какую-то защиту. "
+pl-PL_name: "Kościotrupie Uzbrojenie"
+pl-PL_description: "Może być użyte tylko przez 💀 <u>Sługusy</u>. +2 🔸 i 2 🛡️️ <u>blok</u>"
+pl-PL_flavor: "Nie mają skóry, więc daj im cokolwiek by ochronić ich kości."
 tile_id: SkeletalArmaments
 cost: 2
 image: /images/SkeletalArmaments.png

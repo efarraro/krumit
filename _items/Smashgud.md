@@ -16,6 +16,14 @@ cost: 4
 image: /images/Smashgud.png
 durability: 3
 hero: warrior
+ru-RU_name: "Булава"
+ru-RU_description: "Когда вы атакуете с этим оружием, увеличивает 🔸 этого оружия на 1 до конца подземелья."
+ru-RU_flavor: "Один из легендарных булав Григория Лламатавра. Он делает то, что написано на кровавой рукоятке."
+tile_id: Smashgud
+cost: 4
+image: /images/Smashgud.png
+durability: 3
+hero: warrior
 es-ES_name: "Rompetodo"
 es-ES_description: "Cuando ataques con esta arma, incrementa su 🔸 en 1 por el resto de la mazmorra"
 es-ES_flavor: "Una de las legendarias mazotas de Gregory el Llamatauro. Hace lo que dice en el puñetero mango."
@@ -24,9 +32,9 @@ cost: 4
 image: /images/Smashgud.png
 durability: 3
 hero: warrior
-ru-RU_name: "Булава"
-ru-RU_description: "Когда вы атакуете с этим оружием, увеличивает 🔸 этого оружия на 1 до конца подземелья."
-ru-RU_flavor: "Один из легендарных булав Григория Лламатавра. Он делает то, что написано на кровавой рукоятке."
+pl-PL_name: "Bijwłeb"
+pl-PL_description: "Za każdym razem gdy atakujesz tą bronią, zwiększ jej 🔸 o 1 do końca lochu."
+pl-PL_flavor: "Jedna z wielu buław Lamataura Grześka. Nie ma zbyt wielu różnorodnych zastosowań."
 tile_id: Smashgud
 cost: 4
 image: /images/Smashgud.png

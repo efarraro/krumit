@@ -16,6 +16,14 @@ cost: 5
 image: /images/ArchmagisAmulet.png
 durability: 2
 hero: mage
+ru-RU_name: "Амулет архимага"
+ru-RU_description: "Получает выбранную способность"
+ru-RU_flavor: "'Люби его, возьми его, имей его, используй его.' - Архимаг Александра"
+tile_id: ArchmagisAmulet
+cost: 5
+image: /images/ArchmagisAmulet.png
+durability: 2
+hero: mage
 es-ES_name: "Amuleto de la Archimaga"
 es-ES_description: "Adquiere una habilidad objetivo"
 es-ES_flavor: "'Quiérelo, tómalo, tenlo, úsalo.' - Archimaga Alexandra"
@@ -24,9 +32,9 @@ cost: 5
 image: /images/ArchmagisAmulet.png
 durability: 2
 hero: mage
-ru-RU_name: "Амулет архимага"
-ru-RU_description: "Получает выбранную способность"
-ru-RU_flavor: "'Люби его, возьми его, имей его, используй его.' - Архимаг Александра"
+pl-PL_name: "Amulet Arcymaga"
+pl-PL_description: "Zdobądź wybraną zdolność"
+pl-PL_flavor: "'Kochaj, zdobądź, posiadaj, użyj.' - Arcymag Alexandra"
 tile_id: ArchmagisAmulet
 cost: 5
 image: /images/ArchmagisAmulet.png

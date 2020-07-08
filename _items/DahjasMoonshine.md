@@ -16,6 +16,14 @@ cost: 2
 image: /images/DahjasMoonshine.png
 durability: 3
 hero: priest
+ru-RU_name: "Дажасов самогон"
+ru-RU_description: "Восстанавливает 4 ❤️ и замешивает <u>проклятие</u> в колоду подземелья"
+ru-RU_flavor: "Дажасов самогон - это всегда хорошее времяпрепровождение, за которым следует плохое."
+tile_id: DahjasMoonshine
+cost: 2
+image: /images/DahjasMoonshine.png
+durability: 3
+hero: priest
 es-ES_name: "Aguardiente de Dahja"
 es-ES_description: "Recupera 4 ❤️ y baraja una <u>Maldición</u> en el mazo"
 es-ES_flavor: "El Aguardiente de Dahja siempre se presta para un buen rato - y luego un mal rato."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/DahjasMoonshine.png
 durability: 3
 hero: priest
-ru-RU_name: "Дажасов самогон"
-ru-RU_description: "Восстанавливает 4 ❤️ и замешивает <u>проклятие</u> в колоду подземелья"
-ru-RU_flavor: "Дажасов самогон - это всегда хорошее времяпрепровождение, за которым следует плохое."
+pl-PL_name: "Księżycówka Józefiny"
+pl-PL_description: "Odzyskaj 4 ❤️ i wtasuj klątwę (<u>Klątwa</u>) do talii."
+pl-PL_flavor: "Księżycówka Józefiny - dobrze gorzała na kiepskie czasy."
 tile_id: DahjasMoonshine
 cost: 2
 image: /images/DahjasMoonshine.png

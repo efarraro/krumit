@@ -16,6 +16,14 @@ cost: 5
 image: /images/PipeStaff.png
 durability: 3
 hero: mage
+ru-RU_name: "Трубный посох"
+ru-RU_description: "Когда вы получаете способность, восстанавливает 1 прочность этому предмету"
+ru-RU_flavor: "Раньше это была канализация сточных вод. Теперь внутри течёт мощная, загадочная энергия. Хотя все еще немного воняет."
+tile_id: PipeStaff
+cost: 5
+image: /images/PipeStaff.png
+durability: 3
+hero: mage
 es-ES_name: "Báculo de Cañería"
 es-ES_description: "Repara 1 de durabilidad a esta arma cada vez que adquieras una habilidad"
 es-ES_flavor: "Solía ser un canal de alcantarilla. Ahora canaliza poderosas energías arcanas. Sigue apestando un poco, eso sí."
@@ -24,9 +32,9 @@ cost: 5
 image: /images/PipeStaff.png
 durability: 3
 hero: mage
-ru-RU_name: "Трубный посох"
-ru-RU_description: "Когда вы получаете способность, восстанавливает 1 прочность этому предмету"
-ru-RU_flavor: "Раньше это была канализация сточных вод. Теперь внутри течёт мощная, загадочная энергия. Хотя все еще немного воняет."
+pl-PL_name: "Gazlaska"
+pl-PL_description: "Gdy uzyskujesz umiejętność, odnów 1 trwałości tej broni."
+pl-PL_flavor: "Gaz gaz, gaz na ulicach"
 tile_id: PipeStaff
 cost: 5
 image: /images/PipeStaff.png

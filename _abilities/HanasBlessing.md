@@ -14,6 +14,13 @@ tile_id: HanasBlessing
 cost: 1
 image: /images/HanasBlessing.png
 hero: priest
+ru-RU_name: "Маленькое чудо"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Восстанавливает 6 ❤️. Когда вы получаете это, создает случайное <u>благословение</u> на своем месте"
+ru-RU_flavor: "Хана видит, Хана одобряет, Хана благотворит."
+tile_id: HanasBlessing
+cost: 1
+image: /images/HanasBlessing.png
+hero: priest
 es-ES_name: "Milagro Menor"
 es-ES_description: "<u><u>Instantánea</u></u>. Recupera 6 ❤️. Cuando adquieras esto, crea una <u>Bendición</u> aleatoria en su lugar"
 es-ES_flavor: "Hana ve, Hana aprueba, Hana bendice."
@@ -21,9 +28,9 @@ tile_id: HanasBlessing
 cost: 1
 image: /images/HanasBlessing.png
 hero: priest
-ru-RU_name: "Маленькое чудо"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Восстанавливает 6 ❤️. Когда вы получаете это, создает случайное <u>благословение</u> на своем месте"
-ru-RU_flavor: "Хана видит, Хана одобряет, Хана благотворит."
+pl-PL_name: "Pomniejszy Cud"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. Odzyskaj 6 ❤️. Gdy uzyskasz tą płytkę, jej miejsce zastąpi losowe <u>Błogosławieństwo</u>."
+pl-PL_flavor: "Hana widzi, Hana radzi, Hana nigdy cię nie zdradzi."
 tile_id: HanasBlessing
 cost: 1
 image: /images/HanasBlessing.png

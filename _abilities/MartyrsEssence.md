@@ -14,6 +14,13 @@ tile_id: MartyrsEssence
 cost: 1
 image: /images/MartyrsEssence.png
 hero: priest
+ru-RU_name: "Сущность мученика"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Замешивает 3 копии <a href = '../ru_ru/abilities#Renounce'>Отречение</a> в колоду подземелья"
+ru-RU_flavor: "Sacrifice is required to keep the delicate balance between light and shadow"
+tile_id: MartyrsEssence
+cost: 1
+image: /images/MartyrsEssence.png
+hero: priest
 es-ES_name: "Esencia de Mártir"
 es-ES_description: "Paga 3 ❤️ para intercambiar 🟦Elegida por 🟦Reina (o viceversa)"
 es-ES_flavor: "Sacrifice is required to keep the delicate balance between light and shadow"
@@ -21,9 +28,9 @@ tile_id: MartyrsEssence
 cost: 1
 image: /images/MartyrsEssence.png
 hero: priest
-ru-RU_name: "Сущность мученика"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Замешивает 3 копии <a href = '../ru_ru/abilities#Renounce'>Отречение</a> в колоду подземелья"
-ru-RU_flavor: "Sacrifice is required to keep the delicate balance between light and shadow"
+pl-PL_name: "Dekokt z Męczennika"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. Wtasuj 3 <a href = '../pl_pl/abilities#Renounce'>Wyparcie</a> do talii."
+pl-PL_flavor: "Poświęcenie jest kluczem do utrzymania równowagi między światłem a mrokiem."
 tile_id: MartyrsEssence
 cost: 1
 image: /images/MartyrsEssence.png

@@ -14,6 +14,13 @@ tile_id: Salvage
 cost: 1
 image: /images/Salvage.png
 hero: warrior
+ru-RU_name: "Переработка"
+ru-RU_description: "Удаляет выбранную карточку с поля и полностью восстанавливает прочность всех предметов в снаряжении. <u>Сжигается</u>"
+ru-RU_flavor: "'Немного металлолома, немного верёвки, немного слизи и будет выглядеть как новенький' - мастер Брэмли"
+tile_id: Salvage
+cost: 1
+image: /images/Salvage.png
+hero: warrior
 es-ES_name: "Reciclar"
 es-ES_description: "Remueve un ítem objetivo de la mazmorra y repara completamente la durabilidad de todos los ítems en tu inventario. <u>Agota</u>"
 es-ES_flavor: "Un resto de chatarra, un poco de cordel, otro poco de baba de Babote, ¡y estará como nuevo! - Chatarroso Bramley"
@@ -21,9 +28,9 @@ tile_id: Salvage
 cost: 1
 image: /images/Salvage.png
 hero: warrior
-ru-RU_name: "Переработка"
-ru-RU_description: "Удаляет выбранную карточку с поля и полностью восстанавливает прочность всех предметов в снаряжении. <u>Сжигается</u>"
-ru-RU_flavor: "'Немного металлолома, немного верёвки, немного слизи и будет выглядеть как новенький' - мастер Брэмли"
+pl-PL_name: "Odzysk"
+pl-PL_description: "Usuń wskazany przedmiot z planszy i w pełni odnów trwałość wszystkich przedmiotów w ekwipunku. <u>Wyczerpany</u>"
+pl-PL_flavor: "'Trochę kartonu, szpachli, złomu i pancerz się wyklepie!' - każdy płatnerz w każdej wiosce"
 tile_id: Salvage
 cost: 1
 image: /images/Salvage.png

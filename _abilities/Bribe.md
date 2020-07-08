@@ -14,6 +14,13 @@ tile_id: Bribe
 cost: 1
 image: /images/Bribe.png
 hero: rogue
+ru-RU_name: "Взятка"
+ru-RU_description: "Потратьте 4 💰, чтобы уничтожить обычного врага."
+ru-RU_flavor: "Просто подумай - это могло бы быть микротранзакцией!"
+tile_id: Bribe
+cost: 1
+image: /images/Bribe.png
+hero: rogue
 es-ES_name: "Soborno"
 es-ES_description: "Paga 4 💰 para destruir un enemigo objetivo (que no sea un jefe)"
 es-ES_flavor: "¡Y pensar que esto podría haber sido una microtransacción!"
@@ -21,9 +28,9 @@ tile_id: Bribe
 cost: 1
 image: /images/Bribe.png
 hero: rogue
-ru-RU_name: "Взятка"
-ru-RU_description: "Потратьте 4 💰, чтобы уничтожить обычного врага."
-ru-RU_flavor: "Просто подумай - это могло бы быть микротранзакцией!"
+pl-PL_name: "Łapówka"
+pl-PL_description: "Zapłać 4 złota żeby zniszczyć przeciwnika, który nie jest bossem."
+pl-PL_flavor: "Przynajmniej nie mikropłatność!"
 tile_id: Bribe
 cost: 1
 image: /images/Bribe.png

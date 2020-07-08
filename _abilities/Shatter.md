@@ -14,6 +14,13 @@ tile_id: Shatter
 cost: 2
 image: /images/Shatter.png
 hero: mage
+ru-RU_name: "Дробление"
+ru-RU_description: "Ваша атака с рукопашным оружием имеет +4 🔸 и накладывает оглушение, когда атакуете <u>заморожен</u> врага. Перезаряжается после 8 раундов боя"
+ru-RU_flavor: "Рвать, метать, убивать."
+tile_id: Shatter
+cost: 2
+image: /images/Shatter.png
+hero: mage
 es-ES_name: "Destrozar"
 es-ES_description: "Tu ataque con un arma de melé tiene +4 🔸 y <u>aturde</u> cuando atacas a un enemigo <u>congelado</u>. Recarga después de 8 rondas de combate"
 es-ES_flavor: "Crac, crac, CRAC."
@@ -21,9 +28,9 @@ tile_id: Shatter
 cost: 2
 image: /images/Shatter.png
 hero: mage
-ru-RU_name: "Дробление"
-ru-RU_description: "Ваша атака с рукопашным оружием имеет +4 🔸 и накладывает оглушение, когда атакуете <u>заморожен</u> врага. Перезаряжается после 8 раундов боя"
-ru-RU_flavor: "Рвать, метать, убивать."
+pl-PL_name: "Skruszenie"
+pl-PL_description: "Atak bronią otrzymuje +4 🔸 i ogłusza zamrożonego (<u>zamrożony</u>) przeciwnika. Naładuj po 8 rundach walki."
+pl-PL_flavor: "Chrup, trzask, brzdęk!"
 tile_id: Shatter
 cost: 2
 image: /images/Shatter.png

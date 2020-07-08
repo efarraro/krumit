@@ -14,6 +14,13 @@ tile_id: CallOfTheDepths
 cost: 20
 image: /images/CallOfTheDepths.png
 hero: necromancer
+ru-RU_name: "Зов Глубин"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Добавляет копию <a href = '../ru_ru/items#Tentacle'>Рука Окто</a> в ваше снаряжение. Стоимость снижена на 1 💰 за каждое потерянное вами здоровье в этом подземельи."
+ru-RU_flavor: "Могущественные могут вызывать поистине ужасные вещи из глубин. Но они знают, что в один день глубины начнут призывать"
+tile_id: CallOfTheDepths
+cost: 20
+image: /images/CallOfTheDepths.png
+hero: necromancer
 es-ES_name: "Llamada de las Profundidades"
 es-ES_description: "<u><u>Instantánea</u></u>. Añade una copia de <a href = '../es_es/items#Tentacle'>Brazo de Okto</a> a tu mano. Su costo se reduce en 1 por cada punto de vida que hayas perdido en esta mazmorra"
 es-ES_flavor: "Los poderosos pueden llamar cosas realmente terribles de las profundidades - pero saben que, un día, las profundidades los llamarán a ellos..."
@@ -21,9 +28,9 @@ tile_id: CallOfTheDepths
 cost: 20
 image: /images/CallOfTheDepths.png
 hero: necromancer
-ru-RU_name: "Зов Глубин"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Добавляет копию <a href = '../ru_ru/items#Tentacle'>Рука Окто</a> в ваше снаряжение. Стоимость снижена на 1 💰 за каждое потерянное вами здоровье в этом подземельи."
-ru-RU_flavor: "Могущественные могут вызывать поистине ужасные вещи из глубин. Но они знают, что в один день глубины начнут призывать"
+pl-PL_name: "Zew z Głębin"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. Dodaj kopią <a href = '../pl_pl/items#Tentacle'>Macka Oktawiusza</a> do ręki. Koszt obniżony o każdy punkt zdrowia utracony w tym lochu"
+pl-PL_flavor: "Co potężniejsi potrafią przywołać z głębin potworne rzeczy. Wiedzą jednak, że przyjdzie dzień, gdy głębiny odezwą się same..."
 tile_id: CallOfTheDepths
 cost: 20
 image: /images/CallOfTheDepths.png

@@ -14,6 +14,13 @@ tile_id: Hide
 cost: 1
 image: /images/Hide.png
 hero: rogue
+ru-RU_name: "Укрытие"
+ru-RU_description: "Даёт <u>скрытность</u> (вне боя). Перезаряжается после убийства 3 врагов"
+ru-RU_flavor: "'Наметанный глаз заметит, что везде есть, где скрыться - даже в коробке из картона или в стоге сена.' - инструктор труппы Торнивальд"
+tile_id: Hide
+cost: 1
+image: /images/Hide.png
+hero: rogue
 es-ES_name: "Esconderse"
 es-ES_description: "Gana <u>sigilo</u> (si no estás en combate). Derrota 3 enemigos para recargar"
 es-ES_flavor: "'El ojo entrenado siempre encuentra un lugar donde esconderse - aunque sea una caja de cartón o un montón de heno.' - Tornivald, Instructor del Elenco"
@@ -21,9 +28,9 @@ tile_id: Hide
 cost: 1
 image: /images/Hide.png
 hero: rogue
-ru-RU_name: "Укрытие"
-ru-RU_description: "Даёт <u>скрытность</u> (вне боя). Перезаряжается после убийства 3 врагов"
-ru-RU_flavor: "'Наметанный глаз заметит, что везде есть, где скрыться - даже в коробке из картона или в стоге сена.' - инструктор труппы Торнивальд"
+pl-PL_name: "Kamuflaż"
+pl-PL_description: "Ukryj się (<u>ukrywanie się</u>) poza walką. Pokonaj 3 wrogów aby naładować."
+pl-PL_flavor: "'Gdy udoskonalisz sztukę kamuflażu, nie będziesz potrzebować kartonowych pudeł i stosów siana.' - Tornivald, instruktor trupy"
 tile_id: Hide
 cost: 1
 image: /images/Hide.png

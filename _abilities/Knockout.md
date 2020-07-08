@@ -14,6 +14,13 @@ tile_id: Knockout
 cost: 1
 image: /images/Knockout.png
 hero: rogue
+ru-RU_name: "Нокаут"
+ru-RU_description: "Замешивает выбранного врага обратно в колоду подземелья. Перезаряжается после убийства 1 врага"
+ru-RU_flavor: "Хороший вор знает, когда сражаться, а когда ударить кого-то по голове бутылкой, пока его не увидели."
+tile_id: Knockout
+cost: 1
+image: /images/Knockout.png
+hero: rogue
 es-ES_name: "Noquear"
 es-ES_description: "Baraja un enemigo objetivo de vuelta en el mazo. Derrota 1 enemigo para recargar"
 es-ES_flavor: "Un buen ladrón sabe cuando presentar batalla y cuando golpear a alguien en la nuca con una botella antes de que te vean."
@@ -21,9 +28,9 @@ tile_id: Knockout
 cost: 1
 image: /images/Knockout.png
 hero: rogue
-ru-RU_name: "Нокаут"
-ru-RU_description: "Замешивает выбранного врага обратно в колоду подземелья. Перезаряжается после убийства 1 врага"
-ru-RU_flavor: "Хороший вор знает, когда сражаться, а когда ударить кого-то по голове бутылкой, пока его не увидели."
+pl-PL_name: "Nokaut"
+pl-PL_description: "Wtasuj wskazanego przeciwnika do talii. Pokonaj jednego przeciwnika aby naładować."
+pl-PL_flavor: "Dobry złodziej wie kiedy grać fair, a kiedy zdzielić przeciwnika butelką w łeb."
 tile_id: Knockout
 cost: 1
 image: /images/Knockout.png

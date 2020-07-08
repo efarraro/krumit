@@ -14,6 +14,13 @@ tile_id: CardososThirst
 cost: 2
 image: /images/CardososThirst.png
 hero: necromancer
+ru-RU_name: "Жажда Кардозо"
+ru-RU_description: "Наносит 4 <u>пронзающий</u> урона. Если это убивает его, увеличивает ваше максимальное ❤️ на 2 до конца подземелья. <u>Сжигается</u>"
+ru-RU_flavor: "'Пей, Кардозо, пей до дна. Тебе на пользу...' - По Рэй 'Наставник' Армангаст"
+tile_id: CardososThirst
+cost: 2
+image: /images/CardososThirst.png
+hero: necromancer
 es-ES_name: "Sed de Cardoso"
 es-ES_description: "Haz 4 de daño <u>penetrante</u> a un enemigo objetivo. Si es destruido, incrementa tu ❤️ máxima en 2 por el resto de la mazmorra. <u>Agota</u>"
 es-ES_flavor: "'Bébelo todo, Cardoso, hasta la última gota. Te hará bien...' - Poh Rei 'El Mentor' Armanghast"
@@ -21,9 +28,9 @@ tile_id: CardososThirst
 cost: 2
 image: /images/CardososThirst.png
 hero: necromancer
-ru-RU_name: "Жажда Кардозо"
-ru-RU_description: "Наносит 4 <u>пронзающий</u> урона. Если это убивает его, увеличивает ваше максимальное ❤️ на 2 до конца подземелья. <u>Сжигается</u>"
-ru-RU_flavor: "'Пей, Кардозо, пей до дна. Тебе на пользу...' - По Рэй 'Наставник' Армангаст"
+pl-PL_name: "Pragnienie Cardosa"
+pl-PL_description: "Zadaj 4 <u>przenikający</u> obrażeń. Jeżeli pokonasz w ten sposób przeciwnika, zwiększ maksymalne punkty zdrowia o 2. <u>Wyczerpany</u>"
+pl-PL_flavor: "'Pij do dna, Cardoso, do ostatniej kropli. Dobrze ci zrobi...' - Poh Rei 'Mentor' Armanghast"
 tile_id: CardososThirst
 cost: 2
 image: /images/CardososThirst.png

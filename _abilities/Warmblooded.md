@@ -14,6 +14,13 @@ tile_id: Warmblooded
 cost: 2
 image: /images/Warmblooded.png
 hero: mage
+ru-RU_name: "Теплокровный"
+ru-RU_description: "Восстанавливает 2 ❤️. Перезаряжается после наложения  <u>ожог</u> на врага"
+ru-RU_flavor: "Наполните себя силой саламандры и питайтесь огнём своих врагов! И шашлыком поблизости!"
+tile_id: Warmblooded
+cost: 2
+image: /images/Warmblooded.png
+hero: mage
 es-ES_name: "Sangre Caliente"
 es-ES_description: "Recupera 2 de ❤️. Recarga cada vez que  <u>quemes</u> a un enemigo"
 es-ES_flavor: "¡Imbúyete con el Aspecto de Salamandrah, y aliméntate del calor de tus enemigos! ¡Y de cualquier barbacoa cercana!"
@@ -21,9 +28,9 @@ tile_id: Warmblooded
 cost: 2
 image: /images/Warmblooded.png
 hero: mage
-ru-RU_name: "Теплокровный"
-ru-RU_description: "Восстанавливает 2 ❤️. Перезаряжается после наложения  <u>ожог</u> на врага"
-ru-RU_flavor: "Наполните себя силой саламандры и питайтесь огнём своих врагов! И шашлыком поблизости!"
+pl-PL_name: "Ciepłokrwistość"
+pl-PL_description: "Uzyskaj 2 ❤️. Naładuj gdy podpalisz ( <u>podpalenie</u>) przeciwnika."
+pl-PL_flavor: "Niech Oblicze Salasandry natchnie cię by podpalić swoich wrogów i ogrzać się ciepłem ich truchła!"
 tile_id: Warmblooded
 cost: 2
 image: /images/Warmblooded.png

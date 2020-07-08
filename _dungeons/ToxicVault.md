@@ -58,6 +58,35 @@ monsters:
     image: /images/Swampalina.png
     quantity: 1
     url: /monsters/Swampalina
+ru-RU_name: "Токсичное убежище Свампалины"
+ru-RU_description: "Нет никакого лекарства от Свампалины и ее мерзкого варева, но это можно предотвратить. Сбежать то есть."
+tier: 7
+monsters:
+  - monster:
+    name: "Глоббер"
+    image: /images/Slime.png
+    quantity: 6
+    url: /monsters/Slime
+  - monster:
+    name: "Обманщик"
+    image: /images/Trickster.png
+    quantity: 5
+    url: /monsters/Trickster
+  - monster:
+    name: "Мусорный голем"
+    image: /images/TrashGolem.png
+    quantity: 3
+    url: /monsters/TrashGolem
+  - monster:
+    name: "Ассасин"
+    image: /images/JackalAssassin.png
+    quantity: 3
+    url: /monsters/JackalAssassin
+  - monster:
+    name: "Свампалина"
+    image: /images/Swampalina.png
+    quantity: 1
+    url: /monsters/Swampalina
 es-ES_name: "Bóveda de Pantanuela"
 es-ES_description: "Los viles venenos de Pantanuela no tienen cura, así que es mejor prevenirlos. Prevenirlos con un hacha."
 tier: 7
@@ -87,32 +116,32 @@ monsters:
     image: /images/Swampalina.png
     quantity: 1
     url: /monsters/Swampalina
-ru-RU_name: "Токсичное убежище Свампалины"
-ru-RU_description: "Нет никакого лекарства от Свампалины и ее мерзкого варева, но это можно предотвратить. Сбежать то есть."
+pl-PL_name: "Toksyczna Krypta Bagninki"
+pl-PL_description: "Nie ma lekarstwa na Bagninkę i jej ohydne mikstury, ale można je powstrzymać przed przedostaniem się do wód gruntowych."
 tier: 7
 monsters:
   - monster:
-    name: "Глоббер"
+    name: "Szlamor"
     image: /images/Slime.png
     quantity: 6
     url: /monsters/Slime
   - monster:
-    name: "Обманщик"
+    name: "Cwaniak"
     image: /images/Trickster.png
     quantity: 5
     url: /monsters/Trickster
   - monster:
-    name: "Мусорный голем"
+    name: "Śmieciowy Golem"
     image: /images/TrashGolem.png
     quantity: 3
     url: /monsters/TrashGolem
   - monster:
-    name: "Ассасин"
+    name: "Skrytobójca"
     image: /images/JackalAssassin.png
     quantity: 3
     url: /monsters/JackalAssassin
   - monster:
-    name: "Свампалина"
+    name: "Baglinka"
     image: /images/Swampalina.png
     quantity: 1
     url: /monsters/Swampalina

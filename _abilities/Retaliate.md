@@ -14,6 +14,13 @@ tile_id: Retaliate
 cost: 3
 image: /images/Retaliate.png
 hero: warrior
+ru-RU_name: "Контратака"
+ru-RU_description: "Один раз за бой увеличивает ваш 🔸 на X. Увеличивает X на 2 каждый раунд"
+ru-RU_flavor: "'Я не держу обиды, так как возвращаю их - с процентами.' – Изганник"
+tile_id: Retaliate
+cost: 3
+image: /images/Retaliate.png
+hero: warrior
 es-ES_name: "Contraatacar"
 es-ES_description: "Una vez por combate, incrementa tu 🔸 en X. Incrementa X en 2 cada ronda de combate"
 es-ES_flavor: "'Yo no guardo rencores. Los devuelvo - y con intereses.' - El Exiliado"
@@ -21,9 +28,9 @@ tile_id: Retaliate
 cost: 3
 image: /images/Retaliate.png
 hero: warrior
-ru-RU_name: "Контратака"
-ru-RU_description: "Один раз за бой увеличивает ваш 🔸 на X. Увеличивает X на 2 каждый раунд"
-ru-RU_flavor: "'Я не держу обиды, так как возвращаю их - с процентами.' – Изганник"
+pl-PL_name: "Odwet"
+pl-PL_description: "Raz na walkę, zwiększ 🔸 o X. X rośnie o 2 co turę."
+pl-PL_flavor: "'Jeżeli żywię do ciebie urazę to nie pożyjesz długo.' - Wygnaniec"
 tile_id: Retaliate
 cost: 3
 image: /images/Retaliate.png

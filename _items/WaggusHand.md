@@ -16,6 +16,14 @@ cost: 3
 image: /images/WaggusHand.png
 durability: 3
 hero: necromancer
+ru-RU_name: "Рука В'аггу"
+ru-RU_description: "Когда вы атакуете с этим оружием, уменьшает 🔸 этого предмета на 2"
+ru-RU_flavor: "Сделайте портативный удар отрубленной рукой некогда могучего военачальника гоблоида. Не стоит нюхать."
+tile_id: WaggusHand
+cost: 3
+image: /images/WaggusHand.png
+durability: 3
+hero: necromancer
 es-ES_name: "Mano de Waggu"
 es-ES_description: "Después de atacar con esta arma, reduce su 🔸 en 2"
 es-ES_flavor: "Haz unos puñetazos portátiles con la mano cortada de un caudillo Gobloide que alguna vez fue poderoso. No la huelas."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/WaggusHand.png
 durability: 3
 hero: necromancer
-ru-RU_name: "Рука В'аггу"
-ru-RU_description: "Когда вы атакуете с этим оружием, уменьшает 🔸 этого предмета на 2"
-ru-RU_flavor: "Сделайте портативный удар отрубленной рукой некогда могучего военачальника гоблоида. Не стоит нюхать."
+pl-PL_name: "Graba W'aggu"
+pl-PL_description: "Po zaatakowaniu tą bronią, obniż jej 🔸 o 2."
+pl-PL_flavor: "Solidnie zdziel swoich wrogów przez łeb tym przenośnym łapskiem niegdyś wielkiego Goblorda W'aggu. Nie dłub w nosie."
 tile_id: WaggusHand
 cost: 3
 image: /images/WaggusHand.png

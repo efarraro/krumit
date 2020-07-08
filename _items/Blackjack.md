@@ -16,6 +16,14 @@ cost: 1
 image: /images/Blackjack.png
 durability: 3
 hero: rogue
+ru-RU_name: "Блэкджэк"
+ru-RU_description: "<u>оглушает</u> выбранного <u>одинокого</u> врага в бою. Когда вы получаете это, даёт <u>скрытность</u>"
+ru-RU_flavor: "Распространенное оружие среди тех, кто прячется в тени"
+tile_id: Blackjack
+cost: 1
+image: /images/Blackjack.png
+durability: 3
+hero: rogue
 es-ES_name: "Cachiporra"
 es-ES_description: "En combate, <u>aturde</u> a un enemigo objetivo. Sólo es utilizable contra enemigos que estén solos en su fila. Gana <u>sigilo</u> cuando adquieras este ítem"
 es-ES_flavor: "Un arma común entre aquellos que se ocultan en las sombras."
@@ -24,9 +32,9 @@ cost: 1
 image: /images/Blackjack.png
 durability: 3
 hero: rogue
-ru-RU_name: "Блэкджэк"
-ru-RU_description: "<u>оглушает</u> выбранного <u>одинокого</u> врага в бою. Когда вы получаете это, даёт <u>скрытность</u>"
-ru-RU_flavor: "Распространенное оружие среди тех, кто прячется в тени"
+pl-PL_name: "Czarny Piotruś"
+pl-PL_description: "<u>ogłuszenie</u> wybranego przeciwnika podczas bitwy. Można użyć tylko przeciwko przeciwnikom, którzy są sami w rzędzie. Zyskaj <u>ukrywanie się</u> kiedy to zdobywasz"
+pl-PL_flavor: "Popularna broń wśród kryjących się w cieniu"
 tile_id: Blackjack
 cost: 1
 image: /images/Blackjack.png

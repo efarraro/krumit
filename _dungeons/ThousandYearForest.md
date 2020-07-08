@@ -48,6 +48,30 @@ monsters:
     image: /images/Elmer.png
     quantity: 1
     url: /monsters/Elmer
+ru-RU_name: "Железный лес"
+ru-RU_description: "В железном лесу дерево, которое не даёт плоды, также не даст дров, потому что вы не сможете его срубить."
+tier: 5
+monsters:
+  - monster:
+    name: "Гоблоид"
+    image: /images/Gobloid.png
+    quantity: 6
+    url: /monsters/Gobloid
+  - monster:
+    name: "Обманщик"
+    image: /images/Trickster.png
+    quantity: 5
+    url: /monsters/Trickster
+  - monster:
+    name: "Трэнт"
+    image: /images/Treant.png
+    quantity: 6
+    url: /monsters/Treant
+  - monster:
+    name: "Элмер"
+    image: /images/Elmer.png
+    quantity: 1
+    url: /monsters/Elmer
 es-ES_name: "Bosque de Hierro"
 es-ES_description: "En el Bosque de Hierro, el árbol que no da fruto tampoco es bueno para leña, porque no puedes cortarlo."
 tier: 5
@@ -72,27 +96,27 @@ monsters:
     image: /images/Elmer.png
     quantity: 1
     url: /monsters/Elmer
-ru-RU_name: "Железный лес"
-ru-RU_description: "В железном лесу дерево, которое не даёт плоды, также не даст дров, потому что вы не сможете его срубить."
+pl-PL_name: "Las Żelaznych Drzew"
+pl-PL_description: "Im dalej w las tym twardsze drzewa."
 tier: 5
 monsters:
   - monster:
-    name: "Гоблоид"
+    name: "Gobloid"
     image: /images/Gobloid.png
     quantity: 6
     url: /monsters/Gobloid
   - monster:
-    name: "Обманщик"
+    name: "Cwaniak"
     image: /images/Trickster.png
     quantity: 5
     url: /monsters/Trickster
   - monster:
-    name: "Трэнт"
+    name: "Treant"
     image: /images/Treant.png
     quantity: 6
     url: /monsters/Treant
   - monster:
-    name: "Элмер"
+    name: "Dąbromir"
     image: /images/Elmer.png
     quantity: 1
     url: /monsters/Elmer

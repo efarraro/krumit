@@ -58,6 +58,35 @@ monsters:
     image: /images/Itchitah.png
     quantity: 1
     url: /monsters/Itchitah
+ru-RU_name: "Ежегодное совещание Глоутек"
+ru-RU_description: "Ежегодное совещание Глоутек наполнено глоувином, упражнениями по построению команды, семинарами по облучению мира, обязательными обещаниями верности и ужасным пением Брендона."
+tier: 5
+monsters:
+  - monster:
+    name: "Городская стража"
+    image: /images/RoyalGuard.png
+    quantity: 4
+    url: /monsters/RoyalGuard
+  - monster:
+    name: "Мусорный голем"
+    image: /images/TrashGolem.png
+    quantity: 2
+    url: /monsters/TrashGolem
+  - monster:
+    name: "Нукр0мант"
+    image: /images/Automaton.png
+    quantity: 6
+    url: /monsters/Automaton
+  - monster:
+    name: "Нукр0мант v2.0"
+    image: /images/AutomatonV2.png
+    quantity: 6
+    url: /monsters/AutomatonV2
+  - monster:
+    name: "Ичита"
+    image: /images/Itchitah.png
+    quantity: 1
+    url: /monsters/Itchitah
 es-ES_name: "Retiro Vacacional GlowTech"
 es-ES_description: "En el retiro de vacaciones anual de GlowTech puedes encontrar vinos de marca, ejercicios de camaradería, talleres de radiación mundial, juramentos obligatorios de lealtad, y el atroz karaoke de Brandon."
 tier: 5
@@ -87,32 +116,32 @@ monsters:
     image: /images/Itchitah.png
     quantity: 1
     url: /monsters/Itchitah
-ru-RU_name: "Ежегодное совещание Глоутек"
-ru-RU_description: "Ежегодное совещание Глоутек наполнено глоувином, упражнениями по построению команды, семинарами по облучению мира, обязательными обещаниями верности и ужасным пением Брендона."
+pl-PL_name: "Impreza Integracyjna Glowtechu"
+pl-PL_description: "Na imprezie integracyjnej Glowtechu leje się glowżała, wszyscy, przymusowo, biorą udział w teambuildingu i warsztatach napromieniowania, składają przysięgi i słuchają karaoke Karyny z kadr."
 tier: 5
 monsters:
   - monster:
-    name: "Городская стража"
+    name: "Strażnik Miejski"
     image: /images/RoyalGuard.png
     quantity: 4
     url: /monsters/RoyalGuard
   - monster:
-    name: "Мусорный голем"
+    name: "Śmieciowy Golem"
     image: /images/TrashGolem.png
     quantity: 2
     url: /monsters/TrashGolem
   - monster:
-    name: "Нукр0мант"
+    name: "Nukr0manta"
     image: /images/Automaton.png
     quantity: 6
     url: /monsters/Automaton
   - monster:
-    name: "Нукр0мант v2.0"
+    name: "Nukr0manta v2.0"
     image: /images/AutomatonV2.png
     quantity: 6
     url: /monsters/AutomatonV2
   - monster:
-    name: "Ичита"
+    name: "Perunika"
     image: /images/Itchitah.png
     quantity: 1
     url: /monsters/Itchitah

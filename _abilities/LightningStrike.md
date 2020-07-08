@@ -14,6 +14,13 @@ tile_id: LightningStrike
 cost: 3
 image: /images/LightningStrike.png
 hero: mage
+ru-RU_name: "Удар молнии"
+ru-RU_description: "Наносит 12 <u>пронзающий</u> урона, распределённого между выбранным врагом и его соседями. <u>Сжигается</u>."
+ru-RU_flavor: "Молния редко бьет в одно место дважды, однако это все равно было бы лишним."
+tile_id: LightningStrike
+cost: 3
+image: /images/LightningStrike.png
+hero: mage
 es-ES_name: "Rayo"
 es-ES_description: "Haz 12 de daño <u>penetrante</u> a un enemigo objetivo, dividido en partes iguales con los enemigos adyacentes. <u>Agota</u>."
 es-ES_flavor: "El rayo rara vez cae dos veces en el mismo lugar. Pero una vez es más que suficiente para carbonizar a cualquier infeliz."
@@ -21,9 +28,9 @@ tile_id: LightningStrike
 cost: 3
 image: /images/LightningStrike.png
 hero: mage
-ru-RU_name: "Удар молнии"
-ru-RU_description: "Наносит 12 <u>пронзающий</u> урона, распределённого между выбранным врагом и его соседями. <u>Сжигается</u>."
-ru-RU_flavor: "Молния редко бьет в одно место дважды, однако это все равно было бы лишним."
+pl-PL_name: "Błyskawica"
+pl-PL_description: "Zadaj 12 przenikliwych (<u>przenikający</u>) obrażeń podzielonych między wskazanego przeciwnika i jego sąsiadów. <u>Wyczerpany</u>"
+pl-PL_flavor: "Błyskawica rzadko trafia dwa razy w to samo miejsce, to byłoby przegięcie."
 tile_id: LightningStrike
 cost: 3
 image: /images/LightningStrike.png

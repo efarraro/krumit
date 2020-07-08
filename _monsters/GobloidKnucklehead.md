@@ -10,14 +10,19 @@ zh-CN_description: "这名敌人被击败时会向你的物品栏中添加一张
 zh-CN_flavor: "最具攻击性的哥布森非铁桶头莫属。绝不能忽视它们的力量，也不要试图和它们讲道理。"
 tile_id: GobloidKnucklehead
 image: /images/GobloidKnucklehead.png
+ru-RU_name: "Каскоголовый"
+ru-RU_description: "Когда этот противник повержен, кладёт копию <a href = '../ru_ru/abilities#Stupidity'>Глупасть</a> в ваше снаряжение."
+ru-RU_flavor: "Самые агрессивные из Гоблоидов известные как тупоголовые. Они - сила, с которой приходится считаться - определенно не договариваться."
+tile_id: GobloidKnucklehead
+image: /images/GobloidKnucklehead.png
 es-ES_name: "Cabeza de Balde"
 es-ES_description: "Cuando este enemigo sea derrotado, pon una copia de <a href = '../es_es/abilities#Stupidity'>¡Estúuupido!</a> en tu inventario"
 es-ES_flavor: "Los más agresivos de los Gobloides son conocidos como Cabezas Duras. Son una fuerza a temer - y definitivamente no una con la que razonar."
 tile_id: GobloidKnucklehead
 image: /images/GobloidKnucklehead.png
-ru-RU_name: "Каскоголовый"
-ru-RU_description: "Когда этот противник повержен, кладёт копию <a href = '../ru_ru/abilities#Stupidity'>Глупасть</a> в ваше снаряжение."
-ru-RU_flavor: "Самые агрессивные из Гоблоидов известные как тупоголовые. Они - сила, с которой приходится считаться - определенно не договариваться."
+pl-PL_name: "Wiadrołeb"
+pl-PL_description: "Gdy pokonasz tego przeciwnika, <a href = '../pl_pl/abilities#Stupidity'>Gupota</a> zostanie dodane do ekwipunku."
+pl-PL_flavor: "Najbardziej agresywne z Gobloidów są zwane Wiadrogłowymi. Należy się liczyć z tym, że nie potrafią liczyć."
 tile_id: GobloidKnucklehead
 image: /images/GobloidKnucklehead.png
 ---

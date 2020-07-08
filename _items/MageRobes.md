@@ -16,6 +16,14 @@ cost: 0
 image: /images/MageRobes.png
 durability: 2
 hero: mage
+ru-RU_name: "Волшебная мантия"
+ru-RU_description: "Когда вы получаете способность, увеличивает 🛡️️ <u>блок</u> этого предмета на 1"
+ru-RU_flavor: "Эти мантии украшены 34 звездами, по одной на каждого из выпускников Вступительной школы магов."
+tile_id: MageRobes
+cost: 0
+image: /images/MageRobes.png
+durability: 2
+hero: mage
 es-ES_name: "Túnica de Mago"
 es-ES_description: "Cuando adquieras una habilidad, incrementa en 1 el 🛡️️ <u>bloqueo</u> de este ítem"
 es-ES_flavor: "Esta túnica está adornada con 34 estrellas, una por cada uno de los graduados de la Escuela Inaugural de Magia."
@@ -24,9 +32,9 @@ cost: 0
 image: /images/MageRobes.png
 durability: 2
 hero: mage
-ru-RU_name: "Волшебная мантия"
-ru-RU_description: "Когда вы получаете способность, увеличивает 🛡️️ <u>блок</u> этого предмета на 1"
-ru-RU_flavor: "Эти мантии украшены 34 звездами, по одной на каждого из выпускников Вступительной школы магов."
+pl-PL_name: "Szata czarodzieja"
+pl-PL_description: "Gdy uzyskasz umiejętność, zwiększ 🛡️️ <u>blok</u> tego przedmiotu o 1."
+pl-PL_flavor: "Szata ozdobiona jest 34 gwiazdkami, jedną za każdego absolwenta Podstawowej Szkoły Magicznej."
 tile_id: MageRobes
 cost: 0
 image: /images/MageRobes.png

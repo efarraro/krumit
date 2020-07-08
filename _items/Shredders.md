@@ -16,6 +16,14 @@ cost: 4
 image: /images/Shredders.png
 durability: 3
 hero: rogue
+ru-RU_name: "Измельчители"
+ru-RU_description: "<u>пронзающий</u>. Когда вы приобретаете это, добавляет вторую точную копию в ваше снаряжение"
+ru-RU_flavor: "Лучше подходит для жестких врагов, чем для тайных документов."
+tile_id: Shredders
+cost: 4
+image: /images/Shredders.png
+durability: 3
+hero: rogue
 es-ES_name: "Trituradoras"
 es-ES_description: "<u>penetrante</u>. Cuando adquieras este ítem, añade una segunda copia exacta a tu inventario"
 es-ES_flavor: "Son más apropiadas para enemigos difíciles que para documentos confidenciales."
@@ -24,9 +32,9 @@ cost: 4
 image: /images/Shredders.png
 durability: 3
 hero: rogue
-ru-RU_name: "Измельчители"
-ru-RU_description: "<u>пронзающий</u>. Когда вы приобретаете это, добавляет вторую точную копию в ваше снаряжение"
-ru-RU_flavor: "Лучше подходит для жестких врагов, чем для тайных документов."
+pl-PL_name: "Rozpruwacze"
+pl-PL_description: "<u>przenikający</u>. Gdy uzyskasz to, dodaj identyczną kopię do ekwipunku."
+pl-PL_flavor: "Ostrożnie, możesz niechcący zaczepić o swój strój."
 tile_id: Shredders
 cost: 4
 image: /images/Shredders.png

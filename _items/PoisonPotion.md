@@ -16,6 +16,14 @@ cost: 1
 image: /images/PoisonPotion.png
 durability: 2
 hero: rogue
+ru-RU_name: "Пузырёк с ядом"
+ru-RU_description: "Накладывает  <u>яд</u> (1) на выбранного врага и других врагов в этом ряду."
+ru-RU_flavor: "Ходят слухи, что это мерзкое варево было утренним коктейлем СвампАлины на выбор."
+tile_id: PoisonPotion
+cost: 1
+image: /images/PoisonPotion.png
+durability: 2
+hero: rogue
 es-ES_name: "Frasco de Veneno"
 es-ES_description: " <u>envenena</u> (1) a un enemigo y a todos los otros enemigos en la misma fila"
 es-ES_flavor: "Se rumorea que a Pantanuela le gusta desayunar con este vil mejunje."
@@ -24,9 +32,9 @@ cost: 1
 image: /images/PoisonPotion.png
 durability: 2
 hero: rogue
-ru-RU_name: "Пузырёк с ядом"
-ru-RU_description: "Накладывает  <u>яд</u> (1) на выбранного врага и других врагов в этом ряду."
-ru-RU_flavor: "Ходят слухи, что это мерзкое варево было утренним коктейлем СвампАлины на выбор."
+pl-PL_name: "Fiolka trucizny"
+pl-PL_description: "Zatruj ( <u>trucizna</u>) (1) wroga i wszystkich pozostałych przeciwników w tym samym wierszu."
+pl-PL_flavor: "Mówi się, że Bagninka pije jedną po śniadaniu."
 tile_id: PoisonPotion
 cost: 1
 image: /images/PoisonPotion.png

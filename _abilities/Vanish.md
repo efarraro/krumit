@@ -14,6 +14,13 @@ tile_id: Vanish
 cost: 1
 image: /images/Vanish.png
 hero: rogue
+ru-RU_name: "Исчезновение"
+ru-RU_description: "Даёт <u>скрытность</u> и перезаряжает все перезаряжаемые способности. <u>Сжигается</u>"
+ru-RU_flavor: "'Сразиться с тобой? Хах. Как неприлично. Теперь, извини.' - Поппинджей."
+tile_id: Vanish
+cost: 1
+image: /images/Vanish.png
+hero: rogue
 es-ES_name: "Desaparecer"
 es-ES_description: "Gana <u>sigilo</u> y recarga todas las habilidades recargables. <u>Agota</u>"
 es-ES_flavor: "¿Luchar contigo? Hah. Que grosero. Ahora, vete. - El Fantoche."
@@ -21,9 +28,9 @@ tile_id: Vanish
 cost: 1
 image: /images/Vanish.png
 hero: rogue
-ru-RU_name: "Исчезновение"
-ru-RU_description: "Даёт <u>скрытность</u> и перезаряжает все перезаряжаемые способности. <u>Сжигается</u>"
-ru-RU_flavor: "'Сразиться с тобой? Хах. Как неприлично. Теперь, извини.' - Поппинджей."
+pl-PL_name: "Vanish"
+pl-PL_description: "Ukryj się (<u>ukrywanie się</u>) i naładuj wszystkie umiejętności. <u>Wyczerpany</u>"
+pl-PL_flavor: "'Bić się? Nie będę. Jestem ponadto.' - Dandys Fircyk"
 tile_id: Vanish
 cost: 1
 image: /images/Vanish.png

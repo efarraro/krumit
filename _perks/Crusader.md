@@ -8,12 +8,16 @@ zh-CN_name: "十字军"
 zh-CN_description: "生命值全满时基础攻击力+1"
 tile_id: Crusader
 image: /images/Crusader.png
+ru-RU_name: "Крестоносец"
+ru-RU_description: "Ваша базовая 🔸 увеличена на 1, пока у вас полное ❤️."
+tile_id: Crusader
+image: /images/Crusader.png
 es-ES_name: "Cruzado"
 es-ES_description: "Mientras tengas la ❤️ llena, incrementa tu 🔸 base en 1"
 tile_id: Crusader
 image: /images/Crusader.png
-ru-RU_name: "Крестоносец"
-ru-RU_description: "Ваша базовая 🔸 увеличена на 1, пока у вас полное ❤️."
+pl-PL_name: "Krżyżak"
+pl-PL_description: "Jeżeli masz pełne ❤️, zwiększ 🔸 o 1."
 tile_id: Crusader
 image: /images/Crusader.png
 ---

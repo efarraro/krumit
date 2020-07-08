@@ -14,6 +14,13 @@ tile_id: LeechMana
 cost: 1
 image: /images/LeechMana.png
 hero: mage
+ru-RU_name: "Высасывание маны"
+ru-RU_description: "Наносит 2 <u>пронзающий</u> урона выбранному врагу и уменьшает стоимость соседних способностей на 2. <u>Сжигается</u>"
+ru-RU_flavor: "'Что? Не кажется, что они извлекали из этого максимум пользы!' - Лука 'Манавампир' Кардозо..."
+tile_id: LeechMana
+cost: 1
+image: /images/LeechMana.png
+hero: mage
 es-ES_name: "Drenar Maná"
 es-ES_description: "Haz 2 de daño <u>penetrante</u> a un enemigo objetivo. Reduce el costo de las habilidades adyacentes en 2. <u>Agota</u>"
 es-ES_flavor: "'¿Qué? ¡Si ni siquiera lo estaban usando!' - Luca 'El Manavampiro' Cardoso"
@@ -21,9 +28,9 @@ tile_id: LeechMana
 cost: 1
 image: /images/LeechMana.png
 hero: mage
-ru-RU_name: "Высасывание маны"
-ru-RU_description: "Наносит 2 <u>пронзающий</u> урона выбранному врагу и уменьшает стоимость соседних способностей на 2. <u>Сжигается</u>"
-ru-RU_flavor: "'Что? Не кажется, что они извлекали из этого максимум пользы!' - Лука 'Манавампир' Кардозо..."
+pl-PL_name: "Wyssanie Many"
+pl-PL_description: "Zadaj 2 przenikliwych (<u>przenikający</u>) obrażeń wskazanemu przeciwnikowi. Obniż koszt sąsiadujących umiejętności o 2. <u>Wyczerpany</u>"
+pl-PL_flavor: "'Nie jesteś świadomy potencjału, który w tobie płynie.' - Luca 'Manożerca' Cardoso"
 tile_id: LeechMana
 cost: 1
 image: /images/LeechMana.png

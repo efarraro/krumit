@@ -16,6 +16,14 @@ cost: 4
 image: /images/BoneNecklace.png
 durability: 3
 hero: necromancer
+ru-RU_name: "Костонташ"
+ru-RU_description: "Призывает 💀 <u>Миньон</u> Скелет"
+ru-RU_flavor: "Наряжайся, скелитируйся, ожесточай!"
+tile_id: BoneNecklace
+cost: 4
+image: /images/BoneNecklace.png
+durability: 3
+hero: necromancer
 es-ES_name: "Bandolera de Huesos"
 es-ES_description: "Invoca un 💀 <u>Esbirro</u> Esqueleto"
 es-ES_flavor: "¡Accesoriza, esqueletiza, brutaliza!"
@@ -24,9 +32,9 @@ cost: 4
 image: /images/BoneNecklace.png
 durability: 3
 hero: necromancer
-ru-RU_name: "Костонташ"
-ru-RU_description: "Призывает 💀 <u>Миньон</u> Скелет"
-ru-RU_flavor: "Наряжайся, скелитируйся, ожесточай!"
+pl-PL_name: "Naszyjnik z kości"
+pl-PL_description: "Przywołaj Szkielet 💀 <u>Sługus</u>"
+pl-PL_flavor: "UWAGA! Użycie wymaga posiadania szyi!"
 tile_id: BoneNecklace
 cost: 4
 image: /images/BoneNecklace.png

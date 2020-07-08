@@ -16,6 +16,14 @@ cost: 2
 image: /images/Hellfone.png
 durability: 1
 hero: priest
+ru-RU_name: "Хелфон"
+ru-RU_description: "Призывает 💀 <u>Миньон</u> Кококот. Уничтожает все <u>проклятия</u> на поле и увеличивает ❤️ Кококота на 3 за каждое уничтоженное <u>проклятие</u>."
+ru-RU_flavor: "Прямая линия с самыми глубокими глубинами королевства Пенумбра. Если он зазвонит, вы никогда не должны отвечать."
+tile_id: Hellfone
+cost: 2
+image: /images/Hellfone.png
+durability: 1
+hero: priest
 es-ES_name: "Inferfono"
 es-ES_description: "Invoca un Cocogato. Destruye todas las maldiciones visibles e incrementa la ❤️ del Cocogato en 3 por cada una"
 es-ES_flavor: "Una línea directa a los abismos más profundos del Reino de Penumbra. Si lo escuchas sonar, jamás pero jamás debes responder."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/Hellfone.png
 durability: 1
 hero: priest
-ru-RU_name: "Хелфон"
-ru-RU_description: "Призывает 💀 <u>Миньон</u> Кококот. Уничтожает все <u>проклятия</u> на поле и увеличивает ❤️ Кококота на 3 за каждое уничтоженное <u>проклятие</u>."
-ru-RU_flavor: "Прямая линия с самыми глубокими глубинами королевства Пенумбра. Если он зазвонит, вы никогда не должны отвечать."
+pl-PL_name: "Piekłofon"
+pl-PL_description: "Przywołaj Kokokot, po czym zniszcz wszystkie widoczne klątwy i zwiększ ❤️ Kokokota o 3 za każdą"
+pl-PL_flavor: "Bezpośredni kontakt do najgłębszych głębin Królestwa Półcieni. Jeżeli zadzwoni, nie odbieraj pod żadnym pozorem."
 tile_id: Hellfone
 cost: 2
 image: /images/Hellfone.png

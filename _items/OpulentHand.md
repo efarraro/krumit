@@ -16,6 +16,14 @@ cost: 3
 image: /images/OpulentHand.png
 durability: 3
 hero: priest
+ru-RU_name: "Роскошная рука"
+ru-RU_description: "Когда вы атакуете  <u>оскверненного</u> врага с этим оружием, даёт 1 💰"
+ru-RU_flavor: "Пощечина Мидаса"
+tile_id: OpulentHand
+cost: 3
+image: /images/OpulentHand.png
+durability: 3
+hero: priest
 es-ES_name: "Mano Opulenta"
 es-ES_description: "Cuando ataques a un enemigo  <u>corrompido</u> con esta arma, gana 1 💰"
 es-ES_flavor: "La bofetada de Midas."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/OpulentHand.png
 durability: 3
 hero: priest
-ru-RU_name: "Роскошная рука"
-ru-RU_description: "Когда вы атакуете  <u>оскверненного</u> врага с этим оружием, даёт 1 💰"
-ru-RU_flavor: "Пощечина Мидаса"
+pl-PL_name: "Rękawica Obfitości"
+pl-PL_description: "Gdy atakujesz  <u>zepsuty</u> przeciwnika tą bronią, zyskaj 1 💰"
+pl-PL_flavor: "Policzkowanie nigdy nie opłacało się bardziej."
 tile_id: OpulentHand
 cost: 3
 image: /images/OpulentHand.png

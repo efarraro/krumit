@@ -18,6 +18,15 @@ monsters:
     image: /images/Gobloid.png
     quantity: 6
     url: /monsters/Gobloid
+ru-RU_name: "Грязный город гоблоидов"
+ru-RU_description: "'Гоблоиды - трагическая и грязная раса, обреченная вонью на жизнь изгоями, вечно сторонясь. Интересно, пахнут ли они друг другом?' - Крумит"
+tier: 0
+monsters:
+  - monster:
+    name: "Гоблоид"
+    image: /images/Gobloid.png
+    quantity: 6
+    url: /monsters/Gobloid
 es-ES_name: "Aldea Gobloide Inmunda"
 es-ES_description: "'Los Gobloides son seres tan trágicos como sucios - condenados por su hedor a ser por siempre marginados. Me pregunto, ¿podrán olerse entre ellos?' - Krumit"
 tier: 0
@@ -27,12 +36,12 @@ monsters:
     image: /images/Gobloid.png
     quantity: 6
     url: /monsters/Gobloid
-ru-RU_name: "Грязный город гоблоидов"
-ru-RU_description: "'Гоблоиды - трагическая и грязная раса, обреченная вонью на жизнь изгоями, вечно сторонясь. Интересно, пахнут ли они друг другом?' - Крумит"
+pl-PL_name: "Brudne Miasto Gobloidów"
+pl-PL_description: "'Gobloidy są tragiczną i brudną rasą; z powodu fetoru skazaną na zagładę i życie odrzutków. Jak myślisz, czy czują, że produkują?' - Krumit"
 tier: 0
 monsters:
   - monster:
-    name: "Гоблоид"
+    name: "Gobloid"
     image: /images/Gobloid.png
     quantity: 6
     url: /monsters/Gobloid

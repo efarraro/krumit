@@ -16,6 +16,14 @@ cost: 2
 image: /images/HauntedBlade.png
 durability: 3
 hero: necromancer
+ru-RU_name: "Одержимый клинок"
+ru-RU_description: "<u>Пассивно</u>: наносит вам 1 урон, когда карточка добавляется на поле"
+ru-RU_flavor: "Этот полуразумный клинок одержим травмирующими воспоминаниями. Он не любит сюрпризы."
+tile_id: HauntedBlade
+cost: 2
+image: /images/HauntedBlade.png
+durability: 3
+hero: necromancer
 es-ES_name: "Espada Atormentada"
 es-ES_description: "<u>Pasiva</u>: Pierde 1 ❤️ cada vez que una ficha sea añadida al tablero"
 es-ES_flavor: "A esta espada semi-inteligente la atormentan memorias traumáticas. No le gustan las sorpresas."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/HauntedBlade.png
 durability: 3
 hero: necromancer
-ru-RU_name: "Одержимый клинок"
-ru-RU_description: "<u>Пассивно</u>: наносит вам 1 урон, когда карточка добавляется на поле"
-ru-RU_flavor: "Этот полуразумный клинок одержим травмирующими воспоминаниями. Он не любит сюрпризы."
+pl-PL_name: "Nawiedzone Ostrze"
+pl-PL_description: "<u>Pasywny</u>: Strać 1 ❤️ gdy płytka pojawia się na planszy."
+pl-PL_flavor: "Ostrze jest nawiedzone przez traumatyczne przeżycia i nie lubi niespodzianek."
 tile_id: HauntedBlade
 cost: 2
 image: /images/HauntedBlade.png

@@ -14,6 +14,13 @@ tile_id: Hamstring
 cost: 1
 image: /images/Hamstring.png
 hero: warrior
+ru-RU_name: "Паралич"
+ru-RU_description: "Один раз за бой, воспользуйтесь этим для отмены не-🔸 с вражеского действия"
+ru-RU_flavor: "Если они не могут стоять, они не могут сражаться. Или преследовать тебя."
+tile_id: Hamstring
+cost: 1
+image: /images/Hamstring.png
+hero: warrior
 es-ES_name: "Lisiar"
 es-ES_description: "Una vez por combate, usa esto para remover todos los íconos que no sean 🔸 de la acción de tu oponente"
 es-ES_flavor: "Si no pueden pararse, no pueden luchar. O perseguirte."
@@ -21,9 +28,9 @@ tile_id: Hamstring
 cost: 1
 image: /images/Hamstring.png
 hero: warrior
-ru-RU_name: "Паралич"
-ru-RU_description: "Один раз за бой, воспользуйтесь этим для отмены не-🔸 с вражеского действия"
-ru-RU_flavor: "Если они не могут стоять, они не могут сражаться. Или преследовать тебя."
+pl-PL_name: "Okulawienie"
+pl-PL_description: "Raz na walkę, usuń z akcji przeciwnika wszystkie symbole poza 🔸."
+pl-PL_flavor: "Okulawiony przeciwnik nie będzie zbyt zwinny, ale zawsze może zamachnąć się kulami."
 tile_id: Hamstring
 cost: 1
 image: /images/Hamstring.png

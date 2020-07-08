@@ -80,6 +80,46 @@ cost: 0
 image: /images/HealthPotion.png
 durability: 3
 hero: warrior
+ru-RU_name: "Зелье здоровья"
+ru-RU_description: "Восстанавливает 2 ❤️"
+ru-RU_flavor: "Жидкое здоровье, на вкус как мед и радуга."
+tile_id: HealthPotion
+cost: 0
+image: /images/HealthPotion.png
+durability: 3
+hero: warrior
+ru-RU_name: "Зелье здоровья"
+ru-RU_description: "Восстанавливает 2 ❤️"
+ru-RU_flavor: "Жидкое здоровье, на вкус как мед и радуга."
+tile_id: HealthPotion
+cost: 0
+image: /images/HealthPotion.png
+durability: 3
+hero: warrior
+ru-RU_name: "Зелье здоровья"
+ru-RU_description: "Восстанавливает 2 ❤️"
+ru-RU_flavor: "Жидкое здоровье, на вкус как мед и радуга."
+tile_id: HealthPotion
+cost: 0
+image: /images/HealthPotion.png
+durability: 3
+hero: warrior
+ru-RU_name: "Зелье здоровья"
+ru-RU_description: "Восстанавливает 2 ❤️"
+ru-RU_flavor: "Жидкое здоровье, на вкус как мед и радуга."
+tile_id: HealthPotion
+cost: 0
+image: /images/HealthPotion.png
+durability: 3
+hero: warrior
+ru-RU_name: "Зелье здоровья"
+ru-RU_description: "Восстанавливает 2 ❤️"
+ru-RU_flavor: "Жидкое здоровье, на вкус как мед и радуга."
+tile_id: HealthPotion
+cost: 0
+image: /images/HealthPotion.png
+durability: 3
+hero: warrior
 es-ES_name: "Poción Curativa"
 es-ES_description: "Recupera 2 ❤️"
 es-ES_flavor: "Vida líquida, con sabor a miel y arcoíris."
@@ -120,41 +160,41 @@ cost: 0
 image: /images/HealthPotion.png
 durability: 3
 hero: warrior
-ru-RU_name: "Зелье здоровья"
-ru-RU_description: "Восстанавливает 2 ❤️"
-ru-RU_flavor: "Жидкое здоровье, на вкус как мед и радуга."
+pl-PL_name: "Mikstura lecząca"
+pl-PL_description: "Odnów 2 ❤️"
+pl-PL_flavor: "Zdrowie w płynie, smakuje jak tęcza i miód."
 tile_id: HealthPotion
 cost: 0
 image: /images/HealthPotion.png
 durability: 3
 hero: warrior
-ru-RU_name: "Зелье здоровья"
-ru-RU_description: "Восстанавливает 2 ❤️"
-ru-RU_flavor: "Жидкое здоровье, на вкус как мед и радуга."
+pl-PL_name: "Mikstura lecząca"
+pl-PL_description: "Odnów 2 ❤️"
+pl-PL_flavor: "Zdrowie w płynie, smakuje jak tęcza i miód."
 tile_id: HealthPotion
 cost: 0
 image: /images/HealthPotion.png
 durability: 3
 hero: warrior
-ru-RU_name: "Зелье здоровья"
-ru-RU_description: "Восстанавливает 2 ❤️"
-ru-RU_flavor: "Жидкое здоровье, на вкус как мед и радуга."
+pl-PL_name: "Mikstura lecząca"
+pl-PL_description: "Odnów 2 ❤️"
+pl-PL_flavor: "Zdrowie w płynie, smakuje jak tęcza i miód."
 tile_id: HealthPotion
 cost: 0
 image: /images/HealthPotion.png
 durability: 3
 hero: warrior
-ru-RU_name: "Зелье здоровья"
-ru-RU_description: "Восстанавливает 2 ❤️"
-ru-RU_flavor: "Жидкое здоровье, на вкус как мед и радуга."
+pl-PL_name: "Mikstura lecząca"
+pl-PL_description: "Odnów 2 ❤️"
+pl-PL_flavor: "Zdrowie w płynie, smakuje jak tęcza i miód."
 tile_id: HealthPotion
 cost: 0
 image: /images/HealthPotion.png
 durability: 3
 hero: warrior
-ru-RU_name: "Зелье здоровья"
-ru-RU_description: "Восстанавливает 2 ❤️"
-ru-RU_flavor: "Жидкое здоровье, на вкус как мед и радуга."
+pl-PL_name: "Mikstura lecząca"
+pl-PL_description: "Odnów 2 ❤️"
+pl-PL_flavor: "Zdrowie w płynie, smakuje jak tęcza i miód."
 tile_id: HealthPotion
 cost: 0
 image: /images/HealthPotion.png

@@ -80,6 +80,46 @@ cost: 0
 image: /images/FlaskOfRehydration.png
 durability: 3
 hero: warrior
+ru-RU_name: "Фляга оводнения"
+ru-RU_description: "Восстанавливает 1 ❤️. Восстанавливает 1 прочность этому предмету, когда вы сбрасываете карточку"
+ru-RU_flavor: "Странно, эта фляга не содержит воды. Вместо этого, она превращает окружающую влагу в магию оводнения."
+tile_id: FlaskOfRehydration
+cost: 0
+image: /images/FlaskOfRehydration.png
+durability: 3
+hero: warrior
+ru-RU_name: "Фляга оводнения"
+ru-RU_description: "Восстанавливает 1 ❤️. Восстанавливает 1 прочность этому предмету, когда вы сбрасываете карточку"
+ru-RU_flavor: "Странно, эта фляга не содержит воды. Вместо этого, она превращает окружающую влагу в магию оводнения."
+tile_id: FlaskOfRehydration
+cost: 0
+image: /images/FlaskOfRehydration.png
+durability: 3
+hero: warrior
+ru-RU_name: "Фляга оводнения"
+ru-RU_description: "Восстанавливает 1 ❤️. Восстанавливает 1 прочность этому предмету, когда вы сбрасываете карточку"
+ru-RU_flavor: "Странно, эта фляга не содержит воды. Вместо этого, она превращает окружающую влагу в магию оводнения."
+tile_id: FlaskOfRehydration
+cost: 0
+image: /images/FlaskOfRehydration.png
+durability: 3
+hero: warrior
+ru-RU_name: "Фляга оводнения"
+ru-RU_description: "Восстанавливает 1 ❤️. Восстанавливает 1 прочность этому предмету, когда вы сбрасываете карточку"
+ru-RU_flavor: "Странно, эта фляга не содержит воды. Вместо этого, она превращает окружающую влагу в магию оводнения."
+tile_id: FlaskOfRehydration
+cost: 0
+image: /images/FlaskOfRehydration.png
+durability: 3
+hero: warrior
+ru-RU_name: "Фляга оводнения"
+ru-RU_description: "Восстанавливает 1 ❤️. Восстанавливает 1 прочность этому предмету, когда вы сбрасываете карточку"
+ru-RU_flavor: "Странно, эта фляга не содержит воды. Вместо этого, она превращает окружающую влагу в магию оводнения."
+tile_id: FlaskOfRehydration
+cost: 0
+image: /images/FlaskOfRehydration.png
+durability: 3
+hero: warrior
 es-ES_name: "Cantimplora Rehidratante"
 es-ES_description: "Recupera 1 ❤️. Cada vez que descartes una ficha, repara 1 de durabilidad a este ítem"
 es-ES_flavor: "Curiosamente, esta cantimplora no contiene agua, sino que transforma la humedad del aire en magia rehidratante."
@@ -120,41 +160,41 @@ cost: 0
 image: /images/FlaskOfRehydration.png
 durability: 3
 hero: warrior
-ru-RU_name: "Фляга оводнения"
-ru-RU_description: "Восстанавливает 1 ❤️. Восстанавливает 1 прочность этому предмету, когда вы сбрасываете карточку"
-ru-RU_flavor: "Странно, эта фляга не содержит воды. Вместо этого, она превращает окружающую влагу в магию оводнения."
+pl-PL_name: "Manierka Nawodnienia"
+pl-PL_description: "Odnów 1 ❤️. Gdy odrzucasz płytkę, odnów 1 trwałości."
+pl-PL_flavor: "Co ciekawe, manierka nie zawiera wody. Zamiast tego, przemienia pobliską wilgoć w magię nawodnienia."
 tile_id: FlaskOfRehydration
 cost: 0
 image: /images/FlaskOfRehydration.png
 durability: 3
 hero: warrior
-ru-RU_name: "Фляга оводнения"
-ru-RU_description: "Восстанавливает 1 ❤️. Восстанавливает 1 прочность этому предмету, когда вы сбрасываете карточку"
-ru-RU_flavor: "Странно, эта фляга не содержит воды. Вместо этого, она превращает окружающую влагу в магию оводнения."
+pl-PL_name: "Manierka Nawodnienia"
+pl-PL_description: "Odnów 1 ❤️. Gdy odrzucasz płytkę, odnów 1 trwałości."
+pl-PL_flavor: "Co ciekawe, manierka nie zawiera wody. Zamiast tego, przemienia pobliską wilgoć w magię nawodnienia."
 tile_id: FlaskOfRehydration
 cost: 0
 image: /images/FlaskOfRehydration.png
 durability: 3
 hero: warrior
-ru-RU_name: "Фляга оводнения"
-ru-RU_description: "Восстанавливает 1 ❤️. Восстанавливает 1 прочность этому предмету, когда вы сбрасываете карточку"
-ru-RU_flavor: "Странно, эта фляга не содержит воды. Вместо этого, она превращает окружающую влагу в магию оводнения."
+pl-PL_name: "Manierka Nawodnienia"
+pl-PL_description: "Odnów 1 ❤️. Gdy odrzucasz płytkę, odnów 1 trwałości."
+pl-PL_flavor: "Co ciekawe, manierka nie zawiera wody. Zamiast tego, przemienia pobliską wilgoć w magię nawodnienia."
 tile_id: FlaskOfRehydration
 cost: 0
 image: /images/FlaskOfRehydration.png
 durability: 3
 hero: warrior
-ru-RU_name: "Фляга оводнения"
-ru-RU_description: "Восстанавливает 1 ❤️. Восстанавливает 1 прочность этому предмету, когда вы сбрасываете карточку"
-ru-RU_flavor: "Странно, эта фляга не содержит воды. Вместо этого, она превращает окружающую влагу в магию оводнения."
+pl-PL_name: "Manierka Nawodnienia"
+pl-PL_description: "Odnów 1 ❤️. Gdy odrzucasz płytkę, odnów 1 trwałości."
+pl-PL_flavor: "Co ciekawe, manierka nie zawiera wody. Zamiast tego, przemienia pobliską wilgoć w magię nawodnienia."
 tile_id: FlaskOfRehydration
 cost: 0
 image: /images/FlaskOfRehydration.png
 durability: 3
 hero: warrior
-ru-RU_name: "Фляга оводнения"
-ru-RU_description: "Восстанавливает 1 ❤️. Восстанавливает 1 прочность этому предмету, когда вы сбрасываете карточку"
-ru-RU_flavor: "Странно, эта фляга не содержит воды. Вместо этого, она превращает окружающую влагу в магию оводнения."
+pl-PL_name: "Manierka Nawodnienia"
+pl-PL_description: "Odnów 1 ❤️. Gdy odrzucasz płytkę, odnów 1 trwałości."
+pl-PL_flavor: "Co ciekawe, manierka nie zawiera wody. Zamiast tego, przemienia pobliską wilgoć w magię nawodnienia."
 tile_id: FlaskOfRehydration
 cost: 0
 image: /images/FlaskOfRehydration.png

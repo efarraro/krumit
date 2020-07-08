@@ -14,6 +14,13 @@ tile_id: HolyFury
 cost: 2
 image: /images/HolyFury.png
 hero: priest
+ru-RU_name: "Святая ярость"
+ru-RU_description: "<u><u>Мгновенная</u></u>. <u>мутирует</u> в 🟦Избранный и заполняет ваши свободные слоты в снаряжении <a href = '../ru_ru/abilities#Smite'>Кара</a>"
+ru-RU_flavor: "Не стоит путать со 'святым мехом'."
+tile_id: HolyFury
+cost: 2
+image: /images/HolyFury.png
+hero: priest
 es-ES_name: "Furia Sagrada"
 es-ES_description: "Intercambia tu ventaja inicial por 🟦Elegida y llena los espacios vacíos de tu inventario con <a href = '../es_es/abilities#Smite'>Castigar</a>"
 es-ES_flavor: "No vayas a confundirla con la 'lujuria sagrada'."
@@ -21,9 +28,9 @@ tile_id: HolyFury
 cost: 2
 image: /images/HolyFury.png
 hero: priest
-ru-RU_name: "Святая ярость"
-ru-RU_description: "<u><u>Мгновенная</u></u>. <u>мутирует</u> в 🟦Избранный и заполняет ваши свободные слоты в снаряжении <a href = '../ru_ru/abilities#Smite'>Кара</a>"
-ru-RU_flavor: "Не стоит путать со 'святым мехом'."
+pl-PL_name: "Uświęcona Furia"
+pl-PL_description: "<u><u>Niezwłoczny</u></u>. <u>Mutacja</u> 🟦Wybranka i wypełnij puste miejsca w ekwipunku kartą <a href = '../pl_pl/abilities#Smite'>Potępienie</a>."
+pl-PL_flavor: "Ostrożnie, możesz wyjść na furiata."
 tile_id: HolyFury
 cost: 2
 image: /images/HolyFury.png

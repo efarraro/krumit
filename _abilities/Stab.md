@@ -14,6 +14,13 @@ tile_id: Stab
 cost: 0
 image: /images/Stab.png
 hero: rogue
+ru-RU_name: "Удар ножом"
+ru-RU_description: "Наносит 1 <u>пронзающий</u> урон выбранному врагу. Когда вы приобретаете это, даёт вторую копию. <u>Сжигается</u>"
+ru-RU_flavor: "И ты, Скутус? - Альфа (не долго) шакал Гизарь"
+tile_id: Stab
+cost: 0
+image: /images/Stab.png
+hero: rogue
 es-ES_name: "Apuñalar"
 es-ES_description: "Haz 1 de daño <u>penetrante</u> a un enemigo objetivo. Cuando adquieras esta habilidad, gana una segunda copia. <u>Agota</u>"
 es-ES_flavor: "¿Tú también, Canuto? - Vejestulio, Chacal Alfa (aunque no por mucho tiempo)"
@@ -21,9 +28,9 @@ tile_id: Stab
 cost: 0
 image: /images/Stab.png
 hero: rogue
-ru-RU_name: "Удар ножом"
-ru-RU_description: "Наносит 1 <u>пронзающий</u> урон выбранному врагу. Когда вы приобретаете это, даёт вторую копию. <u>Сжигается</u>"
-ru-RU_flavor: "И ты, Скутус? - Альфа (не долго) шакал Гизарь"
+pl-PL_name: "Dźgnięcie"
+pl-PL_description: "Zadaj 1 przenikliwych (<u>przenikający</u>) obrażeń wskazanemu przeciwnikowi. Uzyskując to, otrzymasz drugą kopię. <u>Wyczerpany</u>"
+pl-PL_flavor: "'Et tu, Plutos?' - poprzedni alfa stada szakali"
 tile_id: Stab
 cost: 0
 image: /images/Stab.png

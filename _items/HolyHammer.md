@@ -16,6 +16,14 @@ cost: 2
 image: /images/HolyHammer.png
 durability: 2
 hero: priest
+ru-RU_name: "Святой молот"
+ru-RU_description: " <u>Вампиризм</u> (1)"
+ru-RU_flavor: "Бьёт грубой, сокрушительной силой прозрения, но оставляет вас с недопониманием."
+tile_id: HolyHammer
+cost: 2
+image: /images/HolyHammer.png
+durability: 2
+hero: priest
 es-ES_name: "Martillo Sagrado"
 es-ES_description: " <u>Vampirismo</u> (1)"
 es-ES_flavor: "Golpea con la brutal y aplastante fuerza de una epifanía, pero te deja con menos entendimiento."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/HolyHammer.png
 durability: 2
 hero: priest
-ru-RU_name: "Святой молот"
-ru-RU_description: " <u>Вампиризм</u> (1)"
-ru-RU_flavor: "Бьёт грубой, сокрушительной силой прозрения, но оставляет вас с недопониманием."
+pl-PL_name: "Poświęcony Młot"
+pl-PL_description: " <u>Kradzież Życia</u> (1)"
+pl-PL_flavor: "Potężna dawka druzgocącej mocy olśnienia."
 tile_id: HolyHammer
 cost: 2
 image: /images/HolyHammer.png

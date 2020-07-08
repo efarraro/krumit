@@ -14,6 +14,13 @@ tile_id: BoneArmor
 cost: 1
 image: /images/BoneArmor.png
 hero: necromancer
+ru-RU_name: "Костяная броня"
+ru-RU_description: "Когда миньон погибает, эта карточка получает +2 🛡️️ <u>блока</u>. Перезаряжается после 6 раундов боя."
+ru-RU_flavor: "В не-жизни, они атакуют, в пере-смерти они защищаются."
+tile_id: BoneArmor
+cost: 1
+image: /images/BoneArmor.png
+hero: necromancer
 es-ES_name: "Armadura Ósea"
 es-ES_description: "Cada vez que un 💀 <u>Esbirro</u> sea destruído, esta ficha gana +2 de 🛡️️ <u>bloqueo</u>. Recarga después de 6 rondas de combate"
 es-ES_flavor: "En su no-vida, te atacan. En su re-muerte, te protegen."
@@ -21,9 +28,9 @@ tile_id: BoneArmor
 cost: 1
 image: /images/BoneArmor.png
 hero: necromancer
-ru-RU_name: "Костяная броня"
-ru-RU_description: "Когда миньон погибает, эта карточка получает +2 🛡️️ <u>блока</u>. Перезаряжается после 6 раундов боя."
-ru-RU_flavor: "В не-жизни, они атакуют, в пере-смерти они защищаются."
+pl-PL_name: "Kościany Pancerz"
+pl-PL_description: "Gdy 💀 <u>Sługus</u> umiera, ta płytka otrzymuje +2 bloku. Naładowuje się po 6 rundach walki."
+pl-PL_flavor: "Atakują w życiu po życiu, chronią po śmierci."
 tile_id: BoneArmor
 cost: 1
 image: /images/BoneArmor.png

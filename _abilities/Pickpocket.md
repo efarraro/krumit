@@ -14,6 +14,13 @@ tile_id: Pickpocket
 cost: 0
 image: /images/Pickpocket.png
 hero: rogue
+ru-RU_name: "Вор-карманник"
+ru-RU_description: "Если вы имеете <u>скрытность</u>, замешивает выбранного врага назад в колоду подземелья, даёт 2 💰 и тратит скрытность (вне боя)"
+ru-RU_flavor: "Всё имеет карман, где-нибудь. А-ага. ВСЁ"
+tile_id: Pickpocket
+cost: 0
+image: /images/Pickpocket.png
+hero: rogue
 es-ES_name: "Carterear"
 es-ES_description: "Si tienes <u>sigilo</u>, baraja un enemigo objetivo de vuelta en el mazo y gana 2 💰. Pierde el sigilo. Sólo puede ser usada fuera de combate"
 es-ES_flavor: "Todo tiene un bolsillo en alguna parte. Sip. TODO."
@@ -21,9 +28,9 @@ tile_id: Pickpocket
 cost: 0
 image: /images/Pickpocket.png
 hero: rogue
-ru-RU_name: "Вор-карманник"
-ru-RU_description: "Если вы имеете <u>скрытность</u>, замешивает выбранного врага назад в колоду подземелья, даёт 2 💰 и тратит скрытность (вне боя)"
-ru-RU_flavor: "Всё имеет карман, где-нибудь. А-ага. ВСЁ"
+pl-PL_name: "Kieszonkowiec"
+pl-PL_description: "Jeżeli jesteś ukryty (<u>ukrywanie się</u>), wtasuj wskazanego przeciwnika do talii i zyskaj 2 💰, po czym wyjdziesz z ukrycia. Może być użyte tylko poza walką."
+pl-PL_flavor: "Wszystko ma gdzieś kieszeń. WSZYSTKO."
 tile_id: Pickpocket
 cost: 0
 image: /images/Pickpocket.png

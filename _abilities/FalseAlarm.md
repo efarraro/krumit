@@ -14,6 +14,13 @@ tile_id: FalseAlarm
 cost: 1
 image: /images/FalseAlarm.png
 hero: rogue
+ru-RU_name: "Ложная тревога"
+ru-RU_description: "Замешивает всех врагов обратно в колоду (вне боя). <u>Сжигается</u>"
+ru-RU_flavor: "Просто ложная тревога! Это никогда не надоест!"
+tile_id: FalseAlarm
+cost: 1
+image: /images/FalseAlarm.png
+hero: rogue
 es-ES_name: "Falsa Alarma"
 es-ES_description: "Baraja todos los enemigos de vuelta en el mazo. No puede ser usada en combate. <u>Agota</u>"
 es-ES_flavor: "¡Gritar 'lobo' nunca pasa de moda!"
@@ -21,9 +28,9 @@ tile_id: FalseAlarm
 cost: 1
 image: /images/FalseAlarm.png
 hero: rogue
-ru-RU_name: "Ложная тревога"
-ru-RU_description: "Замешивает всех врагов обратно в колоду (вне боя). <u>Сжигается</u>"
-ru-RU_flavor: "Просто ложная тревога! Это никогда не надоест!"
+pl-PL_name: "Fałszywy Alarm"
+pl-PL_description: "Wtasuj wszystkich przeciwników do talii. Nie może być użyte w walce. <u>Wyczerpany</u>"
+pl-PL_flavor: "'Gobloidy na horyzoncie! Do broni!... A nie, już nic, to tylko wóz ze starociami.'"
 tile_id: FalseAlarm
 cost: 1
 image: /images/FalseAlarm.png

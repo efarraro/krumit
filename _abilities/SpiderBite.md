@@ -14,6 +14,13 @@ tile_id: SpiderBite
 cost: 0
 image: /images/SpiderBite.png
 hero: rogue
+ru-RU_name: "Укус паука"
+ru-RU_description: "Накладывает  <u>яд</u> (3) на выбранного врага. <u>Сжигается</u>"
+ru-RU_flavor: "Оказывается, что яд паука сверх смертелен, когда доставляется заострённым кинжалом."
+tile_id: SpiderBite
+cost: 0
+image: /images/SpiderBite.png
+hero: rogue
 es-ES_name: "Mordida de Araña"
 es-ES_description: " <u>envenena</u> (3) un enemigo. <u>Agota</u>"
 es-ES_flavor: "Resulta que el veneno de una araña es aún más mortífero cuando se suministra con una daga puntuda."
@@ -21,9 +28,9 @@ tile_id: SpiderBite
 cost: 0
 image: /images/SpiderBite.png
 hero: rogue
-ru-RU_name: "Укус паука"
-ru-RU_description: "Накладывает  <u>яд</u> (3) на выбранного врага. <u>Сжигается</u>"
-ru-RU_flavor: "Оказывается, что яд паука сверх смертелен, когда доставляется заострённым кинжалом."
+pl-PL_name: "Pajęcze Ukąszenie"
+pl-PL_description: " <u>trucizna</u> (3) przeciwnika. <u>Wyczerpany</u>"
+pl-PL_flavor: "Jad pająka jest bardziej śmiertelny jeżeli jest podany z pomocą ostrego sztyletu."
 tile_id: SpiderBite
 cost: 0
 image: /images/SpiderBite.png

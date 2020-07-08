@@ -16,6 +16,14 @@ cost: 3
 image: /images/TheDarkestCuirass.png
 durability: 3
 hero: priest
+ru-RU_name: "Тёмная кираса"
+ru-RU_description: "Когда вы получаете это, накладывает  <u>осквернение</u> (4) на всех врагов на поле"
+ru-RU_flavor: "Только взглянув на тёмную кирасу, можно погасить свет своей души."
+tile_id: TheDarkestCuirass
+cost: 3
+image: /images/TheDarkestCuirass.png
+durability: 3
+hero: priest
 es-ES_name: "La Coraza Más Oscura"
 es-ES_description: "Cuando adquieras esto,  <u>Corrompe</u> (4) todos los enemigos visibles"
 es-ES_flavor: "Forjada en el Valle Solhuraño de penumbrita fundida en anti-llamas. Tan solo mirar la Corza Más Oscura puede extiguir la luz de tu alma."
@@ -24,9 +32,9 @@ cost: 3
 image: /images/TheDarkestCuirass.png
 durability: 3
 hero: priest
-ru-RU_name: "Тёмная кираса"
-ru-RU_description: "Когда вы получаете это, накладывает  <u>осквернение</u> (4) на всех врагов на поле"
-ru-RU_flavor: "Только взглянув на тёмную кирасу, можно погасить свет своей души."
+pl-PL_name: "Najciemniejszy Kirys"
+pl-PL_description: "Gdy uzyskasz to, corrupt (4) wszystkich widocznych przeciwników"
+pl-PL_flavor: "Wykuty w Bezsłonecznej Dolinie z penumbrytu stopionego w nega-ogniu. Nawet krótkie spojrzenie potrafi zgasić światło w twojej duszy."
 tile_id: TheDarkestCuirass
 cost: 3
 image: /images/TheDarkestCuirass.png

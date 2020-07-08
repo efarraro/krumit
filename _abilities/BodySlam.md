@@ -14,6 +14,13 @@ tile_id: BodySlam
 cost: 3
 image: /images/BodySlam.png
 hero: warrior
+ru-RU_name: "Удар корпусом"
+ru-RU_description: "Один раз за бой наносит урон врагу, равный вашему блоку. Уменьшает прочность всех экипированных предметов на 1."
+ru-RU_flavor: "'Я вижу мага, я *ХЛОП!*. Они всегда такие мягкие.' – любимый трактирный анекдот Бориса."
+tile_id: BodySlam
+cost: 3
+image: /images/BodySlam.png
+hero: warrior
 es-ES_name: "Embestir"
 es-ES_description: "Una vez por combate, haz daño al enemigo equivalente a tu 🛡️️ <u>bloqueo</u>. Reduce la durabilidad de todos tus ítems equipados en 1"
 es-ES_flavor: "'¡Veo un mago, y lo *APLASTO*! Siempre son muy blandos.' - La anécdota de taberna favorita de Boris"
@@ -21,9 +28,9 @@ tile_id: BodySlam
 cost: 3
 image: /images/BodySlam.png
 hero: warrior
-ru-RU_name: "Удар корпусом"
-ru-RU_description: "Один раз за бой наносит урон врагу, равный вашему блоку. Уменьшает прочность всех экипированных предметов на 1."
-ru-RU_flavor: "'Я вижу мага, я *ХЛОП!*. Они всегда такие мягкие.' – любимый трактирный анекдот Бориса."
+pl-PL_name: "Pancerny Łomot"
+pl-PL_description: "Raz na walkę, zadaj obrażenia przeciwnikowi równe wartości Bloku (🛡️️ <u>blok</u>). Obniż trwałość dobytych przedmiotów o 1"
+pl-PL_flavor: "'Jak widzę czarodzieja to zaraz spuszczam mu łomot! Są tacy mięciutcy.' - ulubiona anegdota Borysa."
 tile_id: BodySlam
 cost: 3
 image: /images/BodySlam.png

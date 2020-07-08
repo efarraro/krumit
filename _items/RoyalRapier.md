@@ -16,6 +16,14 @@ cost: 10
 image: /images/RoyalRapier.png
 durability: 3
 hero: rogue
+ru-RU_name: "Королевская рапира"
+ru-RU_description: "<u>пронзающий</u>. Когда вы убиваете врага с этим предметом, увеличивает вашу базовую 🔸 на 1 до конца подземелья"
+ru-RU_flavor: "«В меньшинстве? Тьфу! Каждый из вас, кого я убью, только сделает меня сильнее!» - последние знаменитые слова избранной принцессы Наоми."
+tile_id: RoyalRapier
+cost: 10
+image: /images/RoyalRapier.png
+durability: 3
+hero: rogue
 es-ES_name: "Estoque Regio"
 es-ES_description: "<u>penetrante</u>. Cuando derrotes a un enemigo con esta arma, incrementa tu 🔸 base en 1 por el resto de la mazmorra"
 es-ES_flavor: "'¿Superada en número? ¡Pah! ¡Me haré más fuerte por cada uno de ustedes que mate!' - Las famosas últimas palabras de la Princesa-Electa Naomi."
@@ -24,9 +32,9 @@ cost: 10
 image: /images/RoyalRapier.png
 durability: 3
 hero: rogue
-ru-RU_name: "Королевская рапира"
-ru-RU_description: "<u>пронзающий</u>. Когда вы убиваете врага с этим предметом, увеличивает вашу базовую 🔸 на 1 до конца подземелья"
-ru-RU_flavor: "«В меньшинстве? Тьфу! Каждый из вас, кого я убью, только сделает меня сильнее!» - последние знаменитые слова избранной принцессы Наоми."
+pl-PL_name: "Królewski Rapier"
+pl-PL_description: "<u>przenikający</u>. Gdy pokonasz przeciwnika tą bronią, zwiększ swój podstawowy 🔸 o 1 do końca lochu."
+pl-PL_flavor: "'Otoczony! Phi! Każdy z was, którego pokonam, wzmocni moją siłę!' - słynne ostatnie słowa Księżniczki-Elekta Naomi"
 tile_id: RoyalRapier
 cost: 10
 image: /images/RoyalRapier.png

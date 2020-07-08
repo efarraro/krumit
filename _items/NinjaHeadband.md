@@ -16,6 +16,14 @@ cost: 2
 image: /images/NinjaHeadband.png
 durability: 3
 hero: rogue
+ru-RU_name: "Повязка шиноби"
+ru-RU_description: "Когда вы  <u>парируете</u> атаку врага этим предметом, получаете <u>скрытность</u>"
+ru-RU_flavor: "Повязка ниндзи - знак истинного теневого мастерства. Также удерживает волосы подальше от глаз. "
+tile_id: NinjaHeadband
+cost: 2
+image: /images/NinjaHeadband.png
+durability: 3
+hero: rogue
 es-ES_name: "Cinta de Shinobi"
 es-ES_description: "Al  <u>desviar</u> un ataque con este ítem, gana <u>sigilo</u>"
 es-ES_flavor: "Las cintas ninja son un símbolo de las verdaderas habilidades sombrías. Y también ayudan a mantenerte el pelo fuera de los ojos."
@@ -24,9 +32,9 @@ cost: 2
 image: /images/NinjaHeadband.png
 durability: 3
 hero: rogue
-ru-RU_name: "Повязка шиноби"
-ru-RU_description: "Когда вы  <u>парируете</u> атаку врага этим предметом, получаете <u>скрытность</u>"
-ru-RU_flavor: "Повязка ниндзи - знак истинного теневого мастерства. Также удерживает волосы подальше от глаз. "
+pl-PL_name: "Opaska Ninja"
+pl-PL_description: "Gdy odparujesz ( <u>Odparowanie</u>) atak przeciwnika tym przedmiotem, ukryj się (<u>ukrywanie się</u>)."
+pl-PL_flavor: "Opaski ninja pomagają w skrytobójstwach, bo włosy nie zachodzą im do oczu."
 tile_id: NinjaHeadband
 cost: 2
 image: /images/NinjaHeadband.png

@@ -8,12 +8,16 @@ zh-CN_name: "仓鼠"
 zh-CN_description: "物品栏中有4件物品时，基础攻击+1"
 tile_id: PackRat
 image: /images/PackRat.png
+ru-RU_name: "Барахольщик"
+ru-RU_description: "Ваша базовая 🔸 увеличена на 1, пока у вас 4 карточки в снаряжении"
+tile_id: PackRat
+image: /images/PackRat.png
 es-ES_name: "Cachivachero"
 es-ES_description: "Tu 🔸 base se incrementa en 1 mientras tengas 4 fichas en tu inventario"
 tile_id: PackRat
 image: /images/PackRat.png
-ru-RU_name: "Барахольщик"
-ru-RU_description: "Ваша базовая 🔸 увеличена на 1, пока у вас 4 карточки в снаряжении"
+pl-PL_name: "Ciułacz"
+pl-PL_description: "+1 🔸 gdy posiadasz 4 płytki w ekwipunku."
 tile_id: PackRat
 image: /images/PackRat.png
 ---

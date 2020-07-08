@@ -14,6 +14,13 @@ tile_id: LightningStorm
 cost: 4
 image: /images/LightningStorm.png
 hero: mage
+ru-RU_name: "Грозовая буря"
+ru-RU_description: "Наносит 4 <u>пронзающий</u> урона всем врагам на поле.  <u>Сжигается</u>"
+ru-RU_flavor: "Эта буря точно не содержится в стакане воды."
+tile_id: LightningStorm
+cost: 4
+image: /images/LightningStorm.png
+hero: mage
 es-ES_name: "Tormenta Eléctrica"
 es-ES_description: "Haz 4 de daño <u>penetrante</u> a todos los enemigos en el tablero. <u>Agota</u>"
 es-ES_flavor: "Esta tormenta definitivemente no está contenida en una tacita de té."
@@ -21,9 +28,9 @@ tile_id: LightningStorm
 cost: 4
 image: /images/LightningStorm.png
 hero: mage
-ru-RU_name: "Грозовая буря"
-ru-RU_description: "Наносит 4 <u>пронзающий</u> урона всем врагам на поле.  <u>Сжигается</u>"
-ru-RU_flavor: "Эта буря точно не содержится в стакане воды."
+pl-PL_name: "Burza z Piorunami"
+pl-PL_description: "Zadaj 4 przenikliwych (<u>przenikający</u>) obrażeń wszystkim przeciwnikom na planszy. <u>Wyczerpany</u>"
+pl-PL_flavor: "Z dużej chmury dużo piorunów."
 tile_id: LightningStorm
 cost: 4
 image: /images/LightningStorm.png

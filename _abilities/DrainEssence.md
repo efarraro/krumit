@@ -14,6 +14,13 @@ tile_id: DrainEssence
 cost: 2
 image: /images/DrainEssence.png
 hero: necromancer
+ru-RU_name: "Поглощение сущности"
+ru-RU_description: "В бою уменьшает урон вражеской 🔸 до 0 и восстанавливает 4 ❤️. Перезаряжается после убийства 3 врагов"
+ru-RU_flavor: "Только самые мудрые манавампиры раскрывают секрет того, как манипулировать чьей-то сущностью. Однажды попробовав, жажда никогда не будет полностью удовлетворена."
+tile_id: DrainEssence
+cost: 2
+image: /images/DrainEssence.png
+hero: necromancer
 es-ES_name: "Drenar Esencia"
 es-ES_description: "En combate, reduce el daño del 🔸 enemigo a 0 y recupera 4 ❤️. Derrota 3 enemigos para recargar"
 es-ES_flavor: "Solo los Manavampiros más ancianos desvelan el sercreto de cómo manipular la esencia de una persona. Una vez probada, el ansia nunca podrá ser satisfecha."
@@ -21,9 +28,9 @@ tile_id: DrainEssence
 cost: 2
 image: /images/DrainEssence.png
 hero: necromancer
-ru-RU_name: "Поглощение сущности"
-ru-RU_description: "В бою уменьшает урон вражеской 🔸 до 0 и восстанавливает 4 ❤️. Перезаряжается после убийства 3 врагов"
-ru-RU_flavor: "Только самые мудрые манавампиры раскрывают секрет того, как манипулировать чьей-то сущностью. Однажды попробовав, жажда никогда не будет полностью удовлетворена."
+pl-PL_name: "Wyciąg z Istoty"
+pl-PL_description: "W walce, obniż 🔸 przeciwnika do 0 i odnów 4 ❤️. Pokonaj 3 wrogów aby naładować."
+pl-PL_flavor: "Tylko najstarsi Manożercy znają sekret manipulowania esencji życiowej. Raz posmakowana, żądza nigdy nie może być zaspokojona."
 tile_id: DrainEssence
 cost: 2
 image: /images/DrainEssence.png

@@ -13,7 +13,7 @@ Bruno trudged through the fetid marshes of the Slithering Swamps, muttering to h
 
 > Of a giant serpent, yes, that’ll do -- 
 
-Bruno stopped muttering. The ground beneath him was slithering. It shouldn’t have been doing that. A few mentres away, there was shiny green hill that hadn’t been there for a minute ago - and where was such a loud hissing coming from? 
+Bruno stopped muttering. The ground beneath him was slithering. It shouldn’t have been doing that. A few metres away, there was a shiny green hill that hadn’t been there for a minute ago - and where was such a loud hissing coming from? 
 
 > If I wasn’t mistaken, I’d say I’d chanced upon the Great Slitherer! Of course - such a thing is only an invention of bards and storytellers such as I…
 
@@ -22,7 +22,9 @@ Bruno decided to begin running, fast, in the direction of the Screaming Hills an
 And then regurgitated him, finding the pointy bits on his helmet and the coarseness of his bushy beard highly irritating to its throat. Bruno was expelled from the serpent’s maw with force enough to send him hurtling into the small cave he’d so nearly - and wisely! - considered cowering in. There Bruno sat, snake saliva running down his face, and there he composed the first of his now-legendary epic Adventure Haiku compendiums: 
 
 > The Great Slitherer! 
+
 > I saw its heart of darkness
+
 > But emerged a-new! 
 
 Bruno wiped a few drops of snake juice into a stoppered bottle for proof, and considered the next destination on his journey. 

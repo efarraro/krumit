@@ -11,8 +11,13 @@ zh-CN_flavor: "一位强大的女萨满兼光辉科技公司首席电子巫师�
 tile_id: Itchitah
 image: /images/Itchitah.png
 ru-RU_name: "Ичита"
-ru-RU_description: "В начале подземелья замешивает <a href = '../ru_ru/abilities#PerfectStorm'>Идеальный шторм</a> в колоду подземелья."
+ru-RU_description: "В начале подземелья замешивает <a href = '../ru_ru/abilities#PerfectStorm'>Идеальный шторм</a> в колоду."
 ru-RU_flavor: "Мощная шаманка и главный электромант в Глоутеке. Изобретатель первого автомата. Никто не знает, что она держит в своей маленькой коробке."
+tile_id: Itchitah
+image: /images/Itchitah.png
+jp-JP_name: "イッチーター"
+jp-JP_description: "ダンジョン開始時に<a href = '../jp_jp/abilities#PerfectStorm'>パーフェクトストーム</a>をデッキにシャッフルする"
+jp-JP_flavor: "強力なシャーマンであり、グローテックのチーフエレクトロマンサー。最初のオートマトンの発明者。彼女の小さな箱の中に何が入っているのかは誰も知らない。"
 tile_id: Itchitah
 image: /images/Itchitah.png
 es-ES_name: "Itchitah"

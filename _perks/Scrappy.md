@@ -9,7 +9,11 @@ zh-CN_description: "弃牌时额外回复2点生命值。最大生命值-4"
 tile_id: Scrappy
 image: /images/Scrappy.png
 ru-RU_name: "Толстяк"
-ru-RU_description: "Восстанавливает 2 дополнительных ❤️, когда вы сбрасываете карточку. Максимальное ❤️ снижено на 4"
+ru-RU_description: "Восстанавливает 2 дополнительных ❤️, когда вы сбрасываете карточку. Максимальное ❤️ снижено на 4."
+tile_id: Scrappy
+image: /images/Scrappy.png
+jp-JP_name: "残り物"
+jp-JP_description: "タイルを捨てた時に追加で2❤️を回復する。最大❤️が4減少"
 tile_id: Scrappy
 image: /images/Scrappy.png
 es-ES_name: "Aguerrido"

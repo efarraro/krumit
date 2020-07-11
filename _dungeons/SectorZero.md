@@ -69,7 +69,7 @@ monsters:
     quantity: 1
     url: /monsters/TheExile
 ru-RU_name: "Сектор Ноль"
-ru-RU_description: "Сектор Ноль. Место, где начался новый мировой порядок. Сейчас это не что иное, как свалка токсичных отходов с громким названием"
+ru-RU_description: "Сектор Ноль. Место, где начался новый мировой порядок. Сейчас это не что иное, как свалка токсичных отходов с громким названием."
 tier: 7
 monsters:
   - monster:
@@ -99,6 +99,40 @@ monsters:
     url: /monsters/TrashGolem
   - monster:
     name: "Изгнанник"
+    image: /images/TheExile.png
+    quantity: 1
+    url: /monsters/TheExile
+jp-JP_name: "セクターゼロ"
+jp-JP_description: "セクターゼロ。新世界秩序が始まった場所。今は見る影もなく、キャッチーな名前の有毒ヘドロの溜まり場になっている。"
+tier: 7
+monsters:
+  - monster:
+    name: "グロバー"
+    image: /images/Slime.png
+    quantity: 4
+    url: /monsters/Slime
+  - monster:
+    name: "ハナタレウルフ"
+    image: /images/Nukadog.png
+    quantity: 4
+    url: /monsters/Nukadog
+  - monster:
+    name: "ヌカバイキング"
+    image: /images/Viking.png
+    quantity: 4
+    url: /monsters/Viking
+  - monster:
+    name: "ミュータントバイカー"
+    image: /images/Biker.png
+    quantity: 3
+    url: /monsters/Biker
+  - monster:
+    name: "ゴミゴーレム"
+    image: /images/TrashGolem.png
+    quantity: 2
+    url: /monsters/TrashGolem
+  - monster:
+    name: "エグザイル"
     image: /images/TheExile.png
     quantity: 1
     url: /monsters/TheExile

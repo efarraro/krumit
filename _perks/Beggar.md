@@ -9,7 +9,11 @@ zh-CN_description: "物品栏中没有物品时，基础攻击+1"
 tile_id: Beggar
 image: /images/Beggar.png
 ru-RU_name: "Нищий"
-ru-RU_description: "Базовая 🔸 увеличена на 1, пока в снаряжении ни одной карточки"
+ru-RU_description: "Ваша базовая 🔸 увеличена на 1, пока в вашем снаряжении нет ни одной карточки."
+tile_id: Beggar
+image: /images/Beggar.png
+jp-JP_name: "物乞い"
+jp-JP_description: "インベントリにタイルが一枚もない場合、基礎🔸が1増加する"
 tile_id: Beggar
 image: /images/Beggar.png
 es-ES_name: "Mendigo"

@@ -11,8 +11,13 @@ zh-CN_flavor: "风行者是速度最快也是嘴巴最臭的一种哈比。根�
 tile_id: WindRunner
 image: /images/WindRunner.png
 ru-RU_name: "Бегущая по ветру"
-ru-RU_description: "Этот враг летает! Вы не можете экипировать оружие, пока этот враг не начнёт атаковать"
+ru-RU_description: "Этот враг летает! Вы не можете экипировать оружие, пока этот враг не начнёт атаковать."
 ru-RU_flavor: "Бегущие по ветру - самые быстрые и вульгарные из гарпий. Выжившие рассказывают о кровоточащих потоках нецензурной брани, которые предвещают набег Бегущих по ветру."
+tile_id: WindRunner
+image: /images/WindRunner.png
+jp-JP_name: "ウィンドランナー"
+jp-JP_description: "空を飛ぶ敵だ！この敵の攻撃が終わるまで武器を装備することができない"
+jp-JP_flavor: "ウィンドランナーは最も素早く口の悪いハーピーである。生存者はウインドランナー襲撃の前兆となる、血が煮えくり返るほどの罵声を浴びたと言う。"
 tile_id: WindRunner
 image: /images/WindRunner.png
 es-ES_name: "Correvientos"

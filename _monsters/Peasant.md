@@ -11,8 +11,13 @@ zh-CN_flavor: "安那其主义者。"
 tile_id: Peasant
 image: /images/Peasant.png
 ru-RU_name: "Крестянин"
-ru-RU_description: "У этого врага нет никаких особых способностей или эффектов"
+ru-RU_description: "У этого врага нет никаких особых способностей или эффектов."
 ru-RU_flavor: "Часть анархо-синдикалистского коллектива."
+tile_id: Peasant
+image: /images/Peasant.png
+jp-JP_name: "田舎者"
+jp-JP_description: "この敵は特殊能力や効果を持たない"
+jp-JP_flavor: "アナーコ・シンジカリスト集団の団員。"
 tile_id: Peasant
 image: /images/Peasant.png
 es-ES_name: "Campesina"

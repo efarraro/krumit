@@ -87,6 +87,35 @@ monsters:
     image: /images/Itchitah.png
     quantity: 1
     url: /monsters/Itchitah
+jp-JP_name: "グローテック年次研修"
+jp-JP_description: "グローテックの年に一度の研修では、グローワイン、チームビルディング研修、世界照射のワークショップ、愛社精神の涵養、ブレンドンのひどいカラオケ大会などが行われます。"
+tier: 5
+monsters:
+  - monster:
+    name: "タウンガード"
+    image: /images/RoyalGuard.png
+    quantity: 4
+    url: /monsters/RoyalGuard
+  - monster:
+    name: "ゴミゴーレム"
+    image: /images/TrashGolem.png
+    quantity: 2
+    url: /monsters/TrashGolem
+  - monster:
+    name: "ヌクロマンサー"
+    image: /images/Automaton.png
+    quantity: 6
+    url: /monsters/Automaton
+  - monster:
+    name: "ヌクロマンサー v2.0"
+    image: /images/AutomatonV2.png
+    quantity: 6
+    url: /monsters/AutomatonV2
+  - monster:
+    name: "イッチーター"
+    image: /images/Itchitah.png
+    quantity: 1
+    url: /monsters/Itchitah
 es-ES_name: "Retiro Vacacional GlowTech"
 es-ES_description: "En el retiro de vacaciones anual de GlowTech puedes encontrar vinos de marca, ejercicios de camaradería, talleres de radiación mundial, juramentos obligatorios de lealtad, y el atroz karaoke de Brandon."
 tier: 5

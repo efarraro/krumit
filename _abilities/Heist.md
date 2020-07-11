@@ -7,6 +7,20 @@ tile_id: Heist
 cost: 1
 image: /images/Heist.png
 hero: rogue
+EN_name: "Heist"
+EN_description: "If the 'Next' tile is an item or ability, put it into your inventory without paying the cost. <u>Exhaust</u>"
+EN_flavor: "'You know a heist has gone smoothly when they don't even know something's missing.' - Mischief"
+tile_id: Heist
+cost: 1
+image: /images/Heist.png
+hero: rogue
+zh-CN_name: "劫掠"
+zh-CN_description: "下一张卡牌是物品或者能力时，将其直接放到你的物品栏中。击败3名敌人来为这张卡牌充能。"
+zh-CN_flavor: "“劫掠具体有多顺利？这些人连丢了什么都不知道！”——捣蛋鬼"
+tile_id: Heist
+cost: 1
+image: /images/Heist.png
+hero: rogue
 zh-CN_name: "劫掠"
 zh-CN_description: "下一张卡牌是物品或者能力时，将其直接放到你的物品栏中。击败3名敌人来为这张卡牌充能。"
 zh-CN_flavor: "“劫掠具体有多顺利？这些人连丢了什么都不知道！”——捣蛋鬼"
@@ -15,8 +29,29 @@ cost: 1
 image: /images/Heist.png
 hero: rogue
 ru-RU_name: "Ограбление"
-ru-RU_description: "Если верхняя карта в колоде подземелья - это предмет или способность, добавляет его в ваше снаряжение бесплатно. <u>Сжигается</u>"
-ru-RU_flavor: "'Вы понимаете, что ограбление прошло гладко, когда они даже не знают, чего именно не хватает' - Озорница"
+ru-RU_description: "Если верхняя карта в колоде - это предмет или способность, добавляет его в снаряжение бесплатно. <u>Сжигается</u>."
+ru-RU_flavor: "«Вы понимаете, что ограбление прошло гладко, когда они даже не знают, чего именно не хватает» - Озорница."
+tile_id: Heist
+cost: 1
+image: /images/Heist.png
+hero: rogue
+ru-RU_name: "Ограбление"
+ru-RU_description: "Если верхняя карта в колоде - это предмет или способность, добавляет его в снаряжение бесплатно. <u>Сжигается</u>."
+ru-RU_flavor: "«Вы понимаете, что ограбление прошло гладко, когда они даже не знают, чего именно не хватает» - Озорница."
+tile_id: Heist
+cost: 1
+image: /images/Heist.png
+hero: rogue
+jp-JP_name: "強盗"
+jp-JP_description: "次のタイルがアイテムやアビリティの場合、コストを払わずにインベントリに入れる。<u>消耗</u>"
+jp-JP_flavor: "「何かが無くなっていることに気付かない時は盗みがうまく行っているということなのさ。」 - ミスチーフ"
+tile_id: Heist
+cost: 1
+image: /images/Heist.png
+hero: rogue
+jp-JP_name: "強盗"
+jp-JP_description: "次のタイルがアイテムやアビリティの場合、コストを払わずにインベントリに入れる。<u>消耗</u>"
+jp-JP_flavor: "「何かが無くなっていることに気付かない時は盗みがうまく行っているということなのさ。」 - ミスチーフ"
 tile_id: Heist
 cost: 1
 image: /images/Heist.png
@@ -24,6 +59,20 @@ hero: rogue
 es-ES_name: "Atraco"
 es-ES_description: "Si la 'Siguiente' ficha es un ítem o habilidad, ponla en tu inventario sin pagar su costo. <u>Agota</u>"
 es-ES_flavor: "'Sabes que un atraco ha salido bien cuando ni siquiera se dan cuenta de que falta algo.' - Travesuras"
+tile_id: Heist
+cost: 1
+image: /images/Heist.png
+hero: rogue
+es-ES_name: "Atraco"
+es-ES_description: "Si la 'Siguiente' ficha es un ítem o habilidad, ponla en tu inventario sin pagar su costo. <u>Agota</u>"
+es-ES_flavor: "'Sabes que un atraco ha salido bien cuando ni siquiera se dan cuenta de que falta algo.' - Travesuras"
+tile_id: Heist
+cost: 1
+image: /images/Heist.png
+hero: rogue
+pl-PL_name: "Napad"
+pl-PL_description: "Jeżeli następna płytka jest przedmiotem lub umiejętnością, dodaj ją do ekwipunku bez opłacenia jej kosztu. <u>Wyczerpany</u>"
+pl-PL_flavor: "'Jak wszystko pójdzie gładko i zgodnie z planem, to nawet nie zauważą, że czegoś brakuje.' - Psota"
 tile_id: Heist
 cost: 1
 image: /images/Heist.png

@@ -11,8 +11,13 @@ zh-CN_flavor: "就连怪物有时也会需要精神治疗。"
 tile_id: Cleric
 image: /images/Cleric.png
 ru-RU_name: "Друид"
-ru-RU_description: "Когда добавляется на поле, этот враг даёт случайному врагу в том же столбце 3 брони"
+ru-RU_description: "Когда этот враг добавляется на поле, даёт случайному врагу в том же столбце 3 брони."
 ru-RU_flavor: "Даже монстрам иногда необходимо лечение."
+tile_id: Cleric
+image: /images/Cleric.png
+jp-JP_name: "ドルイド"
+jp-JP_description: "ダンジョンに追加された時、この敵は同じ列のランダムな敵1体に防具+3のバフをかける"
+jp-JP_flavor: "モンスターもたまにはスピリチュアルな癒しが必要だね。"
 tile_id: Cleric
 image: /images/Cleric.png
 es-ES_name: "Druida"

@@ -39,7 +39,7 @@ monsters:
     quantity: 4
     url: /monsters/Slime
 ru-RU_name: "Глубины погибели"
-ru-RU_description: "«Я, могущий Бруно, не боюсь ни одного человека, ни указателя. Однако, зачем рисковать, ты понимаешь?» - Бруно"
+ru-RU_description: "«Я, могущий Бруно, не боюсь ни одного человека, ни указателя. Однако зачем рисковать, ты понимаешь?» - Бруно"
 tier: 3
 monsters:
   - monster:
@@ -54,6 +54,25 @@ monsters:
     url: /monsters/Cleric
   - monster:
     name: "Глоббер"
+    image: /images/Slime.png
+    quantity: 4
+    url: /monsters/Slime
+jp-JP_name: "ドゥームの深淵"
+jp-JP_description: "「俺は、人も道しるべもないこの場所が恐ろしい。それでも、なぜあえて危険を冒すのか、わかるか？」 - ブルーノ"
+tier: 3
+monsters:
+  - monster:
+    name: "クールティスト"
+    image: /images/Cooltist.png
+    quantity: 5
+    url: /monsters/Cooltist
+  - monster:
+    name: "ドルイド"
+    image: /images/Cleric.png
+    quantity: 3
+    url: /monsters/Cleric
+  - monster:
+    name: "グロバー"
     image: /images/Slime.png
     quantity: 4
     url: /monsters/Slime

@@ -13,7 +13,12 @@ tile_id: Knave
 image: /images/Knave.png
 ru-RU_name: "Бандит пустоши"
 ru-RU_description: "Накладывает <u>Рана</u> на уязвимых врагов, чтобы ослабить их, прежде чем нанести смертельный  <u>яд</u>!"
-ru-RU_flavor: "你不能把“暴徒”看成是“抱徒”，因为你不觉得他们会喜欢拥抱。"
+ru-RU_flavor: "Пустые в происхождении и в головах."
+tile_id: Knave
+image: /images/Knave.png
+jp-JP_name: "荒地のチンピラ"
+jp-JP_description: "隙のある敵を<u>負傷</u>させて弱体化してから、猛 <u>毒</u>で攻撃してくるぞ！"
+jp-JP_flavor: "「チン」なしでは「チンピラ」とは書けない。でも奴らこういうの嫌いだと思ってるでしょ。"
 tile_id: Knave
 image: /images/Knave.png
 es-ES_name: "Gamberro del Páramo"

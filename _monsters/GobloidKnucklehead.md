@@ -11,8 +11,13 @@ zh-CN_flavor: "最具攻击性的哥布森非铁桶头莫属。绝不能忽视�
 tile_id: GobloidKnucklehead
 image: /images/GobloidKnucklehead.png
 ru-RU_name: "Каскоголовый"
-ru-RU_description: "Когда этот противник повержен, кладёт копию <a href = '../ru_ru/abilities#Stupidity'>Глупасть</a> в ваше снаряжение."
+ru-RU_description: "Когда этот враг умирает, добавляет копию <a href = '../ru_ru/abilities#Stupidity'>Глупасть</a> в снаряжение."
 ru-RU_flavor: "Самые агрессивные из Гоблоидов известные как тупоголовые. Они - сила, с которой приходится считаться - определенно не договариваться."
+tile_id: GobloidKnucklehead
+image: /images/GobloidKnucklehead.png
+jp-JP_name: "バケツヘッド"
+jp-JP_description: "この敵を倒すと、インベントリに<a href = '../jp_jp/abilities#Stupidity'>マヌケ</a>が追加される"
+jp-JP_flavor: "この石頭のゴブロイドは最も攻撃的で知られており、侮れない力を持っている。"
 tile_id: GobloidKnucklehead
 image: /images/GobloidKnucklehead.png
 es-ES_name: "Cabeza de Balde"

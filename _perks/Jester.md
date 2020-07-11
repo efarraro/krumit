@@ -12,6 +12,10 @@ ru-RU_name: "Шут"
 ru-RU_description: "Всякий раз, когда вы сбрасываете карточку, задаёт случайную стоимость всем видимым карточкам (от 0 до 5 💰)"
 tile_id: Jester
 image: /images/Jester.png
+jp-JP_name: "道化師"
+jp-JP_description: "タイルを捨てるたびに、見えている全てのタイルのコストをランダム化（0から5💰）する"
+tile_id: Jester
+image: /images/Jester.png
 es-ES_name: "Bufón"
 es-ES_description: "Cuando descartes una ficha, aleatoriza los costos de todas las fichas visibles (de 0 a 5 💰)"
 tile_id: Jester

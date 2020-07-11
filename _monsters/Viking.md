@@ -11,8 +11,13 @@ zh-CN_flavor: "他脸上发光的胡须起着过滤辐射的作用。他完全�
 tile_id: Viking
 image: /images/Viking.png
 ru-RU_name: "Нюк-Викинг"
-ru-RU_description: "Нельзя экипировать броню против этого врага"
+ru-RU_description: "Нельзя экипировать броню против этого врага."
 ru-RU_flavor: "Его светящаяся борода действует как радиационный фильтр. Он не возражает против полураспада - это значит быстрее добраться до Валгаллы."
+tile_id: Viking
+image: /images/Viking.png
+jp-JP_name: "ヌカバイキング"
+jp-JP_description: "この敵と戦うときは防具を装備できない"
+jp-JP_flavor: "光るヒゲは放射線フィルターの役割を果たしている。半減期があっても気にしない - ヴァルハラに一刻も早く着くために。"
 tile_id: Viking
 image: /images/Viking.png
 es-ES_name: "Vikingo Atómico"

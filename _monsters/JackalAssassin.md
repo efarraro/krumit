@@ -12,7 +12,12 @@ tile_id: JackalAssassin
 image: /images/JackalAssassin.png
 ru-RU_name: "Ассасин"
 ru-RU_description: "Этот враг начинает со скрытностью, мешая вам нацелиться на него, пока вы не атакуете его в сражении"
-ru-RU_flavor: "Убийцы Шакала особенно скрытны и агрессивные. Никогда не показывай свою спину одному. На самом деле, не показывай им ничего."
+ru-RU_flavor: "Шакалы-убийцы особенно скрытны и агрессивны. Никогда не поворачивайся к ним спиной."
+tile_id: JackalAssassin
+image: /images/JackalAssassin.png
+jp-JP_name: "アサシン"
+jp-JP_description: "この敵は最初ステルス状態で、戦闘で攻撃するまでターゲットにできない"
+jp-JP_flavor: "ジャッカルの暗殺者は特にステルス性が高く、刺されやすい。決して背中を見せるな。いや、奴らに何も見せるんじゃない。"
 tile_id: JackalAssassin
 image: /images/JackalAssassin.png
 es-ES_name: "Asesino Chacal"

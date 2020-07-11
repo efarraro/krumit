@@ -9,7 +9,11 @@ zh-CN_description: "每次逃离战斗都会获得2点🛡️️ <u>格挡</u>"
 tile_id: ScaredyCat
 image: /images/ScaredyCat.png
 ru-RU_name: "Испуганная кошка"
-ru-RU_description: "Всякий раз, когда вы спасаетесь бегством, даёт 2 🛡️️ <u>блока</u>"
+ru-RU_description: "Когда вы сбегаете с боя, даёт 2 🛡️️ <u>блока</u>."
+tile_id: ScaredyCat
+image: /images/ScaredyCat.png
+jp-JP_name: "臆病者"
+jp-JP_description: "戦闘から逃げるたびに、2🛡️️ <u>ブロック</u>を獲得する"
 tile_id: ScaredyCat
 image: /images/ScaredyCat.png
 es-ES_name: "Gatito Asustado"

@@ -59,7 +59,7 @@ monsters:
     quantity: 1
     url: /monsters/Dragon
 ru-RU_name: "Пещеры магмы"
-ru-RU_description: "'Пещеры магмы - это владения дракорна Бартоломью. В последний раз, когда я там побывал, моя борода была опалена и воняла целую неделю' - Серобородый"
+ru-RU_description: "«Пещеры магмы - это владения дракорна Бартоломью. В последний раз, когда я там побывал, моя борода была опалена и воняла целую неделю» - Серобородый"
 tier: 7
 monsters:
   - monster:
@@ -84,6 +84,35 @@ monsters:
     url: /monsters/TrashGolem
   - monster:
     name: "Бартоломью"
+    image: /images/Dragon.png
+    quantity: 1
+    url: /monsters/Dragon
+jp-JP_name: "マグマベント洞窟"
+jp-JP_description: "「マグマ洞窟は、ドラゴーン家のバーソロミューの領地じゃ。この前行った時は髭が焼けて一週間臭かったわい」 - グレイベアード"
+tier: 7
+monsters:
+  - monster:
+    name: "古代のスケルトン"
+    image: /images/AncientSkeleton.png
+    quantity: 6
+    url: /monsters/AncientSkeleton
+  - monster:
+    name: "ウィンドランナー"
+    image: /images/WindRunner.png
+    quantity: 6
+    url: /monsters/WindRunner
+  - monster:
+    name: "パンク"
+    image: /images/Harpy.png
+    quantity: 8
+    url: /monsters/Harpy
+  - monster:
+    name: "ゴミゴーレム"
+    image: /images/TrashGolem.png
+    quantity: 4
+    url: /monsters/TrashGolem
+  - monster:
+    name: "バルトロマイ"
     image: /images/Dragon.png
     quantity: 1
     url: /monsters/Dragon

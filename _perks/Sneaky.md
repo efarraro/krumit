@@ -9,7 +9,11 @@ zh-CN_description: "每场战斗的第一次攻击造成伤害+1"
 tile_id: Sneaky
 image: /images/Sneaky.png
 ru-RU_name: "Коварный"
-ru-RU_description: "Ваша первая атака в каждом бою имеет +1 🔸"
+ru-RU_description: "Ваша первая атака в каждом бою имеет +1 🔸."
+tile_id: Sneaky
+image: /images/Sneaky.png
+jp-JP_name: "コソコソ"
+jp-JP_description: "各戦闘にて自分の最初の攻撃が🔸+1"
 tile_id: Sneaky
 image: /images/Sneaky.png
 es-ES_name: "Escurridizo"

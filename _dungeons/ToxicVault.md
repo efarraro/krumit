@@ -59,7 +59,7 @@ monsters:
     quantity: 1
     url: /monsters/Swampalina
 ru-RU_name: "Токсичное убежище Свампалины"
-ru-RU_description: "Нет никакого лекарства от Свампалины и ее мерзкого варева, но это можно предотвратить. Сбежать то есть."
+ru-RU_description: "Нет никакого лекарства от Свампалины и её мерзкого варева, но это можно предотвратить. Сбежать то есть."
 tier: 7
 monsters:
   - monster:
@@ -84,6 +84,35 @@ monsters:
     url: /monsters/JackalAssassin
   - monster:
     name: "Свампалина"
+    image: /images/Swampalina.png
+    quantity: 1
+    url: /monsters/Swampalina
+jp-JP_name: "ヌマリーナの毒貯蔵庫"
+jp-JP_description: "ヌマリーナとその気味悪い調合物に対する治療法はないが、防ぐことはできる。逃げることだ。"
+tier: 7
+monsters:
+  - monster:
+    name: "グロバー"
+    image: /images/Slime.png
+    quantity: 6
+    url: /monsters/Slime
+  - monster:
+    name: "トリックスター"
+    image: /images/Trickster.png
+    quantity: 5
+    url: /monsters/Trickster
+  - monster:
+    name: "ゴミゴーレム"
+    image: /images/TrashGolem.png
+    quantity: 3
+    url: /monsters/TrashGolem
+  - monster:
+    name: "アサシン"
+    image: /images/JackalAssassin.png
+    quantity: 3
+    url: /monsters/JackalAssassin
+  - monster:
+    name: "ヌマリーナ"
     image: /images/Swampalina.png
     quantity: 1
     url: /monsters/Swampalina

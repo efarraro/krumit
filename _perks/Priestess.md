@@ -9,7 +9,11 @@ zh-CN_description: "<u>过量治疗</u>：将场上最多3个<u>诅咒</u>转化
 tile_id: Priestess
 image: /images/Priestess.png
 ru-RU_name: "Избранный"
-ru-RU_description: "<u>Сверхлечение</u>: превращает до 3 <u>проклятия</u> на поле в <u>благословения</u>"
+ru-RU_description: "<u>Сверхлечение</u>: превращает 3 <u>проклятия</u> на поле в <u>благословения</u>."
+tile_id: Priestess
+image: /images/Priestess.png
+jp-JP_name: "選ばれし者"
+jp-JP_description: "<u>オーバーヒール</u>：盤上の最大3枚の<u>呪い</u>を<u>祝福</u>に変換する"
 tile_id: Priestess
 image: /images/Priestess.png
 es-ES_name: "Elegida"

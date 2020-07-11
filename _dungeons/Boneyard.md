@@ -57,6 +57,25 @@ monsters:
     image: /images/SkeletonKing.png
     quantity: 1
     url: /monsters/SkeletonKing
+jp-JP_name: "ボーンヤード"
+jp-JP_description: "カラカスは陰気ただようボーンヤードの世話をしている。骨の欠片が揃えば、新しいスケルトンを育て、彼の蒼白な王国に加えるのだ。"
+tier: 2
+monsters:
+  - monster:
+    name: "古代のスケルトン"
+    image: /images/AncientSkeleton.png
+    quantity: 3
+    url: /monsters/AncientSkeleton
+  - monster:
+    name: "スケルトン"
+    image: /images/Skeleton.png
+    quantity: 6
+    url: /monsters/Skeleton
+  - monster:
+    name: "カラカス"
+    image: /images/SkeletonKing.png
+    quantity: 1
+    url: /monsters/SkeletonKing
 es-ES_name: "El Osario"
 es-ES_description: "Calacas cuida su Osario como un jardín mórbido. Con las partes correctas, puede cultivar un nuevo esqueleto para añadir a su pálido reino."
 tier: 2

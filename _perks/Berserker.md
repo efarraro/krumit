@@ -9,7 +9,11 @@ zh-CN_description: "同时使用2把武器进行攻击时，总攻击力+3"
 tile_id: Berserker
 image: /images/Berserker.png
 ru-RU_name: "Берсерк"
-ru-RU_description: "Когда вы атакуете двумя оружиями, увеличивает вашу 🔸 на 3"
+ru-RU_description: "Когда вы атакуете двумя оружиями, увеличивает вашу 🔸 на 3."
+tile_id: Berserker
+image: /images/Berserker.png
+jp-JP_name: "バーサーカー"
+jp-JP_description: "武器を2つ装備して攻撃するたびに、総🔸が+3"
 tile_id: Berserker
 image: /images/Berserker.png
 es-ES_name: "Berserker"

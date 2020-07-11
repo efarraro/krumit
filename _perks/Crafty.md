@@ -9,7 +9,11 @@ zh-CN_description: "对<u>晕眩</u>的敌人额外造成1点伤害"
 tile_id: Crafty
 image: /images/Crafty.png
 ru-RU_name: "Драчун"
-ru-RU_description: "Ваша 🔸 увеличена на 1, пока вы атакуете <u>оглушенного</u> врага"
+ru-RU_description: "Ваша 🔸 увеличена на 1, пока вы атакуете <u>оглушенного</u> врага."
+tile_id: Crafty
+image: /images/Crafty.png
+jp-JP_name: "暴れん坊"
+jp-JP_description: "<u>気絶</u>した敵に対して🔸が1増加する"
 tile_id: Crafty
 image: /images/Crafty.png
 es-ES_name: "Pugilista"

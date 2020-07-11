@@ -11,8 +11,13 @@ zh-CN_flavor: "白骨大军的统治者！卡拉卡斯一直在与幽王争夺�
 tile_id: SkeletonKing
 image: /images/SkeletonKing.png
 ru-RU_name: "Калакас"
-ru-RU_description: "Калакас получает 1 броню, когда вы убиваете другого врага в этом подземельи"
-ru-RU_flavor: "Беспокойный правитель бестелесных! Калакас соревнуется с Призрачным королем, чтобы стать правителем каждой новой потерянной души."
+ru-RU_description: "Калакас получает 1 броню, когда вы убиваете другого врага в этом подземелье."
+ru-RU_flavor: "Беспокойный правитель бестелесных! Калакас соревнуется с Призрачным королём, чтобы стать правителем каждой новой потерянной души."
+tile_id: SkeletonKing
+image: /images/SkeletonKing.png
+jp-JP_name: "カラカス"
+jp-JP_description: "カラカスは、このダンジョンでプレイヤーが他の敵を倒すたびに防具を1獲得する"
+jp-JP_flavor: "肉体のない者たちの眠らぬ支配者カラカス！彼は新たな魂の支配者の座をかけてゴーストキングとしのぎを削っている。"
 tile_id: SkeletonKing
 image: /images/SkeletonKing.png
 es-ES_name: "Calacas"

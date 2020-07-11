@@ -102,6 +102,40 @@ monsters:
     image: /images/Cardoso.png
     quantity: 1
     url: /monsters/Cardoso
+jp-JP_name: "カルドーゾの紅の洞窟"
+jp-JP_description: "ポー・レイ・カルドーゾは、真っ赤に血塗られた壁に囲まれたこの場所で一人で裁判を開いている。彼は孤独が好きらしい。"
+tier: 5
+monsters:
+  - monster:
+    name: "スケルトン"
+    image: /images/Skeleton.png
+    quantity: 4
+    url: /monsters/Skeleton
+  - monster:
+    name: "グロバー"
+    image: /images/Slime.png
+    quantity: 2
+    url: /monsters/Slime
+  - monster:
+    name: "荒地のチンピラ"
+    image: /images/Knave.png
+    quantity: 6
+    url: /monsters/Knave
+  - monster:
+    name: "スカリワグ"
+    image: /images/PirateGirl.png
+    quantity: 1
+    url: /monsters/PirateGirl
+  - monster:
+    name: "ジールナッツ"
+    image: /images/Zealnut.png
+    quantity: 5
+    url: /monsters/Zealnut
+  - monster:
+    name: "カルドーゾ"
+    image: /images/Cardoso.png
+    quantity: 1
+    url: /monsters/Cardoso
 es-ES_name: "Sangrario de Cardoso"
 es-ES_description: "Poh Rei Cardoso preside sus solitarios dominios desde esta su rústica y sanguinolienta morada. Y odia a los visitantes."
 tier: 5

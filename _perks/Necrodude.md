@@ -12,6 +12,10 @@ ru-RU_name: "Некрочувак"
 ru-RU_description: "Максимальное ❤️ -2. Побеждённые враги призывают <a href = '../ru_ru/items#Tombstone'>Надгробье</a>. Сбрасывание карточки не восстанавливает ❤️."
 tile_id: Necrodude
 image: /images/Necrodude.png
+jp-JP_name: "ネクロ野郎"
+jp-JP_description: "最大❤️が-2。敵を倒すと<a href = '../jp_jp/items#Tombstone'>墓石</a>が出現する。タイルを捨てても❤️が回復しない"
+tile_id: Necrodude
+image: /images/Necrodude.png
 es-ES_name: "Necrolega"
 es-ES_description: "❤️ máxima -2. Los enemigos generan una <a href = '../es_es/items#Tombstone'>Lápida</a> al ser derrotados. Descartar fichas ya no te recupera ❤️"
 tile_id: Necrodude

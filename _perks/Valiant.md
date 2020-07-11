@@ -9,7 +9,11 @@ zh-CN_description: "场上有7个或以上的敌人时，攻击力+2"
 tile_id: Valiant
 image: /images/Valiant.png
 ru-RU_name: "Отважный"
-ru-RU_description: "Пока вы <u>ошеломлены</u>, даёт +2 🔸"
+ru-RU_description: "Пока вы <u>ошеломлены</u>, даёт +2 🔸."
+tile_id: Valiant
+image: /images/Valiant.png
+jp-JP_name: "勇敢"
+jp-JP_description: "<u>圧倒</u>：🔸 +2"
 tile_id: Valiant
 image: /images/Valiant.png
 es-ES_name: "Valiente"

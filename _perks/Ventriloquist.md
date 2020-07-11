@@ -9,7 +9,11 @@ zh-CN_description: "你的💀 <u>随从</u>增加一点攻击力，但你的基
 tile_id: Ventriloquist
 image: /images/Ventriloquist.png
 ru-RU_name: "Чревовещатель"
-ru-RU_description: "🔸 ваших 💀 <u>миньонов</u> увеличена на 1, но ваша базовая 🔸 уменьшена на 1. В начале подземелья призывает 💀 <u>Миньон</u> Скелет"
+ru-RU_description: "🔸 ваших 💀 <u>миньонов</u> увеличена на 1, но ваша базовая 🔸 уменьшена на 1. В начале подземелья призывает 💀 <u>миньона</u> Скелет."
+tile_id: Ventriloquist
+image: /images/Ventriloquist.png
+jp-JP_name: "腹話術師"
+jp-JP_description: "💀 <u>ミニオン</u>の攻撃力が+1となるが、自分の基礎🔸は1減る。各ダンジョンでスケルトンを1枚持ってスタートする"
 tile_id: Ventriloquist
 image: /images/Ventriloquist.png
 es-ES_name: "Ventriloquista"

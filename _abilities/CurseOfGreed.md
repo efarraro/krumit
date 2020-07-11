@@ -18,6 +18,12 @@ ru-RU_flavor: "Greed - a most dangerous enemy."
 tile_id: CurseOfGreed
 cost: -1
 image: /images/CurseOfGreed.png
+jp-JP_name: "Curse of Greed"
+jp-JP_description: "Curse.  Cost to acquire all tiles is increased by 1.  Pay 2 health to remove"
+jp-JP_flavor: "Greed - a most dangerous enemy."
+tile_id: CurseOfGreed
+cost: -1
+image: /images/CurseOfGreed.png
 es-ES_name: "Curse of Greed"
 es-ES_description: "Curse.  Cost to acquire all tiles is increased by 1.  Pay 2 health to remove"
 es-ES_flavor: "Greed - a most dangerous enemy."

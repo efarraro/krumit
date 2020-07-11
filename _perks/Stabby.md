@@ -9,7 +9,11 @@ zh-CN_description: "戳刺造成伤害+1"
 tile_id: Stabby
 image: /images/Stabby.png
 ru-RU_name: "Заточка"
-ru-RU_description: "<a href = '../ru_ru/abilities#Stab'>Удар ножом</a> имеет +1 🔸"
+ru-RU_description: "<a href = '../ru_ru/abilities#Stab'>Удар ножом</a> имеет +1 🔸."
+tile_id: Stabby
+image: /images/Stabby.png
+jp-JP_name: "二刺し"
+jp-JP_description: "「一刺し」のダメージが+1"
 tile_id: Stabby
 image: /images/Stabby.png
 es-ES_name: "Homicida"

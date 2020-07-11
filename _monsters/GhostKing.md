@@ -15,6 +15,11 @@ ru-RU_description: "Когда вы сбрасываете карточку в �
 ru-RU_flavor: "При жизни Призрачный король был добрым и крутым правителем. При смерти он борется с жестоким, вечным соперничеством с Калакасом (и любым другим на его пути), чтобы собрать новые души для его жуткого королевства."
 tile_id: GhostKing
 image: /images/GhostKing.png
+jp-JP_name: "ゴーストキング"
+jp-JP_description: "このダンジョンでは、プレイヤーがタイルを捨てるたびに、デッキの一番上のカードが破壊される（ゴーストキングはこの効果を受けない）。卑怯者め！"
+jp-JP_flavor: "生前のゴーストキングは、親切でクールな支配者だった。死後は、幽霊の王国に新鮮な魂を集めるため、永遠のライバルであるカラカス（とその取り巻き）と抗争を繰り広げている。"
+tile_id: GhostKing
+image: /images/GhostKing.png
 es-ES_name: "Rey Fantasma"
 es-ES_description: "En esta mazmorra, cada vez que descartes una ficha, destruye la carta superior del mazo (el Rey Fantasma es inmune a este efecto). ¡Qué miedo!"
 es-ES_flavor: "En vida, el Rey Fantasma fue un rey bastante guay. Ya muerto, lucha contra Calacas (y con cualquiera que esté en su camino) en una fiera y eterna rivaldad por recolectar almas frescas para su reino espeluznante."

@@ -12,6 +12,10 @@ ru-RU_name: "Уличная крыса"
 ru-RU_description: "Добавляет 3 <a href = '../ru_ru/monsters#RoyalGuard'>Городская стража</a> в колоду. Первая карточка, которую вы приобретёте, будет бесплатной"
 tile_id: StreetRat
 image: /images/StreetRat.png
+jp-JP_name: "街ネズミ"
+jp-JP_description: "デッキに<a href = '../jp_jp/monsters#RoyalGuard'>タウンガード</a>を3枚追加する。最初に取得するタイルはコスト0となる"
+tile_id: StreetRat
+image: /images/StreetRat.png
 es-ES_name: "Rata Callejera"
 es-ES_description: "Añade 3 <a href = '../es_es/monsters#RoyalGuard'>Guardia de Ciudad</a> al mazo. La primera ficha que adquieras es gratis"
 tile_id: StreetRat

@@ -9,7 +9,11 @@ zh-CN_description: "每层地下城中第一次受到致命一击时，将你的
 tile_id: Salamander
 image: /images/Salamander.png
 ru-RU_name: "Саламандра"
-ru-RU_description: "Когда впервые в подземельи вы получаете смертельный урон, устанавливает ваше ❤️ на 1 и даёт <u>регенерацию</u>"
+ru-RU_description: "Когда впервые в подземелье вы получаете смертельный урон, устанавливает ваше ❤️ на 1 и даёт <u>регенерацию</u>."
+tile_id: Salamander
+image: /images/Salamander.png
+jp-JP_name: "サラマンダー"
+jp-JP_description: "各ダンジョンで最初に致命的なダメージを受けた時、❤️を1にして<u>再生</u>を獲得する"
 tile_id: Salamander
 image: /images/Salamander.png
 es-ES_name: "Salamandra"

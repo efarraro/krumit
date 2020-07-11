@@ -49,7 +49,7 @@ monsters:
     quantity: 1
     url: /monsters/Elmer
 ru-RU_name: "Железный лес"
-ru-RU_description: "В железном лесу дерево, которое не даёт плоды, также не даст дров, потому что вы не сможете его срубить."
+ru-RU_description: "Чем дальше в лес, тем больше железных дров."
 tier: 5
 monsters:
   - monster:
@@ -69,6 +69,30 @@ monsters:
     url: /monsters/Treant
   - monster:
     name: "Элмер"
+    image: /images/Elmer.png
+    quantity: 1
+    url: /monsters/Elmer
+jp-JP_name: "アイアンウッドの森"
+jp-JP_description: "アイアンウッドの森では、木材は見れますが、木を見ることはできません。"
+tier: 5
+monsters:
+  - monster:
+    name: "ゴブロイド"
+    image: /images/Gobloid.png
+    quantity: 6
+    url: /monsters/Gobloid
+  - monster:
+    name: "トリックスター"
+    image: /images/Trickster.png
+    quantity: 5
+    url: /monsters/Trickster
+  - monster:
+    name: "ツリーント"
+    image: /images/Treant.png
+    quantity: 6
+    url: /monsters/Treant
+  - monster:
+    name: "エルマー"
     image: /images/Elmer.png
     quantity: 1
     url: /monsters/Elmer

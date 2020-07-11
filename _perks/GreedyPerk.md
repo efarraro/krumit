@@ -12,6 +12,10 @@ ru-RU_name: "Жадный"
 ru-RU_description: "Ваша базовая 🔸 увеличена на 1, если у вас 4 или больше 💰, и уменьшена на 1 в противном случае"
 tile_id: GreedyPerk
 image: /images/GreedyPerk.png
+jp-JP_name: "貪欲"
+jp-JP_description: "💰を4以上持っている場合、基礎🔸が1増加し、それ以外の場合は1減少する"
+tile_id: GreedyPerk
+image: /images/GreedyPerk.png
 es-ES_name: "Codicioso"
 es-ES_description: "Tu 🔸 base se incrementa en 1 si tienes 4 o más 💰, y se reduce en 1 de lo contrario"
 tile_id: GreedyPerk

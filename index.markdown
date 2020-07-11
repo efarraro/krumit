@@ -16,7 +16,8 @@ The wiki is available in the following languages:
 <ul>
 <li><a href = 'en'>English</a></li>
 <li><a href = 'zh_cn'>中文 (Chinese)</a></li>
+<li><a href = 'jp_jp'>日本語 (Japanese)</a></li>
+<li><a href = 'pl_pl'>Polskie (Polish)</a></li>
 <li><a href = 'ru_ru'>русский (Russian)</a></li>
 <li><a href = 'es_es'>Español (Spanish)</a></li>
-<li><a href = 'pl_pl'>Polskie (Polish)</a></li>
 </ul>

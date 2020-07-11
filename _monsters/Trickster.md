@@ -15,6 +15,11 @@ ru-RU_description: "Вы никогда не увидите его! Этот в�
 ru-RU_flavor: "Яд в их дротиках галлюциногенен, заставляя их жертв глупо танцевать и раскрывать свои смущающие секреты любому, кто находится поблизости."
 tile_id: Trickster
 image: /images/Trickster.png
+jp-JP_name: "トリックスター"
+jp-JP_description: "側に来るまで絶対に気づけない！この敵は最初ステルス状態で、攻撃するまでターゲットにできない"
+jp-JP_flavor: "奴らのダーツの毒には幻覚作用があり、毒が回ると犠牲者は踊り出し、周りに恥ずかしい姿を見られてしまうぞ。"
+tile_id: Trickster
+image: /images/Trickster.png
 es-ES_name: "Tramposo"
 es-ES_description: "¡Nunca lo verás venir! Este enemigo empieza con sigilo, impidiendo que lo selecciones como objetivo hasta que lo hayas atacado en combate."
 es-ES_flavor: "El veneno de sus dardos es un alucinógeno, que hace que sus víctimas bailen danzas ridículas y le revelen sus secretos más embarazosos a cualquiera que esté cerca."

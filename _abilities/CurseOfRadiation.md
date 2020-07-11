@@ -18,6 +18,12 @@ ru-RU_flavor: "Placeholder text"
 tile_id: CurseOfRadiation
 cost: -1
 image: /images/CurseOfRadiation.png
+jp-JP_name: "Curse of Radiation"
+jp-JP_description: "Curse. When tiles spawn, apply Poison (1) to yourself. Pay 2 health to remove"
+jp-JP_flavor: "Placeholder text"
+tile_id: CurseOfRadiation
+cost: -1
+image: /images/CurseOfRadiation.png
 es-ES_name: "Curse of Radiation"
 es-ES_description: "Curse. When tiles spawn, apply Poison (1) to yourself. Pay 2 health to remove"
 es-ES_flavor: "Placeholder text"

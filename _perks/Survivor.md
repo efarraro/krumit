@@ -12,6 +12,10 @@ ru-RU_name: "Выживатель"
 ru-RU_description: "Если ваше ❤️ меньше 50% от вашего максимума после убийства врага в бою, восстанавливает 2 ❤️."
 tile_id: Survivor
 image: /images/Survivor.png
+jp-JP_name: "サバイバル"
+jp-JP_description: "戦闘後に❤️が50%以下になった場合、2❤️を回復する"
+tile_id: Survivor
+image: /images/Survivor.png
 es-ES_name: "Sobreviviente"
 es-ES_description: "Si tu ❤️ está por debajo del 50% del máximo después de derrotar a un enemigo en combate, recupera 2 ❤️"
 tile_id: Survivor

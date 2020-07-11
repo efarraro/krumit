@@ -15,6 +15,11 @@ ru-RU_description: "Этот враг начинает со скрытность
 ru-RU_flavor: "Шакалы отлично разбираются в беге на длинные дистанции, что полезно, если учесть, что они трусы. Они работают в группах и часто вместе решают большие головоломки, когда не пытаются устроить засаду."
 tile_id: Jackal
 image: /images/Jackal.png
+jp-JP_name: "ジャッカル"
+jp-JP_description: "この敵は最初ステルス状態で、戦闘で攻撃するまでターゲットにできない"
+jp-JP_flavor: "ジャッカルは、奴らがすごく臆病者であることを考えると、長距離を走ることに長けているのも納得がいく。奴らはグループで行動し、誰かを待ち伏せしていない時は、大きなジグソーパズルを一緒にやっていることが多いんだ。"
+tile_id: Jackal
+image: /images/Jackal.png
 es-ES_name: "Chacal"
 es-ES_description: "Este enemigo empieza con sigilo, impidiendo que lo selecciones como objetivo hasta que lo ataques en combate."
 es-ES_flavor: "Los Chacales son buenos para correr largas distancias, lo que es una gran ayuda dado que son unos completos cobardes. Trabajan en grupo y suelen intentar resolver grandes rompecabezas juntos, cuando no están emboscando a alguien."

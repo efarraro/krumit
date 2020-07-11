@@ -11,8 +11,13 @@ zh-CN_flavor: "他们随时准备着来一段地狱摇摆。他们崇拜盖世�
 tile_id: Cooltist
 image: /images/Cooltist.png
 ru-RU_name: "Крутист"
-ru-RU_description: "У этого врага нет никаких особых способностей или эффектов"
+ru-RU_description: "У этого врага нет никаких особых способностей или эффектов."
 ru-RU_flavor: "Они готовы сбросить несколько адских ударов - на тебя и микрофон. Поклоняются Уберличу, но притворяются, что он им не нравится."
+tile_id: Cooltist
+image: /images/Cooltist.png
+jp-JP_name: "クールティスト"
+jp-JP_description: "この敵は特殊能力や効果を持たない"
+jp-JP_flavor: "彼らはあなたとマイクに地獄のようなビートを落とす準備ができています。ウーバーリッヒを崇拝しているが、興味がないふりをしている。"
 tile_id: Cooltist
 image: /images/Cooltist.png
 es-ES_name: "Kultista"

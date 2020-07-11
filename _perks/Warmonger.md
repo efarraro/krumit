@@ -9,7 +9,11 @@ zh-CN_description: "你的非远程攻击武器额外造成1点伤害"
 tile_id: Warmonger
 image: /images/Warmonger.png
 ru-RU_name: "Воинственный"
-ru-RU_description: "Ваши рукопашные оружия имеют +1 🔸"
+ru-RU_description: "Ваши рукопашные оружия имеют +1 🔸."
+tile_id: Warmonger
+image: /images/Warmonger.png
+jp-JP_name: "戦争屋"
+jp-JP_description: "近接武器の🔸が+1"
 tile_id: Warmonger
 image: /images/Warmonger.png
 es-ES_name: "Belicoso"

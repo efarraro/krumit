@@ -9,7 +9,11 @@ zh-CN_description: "每当地下城中获得药水，都会复制一份到物品
 tile_id: Brewer
 image: /images/Brewer.png
 ru-RU_name: "Пивовар"
-ru-RU_description: "Когда вы получаете зелье в подземельи, добавляет вторую копию в ваше снаряжение."
+ru-RU_description: "Когда вы получаете зелье в подземелье, добавляет вторую копию в ваше снаряжение."
+tile_id: Brewer
+image: /images/Brewer.png
+jp-JP_name: "醸造家"
+jp-JP_description: "ダンジョンにいる間、ポーションを取得するたびに、コピーをもう一枚インベントリに追加する"
 tile_id: Brewer
 image: /images/Brewer.png
 es-ES_name: "Brebajero"

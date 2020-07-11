@@ -9,7 +9,11 @@ zh-CN_description: "获得技能时回复1点生命值"
 tile_id: Blessed
 image: /images/Blessed.png
 ru-RU_name: "Благословенный"
-ru-RU_description: "Когда вы получаете способность, восстанавливает 1 ❤️"
+ru-RU_description: "Когда вы получаете способность, восстанавливает 1 ❤️."
+tile_id: Blessed
+image: /images/Blessed.png
+jp-JP_name: "神の祝福"
+jp-JP_description: "アビリティを取得するたびに❤️を1回復する"
 tile_id: Blessed
 image: /images/Blessed.png
 es-ES_name: "Bendito"

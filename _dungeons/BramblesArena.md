@@ -49,7 +49,7 @@ monsters:
     quantity: 1
     url: /monsters/Bramble
 ru-RU_name: "Арена сэра Брамбла"
-ru-RU_description: "'Залетайте на арену Брамбла! Лучшие варварские бои в городе! Почти законно!' - Шадрат, глашатай арены."
+ru-RU_description: "«Залетайте на арену Брамбла! Лучшие варварские бои в городе! Почти законно!» - Шадрат, глашатай арены"
 tier: 2
 monsters:
   - monster:
@@ -69,6 +69,30 @@ monsters:
     url: /monsters/Gobloid
   - monster:
     name: "Брамбл"
+    image: /images/Bramble.png
+    quantity: 1
+    url: /monsters/Bramble
+jp-JP_name: "ブランブル卿のアリーナ"
+jp-JP_description: "「ブランブルのアリーナに寄ってらっしゃい！町で一番のバーベアリアンの戦いが見れるクマ！」 - アリーナの呼び込み、シャドラット"
+tier: 2
+monsters:
+  - monster:
+    name: "バーベアリアン"
+    image: /images/Bear.png
+    quantity: 2
+    url: /monsters/Bear
+  - monster:
+    name: "田舎者"
+    image: /images/Peasant.png
+    quantity: 3
+    url: /monsters/Peasant
+  - monster:
+    name: "ゴブロイド"
+    image: /images/Gobloid.png
+    quantity: 3
+    url: /monsters/Gobloid
+  - monster:
+    name: "ブランブル"
     image: /images/Bramble.png
     quantity: 1
     url: /monsters/Bramble

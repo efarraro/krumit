@@ -9,7 +9,11 @@ zh-CN_description: "进入地下城时，获得2枚金币"
 tile_id: Rich
 image: /images/Rich.png
 ru-RU_name: "Богач"
-ru-RU_description: "Даёт 2 💰 в начале каждого подземелья"
+ru-RU_description: "В начале каждого подземелья даёт 2 💰."
+tile_id: Rich
+image: /images/Rich.png
+jp-JP_name: "リッチ"
+jp-JP_description: "各ダンジョン開始時に2💰を獲得"
 tile_id: Rich
 image: /images/Rich.png
 es-ES_name: "Rico"

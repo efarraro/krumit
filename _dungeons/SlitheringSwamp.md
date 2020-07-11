@@ -42,6 +42,20 @@ monsters:
     image: /images/Trickster.png
     quantity: 3
     url: /monsters/Trickster
+jp-JP_name: "ヌルヌル沼"
+jp-JP_description: "怪獣スネクの棲み処で、バーム峠と叫びの丘の境界線。一等地とは思えない。"
+tier: 1
+monsters:
+  - monster:
+    name: "グロバー"
+    image: /images/Slime.png
+    quantity: 4
+    url: /monsters/Slime
+  - monster:
+    name: "トリックスター"
+    image: /images/Trickster.png
+    quantity: 3
+    url: /monsters/Trickster
 es-ES_name: "Pantano Serpenteante"
 es-ES_description: "El hogar de una monstruosa Sierpe, aledaño al Paso del Vago y las Colinas Gritonas. No es un terreno muy codiciado."
 tier: 1

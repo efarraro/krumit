@@ -9,7 +9,11 @@ zh-CN_description: "对战首领时基础攻击+2"
 tile_id: Giantslayer
 image: /images/Giantslayer.png
 ru-RU_name: "Убийца гигантов"
-ru-RU_description: "Ваша базовая 🔸 увеличена на 2, пока вы атакуете босса"
+ru-RU_description: "Ваша базовая 🔸 увеличена на 2, пока вы атакуете босса."
+tile_id: Giantslayer
+image: /images/Giantslayer.png
+jp-JP_name: "ジャイアントスレイヤー"
+jp-JP_description: "自分の基礎🔸が対ボス戦で2増加する"
 tile_id: Giantslayer
 image: /images/Giantslayer.png
 es-ES_name: "Matagigantes"

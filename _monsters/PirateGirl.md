@@ -11,8 +11,13 @@ zh-CN_flavor: "这些屡教不改的小海盗只对你的财宝感兴趣。"
 tile_id: PirateGirl
 image: /images/PirateGirl.png
 ru-RU_name: "Разбойница"
-ru-RU_description: "Когда вы убиваете этого врага, замешивает <a href = '../ru_ru/items#PirateLockbox'>Пиратский ящик</a> в колоду"
+ru-RU_description: "Когда вы убиваете этого врага, замешивает <a href = '../ru_ru/items#PirateLockbox'>Пиратский ящик</a> в колоду."
 ru-RU_flavor: "Этим неисправимым маленьким пиратам нужны только ваши сокровища."
+tile_id: PirateGirl
+image: /images/PirateGirl.png
+jp-JP_name: "スカリワグ"
+jp-JP_description: "この敵を倒すと、<a href = '../jp_jp/items#PirateLockbox'>海賊の貴重品箱</a>をシャッフルしてデッキに入れる"
+jp-JP_flavor: "この不甲斐ない海賊たちは、君の戦利品を狙っているだけなんだ。"
 tile_id: PirateGirl
 image: /images/PirateGirl.png
 es-ES_name: "Pilluela"

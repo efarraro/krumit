@@ -9,7 +9,11 @@ zh-CN_description: "拥有至少4点🛡️️ <u>格挡</u>时还会获得<u>�
 tile_id: Thorny
 image: /images/Thorny.png
 ru-RU_name: "Колючий"
-ru-RU_description: "Пока у вас не менее 4 🛡️️ <u>блока</u>, даёт <u>шипы</u> (2)"
+ru-RU_description: "Пока у вас не менее 4 🛡️️ <u>блока</u>, даёт <u>шипы</u> (2)."
+tile_id: Thorny
+image: /images/Thorny.png
+jp-JP_name: "トゲトゲ"
+jp-JP_description: "4以上の🛡️️ <u>ブロック</u>を持っている場合、<u>トゲ</u>(2)を獲得する"
 tile_id: Thorny
 image: /images/Thorny.png
 es-ES_name: "Espinoso"

@@ -15,6 +15,11 @@ ru-RU_description: "Странно. Этот враг имеет иммунит�
 ru-RU_flavor: "Это пустые мешки слизи? Если так, то откуда у них растёт язык? Лучше не думать слишком много об этом. Они предпочитают мусор, однако не откажутся попробовать человеческую плоть."
 tile_id: Slime
 image: /images/Slime.png
+jp-JP_name: "グロバー"
+jp-JP_description: "こいつは厄介だな。この敵には武器が効かない"
+jp-JP_flavor: "奴らは中が空っぽのスライム袋なのかな？もしそうだとしたら、舌はどこから始まってるの？あまり考えない方がいいか。奴らはゴミが好きだけど、ピンチの時は人間の肉でも良いみたい。"
+tile_id: Slime
+image: /images/Slime.png
 es-ES_name: "Babote"
 es-ES_description: "Bueno, esto es embarazoso. ¡Este enemigo es inmune a las armas!"
 es-ES_flavor: "¿Son bolsas llenas de baba? ¿Y si no, donde empiezan sus lenguas? Mejor no pensarlo mucho. Prefieren la basura, pero no le hacen asco a la carne humana."

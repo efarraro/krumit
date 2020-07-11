@@ -9,7 +9,11 @@ zh-CN_description: "在最下面一排获得1费技能时会额外获得1张同�
 tile_id: Poet
 image: /images/Poet.png
 ru-RU_name: "Поэт"
-ru-RU_description: "Когда вы получаете способность с нижнего ряда стоимостью 1 💰, добавляет дополнительную копию в ваше снаряжение"
+ru-RU_description: "Когда вы получаете способность с нижнего ряда стоимостью 1 💰, добавляет дополнительную копию в снаряжение."
+tile_id: Poet
+image: /images/Poet.png
+jp-JP_name: "詩人"
+jp-JP_description: "1💰コストのアビリティを下段から取得するたびに、もう1枚コピーを獲得する"
 tile_id: Poet
 image: /images/Poet.png
 es-ES_name: "Poeta"

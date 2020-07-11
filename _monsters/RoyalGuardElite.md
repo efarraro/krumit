@@ -11,8 +11,13 @@ zh-CN_flavor: "这些帝国的重甲兵们特别喜欢举行打磨护甲和修�
 tile_id: RoyalGuardElite
 image: /images/RoyalGuardElite.png
 ru-RU_name: "Королевская стража"
-ru-RU_description: "Этот враг не позволит вам атаковать других врагов в этом ряду, пока не погибнет."
+ru-RU_description: "Этот враг не позволит вам атаковать других врагов в этом ряду, пока вы его не убьёте."
 ru-RU_flavor: "Эти бронированные тяжеловесы Империума любят проводить соревнования по полировке доспехов и обрезке шлемов."
+tile_id: RoyalGuardElite
+image: /images/RoyalGuardElite.png
+jp-JP_name: "ロイヤルガード"
+jp-JP_description: "下がれ！この敵を倒すまで、同じ段に並んでいる他の敵を攻撃できない"
+jp-JP_flavor: "インペリウムの重装備のパラゴンたちは、鎧を磨くこととヘルメットの羽飾りの手入れ競争をすることが唯一の楽しみ。"
 tile_id: RoyalGuardElite
 image: /images/RoyalGuardElite.png
 es-ES_name: "Guardia Real"

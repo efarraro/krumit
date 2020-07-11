@@ -79,7 +79,7 @@ monsters:
     quantity: 3
     url: /monsters/TrashGolem
 ru-RU_name: "Нукр0полис"
-ru-RU_description: "'...Затем появился Нукр0полис, казалось бы, из ниоткуда - безвкусный храм для отравления и распада. Испортил ещё и горизонт' - Крумит"
+ru-RU_description: "«...Затем появился Нукр0полис, казалось бы, из ниоткуда - безвкусный храм для отравления и распада. Испортил ещё и горизонт» - Крумит"
 tier: 8
 monsters:
   - monster:
@@ -114,6 +114,45 @@ monsters:
     url: /monsters/AutomatonV2
   - monster:
     name: "Мусорный голем"
+    image: /images/TrashGolem.png
+    quantity: 3
+    url: /monsters/TrashGolem
+jp-JP_name: "ヌクロポリス"
+jp-JP_description: "「…そして、ヌクロポリスが空中から現れた。毒と腐敗だらけのケバケバしい神殿じゃ。美しい地平線も台無しじゃ。」 - クルミット"
+tier: 8
+monsters:
+  - monster:
+    name: "ウーバーリッヒ"
+    image: /images/Uberlich.png
+    quantity: 1
+    url: /monsters/Uberlich
+  - monster:
+    name: "スケルトン"
+    image: /images/Skeleton.png
+    quantity: 2
+    url: /monsters/Skeleton
+  - monster:
+    name: "クールティスト"
+    image: /images/Cooltist.png
+    quantity: 4
+    url: /monsters/Cooltist
+  - monster:
+    name: "ジールナッツ"
+    image: /images/Zealnut.png
+    quantity: 5
+    url: /monsters/Zealnut
+  - monster:
+    name: "ヌクロマンサー"
+    image: /images/Automaton.png
+    quantity: 4
+    url: /monsters/Automaton
+  - monster:
+    name: "ヌクロマンサー v2.0"
+    image: /images/AutomatonV2.png
+    quantity: 4
+    url: /monsters/AutomatonV2
+  - monster:
+    name: "ゴミゴーレム"
     image: /images/TrashGolem.png
     quantity: 3
     url: /monsters/TrashGolem

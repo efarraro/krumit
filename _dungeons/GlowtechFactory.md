@@ -72,6 +72,30 @@ monsters:
     image: /images/Peasant.png
     quantity: 2
     url: /monsters/Peasant
+jp-JP_name: "グローテックロボット工場"
+jp-JP_description: "以前はここで家庭用ロボットが作られていたが、その後、誰かが組み立てラインに剣とレーザーを追加した。それからはもうやり放題さ。"
+tier: 3
+monsters:
+  - monster:
+    name: "ヌクロマンサー"
+    image: /images/Automaton.png
+    quantity: 5
+    url: /monsters/Automaton
+  - monster:
+    name: "ヌクロマンサー v2.0"
+    image: /images/AutomatonV2.png
+    quantity: 2
+    url: /monsters/AutomatonV2
+  - monster:
+    name: "グロバー"
+    image: /images/Slime.png
+    quantity: 4
+    url: /monsters/Slime
+  - monster:
+    name: "田舎者"
+    image: /images/Peasant.png
+    quantity: 2
+    url: /monsters/Peasant
 es-ES_name: "Fábrica Robótica GlowTech"
 es-ES_description: "Aquí se solían construir robots de servicio doméstico. Un día a alguien se le ocurrió añadir espadas y lásers a la línea de producción - y el resto es una historia sanguinolienta."
 tier: 3

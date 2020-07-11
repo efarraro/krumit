@@ -57,6 +57,25 @@ monsters:
     image: /images/Nukadog.png
     quantity: 5
     url: /monsters/Nukadog
+jp-JP_name: "ジャッカルタウンのスラム街"
+jp-JP_description: "ジャッカルのスラム街を訪れるには、間違って迷い込むか、背中にナイフを突き刺されても生き延びれる自信が必要だ。"
+tier: 4
+monsters:
+  - monster:
+    name: "ジャッカル"
+    image: /images/Jackal.png
+    quantity: 8
+    url: /monsters/Jackal
+  - monster:
+    name: "バガボンド"
+    image: /images/JackalVagabond.png
+    quantity: 4
+    url: /monsters/JackalVagabond
+  - monster:
+    name: "ハナタレウルフ"
+    image: /images/Nukadog.png
+    quantity: 5
+    url: /monsters/Nukadog
 es-ES_name: "Barriadas de Chacalena"
 es-ES_description: "Hay que estar bien perdido para visitar los barrios bajos de Chacalena - o bien seguro de poder sobrevivir un cuchillo en la espalda."
 tier: 4

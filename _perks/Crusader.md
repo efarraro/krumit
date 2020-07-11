@@ -12,6 +12,10 @@ ru-RU_name: "Крестоносец"
 ru-RU_description: "Ваша базовая 🔸 увеличена на 1, пока у вас полное ❤️."
 tile_id: Crusader
 image: /images/Crusader.png
+jp-JP_name: "クルセイダー"
+jp-JP_description: "❤️が最大の場合、基礎🔸が1増加する"
+tile_id: Crusader
+image: /images/Crusader.png
 es-ES_name: "Cruzado"
 es-ES_description: "Mientras tengas la ❤️ llena, incrementa tu 🔸 base en 1"
 tile_id: Crusader

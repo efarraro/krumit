@@ -12,6 +12,10 @@ ru-RU_name: "Сбалансированный"
 ru-RU_description: "Базовая стоимость всех твоих способностей равна 2 💰"
 tile_id: BalancedPerk
 image: /images/BalancedPerk.png
+jp-JP_name: "バランス"
+jp-JP_description: "アビリティの基本コストが全て2💰になる"
+tile_id: BalancedPerk
+image: /images/BalancedPerk.png
 es-ES_name: "Balanceado"
 es-ES_description: "El costo base de todas tus habilidades es 2 💰"
 tile_id: BalancedPerk

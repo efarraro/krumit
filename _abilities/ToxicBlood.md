@@ -13,8 +13,14 @@ tile_id: ToxicBlood
 cost: -1
 image: /images/ToxicBlood.png
 ru-RU_name: "Токсичная кровь"
-ru-RU_description: "Получите это, когда получаете другую карточку в этом ряду. <u>Пассивно</u>: когда вы восстанавливаете ❤️, уменьшите это значение на 1"
-ru-RU_flavor: "Вкус отравленного рая"
+ru-RU_description: "Получите это, когда получаете другую карточку в этом ряду. <u>Пассивно</u>: когда вы восстанавливаете ❤️, уменьшите это значение на 1."
+ru-RU_flavor: "Вкус отравленного рая."
+tile_id: ToxicBlood
+cost: -1
+image: /images/ToxicBlood.png
+jp-JP_name: "毒血"
+jp-JP_description: "同じ段の他のタイルを取得した際に取得する。<u>パッシブ</u>：ヘルスの回復量が1減少する。"
+jp-JP_flavor: "毒の楽園の味だ。"
 tile_id: ToxicBlood
 cost: -1
 image: /images/ToxicBlood.png

@@ -12,6 +12,10 @@ ru-RU_name: "Служитель"
 ru-RU_description: "В начале каждого подземелья замешивает 2 случайные способности в колоду подземелья."
 tile_id: Acolyte
 image: /images/Acolyte.png
+jp-JP_name: "助手"
+jp-JP_description: "各ダンジョン開始時、ランダムなアビリティを2枚デッキにシャッフルする"
+tile_id: Acolyte
+image: /images/Acolyte.png
 es-ES_name: "Acólito"
 es-ES_description: "Cuando empiezes una mazmorra, baraja 2 habilidades cualquiera en el mazo"
 tile_id: Acolyte

@@ -9,7 +9,11 @@ zh-CN_description: "当每一次进入新的地下城时，在你的卡组里洗
 tile_id: Devoted
 image: /images/Devoted.png
 ru-RU_name: "Посвященный"
-ru-RU_description: "В начале каждого подземелья замешивает 3 случайных <u>благословения</u> в колоду подземелья"
+ru-RU_description: "В начале каждого подземелья замешивает 3 случайных <u>благословения</u> в колоду."
+tile_id: Devoted
+image: /images/Devoted.png
+jp-JP_name: "献身"
+jp-JP_description: "各ダンジョンの開始時、ランダムな<u>祝福</u>を3枚ダンジョンデッキにシャッフルする。"
 tile_id: Devoted
 image: /images/Devoted.png
 es-ES_name: "Devota"

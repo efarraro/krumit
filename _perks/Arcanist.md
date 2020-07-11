@@ -9,7 +9,11 @@ zh-CN_description: "获得技能时对同列最上面的敌人造成1点<u>穿�
 tile_id: Arcanist
 image: /images/Arcanist.png
 ru-RU_name: "Чародей"
-ru-RU_description: "Когда вы получаете способность, наносит 1 <u>пронзающий</u> урон самому верхнему врагу в том же столбце"
+ru-RU_description: "Когда вы получаете способность, наносит 1 <u>пронзающий</u> урон самому верхнему врагу в том же столбце."
+tile_id: Arcanist
+image: /images/Arcanist.png
+jp-JP_name: "呪術師"
+jp-JP_description: "アビリティを取得した時、同じ列の一番上の敵に<u>貫通</u>ダメージを1与える"
 tile_id: Arcanist
 image: /images/Arcanist.png
 es-ES_name: "Arcanista"

@@ -29,7 +29,7 @@ monsters:
     quantity: 6
     url: /monsters/Nukadog
 ru-RU_name: "Сырой лес"
-ru-RU_description: "Этот лес поистине самый сырой. И всё-таки, похоже, что это не смущает боевых медведей и их брутальных Вардведей!"
+ru-RU_description: "Этот лес поистине самый сырой. И всё-таки похоже, что это не смущает боевых медведей и их брутальных Вардведей!"
 tier: 1
 monsters:
   - monster:
@@ -39,6 +39,20 @@ monsters:
     url: /monsters/Bear
   - monster:
     name: "Волк-сопляк"
+    image: /images/Nukadog.png
+    quantity: 6
+    url: /monsters/Nukadog
+jp-JP_name: "陰鬱な森"
+jp-JP_description: "この森は何かどんよりしてるな。でも、ウォー・ベアーズと残忍なバーベアリアンたちは平気らしいんだ。"
+tier: 1
+monsters:
+  - monster:
+    name: "バーベアリアン"
+    image: /images/Bear.png
+    quantity: 1
+    url: /monsters/Bear
+  - monster:
+    name: "ハナタレウルフ"
     image: /images/Nukadog.png
     quantity: 6
     url: /monsters/Nukadog

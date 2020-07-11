@@ -18,6 +18,12 @@ ru-RU_flavor: "'Silence.  It's beautiful, isn't it?  Clears the mind, focuses th
 tile_id: CurseOfSilence
 cost: -1
 image: /images/CurseOfSilence.png
+jp-JP_name: "Curse of Silence"
+jp-JP_description: "Curse.  Can't use abilities while this is on the board.  Pay 2 health to remove"
+jp-JP_flavor: "'Silence.  It's beautiful, isn't it?  Clears the mind, focuses thought.' - Rose"
+tile_id: CurseOfSilence
+cost: -1
+image: /images/CurseOfSilence.png
 es-ES_name: "Curse of Silence"
 es-ES_description: "Curse.  Can't use abilities while this is on the board.  Pay 2 health to remove"
 es-ES_flavor: "'Silence.  It's beautiful, isn't it?  Clears the mind, focuses thought.' - Rose"

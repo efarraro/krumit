@@ -79,7 +79,7 @@ monsters:
     quantity: 4
     url: /monsters/JackalVagabond
 ru-RU_name: "Башня воров"
-ru-RU_description: "'Вы не найдете более отвратительного места подлости и злодейства, чем башня воров. Я надеюсь переехать туда однажды' - Озорница"
+ru-RU_description: "«Вы не найдёте более отвратительного места подлости и злодейства, чем башня воров. Я надеюсь переехать туда однажды» - Озорница"
 tier: 6
 monsters:
   - monster:
@@ -114,6 +114,45 @@ monsters:
     url: /monsters/PirateGirl
   - monster:
     name: "Вагабонд"
+    image: /images/JackalVagabond.png
+    quantity: 4
+    url: /monsters/JackalVagabond
+jp-JP_name: "盗賊の塔"
+jp-JP_description: "「盗賊の塔ほどイカレた悪党の巣窟はないんじゃない？いつかあそこに引っ越したいと思ってるんだ」 - ミスチーフ"
+tier: 6
+monsters:
+  - monster:
+    name: "ゴブロイド"
+    image: /images/Gobloid.png
+    quantity: 2
+    url: /monsters/Gobloid
+  - monster:
+    name: "バケツヘッド"
+    image: /images/GobloidKnucklehead.png
+    quantity: 3
+    url: /monsters/GobloidKnucklehead
+  - monster:
+    name: "パンク"
+    image: /images/Harpy.png
+    quantity: 4
+    url: /monsters/Harpy
+  - monster:
+    name: "ジャッカル"
+    image: /images/Jackal.png
+    quantity: 3
+    url: /monsters/Jackal
+  - monster:
+    name: "アサシン"
+    image: /images/JackalAssassin.png
+    quantity: 3
+    url: /monsters/JackalAssassin
+  - monster:
+    name: "スカリワグ"
+    image: /images/PirateGirl.png
+    quantity: 2
+    url: /monsters/PirateGirl
+  - monster:
+    name: "バガボンド"
     image: /images/JackalVagabond.png
     quantity: 4
     url: /monsters/JackalVagabond

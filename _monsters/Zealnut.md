@@ -11,8 +11,13 @@ zh-CN_flavor: "坚果狂是一群资深的酷酷，可以穿得更加亮闪闪�
 tile_id: Zealnut
 image: /images/Zealnut.png
 ru-RU_name: "Зилнат"
-ru-RU_description: "У этого врага нет никаких особых способностей или эффектов"
+ru-RU_description: "У этого врага нет никаких особых способностей или эффектов."
 ru-RU_flavor: "Зилнаты - старшые Крутисты, им разрешается носить дополнительные цацки как доказательство их статуса. Их цепочки 'голди лукин', но всего 7 карат."
+tile_id: Zealnut
+image: /images/Zealnut.png
+jp-JP_name: "ジールナッツ"
+jp-JP_description: "この敵は特殊能力や効果を持たない"
+jp-JP_flavor: "ジールナッツは古参のクールティストで、自分の地位を証明するために着飾ることが許されている。あのチェーンは金に見えるけど、実は7カラットしかないんだとか。"
 tile_id: Zealnut
 image: /images/Zealnut.png
 es-ES_name: "Fanátiko"

@@ -11,8 +11,13 @@ zh-CN_flavor: "村庄守卫一直都在忠实地守卫着帝国，以及帝国�
 tile_id: RoyalGuard
 image: /images/RoyalGuard.png
 ru-RU_name: "Городская стража"
-ru-RU_description: "Нельзя экипировать рукопашное оружие, пока этот враг находится на поле"
-ru-RU_flavor: "Городская гвардия - верные защитники Империума и его столицы (единственного города) Империумвилля."
+ru-RU_description: "Нельзя экипировать рукопашное оружие, пока этот враг находится на поле."
+ru-RU_flavor: "Городская стража - верные защитники Империума и его столицы (единственного города) Империумвилля."
+tile_id: RoyalGuard
+image: /images/RoyalGuard.png
+jp-JP_name: "タウンガード"
+jp-JP_description: "争いは止めろ！この敵が盤面にいる間は、近接武器を装備することができない"
+jp-JP_flavor: "タウンガードはインペリウムとその首都（そして唯一の都市）であるインペリウムビルの守備隊である。"
 tile_id: RoyalGuard
 image: /images/RoyalGuard.png
 es-ES_name: "Guardia de Ciudad"

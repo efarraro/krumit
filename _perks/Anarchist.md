@@ -9,7 +9,11 @@ zh-CN_description: "你施加的燃烧效果+1。"
 tile_id: Anarchist
 image: /images/Anarchist.png
 ru-RU_name: "Анархист"
-ru-RU_description: "Когда вы применяете  <u>ожог</u>, увеличивает значение на 1"
+ru-RU_description: "Когда вы накладываете  <u>ожог</u> на врага, увеличивает это значение на 1."
+tile_id: Anarchist
+image: /images/Anarchist.png
+jp-JP_name: "アナーキスト"
+jp-JP_description: "敵を <u>燃焼</u>させた時のダメージ量が1増える"
 tile_id: Anarchist
 image: /images/Anarchist.png
 es-ES_name: "Anarquista"

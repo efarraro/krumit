@@ -11,8 +11,13 @@ zh-CN_flavor: "为了伟大哥布森共和国而奋斗着，就如创始哥布�
 tile_id: GobloidKing
 image: /images/GobloidKing.png
 ru-RU_name: "Гоблорд Ваггу"
-ru-RU_description: "В этом подземельи все гоблоиды имеют +1 🔸. В начале этого подземелья замешивает 3 копии <a href = '../ru_ru/items#Tranquilizer'>Транквилизатор</a> в колоду подземелья"
+ru-RU_description: "В этом подземелье все гоблоиды имеют +1 🔸. В начале подземелья замешивает 3 копии <a href = '../ru_ru/items#Tranquilizer'>Транквилизатор</a> в колоду."
 ru-RU_flavor: "Сражается в погоне за Великой республикой Гоблоидов, как предсказывал основатель Гоблоидов, Т'аббу. Цепляется за власть с силой и вонью."
+tile_id: GobloidKing
+image: /images/GobloidKing.png
+jp-JP_name: "ゴブロイド王ワグー"
+jp-JP_description: "このダンジョンにいるゴブロイドは全て🔸+1となる。デッキに<a href = '../jp_jp/items#Tranquilizer'>鎮静剤</a>3枚をシャッフルする。"
+jp-JP_flavor: "ゴブロイドの創始者であるタブーが予言した「大ゴブロイド共和国」の建設を目指して戦う。その強さと悪臭で権力にしがみついている。"
 tile_id: GobloidKing
 image: /images/GobloidKing.png
 es-ES_name: "Jefe Gobloide Waggu"

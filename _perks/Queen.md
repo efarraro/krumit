@@ -9,7 +9,11 @@ zh-CN_description: "你每场战斗的第一次攻击施加 <u>腐化</u> (3)"
 tile_id: Queen
 image: /images/Queen.png
 ru-RU_name: "Королева"
-ru-RU_description: "Ваша первая атака в каждом бою накладывает  <u>осквернение</u> (3)"
+ru-RU_description: "Ваша первая атака в каждом бою накладывает  <u>осквернение</u> (3)."
+tile_id: Queen
+image: /images/Queen.png
+jp-JP_name: "クイーン"
+jp-JP_description: "各戦闘での君の最初の攻撃が <u>腐敗</u>(3)効果を持つ"
 tile_id: Queen
 image: /images/Queen.png
 es-ES_name: "Reina"

@@ -9,7 +9,11 @@ zh-CN_description: "基础攻击+1（装备武器时基础攻击-1）"
 tile_id: MartialArtist
 image: /images/MartialArtist.png
 ru-RU_name: "Мастер боевых искусств"
-ru-RU_description: "Ваша базовая 🔸 увеличена на +1 (-1, пока у вас экипировано оружие)"
+ru-RU_description: "Ваша базовая 🔸 увеличена на 1 (уменьшена на 1, пока у вас экипировано оружие)."
+tile_id: MartialArtist
+image: /images/MartialArtist.png
+jp-JP_name: "武道家"
+jp-JP_description: "自分の基礎🔸が+1増加する（武器を装備している間は-1）"
 tile_id: MartialArtist
 image: /images/MartialArtist.png
 es-ES_name: "Artista Marcial"

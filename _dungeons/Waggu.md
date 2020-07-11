@@ -39,7 +39,7 @@ monsters:
     quantity: 1
     url: /monsters/GobloidKing
 ru-RU_name: "Столица Гоблоидов: В'аггу"
-ru-RU_description: "В'аггу - это название столицы Гоблоидов. И имя их короля. И их фирменное блюдо. И самое популярное имя ребенка Гоблоида."
+ru-RU_description: "В’аггу - это название столицы гоблоидов. И имя их короля. И их фирменное блюдо. И самое популярное имя ребёнка гоблоида."
 tier: 2
 monsters:
   - monster:
@@ -54,6 +54,25 @@ monsters:
     url: /monsters/GobloidKnucklehead
   - monster:
     name: "Гоблорд Ваггу"
+    image: /images/GobloidKing.png
+    quantity: 1
+    url: /monsters/GobloidKing
+jp-JP_name: "ゴブロイドの首都：ワグー"
+jp-JP_description: "ワグーはゴブロイドの首都であり、彼らの王の名前であり、彼らの名物料理の名前であり、最も人気のあるゴブロイドの赤ちゃんの名前である。"
+tier: 2
+monsters:
+  - monster:
+    name: "ゴブロイド"
+    image: /images/Gobloid.png
+    quantity: 5
+    url: /monsters/Gobloid
+  - monster:
+    name: "バケツヘッド"
+    image: /images/GobloidKnucklehead.png
+    quantity: 4
+    url: /monsters/GobloidKnucklehead
+  - monster:
+    name: "ゴブロイド王ワグー"
     image: /images/GobloidKing.png
     quantity: 1
     url: /monsters/GobloidKing

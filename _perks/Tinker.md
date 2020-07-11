@@ -9,7 +9,11 @@ zh-CN_description: "弃牌时有50%的几率随机为你物品栏中的1件物�
 tile_id: Tinker
 image: /images/Tinker.png
 ru-RU_name: "Инженер"
-ru-RU_description: "Всякий раз, когда вы сбрасываете {0} предмета, восстанавливает 1 прочность случайному предмету в снаряжении. ({1}/{2})"
+ru-RU_description: "После того как вы сбросите {0} предмета, восстанавливает 1 прочность случайному предмету в снаряжении ({1}/{2})."
+tile_id: Tinker
+image: /images/Tinker.png
+jp-JP_name: "修理屋"
+jp-JP_description: "アイテムを{0}枚捨てる度に、インベントリにあるランダムなアイテムの耐久度を1回復する ({1}/{2})"
 tile_id: Tinker
 image: /images/Tinker.png
 es-ES_name: "Artesano"

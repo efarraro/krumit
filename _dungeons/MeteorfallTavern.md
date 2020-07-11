@@ -69,7 +69,7 @@ monsters:
     quantity: 2
     url: /monsters/GobloidKnucklehead
 ru-RU_name: "Старая таверна 'Падение Метеора'"
-ru-RU_description: "'Я слышала, они там играют какую-то чудную карточною игру - Meteorfall, не так ли? Я всегда хотела попробовать её.' - Роза"
+ru-RU_description: "«Я слышала, что они там играют в какую-то чудную карточную игру - Meteorfall, не так ли? Я всегда хотела сыграть в неё» - Роза"
 tier: 4
 monsters:
   - monster:
@@ -99,6 +99,40 @@ monsters:
     url: /monsters/RoyalGuard
   - monster:
     name: "Каскоголовый"
+    image: /images/GobloidKnucklehead.png
+    quantity: 2
+    url: /monsters/GobloidKnucklehead
+jp-JP_name: "昔ながらのメテオフォール酒場"
+jp-JP_description: "「あそこで面白いカードゲームをやってるって聞いたんだけど…メテオフォールだったかな？ずっとやってみたかったの」 - ローズ"
+tier: 4
+monsters:
+  - monster:
+    name: "ミュータントバイカー"
+    image: /images/Biker.png
+    quantity: 3
+    url: /monsters/Biker
+  - monster:
+    name: "スワッシュバックラー"
+    image: /images/Pirate.png
+    quantity: 3
+    url: /monsters/Pirate
+  - monster:
+    name: "バガボンド"
+    image: /images/JackalVagabond.png
+    quantity: 3
+    url: /monsters/JackalVagabond
+  - monster:
+    name: "田舎者"
+    image: /images/Peasant.png
+    quantity: 2
+    url: /monsters/Peasant
+  - monster:
+    name: "タウンガード"
+    image: /images/RoyalGuard.png
+    quantity: 2
+    url: /monsters/RoyalGuard
+  - monster:
+    name: "バケツヘッド"
     image: /images/GobloidKnucklehead.png
     quantity: 2
     url: /monsters/GobloidKnucklehead

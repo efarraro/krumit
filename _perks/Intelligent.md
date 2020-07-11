@@ -12,6 +12,10 @@ ru-RU_name: "Смышлёный"
 ru-RU_description: "Увеличивает вашу вместимость колоды на 3"
 tile_id: Intelligent
 image: /images/Intelligent.png
+jp-JP_name: "インテリ"
+jp-JP_description: "自分の最大デッキサイズを3増やす"
+tile_id: Intelligent
+image: /images/Intelligent.png
 es-ES_name: "Inteligente"
 es-ES_description: "Incrementa el tamaño máximo de tu mazo en 3"
 tile_id: Intelligent

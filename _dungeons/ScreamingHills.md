@@ -59,7 +59,7 @@ monsters:
     quantity: 2
     url: /monsters/Gobloid
 ru-RU_name: "Вопящие холмы"
-ru-RU_description: "Место настолько безумное, что даже сами холмы вопят"
+ru-RU_description: "Место настолько безумное, что даже сами холмы вопят."
 tier: 6
 monsters:
   - monster:
@@ -84,6 +84,35 @@ monsters:
     url: /monsters/GobloidKnucklehead
   - monster:
     name: "Гоблоид"
+    image: /images/Gobloid.png
+    quantity: 2
+    url: /monsters/Gobloid
+jp-JP_name: "叫びの丘"
+jp-JP_description: "ここは狂ってる、丘自体が悲鳴を上げるほどにな。"
+tier: 6
+monsters:
+  - monster:
+    name: "ウィンドランナー"
+    image: /images/WindRunner.png
+    quantity: 4
+    url: /monsters/WindRunner
+  - monster:
+    name: "ヌカバイキング"
+    image: /images/Viking.png
+    quantity: 8
+    url: /monsters/Viking
+  - monster:
+    name: "パンク"
+    image: /images/Harpy.png
+    quantity: 4
+    url: /monsters/Harpy
+  - monster:
+    name: "バケツヘッド"
+    image: /images/GobloidKnucklehead.png
+    quantity: 4
+    url: /monsters/GobloidKnucklehead
+  - monster:
+    name: "ゴブロイド"
     image: /images/Gobloid.png
     quantity: 2
     url: /monsters/Gobloid

@@ -15,6 +15,11 @@ ru-RU_description: "Тебе он не понравится, когда он з�
 ru-RU_flavor: "Байкеры-мутанты поклоняются богу машин, мистеру Дарли Хэвидсону, и молятся, чтобы в один день он спустился со своими ездками Байкопокалипсиса: миссис Сью Зуки, Дюк Ати, и карлик семьи, Вес Па."
 tile_id: Biker
 image: /images/Biker.png
+jp-JP_name: "ミュータントバイカー"
+jp-JP_description: "怒らせると怖いぞ！ この敵はダメージを受けるたびに、🔸が1上昇する"
+jp-JP_flavor: "ミュータバイカーズは、マシンの神様であるダーレー・ハビッドソン氏を崇拝し、スー・ズウキ夫人、デューク・アティ、そしてちびっ子のヴェス・パーといったバイクポカリプスのライダーたちと共にいつか氏が降臨することを祈っている。"
+tile_id: Biker
+image: /images/Biker.png
 es-ES_name: "Motero Mutante"
 es-ES_description: "¡No te gustará si se enoja! Cada vez que este enemigo sufre daño, su 🔸 se incrementa en 1."
 es-ES_flavor: "Los Motomutantes rinden culto a su dios-máquina, el Sr. Darley Havidson, y rezan porque un día descienda desde lo alto con sus conductores del Motocalipsis: La Sra. Sue Zuuki, el Duque Ati, y el pequeño de la familia, Ves Pah."

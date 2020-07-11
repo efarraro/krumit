@@ -11,8 +11,13 @@ zh-CN_flavor: "窥树者平均可以活到1,000岁以上，但是10岁左右的�
 tile_id: Treant
 image: /images/Treant.png
 ru-RU_name: "Трэнт"
-ru-RU_description: "В конце раунда боя он умирает, если на нём нет брони"
+ru-RU_description: "В конце раунда боя он умирает, если на нём нет брони."
 ru-RU_flavor: "Средний трэнт может вырасти до 1000 лет, но становится ворчливым примерно в возрасте 10 лет."
+tile_id: Treant
+image: /images/Treant.png
+jp-JP_name: "ツリーント"
+jp-JP_description: "この敵のターン終了時に、敵の防具が0の場合、自壊する"
+jp-JP_flavor: "平均的な木人は千歳以上まで成長できるが、10歳頃になると不機嫌になる。"
 tile_id: Treant
 image: /images/Treant.png
 es-ES_name: "Arbolucho"

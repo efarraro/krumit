@@ -21,13 +21,23 @@ zh-CN_flavor: "这种可恶的自走机械来自一条充满缺陷的生产线�
 tile_id: Automaton
 image: /images/Automaton.png
 ru-RU_name: "Нукр0мант"
-ru-RU_description: "У этого врага нет никаких особых способностей или эффектов"
+ru-RU_description: "У этого врага нет никаких особых способностей или эффектов."
 ru-RU_flavor: "Этот грязный робот - вышедший из строя на производственной линии. Контроль качества в Глоутеке уже не тот, что раньше."
 tile_id: Automaton
 image: /images/Automaton.png
 ru-RU_name: "Нукр0мант"
-ru-RU_description: "У этого врага нет никаких особых способностей или эффектов"
+ru-RU_description: "У этого врага нет никаких особых способностей или эффектов."
 ru-RU_flavor: "Этот грязный робот - вышедший из строя на производственной линии. Контроль качества в Глоутеке уже не тот, что раньше."
+tile_id: Automaton
+image: /images/Automaton.png
+jp-JP_name: "ヌクロマンサー"
+jp-JP_description: "この敵は特殊能力や効果を持たない"
+jp-JP_flavor: "この汚いオートマトンは明らかに欠陥品である。グローテックの品質管理はこれまでとは変わってしまったようだ。"
+tile_id: Automaton
+image: /images/Automaton.png
+jp-JP_name: "ヌクロマンサー"
+jp-JP_description: "この敵は特殊能力や効果を持たない"
+jp-JP_flavor: "この汚いオートマトンは明らかに欠陥品である。グローテックの品質管理はこれまでとは変わってしまったようだ。"
 tile_id: Automaton
 image: /images/Automaton.png
 es-ES_name: "Nigrat0mante"

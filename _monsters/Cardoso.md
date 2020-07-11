@@ -11,8 +11,13 @@ zh-CN_flavor: "崇拜卡杜索吧：堕落的大法师，第一位吸魔者，�
 tile_id: Cardoso
 image: /images/Cardoso.png
 ru-RU_name: "Кардосо"
-ru-RU_description: "В начале подземелья замешивает 4 копии <a href = '../ru_ru/abilities#ToxicBlood'>Токсичная кровь</a> в колоду подземелья. Если в вашем снаряжении находится <a href = '../ru_ru/abilities#ToxicBlood'>Токсичная кровь</a>, Кардозо не восстанавливает ❤️, когда атакует."
+ru-RU_description: "В начале подземелья замешивает 4 копии <a href = '../ru_ru/abilities#ToxicBlood'>Токсичная кровь</a> в колоду. Если в вашем снаряжении находится <a href = '../ru_ru/abilities#ToxicBlood'>Токсичная кровь</a>, Кардозо не восстанавливает ❤️, когда атакует."
 ru-RU_flavor: "Будете ли вы восхищаться Кардозо? Падший архимаг, великий манавампир, знаменитый исследователь и гурман."
+tile_id: Cardoso
+image: /images/Cardoso.png
+jp-JP_name: "カルドーゾ"
+jp-JP_description: "ダンジョン開始時に4枚の<a href = '../jp_jp/abilities#ToxicBlood'>毒血</a>をデッキにシャッフルする。<a href = '../jp_jp/abilities#ToxicBlood'>毒血</a>を持っていると、カルドーゾは攻撃時に❤️を回復しなくなる"
+jp-JP_flavor: "カルドーゾってすごくない？堕ちしアークメイジ、最高のマナヴァンプ、有名な探検家であり美食家だってさ。 "
 tile_id: Cardoso
 image: /images/Cardoso.png
 es-ES_name: "Cardoso"

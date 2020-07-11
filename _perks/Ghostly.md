@@ -9,7 +9,11 @@ zh-CN_description: "在攻击或者受到伤害之后：如果你的❤️等于
 tile_id: Ghostly
 image: /images/Ghostly.png
 ru-RU_name: "Призрачный"
-ru-RU_description: "Пока у вас 2 или меньше ❤️, даёт <u>скрытность</u> каждый раз, когда вы атакуете или получаете урон"
+ru-RU_description: "Пока у вас 2 или меньше ❤️, даёт <u>скрытность</u> каждый раз, когда вы атакуете или получаете урон."
+tile_id: Ghostly
+image: /images/Ghostly.png
+jp-JP_name: "幻影"
+jp-JP_description: "相手の攻撃などでダメージを受けた後、自分の❤️が2以下の場合、<u>ステルス</u>を獲得する"
 tile_id: Ghostly
 image: /images/Ghostly.png
 es-ES_name: "Fantasmagoria"

@@ -9,7 +9,11 @@ zh-CN_description: "敌人生成时对其施加 <u>剧毒</u>"
 tile_id: Radioactive
 image: /images/Radioactive.png
 ru-RU_name: "Радиоактивный"
-ru-RU_description: "Когда враг появляется на поле, накладывает  <u>яд</u> на него"
+ru-RU_description: "Когда враг появляется на поле, накладывает  <u>яд</u> (1) на него."
+tile_id: Radioactive
+image: /images/Radioactive.png
+jp-JP_name: "放射性"
+jp-JP_description: "敵が出現した時に <u>毒</u>を与える"
 tile_id: Radioactive
 image: /images/Radioactive.png
 es-ES_name: "Radioactivo"

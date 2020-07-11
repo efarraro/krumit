@@ -9,7 +9,11 @@ zh-CN_description: "击败敌人时如果物品栏中仍有空位，在你的物
 tile_id: Savage
 image: /images/Savage.png
 ru-RU_name: "Дикарь"
-ru-RU_description: "Когда вы побеждаете врага, добавляет копию <a href = '../ru_ru/abilities#Frenzy'>Бешенство</a> в ваше снаряжение (если есть место)"
+ru-RU_description: "Когда вы убиваете врага, добавляет копию <a href = '../ru_ru/abilities#Frenzy'>Бешенство</a> в снаряжение (если есть место)."
+tile_id: Savage
+image: /images/Savage.png
+jp-JP_name: "獰猛"
+jp-JP_description: "敵を倒した時、インベントリに<a href = '../jp_jp/abilities#Frenzy'>狂乱</a>を一枚追加する（空きがあれば）"
 tile_id: Savage
 image: /images/Savage.png
 es-ES_name: "Salvaje"

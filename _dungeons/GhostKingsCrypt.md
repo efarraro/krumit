@@ -59,7 +59,7 @@ monsters:
     quantity: 1
     url: /monsters/GhostKing
 ru-RU_name: "Склеп Призрачного короля"
-ru-RU_description: "«Я и Призрачный король? Эти бесплотные всезнайки? Да, мы возвращаемся назад. И я всегда имел лучше бороду». - бонелорд Калакас."
+ru-RU_description: "«Я и Призрачный король? Эти бесплотные всезнайки? Да, мы возвращаемся назад. И я всегда имел лучше бороду» - бонелорд Калакас"
 tier: 5
 monsters:
   - monster:
@@ -84,6 +84,35 @@ monsters:
     url: /monsters/Zealnut
   - monster:
     name: "Призрачный король"
+    image: /images/GhostKing.png
+    quantity: 1
+    url: /monsters/GhostKing
+jp-JP_name: "ゴーストキングの地下室"
+jp-JP_description: "「わしとゴーストキング？あの幽霊みたいな知ったか野郎のことか？ああ、昔からの腐れ縁じゃ。いつもわしの髭の方がイケてるがな。」 - 骨の王カラカス"
+tier: 5
+monsters:
+  - monster:
+    name: "スケルトン"
+    image: /images/Skeleton.png
+    quantity: 6
+    url: /monsters/Skeleton
+  - monster:
+    name: "古代のスケルトン"
+    image: /images/AncientSkeleton.png
+    quantity: 5
+    url: /monsters/AncientSkeleton
+  - monster:
+    name: "クールティスト"
+    image: /images/Cooltist.png
+    quantity: 3
+    url: /monsters/Cooltist
+  - monster:
+    name: "ジールナッツ"
+    image: /images/Zealnut.png
+    quantity: 4
+    url: /monsters/Zealnut
+  - monster:
+    name: "ゴーストキング"
     image: /images/GhostKing.png
     quantity: 1
     url: /monsters/GhostKing

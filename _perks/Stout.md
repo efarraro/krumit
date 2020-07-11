@@ -12,6 +12,10 @@ ru-RU_name: "Здоровяк"
 ru-RU_description: "Увеличивает максимальное ❤️ на 6."
 tile_id: Stout
 image: /images/Stout.png
+jp-JP_name: "屈強"
+jp-JP_description: "最大❤️が6増加する"
+tile_id: Stout
+image: /images/Stout.png
 es-ES_name: "Corpulento"
 es-ES_description: "Incrementa tu ❤️ máxima en 6"
 tile_id: Stout

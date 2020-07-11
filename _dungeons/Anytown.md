@@ -42,6 +42,20 @@ monsters:
     image: /images/RoyalGuard.png
     quantity: 1
     url: /monsters/RoyalGuard
+jp-JP_name: "得体の知れない農場"
+jp-JP_description: "あまり目立たず、能天気で、これといった特徴のないどこにでもあるような農場。"
+tier: 0
+monsters:
+  - monster:
+    name: "田舎者"
+    image: /images/Peasant.png
+    quantity: 5
+    url: /monsters/Peasant
+  - monster:
+    name: "タウンガード"
+    image: /images/RoyalGuard.png
+    quantity: 1
+    url: /monsters/RoyalGuard
 es-ES_name: "Granja Insulsa"
 es-ES_description: "Tan modesta, inocente, neutral y ordinaria que bien podría estar en cualquier parte."
 tier: 0

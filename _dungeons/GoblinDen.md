@@ -19,11 +19,20 @@ monsters:
     quantity: 6
     url: /monsters/Gobloid
 ru-RU_name: "Грязный город гоблоидов"
-ru-RU_description: "'Гоблоиды - трагическая и грязная раса, обреченная вонью на жизнь изгоями, вечно сторонясь. Интересно, пахнут ли они друг другом?' - Крумит"
+ru-RU_description: "«Гоблоиды - трагическая и грязная раса, обречённая вонью на жизнь изгоями, вечно сторонясь. Интересно, пахнут ли они друг другом?» - Крумит"
 tier: 0
 monsters:
   - monster:
     name: "Гоблоид"
+    image: /images/Gobloid.png
+    quantity: 6
+    url: /monsters/Gobloid
+jp-JP_name: "不潔なゴブロイドタウン"
+jp-JP_description: "「ゴブロイドは悲壮で不潔な種族じゃ。その悪臭のせいでのけ者にされ、ずっと嫌われてきた。お互い臭いに気づかんのかな？」 - クルミット"
+tier: 0
+monsters:
+  - monster:
+    name: "ゴブロイド"
     image: /images/Gobloid.png
     quantity: 6
     url: /monsters/Gobloid

@@ -42,6 +42,20 @@ monsters:
     image: /images/Cooltist.png
     quantity: 4
     url: /monsters/Cooltist
+jp-JP_name: "地下カルトの集会"
+jp-JP_description: "「おう、新顔ばかりだな……俺はまだ誰も知らない頃からここに出入りしてたんだぜ」 - デスマスターK"
+tier: 1
+monsters:
+  - monster:
+    name: "スケルトン"
+    image: /images/Skeleton.png
+    quantity: 4
+    url: /monsters/Skeleton
+  - monster:
+    name: "クールティスト"
+    image: /images/Cooltist.png
+    quantity: 4
+    url: /monsters/Cooltist
 es-ES_name: "Reunión Kultista Clandestina"
 es-ES_description: "'Ugh, todos estos novatos - <i>Yo</i> estaba merodeando por aquí antes de que nadie más supiera de este lugar.' - Mae$tra de la Muerte K."
 tier: 1

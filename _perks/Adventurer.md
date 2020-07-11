@@ -9,7 +9,11 @@ zh-CN_description: "进入地下城时，持有短剑、链甲与火柴"
 tile_id: Adventurer
 image: /images/Adventurer.png
 ru-RU_name: "Авантюрист"
-ru-RU_description: "Начинает каждое подземелье с копией <a href = '../ru_ru/items#ShortSword'>Короткий меч</a>, <a href = '../ru_ru/items#ChainMail'>Кольчуга</a>, и <a href = '../ru_ru/items#Matches'>Спички</a>"
+ru-RU_description: "В начале каждого подземелья добавляет копии <a href = '../ru_ru/items#ShortSword'>Короткий меч</a>, <a href = '../ru_ru/items#ChainMail'>Кольчуга</a> и <a href = '../ru_ru/items#Matches'>Спички</a> в снаряжение."
+tile_id: Adventurer
+image: /images/Adventurer.png
+jp-JP_name: "冒険家"
+jp-JP_description: "各ダンジョンを<a href = '../jp_jp/items#ShortSword'>ショートソード</a>、<a href = '../jp_jp/items#ChainMail'>鎖かたびら</a>、<a href = '../jp_jp/items#Matches'>マッチ</a>でスタートする"
 tile_id: Adventurer
 image: /images/Adventurer.png
 es-ES_name: "Aventurero"

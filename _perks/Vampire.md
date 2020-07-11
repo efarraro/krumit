@@ -12,6 +12,10 @@ ru-RU_name: "Вампир"
 ru-RU_description: "Восстанавливает 2 ❤️, когда вы убиваете врага в бою. Сбрасывание карточек больше не восстанавливает ❤️."
 tile_id: Vampire
 image: /images/Vampire.png
+jp-JP_name: "ヴァンパイア"
+jp-JP_description: "戦闘で敵を倒すたびに2❤️を回復する。タイルを捨てた際に❤️が回復しなくなる"
+tile_id: Vampire
+image: /images/Vampire.png
 es-ES_name: "Sanguijuela"
 es-ES_description: "Recupera 2 ❤️ cuando derrotes a un enemigo en combate. Descartar fichas ya no te recupera ❤️"
 tile_id: Vampire

@@ -11,8 +11,13 @@ zh-CN_flavor: "从他满脸的胡须和对年轻人的看法上就能看出这�
 tile_id: AncientSkeleton
 image: /images/AncientSkeleton.png
 ru-RU_name: "Древний скелет"
-ru-RU_description: "Этот хорошо бронированный и стильный пижон начинает бой с 2 брони"
+ru-RU_description: "Этот хорошо бронированный и стильный чувак начинает бой с 2 брони."
 ru-RU_flavor: "Понимаешь, этот скелет реально старый - только посмотри на его бороду. Он считает, что молодые скелеты не уважают старших."
+tile_id: AncientSkeleton
+image: /images/AncientSkeleton.png
+jp-JP_name: "古代のスケルトン"
+jp-JP_description: "この武装したオシャレさんは始めから防具を2持っている"
+jp-JP_flavor: "この骸骨オヤジはヒゲを生やしてて、若いスケルトンは礼儀がないと思ってるから本当に老害なんだよね"
 tile_id: AncientSkeleton
 image: /images/AncientSkeleton.png
 es-ES_name: "Esqueleto Anciano"

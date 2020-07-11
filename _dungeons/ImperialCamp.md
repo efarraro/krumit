@@ -72,6 +72,30 @@ monsters:
     image: /images/Cleric.png
     quantity: 4
     url: /monsters/Cleric
+jp-JP_name: "インペリアル訓練場"
+jp-JP_description: "インペリウム精鋭軍の心臓部。剣術、陣形訓練、ヘルメットのプルームデザインなどの訓練などが行われている。"
+tier: 4
+monsters:
+  - monster:
+    name: "田舎者"
+    image: /images/Peasant.png
+    quantity: 3
+    url: /monsters/Peasant
+  - monster:
+    name: "タウンガード"
+    image: /images/RoyalGuard.png
+    quantity: 6
+    url: /monsters/RoyalGuard
+  - monster:
+    name: "ロイヤルガード"
+    image: /images/RoyalGuardElite.png
+    quantity: 4
+    url: /monsters/RoyalGuardElite
+  - monster:
+    name: "ドルイド"
+    image: /images/Cleric.png
+    quantity: 4
+    url: /monsters/Cleric
 es-ES_name: "Campamento Militar Imperial"
 es-ES_description: "El corazón del ejército de élite del Imperio. El entrenamiento incluye esgrima, formaciones, marchas, y diseño de plumas de casco."
 tier: 4

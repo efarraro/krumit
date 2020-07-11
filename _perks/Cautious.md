@@ -9,7 +9,11 @@ zh-CN_description: "无法招架攻击，但是每把装备的武器都会提供
 tile_id: Cautious
 image: /images/Cautious.png
 ru-RU_name: "Предусмотрительный"
-ru-RU_description: "Вы больше не может парировать, но каждое экипированное оружие даёт 2 🛡️️ <u>блока</u>"
+ru-RU_description: "Вы больше не может парировать, но каждое экипированное оружие даёт 2 🛡️️ <u>блока</u>."
+tile_id: Cautious
+image: /images/Cautious.png
+jp-JP_name: "用心"
+jp-JP_description: "回避はできなくなるが、装備した各武器に2🛡️️ <u>ブロック</u>追加される"
 tile_id: Cautious
 image: /images/Cautious.png
 es-ES_name: "Cauteloso"

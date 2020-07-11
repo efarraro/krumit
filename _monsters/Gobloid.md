@@ -15,6 +15,11 @@ ru-RU_description: "Этот враг очень быстрый - остерег
 ru-RU_flavor: "Грязные, но не такие глупые, как кажутся, Гоблоиды боятся чужаков из-за истории издевательств. Они объединяются в группы в надежде основать новую землю, настолько вонючую, чтобы их оставил в покое внешний мир."
 tile_id: Gobloid
 image: /images/Gobloid.png
+jp-JP_name: "ゴブロイド"
+jp-JP_description: "この敵は素早いぞ。奴の⚡️ <u>急襲</u>攻撃に注意しろ！"
+jp-JP_flavor: "ゴブロイドは気持ち悪い見た目に反して、それほど愚かではない。その強烈な体臭のせいで、これまでいじめられてきた経験から他人を恐れており、ぼっち同士が結集して、新しい国を創ることを夢見ている。"
+tile_id: Gobloid
+image: /images/Gobloid.png
 es-ES_name: "Gobloide"
 es-ES_description: "Este enemigo es rápido - ¡ten cuidado con sus ataques con ⚡️ <u>relámpago</u>!"
 es-ES_flavor: "Asquerosos, aunque no tan estúpidos como parecen, los Gobloides temen a los forasteros debido a una historia de maltratos. Se agrupan con la esperanza de fundar una nueva nación, una lo suficientemente apestosa como para que el mundo de afuera los deje en paz."

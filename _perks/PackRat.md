@@ -9,7 +9,11 @@ zh-CN_description: "物品栏中有4件物品时，基础攻击+1"
 tile_id: PackRat
 image: /images/PackRat.png
 ru-RU_name: "Барахольщик"
-ru-RU_description: "Ваша базовая 🔸 увеличена на 1, пока у вас 4 карточки в снаряжении"
+ru-RU_description: "Ваша базовая 🔸 увеличена на 1, пока в снаряжении находятся 4 карточки."
+tile_id: PackRat
+image: /images/PackRat.png
+jp-JP_name: "収集家"
+jp-JP_description: "インベントリにタイルが4枚ある場合、基礎🔸が1増加する"
 tile_id: PackRat
 image: /images/PackRat.png
 es-ES_name: "Cachivachero"

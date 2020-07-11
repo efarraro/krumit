@@ -15,6 +15,11 @@ ru-RU_description: "Этот враг очень быстрый - остерег
 ru-RU_flavor: "Эпоха радиации превратила лучшего друга человека в бешеную неприятность. Очень опасный и очень токсичный."
 tile_id: Nukadog
 image: /images/Nukadog.png
+jp-JP_name: "ハナタレウルフ"
+jp-JP_description: "この敵は素早いぞ。奴の⚡️ <u>急襲</u>攻撃に気をつけろ！"
+jp-JP_flavor: "放射能の時代は人間の一番の親友を粘液まみれの狂犬に変えてしまった。とても危険であり、すごい毒を持っているぞ。"
+tile_id: Nukadog
+image: /images/Nukadog.png
 es-ES_name: "Moquenco"
 es-ES_description: "Este enemigo es rápido - ¡ten cuidado con sus ataques de ⚡️ <u>relámpago</u>!"
 es-ES_flavor: "La Edad Radioactiva ha transformado al mejor amigo del hombre en una alimaña mocosa y rabiosa. Los siguen poniendo en memes, eso sí."

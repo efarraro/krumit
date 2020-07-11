@@ -19,11 +19,20 @@ monsters:
     quantity: 6
     url: /monsters/Skeleton
 ru-RU_name: "Пыльный подвал"
-ru-RU_description: "Этот пыльный подвал наполняет тебя мощным чувством ностальгии"
+ru-RU_description: "Этот пыльный подвал наполняет тебя мощным чувством ностальгии."
 tier: 0
 monsters:
   - monster:
     name: "Скелет"
+    image: /images/Skeleton.png
+    quantity: 6
+    url: /monsters/Skeleton
+jp-JP_name: "埃まみれの地下室"
+jp-JP_description: "埃まみれの地下室は、強烈な郷愁を誘う。"
+tier: 0
+monsters:
+  - monster:
+    name: "スケルトン"
     image: /images/Skeleton.png
     quantity: 6
     url: /monsters/Skeleton

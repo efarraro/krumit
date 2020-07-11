@@ -18,6 +18,12 @@ ru-RU_flavor: "Blaglrlk Uhtzxz kkkckckckgfg eepyhzyx!"
 tile_id: CurseOfTongues
 cost: -1
 image: /images/CurseOfTongues.png
+jp-JP_name: "Curse of Tongues"
+jp-JP_description: "When you restore ❤️, reduce the amount by 1 while this tile is on the board. Pay 2 ❤️ to remove it"
+jp-JP_flavor: "Blaglrlk Uhtzxz kkkckckckgfg eepyhzyx!"
+tile_id: CurseOfTongues
+cost: -1
+image: /images/CurseOfTongues.png
 es-ES_name: "Curse of Tongues"
 es-ES_description: "When you restore ❤️, reduce the amount by 1 while this tile is on the board. Pay 2 ❤️ to remove it"
 es-ES_flavor: "Blaglrlk Uhtzxz kkkckckckgfg eepyhzyx!"

@@ -98,7 +98,7 @@ monsters:
     quantity: 5
     url: /monsters/Zealnut
   - monster:
-    name: "Кардосо"
+    name: "Кардозо"
     image: /images/Cardoso.png
     quantity: 1
     url: /monsters/Cardoso

@@ -26,7 +26,7 @@ es-ES_flavor: "Hasta los monstruos necesitan necesitan cuidados espirituales de 
 tile_id: Cleric
 image: /images/Cleric.png
 pl-PL_name: "Druid"
-pl-PL_description: "Gdy ten przeciwnik wchodzi na planszę dodaje innemu losowemu przeciwnikowi w tej samej kolumnie 3 pancerza"
+pl-PL_description: "Gdy ten przeciwnik pojawia się na planszy, dodaje innemu losowemu przeciwnikowi w tej samej kolumnie 3 pancerza."
 pl-PL_flavor: "Nawet potwory potrzebują duchowości od czasu do czasu."
 tile_id: Cleric
 image: /images/Cleric.png

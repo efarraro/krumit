@@ -26,8 +26,8 @@ es-ES_flavor: "Zarzal, el rey de los Barbarosos, es también un aficionado a las
 tile_id: Bramble
 image: /images/Bramble.png
 pl-PL_name: "Misiek z Cierniowa"
-pl-PL_description: "Na Arenie w Cierniowie, odrzucanie płytek nie leczy, ale pokonanie przeciwnika daje +1 złota"
-pl-PL_flavor: "Misiek, król Ursorzyńców, jest koneserem potyczek do ostatniego kombatanta. Poszukiwacze przygód z całego świata stawiają czoła wyzwaniu na jego arenie."
+pl-PL_description: "Na Arenie w Cierniowie, odrzucanie płytek nie leczy, ale pokonanie przeciwnika daje +1 💰."
+pl-PL_flavor: "Misiek, król Niedźwierzyńców, jest koneserem potyczek do ostatniego kombatanta. Poszukiwacze przygód z całego świata stawiają czoła wyzwaniu na jego arenie."
 tile_id: Bramble
 image: /images/Bramble.png
 ---

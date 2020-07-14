@@ -21,7 +21,7 @@ es-ES_description: "Cada vez que adquieras una habilidad, recupera 1 ❤️"
 tile_id: Blessed
 image: /images/Blessed.png
 pl-PL_name: "Błogosławiony"
-pl-PL_description: "Kiedy uzyskasz zdolność, odzyskaj 1 ❤️"
+pl-PL_description: "Gdy uzyskujesz umiejętność, odzyskaj 1 ❤️."
 tile_id: Blessed
 image: /images/Blessed.png
 ---

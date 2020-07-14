@@ -12,7 +12,7 @@ zh-CN_flavor: "你不能把“暴徒”看成是“抱徒”，因为你不觉�
 tile_id: Knave
 image: /images/Knave.png
 ru-RU_name: "Бандит пустоши"
-ru-RU_description: "Накладывает <u>Рана</u> на уязвимых врагов, чтобы ослабить их, прежде чем нанести смертельный  <u>яд</u>!"
+ru-RU_description: "Накладывает <u>рану</u> на уязвимых врагов, чтобы ослабить их, прежде чем нанести смертельный  <u>яд</u>!"
 ru-RU_flavor: "Пустые в происхождении и в головах."
 tile_id: Knave
 image: /images/Knave.png
@@ -27,7 +27,7 @@ es-ES_flavor: "No puedes escribir 'gamberros' sin 'berros'. ¿Estarán emparenta
 tile_id: Knave
 image: /images/Knave.png
 pl-PL_name: "Zbir z Pustkowi"
-pl-PL_description: "Zadaje <u>Rana</u> wrażliwym przeciwnikom aby ich osłabić, po czym  <u>trucizna</u> ich śmiercionośną trucizną."
+pl-PL_description: "Zadaje ranę (<u>Rana</u>) wrażliwym przeciwnikom aby ich osłabić, po czym zatruwa ( <u>trucizna</u>) ich śmiercionośną trucizną."
 pl-PL_flavor: "Pustkowie w pochodzeniu i w głowie."
 tile_id: Knave
 image: /images/Knave.png

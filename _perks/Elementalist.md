@@ -21,7 +21,7 @@ es-ES_description: "Tu 🔸 base se incrementa en 1 contra objetivos  <u>quemado
 tile_id: Elementalist
 image: /images/Elementalist.png
 pl-PL_name: "Żywiołak"
-pl-PL_description: "Twój 🔸 jest zwiększony o 1 przeciwko wrogom, którzy są podpaleni ( <u>w płomieniach</u>), zatruci ( <u>zatruty</u>), lub zamrożeni (<u>zamrożony</u>)."
+pl-PL_description: "Twój 🔸 jest zwiększony o 1 przeciwko wrogom, którzy są podpaleni ( <u>podpalenie</u>), zatruci ( <u>trucizna</u>), lub zamrożeni (<u>zamrożenie</u>)."
 tile_id: Elementalist
 image: /images/Elementalist.png
 ---

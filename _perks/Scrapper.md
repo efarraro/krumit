@@ -21,7 +21,7 @@ es-ES_description: "Tu 🔸 base se incrementa en 2 cuando atacas enemigos con a
 tile_id: Scrapper
 image: /images/Scrapper.png
 pl-PL_name: "Złomiarz"
-pl-PL_description: "🔸 jest zwiększony o 2 jeżeli atakujesz przeciwników w pancerzu lub 🛡️️ <u>blok</u>."
+pl-PL_description: "🔸 jest zwiększony o 2 jeżeli atakujesz przeciwników blokujących (🛡️️ <u>blok</u>) lub w pancerzu."
 tile_id: Scrapper
 image: /images/Scrapper.png
 ---

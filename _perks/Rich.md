@@ -21,7 +21,7 @@ es-ES_description: "Gana 2 💰 al inicio de cada mazmorra"
 tile_id: Rich
 image: /images/Rich.png
 pl-PL_name: "Bogacz"
-pl-PL_description: "Na początku każdego lochu, zyskaj 2 💰"
+pl-PL_description: "Na początku każdego lochu, zyskaj 2 💰."
 tile_id: Rich
 image: /images/Rich.png
 ---

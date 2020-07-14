@@ -21,7 +21,7 @@ es-ES_description: "Cuando huyas de un combate, gana 2 de 🛡️️ <u>bloqueo<
 tile_id: ScaredyCat
 image: /images/ScaredyCat.png
 pl-PL_name: "Taktyczny odwrót"
-pl-PL_description: "Gdy uciekasz z walki, uzyskaj 2 🛡️️ <u>blok</u>"
+pl-PL_description: "Gdy uciekasz z walki, uzyskaj 2 🛡️️ <u>blok</u>."
 tile_id: ScaredyCat
 image: /images/ScaredyCat.png
 ---

@@ -9,7 +9,7 @@ zh-CN_description: "拥有4枚或更多金币时，基础攻击+1，否则基础
 tile_id: GreedyPerk
 image: /images/GreedyPerk.png
 ru-RU_name: "Жадный"
-ru-RU_description: "Ваша базовая 🔸 увеличена на 1, если у вас 4 или больше 💰, и уменьшена на 1 в противном случае"
+ru-RU_description: "Ваша базовая 🔸 увеличена на 1, если у вас 4 или больше 💰, и уменьшена на 1 в противном случае."
 tile_id: GreedyPerk
 image: /images/GreedyPerk.png
 jp-JP_name: "貪欲"

@@ -21,7 +21,7 @@ es-ES_description: "Al principio de cada mazmorra, baraja 3 pociones aleatorias 
 tile_id: Alchemist
 image: /images/Alchemist.png
 pl-PL_name: "Alchemik"
-pl-PL_description: "Na początku każdego lochu, wtasuj 3 losowe mikstury do talii"
+pl-PL_description: "Na początku każdego lochu, wtasuj 3 losowe mikstury do talii."
 tile_id: Alchemist
 image: /images/Alchemist.png
 ---

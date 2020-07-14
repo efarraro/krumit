@@ -26,7 +26,7 @@ es-ES_flavor: "Los más agresivos de los Gobloides son conocidos como Cabezas Du
 tile_id: GobloidKnucklehead
 image: /images/GobloidKnucklehead.png
 pl-PL_name: "Wiadrołeb"
-pl-PL_description: "Gdy pokonasz tego przeciwnika, <a href = '../pl_pl/abilities#Stupidity'>Gupota</a> zostanie dodane do ekwipunku."
+pl-PL_description: "Gdy pokonasz tego przeciwnika, <a href = '../pl_pl/abilities#Stupidity'>Gupota</a> zostanie dodana do ekwipunku."
 pl-PL_flavor: "Najbardziej agresywne z Gobloidów są zwane Wiadrogłowymi. Należy się liczyć z tym, że nie potrafią liczyć."
 tile_id: GobloidKnucklehead
 image: /images/GobloidKnucklehead.png

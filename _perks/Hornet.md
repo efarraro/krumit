@@ -21,7 +21,7 @@ es-ES_description: "Después de atacar con un arma, inflige  <u>veneno</u>. Haz 
 tile_id: Hornet
 image: /images/Hornet.png
 pl-PL_name: "Szerszeń"
-pl-PL_description: "Atakując bronią, zatruj przeciwnika ( <u>trucizna</u>). +1 🔸 przeciwko zatrutym przeciwnikom."
+pl-PL_description: "Atakując bronią, zatruwasz przeciwnika ( <u>trucizna</u>). +1 🔸 przeciwko zatrutym przeciwnikom."
 tile_id: Hornet
 image: /images/Hornet.png
 ---

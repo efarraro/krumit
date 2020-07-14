@@ -9,7 +9,7 @@ zh-CN_description: "向地下城牌组中添加3张<a href = '../zh_cn/monsters#
 tile_id: StreetRat
 image: /images/StreetRat.png
 ru-RU_name: "Уличная крыса"
-ru-RU_description: "Добавляет 3 <a href = '../ru_ru/monsters#RoyalGuard'>Городская стража</a> в колоду. Первая карточка, которую вы приобретёте, будет бесплатной"
+ru-RU_description: "В начале каждого подземелья замешивает 3 копии <a href = '../ru_ru/monsters#RoyalGuard'>Городская стража</a> в колоду. Первая карточка, которую вы получите, будет бесплатной."
 tile_id: StreetRat
 image: /images/StreetRat.png
 jp-JP_name: "街ネズミ"
@@ -21,7 +21,7 @@ es-ES_description: "Añade 3 <a href = '../es_es/monsters#RoyalGuard'>Guardia de
 tile_id: StreetRat
 image: /images/StreetRat.png
 pl-PL_name: "Dziecko ulicy"
-pl-PL_description: "Dodaj 3 <a href = '../pl_pl/monsters#RoyalGuard'>Strażnik Miejski</a> do talii. Pierwsza płytka którą uzyskasz jest darmowa"
+pl-PL_description: "Dodaj 3 <a href = '../pl_pl/monsters#RoyalGuard'>Strażnik Miejski</a> do talii. Pierwsza płytka, którą uzyskasz jest darmowa."
 tile_id: StreetRat
 image: /images/StreetRat.png
 ---

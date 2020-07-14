@@ -9,7 +9,7 @@ zh-CN_description: "将你所有技能的基础费用调整到2"
 tile_id: BalancedPerk
 image: /images/BalancedPerk.png
 ru-RU_name: "Сбалансированный"
-ru-RU_description: "Базовая стоимость всех твоих способностей равна 2 💰"
+ru-RU_description: "Базовая цена всех ваших способностей равна 2 💰."
 tile_id: BalancedPerk
 image: /images/BalancedPerk.png
 jp-JP_name: "バランス"

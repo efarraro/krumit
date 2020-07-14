@@ -21,7 +21,7 @@ es-ES_description: "Una vez por combate, <u>congela</u> a tu oponente después d
 tile_id: Chill
 image: /images/Chill.png
 pl-PL_name: "Chłód"
-pl-PL_description: "Raz na walkę, po akcji przeciwnika zamroź go (<u>zamrożenie</u>) jeżeli zawierała ona 🔸."
+pl-PL_description: "Raz na walkę, zamroź (<u>zamrożenie</u>) przeciwnika go jeżeli jego akcja zawierała 🔸."
 tile_id: Chill
 image: /images/Chill.png
 ---

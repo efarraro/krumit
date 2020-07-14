@@ -21,7 +21,7 @@ es-ES_description: "Mientras tengas al menos 4 de 🛡️️ <u>bloqueo</u>, gan
 tile_id: Thorny
 image: /images/Thorny.png
 pl-PL_name: "Ciernisty"
-pl-PL_description: "Gdy masz przynajmniej 4 🛡️️ <u>blok</u>, uzyskujesz <u>ciernie</u> (2)."
+pl-PL_description: "Gdy masz przynajmniej 4 🛡️️ <u>blok</u>, uzyskujesz <u>ciernie</u> 2."
 tile_id: Thorny
 image: /images/Thorny.png
 ---

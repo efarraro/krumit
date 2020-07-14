@@ -21,7 +21,7 @@ es-ES_description: "'Apuñalar' hace +1 de daño"
 tile_id: Stabby
 image: /images/Stabby.png
 pl-PL_name: "Ostrzejsze Dźgnięcie"
-pl-PL_description: "Dźgnięcie zadają +1 obrażeń."
+pl-PL_description: "<a href = '../pl_pl/abilities#Stab'>Dźgnięcie</a> zadaje +1 obrażeń."
 tile_id: Stabby
 image: /images/Stabby.png
 ---

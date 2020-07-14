@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Radioactive"
-EN_description: " <u>poison</u> enemies when they spawn"
+EN_description: " <u>Poison</u> enemies when they spawn"
 tile_id: Radioactive
 image: /images/Radioactive.png
 zh-CN_name: "辐射"
@@ -21,7 +21,7 @@ es-ES_description: " <u>envenena</u> a los enemigos cuando entren al tablero"
 tile_id: Radioactive
 image: /images/Radioactive.png
 pl-PL_name: "Radioaktywny"
-pl-PL_description: "Zatruj ( <u>trucizna</u>) przeciwników gdy się pojawiają."
+pl-PL_description: "Zatruj ( <u>trucizna</u>) przeciwników gdy pojawiają się na planszy."
 tile_id: Radioactive
 image: /images/Radioactive.png
 ---

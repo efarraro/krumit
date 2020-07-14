@@ -38,7 +38,7 @@ monsters:
     image: /images/GobloidKing.png
     quantity: 1
     url: /monsters/GobloidKing
-ru-RU_name: "Столица Гоблоидов: В'аггу"
+ru-RU_name: "Столица гоблоидов В’аггу"
 ru-RU_description: "В’аггу - это название столицы гоблоидов. И имя их короля. И их фирменное блюдо. И самое популярное имя ребёнка гоблоида."
 tier: 2
 monsters:

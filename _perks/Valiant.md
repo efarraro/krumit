@@ -21,7 +21,7 @@ es-ES_description: "<u>abrumado</u>: Gana +2 🔸"
 tile_id: Valiant
 image: /images/Valiant.png
 pl-PL_name: "Dzielny"
-pl-PL_description: "<u>otoczona</u>: +2 🔸"
+pl-PL_description: "<u>Otoczona</u>: +2 🔸"
 tile_id: Valiant
 image: /images/Valiant.png
 ---

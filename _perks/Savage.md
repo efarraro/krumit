@@ -21,7 +21,7 @@ es-ES_description: "Cuando derrotes a un enemigo, añade una copia de <a href = 
 tile_id: Savage
 image: /images/Savage.png
 pl-PL_name: "Zdziczały"
-pl-PL_description: "Gdy pokonasz przeciwnika, uzyskaj <a href = '../pl_pl/abilities#Frenzy'>Szał</a> do ekwipunku (jeżeli jest miejsce)"
+pl-PL_description: "Gdy pokonasz przeciwnika, uzyskaj <a href = '../pl_pl/abilities#Frenzy'>Szał</a> do ekwipunku (jeżeli jest miejsce)."
 tile_id: Savage
 image: /images/Savage.png
 ---

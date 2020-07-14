@@ -21,7 +21,7 @@ es-ES_description: "Gana <u>sigilo</u> cuando ataques un enemigo <u>solitario</u
 tile_id: Riffraff
 image: /images/Riffraff.png
 pl-PL_name: "Gałgaństwo"
-pl-PL_description: "Ukryj się (<u>ukrywanie się</u>) gdy atakujesz <u>samotny</u> przeciwników. Jeżeli nie jesteś <u>otoczona</u>, 🔸 jest obniżony o 1."
+pl-PL_description: "Ukryj się (<u>ukrywanie się</u>) gdy atakujesz samotnych (<u>samotny</u>) przeciwników. Jeżeli nie jesteś <u>Otoczona</u>, 🔸 jest obniżony o 1."
 tile_id: Riffraff
 image: /images/Riffraff.png
 ---

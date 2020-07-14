@@ -9,7 +9,7 @@ zh-CN_description: "进入地下城时，向地下城牌组洗入3张“炫耀�
 tile_id: Champion
 image: /images/Champion.png
 ru-RU_name: "Чемпион"
-ru-RU_description: "В начале каждого подземелья, замешивает 3 копии <a href = '../ru_ru/abilities#Flex'>Игра мышцами</a> в колоду"
+ru-RU_description: "В начале каждого подземелья замешивает 3 копии <a href = '../ru_ru/abilities#Flex'>Игра мышцами</a> в колоду."
 tile_id: Champion
 image: /images/Champion.png
 jp-JP_name: "チャンピオン"
@@ -21,7 +21,7 @@ es-ES_description: "Al inicio de cada mazmorra, baraja 3 copias de <a href = '..
 tile_id: Champion
 image: /images/Champion.png
 pl-PL_name: "Czempion"
-pl-PL_description: "Na początku każdego lochu wtasuj 3 kopie <a href = '../pl_pl/abilities#Flex'>Napinka</a> do talii"
+pl-PL_description: "Na początku każdego lochu wtasuj 3 kopie karty <a href = '../pl_pl/abilities#Flex'>Napinka</a> do talii."
 tile_id: Champion
 image: /images/Champion.png
 ---

@@ -26,7 +26,7 @@ es-ES_flavor: "Heraldo de los Arboluchos, Elmer puede acceder a una red de hongo
 tile_id: Elmer
 image: /images/Elmer.png
 pl-PL_name: "Dąbromir"
-pl-PL_description: "Dąbromir otrzymuje podwójne obrażenia gdy jest ogłuszony (<u>ogłuszony</u>). Gdy pokonasz innego Treanta, Dąbromir otrzymuje 5 obrażeń"
+pl-PL_description: "Dąbromir otrzymuje podwójne obrażenia gdy jest <u>ogłuszony</u>. Gdy pokonasz innego Treanta, Dąbromir otrzymuje 5 obrażeń."
 pl-PL_flavor: "Dąbromir, Strażnik Drzewoludzi, wykorzystuje sieć samoświadomej grzybni aby podsłuchiwać rozmów w lesie. Czasami wiewiórki zajmują linię żeby plotkować o żołędziach."
 tile_id: Elmer
 image: /images/Elmer.png

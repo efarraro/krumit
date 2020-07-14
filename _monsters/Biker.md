@@ -25,7 +25,7 @@ es-ES_description: "¡No te gustará si se enoja! Cada vez que este enemigo sufr
 es-ES_flavor: "Los Motomutantes rinden culto a su dios-máquina, el Sr. Darley Havidson, y rezan porque un día descienda desde lo alto con sus conductores del Motocalipsis: La Sra. Sue Zuuki, el Duque Ati, y el pequeño de la familia, Ves Pah."
 tile_id: Biker
 image: /images/Biker.png
-pl-PL_name: "Rowerzysta Mutant"
+pl-PL_name: "Mutocyklista"
 pl-PL_description: "Robi się nieprzyjemny gdy się wkurzy! Za każdym razem gdy ten wróg otrzymuje obrażenia, jego 🔸 wzrasta o 1."
 pl-PL_flavor: "Mutocykliści czczą boga maszyn, Pana Darley'a Havidson'a, i modlą się że pewnego dnia zstąpi ze swymi Jeźdźcami Motocykalipsy: Panią Sue Zuuki, Duke Ati oraz chuchrem rodziny, Ves Pah."
 tile_id: Biker

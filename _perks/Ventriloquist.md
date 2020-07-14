@@ -21,7 +21,7 @@ es-ES_description: "Tus 💀 <u>Esbirros</u> tienen +1 de ataque, pero tu 🔸 b
 tile_id: Ventriloquist
 image: /images/Ventriloquist.png
 pl-PL_name: "Brzuchomówca"
-pl-PL_description: "💀 <u>Sługusy</u> mają +1 ataku, ale twój 🔸 jest obniżony o 1. Rozpoczynasz każdy loch z Szkielet."
+pl-PL_description: "💀 <u>Sługusy</u> mają +1 ataku, ale twój 🔸 jest obniżony o 1. Na początku każdego lochu otrzymujesz Szkielet."
 tile_id: Ventriloquist
 image: /images/Ventriloquist.png
 ---

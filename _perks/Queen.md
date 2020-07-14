@@ -21,7 +21,7 @@ es-ES_description: "Tu primer ataque en cada combate aplica  <u>corrupción</u> 
 tile_id: Queen
 image: /images/Queen.png
 pl-PL_name: "Królowa"
-pl-PL_description: "Pierwszy atak w każdej walce powoduje  <u>zepsucie</u> (3)"
+pl-PL_description: "Pierwszy atak w każdej walce powoduje  <u>zepsucie</u> 3."
 tile_id: Queen
 image: /images/Queen.png
 ---

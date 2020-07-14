@@ -190,7 +190,7 @@ monsters:
     quantity: 4
     url: /monsters/Viking
   - monster:
-    name: "Rowerzysta Mutant"
+    name: "Mutocyklista"
     image: /images/Biker.png
     quantity: 3
     url: /monsters/Biker

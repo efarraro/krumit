@@ -68,7 +68,7 @@ monsters:
     image: /images/GobloidKnucklehead.png
     quantity: 2
     url: /monsters/GobloidKnucklehead
-ru-RU_name: "Старая таверна 'Падение Метеора'"
+ru-RU_name: "Старая таверна «Падение Метеора»"
 ru-RU_description: "«Я слышала, что они там играют в какую-то чудную карточную игру - Meteorfall, не так ли? Я всегда хотела сыграть в неё» - Роза"
 tier: 4
 monsters:
@@ -175,7 +175,7 @@ pl-PL_description: "'Szyszałam, że grają tam w karty, w grę Meteorfall. Zaws
 tier: 4
 monsters:
   - monster:
-    name: "Rowerzysta Mutant"
+    name: "Mutocyklista"
     image: /images/Biker.png
     quantity: 3
     url: /monsters/Biker

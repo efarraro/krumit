@@ -21,7 +21,7 @@ es-ES_description: "Tu 🔸 base se incrementa en 2 contra jefes"
 tile_id: Giantslayer
 image: /images/Giantslayer.png
 pl-PL_name: "Pogromca"
-pl-PL_description: "Pogromca Gigantów"
+pl-PL_description: "+2 🔸 przeciwko bossom."
 tile_id: Giantslayer
 image: /images/Giantslayer.png
 ---

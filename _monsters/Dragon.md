@@ -11,7 +11,7 @@ zh-CN_flavor: "巴斯隆缪是世界上最后一只（目前已知的……）�
 tile_id: Dragon
 image: /images/Dragon.png
 ru-RU_name: "Бартоломью"
-ru-RU_description: "При 60, 40 и 20 ❤️ накладывает  <u>ожог</u> (3) на себя и замешивается обратно в колоду. Имеет +1 🔸 за каждый стак ожога."
+ru-RU_description: "При 60, 40 и 20 ❤️ накладывает  <u>ожог</u> (3) на себя и замешивается обратно в колоду. Имеет +1 🔸 за каждый  <u>ожог</u> на себе."
 ru-RU_flavor: "Бартоломью - последний (известный...) дракорн, грозный и несчастный вид, рождённый от высокооблученных кур."
 tile_id: Dragon
 image: /images/Dragon.png
@@ -26,7 +26,7 @@ es-ES_flavor: "Batholomew es el último Dragullo (del que se sepa…), una raza 
 tile_id: Dragon
 image: /images/Dragon.png
 pl-PL_name: "Bartpłomień"
-pl-PL_description: "Po osiągnięciu 60, 40 i 20 ❤️, ta płytka otrzymuje  <u>podpalenie</u> (3) i jest wtasowana do talii. +1 🔸 za każdy  <u>podpalenie</u>"
+pl-PL_description: "Po osiągnięciu 60, 40 i 20 ❤️, ta płytka otrzymuje  <u>podpalenie</u> 3 i jest wtasowana do talii. +1 🔸 za każde  <u>podpalenie</u>."
 pl-PL_flavor: "Bartpłomień jest ostatnim ze (znanych...) Smroków, przerażającej i niefortunnie wyglądającej rasie zrodzonej z napromieniowanych kurczaków."
 tile_id: Dragon
 image: /images/Dragon.png

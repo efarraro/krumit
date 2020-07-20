@@ -8,7 +8,7 @@ zh-CN_name: "掘墓者"
 zh-CN_description: "场上至少有3张<a href = '../zh_cn/items#Tombstone'>墓碑</a>时，你的基础🔸+1"
 tile_id: Cannibal
 image: /images/Cannibal.png
-ru-RU_name: "Могильщик"
+ru-RU_name: "Гробовщик"
 ru-RU_description: "Ваша базовая 🔸 увеличена на 1, пока на поле есть как минимум 3 <a href = '../ru_ru/items#Tombstone'>Надгробье</a>."
 tile_id: Cannibal
 image: /images/Cannibal.png

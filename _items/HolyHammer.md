@@ -26,7 +26,7 @@ durability: 2
 hero: priest
 jp-JP_name: "聖なる鉄槌"
 jp-JP_description: " <u>生命奪取</u>(1)"
-jp-JP_flavor: "Бьёт грубой, сокрушительной силой прозрения, но оставляет вас с недопониманием."
+jp-JP_flavor: "鈍く押しつぶすような顕現の力で叩きつけるが、全く仕組みは分からない。"
 tile_id: HolyHammer
 cost: 2
 image: /images/HolyHammer.png

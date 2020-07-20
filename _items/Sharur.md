@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 jp-JP_name: "シャルウル"
 jp-JP_description: "この武器の🔸は、 <u>腐敗</u>させた敵一種類につき1ずつ増加する"
-jp-JP_flavor: "Эта утренняя звезда может иметь маленькое проклятие в качестве угощения."
+jp-JP_flavor: "このモーニングスターは、おやつに呪いを少し持っていてもいい。"
 tile_id: Sharur
 cost: 4
 image: /images/Sharur.png

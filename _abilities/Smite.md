@@ -36,7 +36,7 @@ cost: 1
 image: /images/Smite.png
 hero: priest
 pl-PL_name: "Potępienie"
-pl-PL_description: "Zadaj 3 przenikliwych (<u>przenikający</u>) obrażeń (+2 jeżeli twoje ❤️ jest pełne). <u>Wyczerpany</u>"
+pl-PL_description: "Zadaj 3 przenikliwych (<u>przenikliwy</u>) obrażeń (+2 jeżeli twoje ❤️ jest pełne). <u>Wyczerpany</u>"
 pl-PL_flavor: "'Potępienie wrogów jest skuteczną, efektywną i efektowną bronią.' - wyciąg z 'Kapłaństwa dla Żółtodziobów'"
 tile_id: Smite
 cost: 1

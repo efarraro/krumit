@@ -26,7 +26,7 @@ es-ES_flavor: "El Exiliado vaga por los Páramos recolectando baratijas y artefa
 tile_id: TheExile
 image: /images/TheExile.png
 pl-PL_name: "Wygnaniec"
-pl-PL_description: "Ten przeciwnik jest nietykalny dopóki inni przeciwnicy znajdują się na planszy. Koszt płytek zwiększony o 1"
+pl-PL_description: "Ten przeciwnik jest nietykalny dopóki inni przeciwnicy znajdują się na planszy. Koszt płytek zwiększony o 1 💰."
 pl-PL_flavor: "Wygnaniec błąka się po Pustkowiu zbierając artefakty i ubierając się w bibeloty. Czy ten wyrodny wędrownik będzie wałęsać się wiecznie? Skąd został wygnany? Wszystko okaże się w swoim czasie..."
 tile_id: TheExile
 image: /images/TheExile.png

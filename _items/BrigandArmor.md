@@ -42,7 +42,7 @@ durability: 3
 hero: rogue
 pl-PL_name: "Zbroja Zbójnika"
 pl-PL_description: "Musisz się skradać (<u>ukrywanie się</u>) aby to założyć"
-pl-PL_flavor: "Mroczna kurtka, idealna na wieczorne zasadzki."
+pl-PL_flavor: "Ciemna kurtka, idealna na wieczorne zasadzki."
 tile_id: BrigandArmor
 cost: 2
 image: /images/BrigandArmor.png

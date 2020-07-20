@@ -18,7 +18,7 @@ durability: 3
 hero: mage
 ru-RU_name: "Снежок"
 ru-RU_description: "Накладывает <u>мороз</u> на врага."
-ru-RU_flavor: "Серобородый зачаровал это так, чтобы он никогда не растаял."
+ru-RU_flavor: "Седобородый зачаровал это так, чтобы он никогда не растаял."
 tile_id: Snowball
 cost: 2
 image: /images/Snowball.png
@@ -41,7 +41,7 @@ image: /images/Snowball.png
 durability: 3
 hero: mage
 pl-PL_name: "Śnieżka"
-pl-PL_description: "Zamroź (<u>zamrożenie</u>) (1) wskazanego wroga."
+pl-PL_description: "Zamroź (<u>zamrożenie</u>) wskazanego wroga."
 pl-PL_flavor: "Mocno ubita dzięki zaczarowanym płatkom z najwyższego płaskowyżu Twarzogóry."
 tile_id: Snowball
 cost: 2

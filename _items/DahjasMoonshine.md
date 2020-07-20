@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 jp-JP_name: "ダージャの密造酒"
 jp-JP_description: "4❤️を回復し、デッキに<u>呪い</u>をシャッフルする"
-jp-JP_flavor: "Дажасов самогон - это всегда хорошее времяпрепровождение, за которым следует плохое."
+jp-JP_flavor: "ダージャの密造酒はいつも楽しい時の後に悪夢が待ち受けている。"
 tile_id: DahjasMoonshine
 cost: 2
 image: /images/DahjasMoonshine.png

@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 jp-JP_name: "渦巻きヒル"
 jp-JP_description: "この武器はフル❤️の敵を攻撃した時に <u>生命奪取</u>(4)効果を発揮する"
-jp-JP_flavor: "«Они пьют только из самых полных чашек. Придирчивые маленькие мерзавцы» - фермер-пиявка Лонзо."
+jp-JP_flavor: "「奴らは満杯のコップからしか飲まない。気の小さい奴らだ」 ヒル農夫 ロンゾ"
 tile_id: CoiledLeech
 cost: 3
 image: /images/CoiledLeech.png

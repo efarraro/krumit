@@ -15,7 +15,7 @@ cost: 2
 image: /images/Fireball.png
 hero: mage
 ru-RU_name: "Огненный шар"
-ru-RU_description: "Наносит 6 <u>пронзающий</u> урона врагу. <u>Сжигается</u>."
+ru-RU_description: "Наносит 6 <u>пронзающего</u> урона врагу. <u>Сжигается</u>."
 ru-RU_flavor: "Возможно вы подумали, что первое заклинание, которое учит начинающий маг, это что-то типо ‘вспышки’. Но где в этом веселье?"
 tile_id: Fireball
 cost: 2
@@ -36,7 +36,7 @@ cost: 2
 image: /images/Fireball.png
 hero: mage
 pl-PL_name: "Kula Ognia"
-pl-PL_description: "Zadaj 6 przenikliwych (<u>przenikający</u>) obrażeń wskazanemu przeciwnikowi. <u>Wyczerpany</u>"
+pl-PL_description: "Zadaj 6 przenikliwych (<u>przenikliwy</u>) obrażeń wskazanemu przeciwnikowi. <u>Wyczerpany</u>"
 pl-PL_flavor: "'Na pierwszej lekcji powinniśmy przerobić czar 'iskra', ale to nudne. Chcecie zobaczyć coś naprawdę fajnego?' - nauczyciel Siwobrodego"
 tile_id: Fireball
 cost: 2

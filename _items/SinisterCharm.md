@@ -41,8 +41,8 @@ image: /images/SinisterCharm.png
 durability: 3
 hero: rogue
 pl-PL_name: "Złowieszcza Zawieszka"
-pl-PL_description: " <u>Trucizna</u> (1) wroga, potem zadaj przenikliwe (<u>przenikający</u>) obrażenia równe jego  <u>trucizna</u>."
-pl-PL_flavor: "Psota zdjęła okulary ochronne i przyjrzała się swojemu rękodziełu. Była to wspaniale śmiercionośna  błyskotka."
+pl-PL_description: "Zatruj ( <u>trucizna</u>) wroga, potem zadaj przenikliwe (<u>przenikliwy</u>) obrażenia równe poziomowi jego zatrucia."
+pl-PL_flavor: "Psota zdjęła okulary ochronne i przyjrzała się swojemu rękodziełu. Była to wspaniale śmiercionośna błyskotka."
 tile_id: SinisterCharm
 cost: 2
 image: /images/SinisterCharm.png

@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 jp-JP_name: "ドーンガード"
 jp-JP_description: "<u>枯渇</u>：🟦選ばれし者に<u>変異</u>し、❤️をフル回復する"
-jp-JP_flavor: "Эта кираса позволяет вам восхвалять солнце, оставаясь в тени."
+jp-JP_flavor: "涼しさを保ちながらも太陽を崇めることができる鎧。"
 tile_id: Dawnguard
 cost: 3
 image: /images/Dawnguard.png

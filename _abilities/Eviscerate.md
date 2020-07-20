@@ -15,7 +15,7 @@ cost: 2
 image: /images/Eviscerate.png
 hero: rogue
 ru-RU_name: "Потрошение"
-ru-RU_description: "Наносит 4 <u>пронзающий</u> урона врагу. Перезаряжается после использования 4 способностей."
+ru-RU_description: "Наносит 4 <u>пронзающего</u> урона врагу. Перезаряжается после использования 4 способностей."
 ru-RU_flavor: "«Ударьте, разрежьте, не испачкайте обувь. Это своего рода танец!» - Озорница."
 tile_id: Eviscerate
 cost: 2
@@ -36,7 +36,7 @@ cost: 2
 image: /images/Eviscerate.png
 hero: rogue
 pl-PL_name: "Wypatroszenie"
-pl-PL_description: "Zadaj 4 przenikliwych (<u>przenikający</u>) obrażeń wskazanemu przeciwnikowi. Użyj 4 umiejętności, aby naładować."
+pl-PL_description: "Zadaj 4 przenikliwych (<u>przenikliwy</u>) obrażeń wskazanemu przeciwnikowi. Użyj 4 umiejętności, aby naładować."
 pl-PL_flavor: "'Dźgnięcie, cięcie, obrót na pięcie. Wymyśliłam ten układ specjalnie na taką okazję!' - Psota"
 tile_id: Eviscerate
 cost: 2

@@ -15,7 +15,7 @@ cost: 2
 image: /images/Incinerate.png
 hero: mage
 ru-RU_name: "Испепеление"
-ru-RU_description: "Наносит 4 <u>пронзающий</u> урона врагу. Если этот враг  <u>горит</u>, наносит ещё 6 <u>пронзающий</u> урона. <u>Сжигается</u>."
+ru-RU_description: "Наносит 4 <u>пронзающего</u> урона врагу. Если этот враг  <u>горит</u>, наносит ещё 6 <u>пронзающего</u> урона. <u>Сжигается</u>."
 ru-RU_flavor: "Поддай жару. До 11."
 tile_id: Incinerate
 cost: 2
@@ -36,7 +36,7 @@ cost: 2
 image: /images/Incinerate.png
 hero: mage
 pl-PL_name: "Spopielenie"
-pl-PL_description: "Zadaj 4 przenikających (<u>przenikający</u>) obrażeń wskazanemu przeciwnikowi. Jeżeli jest podpalony ( <u>w płomieniach</u>), zadaj dodatkowe 6. <u>Wyczerpany</u>"
+pl-PL_description: "Zadaj 4 przenikliwych (<u>przenikliwy</u>) obrażeń wskazanemu przeciwnikowi. Jeżeli jest podpalony ( <u>w płomieniach</u>), zadaj dodatkowe 6. <u>Wyczerpany</u>"
 pl-PL_flavor: "Pomaga innym obrócić się w proch."
 tile_id: Incinerate
 cost: 2

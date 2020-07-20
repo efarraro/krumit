@@ -17,7 +17,7 @@ image: /images/CardososChapeau.png
 durability: 3
 hero: necromancer
 ru-RU_name: "Шляпа Кардозо"
-ru-RU_description: "Когда вы  <u>парируете</u> с этим предметом, меняет местами ваше ❤️ с ❤️ вашего обычного врага."
+ru-RU_description: "Когда вы  <u>парируете</u> с этим предметом, меняет местами ваше ❤️ со ❤️ вашего обычного врага."
 ru-RU_flavor: "Если Кардозо снимает шляпу перед вами, не думайте, что он хорошо воспитан."
 tile_id: CardososChapeau
 cost: 3

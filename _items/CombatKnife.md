@@ -41,7 +41,7 @@ image: /images/CombatKnife.png
 durability: 3
 hero: rogue
 pl-PL_name: "Nóż Szturmowy"
-pl-PL_description: "Gdy to uzyskasz, wtasuj 2 kopie <a href = '../pl_pl/abilities#Stab'>Dźgnięcie</a> do talii"
+pl-PL_description: "Gdy to uzyskasz, wtasuj 2 kopie <a href = '../pl_pl/abilities#Stab'>Dźgnięcie</a> do talii."
 pl-PL_flavor: "'<i>Ten</i> nóż nie nadaje się na grzyby.' - bufator Jeremi"
 tile_id: CombatKnife
 cost: 3

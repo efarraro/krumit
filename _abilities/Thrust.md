@@ -36,7 +36,7 @@ cost: 0
 image: /images/Thrust.png
 hero: warrior
 pl-PL_name: "Pchnięcie"
-pl-PL_description: "Uzyskując to otrzymasz 1 💰. Twój atak bronią zada przenikliwe (<u>przenikający</u>) obrażenia i +2 🔸. <u>Wyczerpany</u>"
+pl-PL_description: "Uzyskując to otrzymasz 1 💰. Twój atak bronią zada przenikliwe (<u>przenikliwy</u>) obrażenia i +2 🔸. <u>Wyczerpany</u>"
 pl-PL_flavor: "'Uderz w miękkie podbrzusze! Nie wstrzymuj miecza!' - Mistrz Ostrzy Adam Andrzej"
 tile_id: Thrust
 cost: 0

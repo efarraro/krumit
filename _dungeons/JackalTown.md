@@ -53,7 +53,7 @@ monsters:
     quantity: 4
     url: /monsters/JackalVagabond
   - monster:
-    name: "Волк-сопляк"
+    name: "Пёс-сопляк"
     image: /images/Nukadog.png
     quantity: 5
     url: /monsters/Nukadog

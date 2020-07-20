@@ -41,7 +41,7 @@ image: /images/ViperSting.png
 durability: 2
 hero: rogue
 pl-PL_name: "Kieł Żmija"
-pl-PL_description: "Po ataku,  <u>trucizna</u> (2) przeciwnika."
+pl-PL_description: "Po ataku, zatruj 2 ( <u>trucizna</u>) przeciwnika."
 pl-PL_flavor: "'Ukąszenie czuć długo po usunięciu zęba z rany...' - wyciąg z życiorysu Ludwika 'Wężera' Trajkotki"
 tile_id: ViperSting
 cost: 2

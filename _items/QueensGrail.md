@@ -26,7 +26,7 @@ durability: 1
 hero: priest
 jp-JP_name: "女王の聖杯"
 jp-JP_description: "25❤️（このダンジョンで <u>腐敗</u>させた敵一体につき3ずつ減る）を払って、デッキのタイルを*全て*破壊する"
-jp-JP_flavor: "Грааль наполняется теми, кого прокляли. Каждая пролитая капля - ужасная трата... "
+jp-JP_flavor: "聖杯は呪われた者たちによって満たされている。こぼれ落ちた一滴一滴が、とんでもなく無駄だ……。"
 tile_id: QueensGrail
 cost: 0
 image: /images/QueensGrail.png

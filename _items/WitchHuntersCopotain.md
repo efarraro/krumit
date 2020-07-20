@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 jp-JP_name: "魔女ハンターのカポタン"
 jp-JP_description: "これを取得すると、<a href = '../jp_jp/items#WroughtIronTorch'>錬鉄トーチ</a>のコピーも取得する"
-jp-JP_flavor: "ВРЕМЯ ОЧИЩЕНИЯ."
+jp-JP_flavor: "掃除の時間だ。"
 tile_id: WitchHuntersCopotain
 cost: 5
 image: /images/WitchHuntersCopotain.png

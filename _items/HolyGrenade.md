@@ -41,7 +41,7 @@ image: /images/HolyGrenade.png
 durability: 1
 hero: priest
 pl-PL_name: "Święty Granat"
-pl-PL_description: "Zadaj 4 przenikliwych (<u>przenikający</u>) obrażeń wskazanemu i sąsiadującym mu wrogom. Odnów 2 ❤️ za każdego z nich."
+pl-PL_description: "Zadaj 4 przenikliwych (<u>przenikliwy</u>) obrażeń wskazanemu i sąsiadującym mu wrogom. Odnów 2 ❤️ za każdego z nich."
 pl-PL_flavor: "Instrukcja obsługi zawarta w Księdze Zbrojeń, rozdział 2, wersety od 9 do 21."
 tile_id: HolyGrenade
 cost: 3

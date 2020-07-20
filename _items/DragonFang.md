@@ -41,7 +41,7 @@ image: /images/DragonFang.png
 durability: 3
 hero: rogue
 pl-PL_name: "Smroczy Kieł"
-pl-PL_description: "Jeżeli ukrywasz się (<u>ukrywanie się</u>), ta broń ma +4 🔸."
+pl-PL_description: "Jeżeli się ukrywasz (<u>ukrywanie się</u>), ta broń ma +4 🔸."
 pl-PL_flavor: "'... Przez wiele dni czujesz posmak złota i słyszysz szelest piór...' - wyciąg z życiorysu Ludwika 'Wężera' Trajkotki"
 tile_id: DragonFang
 cost: 4

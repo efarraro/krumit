@@ -18,7 +18,7 @@ durability: 2
 hero: mage
 ru-RU_name: "Амулет архимага"
 ru-RU_description: "Получите выбранную способность."
-ru-RU_flavor: "'Люби его, возьми его, имей его, используй его.' - Архимаг Александра"
+ru-RU_flavor: "«Люби его, возьми его, имей его, используй его» - Архимаг Александра."
 tile_id: ArchmagisAmulet
 cost: 5
 image: /images/ArchmagisAmulet.png

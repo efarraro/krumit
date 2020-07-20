@@ -41,8 +41,8 @@ image: /images/Matches.png
 durability: 3
 hero: mage
 pl-PL_name: "Zapałki"
-pl-PL_description: "Podal ( <u>podpalenie</u>) (1) wroga."
-pl-PL_flavor: "Sądząc po plamach grogu (i wywalonym logo), pudełko zapałek jest z Oberża Pod Spadającym Meteoroidem."
+pl-PL_description: "Podpal 1 ( <u>podpalenie</u>) wroga."
+pl-PL_flavor: "Sądząc po plamach grogu (i wywalonym logo), pudełko zapałek jest z Oberży Pod Spadającym Meteoroidem."
 tile_id: Matches
 cost: 0
 image: /images/Matches.png

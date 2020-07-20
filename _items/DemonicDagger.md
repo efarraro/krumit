@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Demonic Dagger"
-EN_description: "<u>piercing</u>.  <u>Lifesteal</u> (2)"
+EN_description: "<u>Piercing</u>.  <u>Lifesteal</u> (2)"
 EN_flavor: "This dagger once mortally wounded a lesser demon - which refused to die and so entombed its soul within the blade."
 tile_id: DemonicDagger
 cost: 2
@@ -17,7 +17,7 @@ image: /images/DemonicDagger.png
 durability: 3
 hero: necromancer
 ru-RU_name: "Демонический кинжал"
-ru-RU_description: "<u>пронзающий</u>.  <u>Вампиризм</u> (2)."
+ru-RU_description: "<u>Пронзающий</u>.  <u>Вампиризм</u> (2)."
 ru-RU_flavor: "Однажды этот кинжал смертельно ранил малого демона, который отказался умирать и таким образом заточил свою душу внутри клинка."
 tile_id: DemonicDagger
 cost: 2
@@ -33,7 +33,7 @@ image: /images/DemonicDagger.png
 durability: 3
 hero: necromancer
 es-ES_name: "Daga Demoníaca"
-es-ES_description: "<u>penetrante</u>.  <u>Vampirismo</u> (2)"
+es-ES_description: "<u>Penetrante</u>.  <u>Vampirismo</u> (2)"
 es-ES_flavor: "Esta daga una vez hirió mortalmente a un demonio menor - quien, rehusándose a morir, sepultó su alma dentro de la hoja."
 tile_id: DemonicDagger
 cost: 2
@@ -41,7 +41,7 @@ image: /images/DemonicDagger.png
 durability: 3
 hero: necromancer
 pl-PL_name: "Demoniczne Ostrze"
-pl-PL_description: "<u>przenikający</u>.  <u>Kradzież Życia</u> (2)"
+pl-PL_description: "<u>Przenikliwy</u>.  <u>Kradzież Życia</u> (2)"
 pl-PL_flavor: "Ostrze tej broni jest wiecznym grobowcem demona, który został niegdyś prze zeń śmiertelnie zraniony."
 tile_id: DemonicDagger
 cost: 2

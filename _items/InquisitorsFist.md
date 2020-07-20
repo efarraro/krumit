@@ -26,7 +26,7 @@ durability: 2
 hero: priest
 jp-JP_name: "審問官の拳"
 jp-JP_description: "盤面に<u>祝福</u>が1枚以上ある時、自分の攻撃が <u>生命奪取</u>(3)効果を得る"
-jp-JP_flavor: "При достаточной вере даже боль может стать пищей. Даже если это не ваша боль."
+jp-JP_flavor: "強く信じれば痛みも栄養になる。それが君の痛みでないならばなおさら。"
 tile_id: InquisitorsFist
 cost: 2
 image: /images/InquisitorsFist.png

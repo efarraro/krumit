@@ -9,7 +9,7 @@ zh-CN_description: "最大生命值+6"
 tile_id: Stout
 image: /images/Stout.png
 ru-RU_name: "Здоровяк"
-ru-RU_description: "Увеличивает максимальное ❤️ на 6."
+ru-RU_description: "Увеличивает ваше максимальное ❤️ на 6."
 tile_id: Stout
 image: /images/Stout.png
 jp-JP_name: "屈強"

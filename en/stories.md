@@ -3,6 +3,25 @@ title: Krumit's Tales
 permalink: /en/tales
 lang: en
 ---
+
+<img src = '/krumit/static/story-muldorf.png' />
+
+## A Bewhiskered Bargain
+
+"I call this unholy farce to order!" Barked Calacas, his great whiskers improbably lush in undeath. 
+
+"Who appointed you the chair of this parlay, old skulldugger?" retorted Gaspard, the Ghost King, as he stroked his ethereal and bafflingly bounteous beard. 
+
+"Gentleman, please!" said Muldorf, feeling very much the odd one out. "This is no time for petty quarels. We can argue about who has a claim on which bones and souls to our hearts' content - sorry, no offense intended - once we deal with the Uberlich. Otherwise, there won't be any to argue over. 
+
+"Hmmmph. Well, clearly my claim as skeletal sovereign is paramount -" Calacas replied, "but, it must be said, the Uberlich's antics are severely limiting my supply of new thralls." 
+
+<img src = '/krumit/static/djinn.png' style='margin-left:auto; margin-right: auto; display: block; width: 50%; width:200px; height:200px;' />
+
+"Far be it for this boneheaded bastard to know his place," Gaspard said, his beard caught momentarily and inexplicably in a passing breeze, "but he's right about the Uberlich. My dominion over the soul realm is growing more paltry by the week. Something must be done." 
+
+"And I have just the plan" said Muldorf, uncorking a fresh bottle of Djinni-gin - and absently mindedly setting out three glasses, before withering glances from his two uneasy table-mates bade him fill just the one. "But it will require a single hair from each of your beards by way of surety…
+
 <img src = '/krumit/static/bruno_banner.png' />
 
 ## The Bravura Bard

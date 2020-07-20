@@ -78,7 +78,7 @@ monsters:
     quantity: 4
     url: /monsters/Slime
   - monster:
-    name: "Волк-сопляк"
+    name: "Пёс-сопляк"
     image: /images/Nukadog.png
     quantity: 4
     url: /monsters/Nukadog

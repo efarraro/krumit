@@ -59,7 +59,7 @@ monsters:
     quantity: 1
     url: /monsters/Dragon
 ru-RU_name: "Пещеры магмы"
-ru-RU_description: "«Пещеры магмы - это владения дракорна Бартоломью. В последний раз, когда я там побывал, моя борода была опалена и воняла целую неделю» - Серобородый"
+ru-RU_description: "«Пещеры магмы - это владения дракорна Бартоломью. В последний раз, когда я там побывал, моя борода была опалена и воняла целую неделю» - Седобородый"
 tier: 7
 monsters:
   - monster:
@@ -68,7 +68,7 @@ monsters:
     quantity: 6
     url: /monsters/AncientSkeleton
   - monster:
-    name: "Бегущая по ветру"
+    name: "Ветрокрылая"
     image: /images/WindRunner.png
     quantity: 6
     url: /monsters/WindRunner

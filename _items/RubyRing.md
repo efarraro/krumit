@@ -17,7 +17,7 @@ image: /images/RubyRing.png
 durability: 3
 hero: mage
 ru-RU_name: "Рубиновое кольцо"
-ru-RU_description: "Наносит 4 <u>пронзающий</u> урона горящему врагу. Если это убивает его, увеличивает ваш базовый 🔸 на 1 до конца подземелья."
+ru-RU_description: "Наносит 4 <u>пронзающего</u> урона горящему врагу. Если это убивает его, увеличивает вашу базовую 🔸 на 1 до конца подземелья."
 ru-RU_flavor: "Кольцо, зачарованное жадным пиромантом. Говорят, что кольцо жаждет власти, как и его изобретатель. Может содержать и его душу."
 tile_id: RubyRing
 cost: 6
@@ -41,7 +41,7 @@ image: /images/RubyRing.png
 durability: 3
 hero: mage
 pl-PL_name: "Pierścień z rubinem"
-pl-PL_description: "Zadaj 4 <u>przenikający</u> obrażeń  <u>w płomieniach</u> wrogowi. Jeżeli pokonasz go w ten sposób, zwiększ 🔸 o 1 do końca lochu."
+pl-PL_description: "Zadaj 4 przenikliwych (<u>przenikliwy</u>) obrażeń płonącemu ( <u>w płomieniach</u>) wrogowi. Jeżeli pokonasz go w ten sposób, zwiększ 🔸 o 1 do końca lochu."
 pl-PL_flavor: "Pierścień zaczarowany przez chciwego pyromantę. Podobno łaknie mocy tak samo jak jego twórca. Może zawierać szczątki jego duszy."
 tile_id: RubyRing
 cost: 6

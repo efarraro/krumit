@@ -21,7 +21,7 @@ es-ES_description: "Tu 🔸 base se incrementa en 1 mientras tengas 4 fichas en 
 tile_id: PackRat
 image: /images/PackRat.png
 pl-PL_name: "Ciułacz"
-pl-PL_description: "+1 🔸 gdy posiadasz 4 płytki w ekwipunku."
+pl-PL_description: "Twój 🔸 jest zwiększony o 1 jeśli masz 4 płytki w ekwipunku."
 tile_id: PackRat
 image: /images/PackRat.png
 ---

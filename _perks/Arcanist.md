@@ -21,7 +21,7 @@ es-ES_description: "Cada vez que adquieras una habilidad, haz 1 de daño <u>pene
 tile_id: Arcanist
 image: /images/Arcanist.png
 pl-PL_name: "Arkanista"
-pl-PL_description: "Kiedy zdobywasz zdolność, zadaj 1 <u>przenikający</u> obrażenie najwyżej położonemu przeciwnikowi w tej samej kolumnie"
+pl-PL_description: "Kiedy zdobywasz zdolność, zadaj 1 <u>przenikliwy</u> obrażenie najwyżej położonemu przeciwnikowi w tej samej kolumnie"
 tile_id: Arcanist
 image: /images/Arcanist.png
 ---

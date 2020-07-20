@@ -36,7 +36,7 @@ cost: 1
 image: /images/Char.png
 hero: mage
 pl-PL_name: "Przypalenie"
-pl-PL_description: "Wskazany przeciwnik otrzymuje  <u>podpalenie</u> (3). <u>Wyczerpany</u>"
+pl-PL_description: "Podpal 3 przeciwnika ( <u>podpalenie</u>). <u>Wyczerpany</u>"
 pl-PL_flavor: "Proste zaklęcie magii ognia, częściej używane na karkówkę niż na przeciwnika."
 tile_id: Char
 cost: 1

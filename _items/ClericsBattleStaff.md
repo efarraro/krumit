@@ -17,7 +17,7 @@ image: /images/ClericsBattleStaff.png
 durability: 3
 hero: priest
 ru-RU_name: "Боевой посох клирика"
-ru-RU_description: "<u>Сверхлечение</u>: увеличивает свой 🔸 на 1."
+ru-RU_description: "<u>Сверхлечение</u>: увеличивает свою 🔸 на 1."
 ru-RU_flavor: "Клирик Ханы обязан принести жизнь и свет во тьму, неважно каким способом."
 tile_id: ClericsBattleStaff
 cost: 3
@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 jp-JP_name: "聖職者の戦闘杖"
 jp-JP_description: "<u>オーバーヒール</u>：この武器の🔸が1増加する"
-jp-JP_flavor: "Клирик Ханы обязан принести жизнь и свет во тьму, неважно каким способом."
+jp-JP_flavor: "聖職者ハナの杖は、暗闇に生命と光をもたらすに違いない。恐らく力ずくでね。"
 tile_id: ClericsBattleStaff
 cost: 3
 image: /images/ClericsBattleStaff.png

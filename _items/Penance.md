@@ -17,7 +17,7 @@ image: /images/Penance.png
 durability: 2
 hero: priest
 ru-RU_name: "Покаяние"
-ru-RU_description: "Когда вы атакуете с этим оружием, наносит 2 <u>пронзающий</u> урона вам и <u>мутирует</u> в 🟦Избранный."
+ru-RU_description: "Когда вы атакуете с этим оружием, наносит 2 <u>пронзающего</u> урона вам и <u>мутирует</u> в 🟦Избранный."
 ru-RU_flavor: "Бичевание на завтрак."
 tile_id: Penance
 cost: 2
@@ -26,7 +26,7 @@ durability: 2
 hero: priest
 jp-JP_name: "懺悔"
 jp-JP_description: "この武器で敵を攻撃後、2の<u>貫通</u>ダメージを受け、🟦選ばれし者に<u>変異</u>する"
-jp-JP_flavor: "Бичевание на завтрак."
+jp-JP_flavor: "鬱憤をむち打て。"
 tile_id: Penance
 cost: 2
 image: /images/Penance.png
@@ -41,7 +41,7 @@ image: /images/Penance.png
 durability: 2
 hero: priest
 pl-PL_name: "Pokuta"
-pl-PL_description: "Po zaatakowaniu tą bronią otrzymasz 2 <u>przenikający</u> obrażeń <u>Mutacja</u> 🟦Wybranka"
+pl-PL_description: "Po zaatakowaniu tą bronią otrzymasz 2 <u>przenikliwy</u> obrażeń <u>Mutacja</u> 🟦Wybranka"
 pl-PL_flavor: "Biczowanie na śniadanie."
 tile_id: Penance
 cost: 2

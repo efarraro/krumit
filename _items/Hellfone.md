@@ -26,7 +26,7 @@ durability: 1
 hero: priest
 jp-JP_name: "ヘルフォン"
 jp-JP_description: "ココキャットを1体召喚する。見えている<u>呪い</u>を全て破壊し、破壊した<u>呪い</u>一枚につきCococatの❤️が3ずつ増加する"
-jp-JP_flavor: "Прямая линия с самыми глубокими глубинами королевства Пенумбра. Если он зазвонит, вы никогда не должны отвечать."
+jp-JP_flavor: "半影区域最深部への直通電話。電話が鳴っても絶対に受けないように。"
 tile_id: Hellfone
 cost: 2
 image: /images/Hellfone.png

@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 jp-JP_name: "ブランブルウッドの王冠"
 jp-JP_description: "このアイテムを使って🛡️️ <u>ブロック</u>した時、自分の合計🛡️️ <u>ブロック</u>(0)と同等の<u>トゲ</u>を持つ"
-jp-JP_flavor: "Маленькая щекотка для вас и большая царапка для них."
+jp-JP_flavor: "お前にとっちゃ少し痒いぐらいだが、彼らにとっちゃ掻きむしりたくなるほどだ。"
 tile_id: BramblewoodCrown
 cost: 2
 image: /images/BramblewoodCrown.png

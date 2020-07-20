@@ -81,7 +81,7 @@ image: /images/LeatherHelm.png
 durability: 2
 hero: warrior
 pl-PL_name: "Skórzany hełm"
-pl-PL_description: "Gdy uzyskasz ten przedmiot, uzyskaj 1 💰"
+pl-PL_description: "Gdy uzyskasz ten przedmiot, uzyskaj 1 💰."
 pl-PL_flavor: "Nie nadaje się do ochrony, może kiedyś służył do czego innego."
 tile_id: LeatherHelm
 cost: 0
@@ -89,7 +89,7 @@ image: /images/LeatherHelm.png
 durability: 2
 hero: warrior
 pl-PL_name: "Skórzany hełm"
-pl-PL_description: "Gdy uzyskasz ten przedmiot, uzyskaj 1 💰"
+pl-PL_description: "Gdy uzyskasz ten przedmiot, uzyskaj 1 💰."
 pl-PL_flavor: "Nie nadaje się do ochrony, może kiedyś służył do czego innego."
 tile_id: LeatherHelm
 cost: 0

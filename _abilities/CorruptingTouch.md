@@ -36,7 +36,7 @@ cost: 1
 image: /images/CorruptingTouch.png
 hero: priest
 pl-PL_name: "Dotyk Zepsucia"
-pl-PL_description: "Po uzyskaniu <u>Mutacja</u> 🟦Królowa. Twój następny atak jest przenikający (<u>przenikający</u>) i powoduje  <u>zepsucie</u> (6). <u>Wyczerpany</u>"
+pl-PL_description: "Po uzyskaniu <u>Mutacja</u> 🟦Królowa. Twój następny atak jest przenikliwy (<u>przenikliwy</u>) i powoduje  <u>zepsucie</u> (6). <u>Wyczerpany</u>"
 pl-PL_flavor: "'Ześlij potępienie na swoich wrogów i udowodnij, że pragniesz zasiąść na wiecznym tronie...' - Umbrala"
 tile_id: CorruptingTouch
 cost: 1

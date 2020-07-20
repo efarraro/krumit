@@ -26,14 +26,14 @@ durability: 3
 hero: priest
 jp-JP_name: "魔性のチェスト"
 jp-JP_description: "<u>呪い</u>を破壊し、2💰以下のコストのタイルを<u>ドラフト</u>する"
-jp-JP_flavor: "Странный ящик со многими прошлыми владельцами. Он - пожиратель грехов. Он - поглотитель проклятий. Он - короб ужаса. Он - сундук Люцифера. Он ОЧЕНЬ ГОЛОДЕН."
+jp-JP_flavor: "過去の持ち主が多い奇妙な箱。別名罪負い箱、別名呪いの消費者、別名バッドボックス、別名ルシファーの宝石箱、別名ハンガーズ。"
 tile_id: DemonicChest
 cost: 3
 image: /images/DemonicChest.png
 durability: 3
 hero: priest
 es-ES_name: "Cofre Demoníaco"
-es-ES_description: "Destruye una <u>Maldición</u> para <u>roba</u> una ficha de coste 2 💰 o menos"
+es-ES_description: "Destruye una <u>Maldición</u> para <u>descubre</u> una ficha de coste 2 💰 o menos"
 es-ES_flavor: "Una extraña caja que ha pasado por muchas manos. Alias: El Comepecados, la Tragamaldiciones, la Caja Mala, el Baúl de Lucifer, TIENE HAMBRE."
 tile_id: DemonicChest
 cost: 3

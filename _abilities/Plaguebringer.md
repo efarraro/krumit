@@ -15,8 +15,8 @@ cost: 4
 image: /images/Plaguebringer.png
 hero: rogue
 ru-RU_name: "Чумоносец"
-ru-RU_description: "Уничтожает обычного отравленного врага, затем наносит 4 <u>пронзающий</u> урона всем соседним врагам и накладывает на них  <u>яд</u> (2). <u>Сжигается</u>."
-ru-RU_flavor: "Избавь от страданий их и вложи их страдания в других."
+ru-RU_description: "Уничтожает обычного отравленного врага, затем наносит 4 <u>пронзающего</u> урона всем соседним врагам и накладывает на них  <u>яд</u> (2). <u>Сжигается</u>."
+ru-RU_flavor: "Избавь их от страданий и вложи их страдания в других."
 tile_id: Plaguebringer
 cost: 4
 image: /images/Plaguebringer.png
@@ -36,7 +36,7 @@ cost: 4
 image: /images/Plaguebringer.png
 hero: rogue
 pl-PL_name: "Zaraza"
-pl-PL_description: "Zniszcz zatrutego przeciwnika, który nie jest bossem, po czym zadaj 4 przenikających (<u>przenikający</u>) obrażeń i 2 trucizny ( <u>trucizna</u>) wszystkich sąsiadującym przeciwnikom. <u>Wyczerpany</u>"
+pl-PL_description: "Zniszcz zatrutego przeciwnika, który nie jest bossem, po czym zadaj 4 przenikliwych (<u>przenikliwy</u>) obrażeń i 2 trucizny ( <u>trucizna</u>) wszystkich sąsiadującym przeciwnikom. <u>Wyczerpany</u>"
 pl-PL_flavor: "Ukróć cierpienie pacjenta zero zanim zada cierpienie innym."
 tile_id: Plaguebringer
 cost: 4

@@ -33,7 +33,7 @@ image: /images/Longbow.png
 durability: 2
 hero: warrior
 ru-RU_name: "Длинный лук"
-ru-RU_description: "Наносит 4 <u>пронзающий</u> урона врагу в верхнем ряду."
+ru-RU_description: "Наносит 4 <u>пронзающего</u> урона врагу в верхнем ряду."
 ru-RU_flavor: "Отлично подходит для того, чтобы держаться на расстоянии от опасного или вонючего врага."
 tile_id: Longbow
 cost: 2
@@ -41,7 +41,7 @@ image: /images/Longbow.png
 durability: 2
 hero: warrior
 ru-RU_name: "Длинный лук"
-ru-RU_description: "Наносит 4 <u>пронзающий</u> урона врагу в верхнем ряду."
+ru-RU_description: "Наносит 4 <u>пронзающего</u> урона врагу в верхнем ряду."
 ru-RU_flavor: "Отлично подходит для того, чтобы держаться на расстоянии от опасного или вонючего врага."
 tile_id: Longbow
 cost: 2
@@ -81,7 +81,7 @@ image: /images/Longbow.png
 durability: 2
 hero: warrior
 pl-PL_name: "Długi łuk"
-pl-PL_description: "Zadaj 4 przenikliwych (<u>przenikający</u>) obrażeń wskazanemu przeciwnikowi z górnego wiersza."
+pl-PL_description: "Zadaj 4 przenikliwych (<u>przenikliwy</u>) obrażeń wskazanemu przeciwnikowi z górnego wiersza."
 pl-PL_flavor: "Pozwala zachować dystans od cuchnących i niebezpiecznych wrogów."
 tile_id: Longbow
 cost: 2
@@ -89,7 +89,7 @@ image: /images/Longbow.png
 durability: 2
 hero: warrior
 pl-PL_name: "Długi łuk"
-pl-PL_description: "Zadaj 4 przenikliwych (<u>przenikający</u>) obrażeń wskazanemu przeciwnikowi z górnego wiersza."
+pl-PL_description: "Zadaj 4 przenikliwych (<u>przenikliwy</u>) obrażeń wskazanemu przeciwnikowi z górnego wiersza."
 pl-PL_flavor: "Pozwala zachować dystans od cuchnących i niebezpiecznych wrogów."
 tile_id: Longbow
 cost: 2

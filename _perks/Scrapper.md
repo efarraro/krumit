@@ -9,7 +9,7 @@ zh-CN_description: "攻击拥有护甲或者🛡️️ <u>格挡</u>的敌人时
 tile_id: Scrapper
 image: /images/Scrapper.png
 ru-RU_name: "Дуэлянт"
-ru-RU_description: "Ваша базовая 🔸 увеличена на 2, пока вы атакуете врага, который имеет броню или 🛡️️ <u>блок</u>."
+ru-RU_description: "Ваша базовая 🔸 увеличен на 2, пока вы атакуете врага, который имеет броню или 🛡️️ <u>блок</u>."
 tile_id: Scrapper
 image: /images/Scrapper.png
 jp-JP_name: "スクラッパー"

@@ -15,7 +15,7 @@ cost: 4
 image: /images/SoulBeam.png
 hero: necromancer
 ru-RU_name: "Луч души"
-ru-RU_description: "Наносит 2 <u>пронзающий</u> урона выбранному врагу и другим врагам в этом столбце. Перезаряжается после смерти 💀 <u>миньона</u>."
+ru-RU_description: "Наносит 2 <u>пронзающего</u> урона выбранному врагу и другим врагам в этом столбце. Перезаряжается после смерти 💀 <u>миньона</u>."
 ru-RU_flavor: "Мульдорф широко распахнул руки, и жизни, которые он поглотил, вылетели от его души в неконтролируемом потоке."
 tile_id: SoulBeam
 cost: 4
@@ -36,7 +36,7 @@ cost: 4
 image: /images/SoulBeam.png
 hero: necromancer
 pl-PL_name: "Strumień Duchowy"
-pl-PL_description: "Zadaj 2 <u>przenikający</u> obrażeń wskazanemu wrogowi i wszystkim wrogom w tej samej kolumnie. Naładuj gdy 💀 <u>Sługus</u> polegnie."
+pl-PL_description: "Zadaj 2 <u>przenikliwy</u> obrażeń wskazanemu wrogowi i wszystkim wrogom w tej samej kolumnie. Naładuj gdy 💀 <u>Sługus</u> polegnie."
 pl-PL_flavor: "Muldorf szeroko rozłożył ramiona i eksplodował nieokiełznaną energią wchłoniętych dusz."
 tile_id: SoulBeam
 cost: 4

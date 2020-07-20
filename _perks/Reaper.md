@@ -17,7 +17,7 @@ jp-JP_description: "ダメージを受けた敵に対して、自分の基礎�
 tile_id: Reaper
 image: /images/Reaper.png
 es-ES_name: "Segador"
-es-ES_description: "Your 🔸 base se incrementa en 1 contra enemigos dañados"
+es-ES_description: "Tu 🔸 base se incrementa en 1 contra enemigos dañados"
 tile_id: Reaper
 image: /images/Reaper.png
 pl-PL_name: "Kosiarz"

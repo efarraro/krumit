@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 jp-JP_name: "闇のキュイラス"
 jp-JP_description: "これを取得した時、見えている全ての敵を <u>腐敗</u>(4)させる。"
-jp-JP_flavor: "Только взглянув на тёмную кирасу, можно погасить свет своей души."
+jp-JP_flavor: "日隠谷で影炎で錬成された日影石から鍛造された闇のキュイラス。見ただけで、魂の光を消し去られてしまうだろう。"
 tile_id: TheDarkestCuirass
 cost: 3
 image: /images/TheDarkestCuirass.png
@@ -34,7 +34,7 @@ durability: 3
 hero: priest
 es-ES_name: "La Coraza Más Oscura"
 es-ES_description: "Cuando adquieras esto,  <u>Corrompe</u> (4) todos los enemigos visibles"
-es-ES_flavor: "Forjada en el Valle Solhuraño de penumbrita fundida en anti-llamas. Tan solo mirar la Corza Más Oscura puede extiguir la luz de tu alma."
+es-ES_flavor: "Forjada en el Valle Solhuraño de penumbrita fundida en anti-llamas. Tan solo mirar la Corza Más Oscura puede extinguir la luz de tu alma."
 tile_id: TheDarkestCuirass
 cost: 3
 image: /images/TheDarkestCuirass.png

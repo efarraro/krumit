@@ -17,7 +17,7 @@ jp-JP_description: "各ダンジョンで最初に致命的なダメージを受
 tile_id: Salamander
 image: /images/Salamander.png
 es-ES_name: "Salamandra"
-es-ES_description: "La primera vez que sufrirías daño fatal en una mazmorra, fija tu ❤️ en 1 y gana <u>Regeneración</u>"
+es-ES_description: "La primera vez que sufras daño fatal en una mazmorra, fija tu ❤️ en 1 y gana <u>Regeneración</u>"
 tile_id: Salamander
 image: /images/Salamander.png
 pl-PL_name: "Salamandra"

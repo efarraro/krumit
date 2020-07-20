@@ -9,7 +9,7 @@ zh-CN_description: "在战斗中收到伤害之后，对敌人施加<u>冰冻</u
 tile_id: Chill
 image: /images/Chill.png
 ru-RU_name: "Охлаждение"
-ru-RU_description: "Когда впервые за бой враг наносит вам урон своей 🔸, накладывает <u>мороз</u> на него."
+ru-RU_description: "Когда впервые за бой враг атакует вас с 🔸, накладывает <u>мороз</u> на него."
 tile_id: Chill
 image: /images/Chill.png
 jp-JP_name: "冷却"
@@ -17,7 +17,7 @@ jp-JP_description: "戦闘中1回だけ、相手の行動に🔸またはが含�
 tile_id: Chill
 image: /images/Chill.png
 es-ES_name: "Fresco"
-es-ES_description: "Una vez por combate, <u>congela</u> a tu oponente después de que éste ataque si su acción contenía 🔸 or "
+es-ES_description: "Una vez por combate, <u>congela</u> a tu oponente después de que éste ataque si su acción contenía 🔸 o "
 tile_id: Chill
 image: /images/Chill.png
 pl-PL_name: "Chłód"

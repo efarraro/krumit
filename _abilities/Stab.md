@@ -36,7 +36,7 @@ cost: 0
 image: /images/Stab.png
 hero: rogue
 pl-PL_name: "Dźgnięcie"
-pl-PL_description: "Zadaj 1 przenikliwych (<u>przenikający</u>) obrażeń wskazanemu przeciwnikowi. Uzyskując to, otrzymasz drugą kopię. <u>Wyczerpany</u>"
+pl-PL_description: "Zadaj 1 przenikliwych (<u>przenikliwy</u>) obrażeń wskazanemu przeciwnikowi. Uzyskując to, otrzymasz drugą kopię. <u>Wyczerpany</u>"
 pl-PL_flavor: "'Et tu, Plutos?' - poprzedni alfa stada szakali"
 tile_id: Stab
 cost: 0

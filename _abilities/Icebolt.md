@@ -15,7 +15,7 @@ cost: 1
 image: /images/Icebolt.png
 hero: mage
 ru-RU_name: "Ледяной снаряд"
-ru-RU_description: "Наносит 3 <u>пронзающий</u> урона врагу и накладывает на него <u>мороз</u>. <u>Сжигается</u>."
+ru-RU_description: "Наносит 3 <u>пронзающего</u> урона врагу и накладывает на него <u>мороз</u>. <u>Сжигается</u>."
 ru-RU_flavor: "Заклинание, любимое начинающими магами - полезно для замораживания гоблоидов и охлаждения напитков."
 tile_id: Icebolt
 cost: 1
@@ -36,7 +36,7 @@ cost: 1
 image: /images/Icebolt.png
 hero: mage
 pl-PL_name: "Sopel"
-pl-PL_description: "Zadaj 3 przenikliwych (<u>przenikający</u>) obrażeń i zamroź (<u>zamrożenie</u>) przeciwnika. <u>Wyczerpany</u>"
+pl-PL_description: "Zadaj 3 przenikliwych (<u>przenikliwy</u>) obrażeń i zamroź (<u>zamrożenie</u>) przeciwnika. <u>Wyczerpany</u>"
 pl-PL_flavor: "Ulubiony czar początkujących magów - spowolni gobloida i schłodzi drinka."
 tile_id: Icebolt
 cost: 1

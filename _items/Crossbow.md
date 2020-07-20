@@ -81,7 +81,7 @@ image: /images/Crossbow.png
 durability: 3
 hero: warrior
 pl-PL_name: "Kusza"
-pl-PL_description: "Dystansowa. Zadaj 2 <u>przenikający</u> obrażeń wskazanemu przeciwnikowi w górnym lub środkowym wierszu"
+pl-PL_description: "Zadaj 2 przenikliwych (<u>przenikliwy</u>) obrażeń wskazanemu przeciwnikowi w górnym lub środkowym wierszu."
 pl-PL_flavor: "Technologicznie zaawansowany, łatwy w użyciu łuk."
 tile_id: Crossbow
 cost: 2
@@ -89,7 +89,7 @@ image: /images/Crossbow.png
 durability: 3
 hero: warrior
 pl-PL_name: "Kusza"
-pl-PL_description: "Dystansowa. Zadaj 2 <u>przenikający</u> obrażeń wskazanemu przeciwnikowi w górnym lub środkowym wierszu"
+pl-PL_description: "Zadaj 2 przenikliwych (<u>przenikliwy</u>) obrażeń wskazanemu przeciwnikowi w górnym lub środkowym wierszu."
 pl-PL_flavor: "Technologicznie zaawansowany, łatwy w użyciu łuk."
 tile_id: Crossbow
 cost: 2

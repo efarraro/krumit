@@ -15,7 +15,7 @@ cost: 6
 image: /images/Ascendance.png
 hero: priest
 ru-RU_name: "Господство"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Увеличивает ваш базовый 🔸 и максимальное ❤️ на 1. Стоит на 1 💰 меньше за каждое <u>благословение</u> на поле."
+ru-RU_description: "<u><u>Мгновенная</u></u>. Увеличивает вашу базовую 🔸 и максимальное ❤️ на 1. Стоит на 1 💰 меньше за каждое <u>благословение</u> на поле."
 ru-RU_flavor: "Что происходит на..."
 tile_id: Ascendance
 cost: 6
@@ -35,7 +35,7 @@ tile_id: Ascendance
 cost: 6
 image: /images/Ascendance.png
 hero: priest
-pl-PL_name: "Wstęp"
+pl-PL_name: "Wstąpienie"
 pl-PL_description: "<u><u>Niezwłoczny</u></u>. +1 🔸 oraz +1 ❤️. Koszt obniżony o 1 💰 za każde widoczne <u>Błogosławieństwo</u>."
 pl-PL_flavor: "Wejdź, jeżeli jest ci po drodze."
 tile_id: Ascendance

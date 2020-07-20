@@ -15,7 +15,7 @@ cost: 6
 image: /images/Blastwave.png
 hero: mage
 ru-RU_name: "Взрывная волна"
-ru-RU_description: "Наносит 5 <u>пронзающий</u> урона всем врагам в нижнем ряду и накладывает на них  <u>ожог</u> (5), затем замешивает их в колоду. <u>Сжигается</u>."
+ru-RU_description: "Наносит 5 <u>пронзающего</u> урона всем врагам в нижнем ряду и накладывает на них  <u>ожог</u> (5), затем замешивает их в колоду. <u>Сжигается</u>."
 ru-RU_flavor: "Если ты не можешь выдержать жар, тогда выбирайся из подземелья."
 tile_id: Blastwave
 cost: 6
@@ -35,8 +35,8 @@ tile_id: Blastwave
 cost: 6
 image: /images/Blastwave.png
 hero: mage
-pl-PL_name: "PODMUCH"
-pl-PL_description: "Zadaj 5 przenikliwych (<u>przenikający</u>) obrażeń i podpal (5) ( <u>podpalenie</u>) wszystkich wrogów dolnym wierszu. Wtasuj ich do talii. <u>Wyczerpany</u>"
+pl-PL_name: "Podmuch"
+pl-PL_description: "Zadaj 5 przenikliwych (<u>przenikliwy</u>) obrażeń i podpal (5) ( <u>podpalenie</u>) wszystkich wrogów dolnym wierszu. Wtasuj ich do talii. <u>Wyczerpany</u>"
 pl-PL_flavor: "Jeśli nie możesz wytrzymać gorąca, wyjdź z lochu."
 tile_id: Blastwave
 cost: 6

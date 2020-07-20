@@ -15,7 +15,7 @@ cost: 3
 image: /images/LightningStrike.png
 hero: mage
 ru-RU_name: "Удар молнии"
-ru-RU_description: "Наносит 12 <u>пронзающий</u> урона, распределённого между выбранным врагом и его соседями. <u>Сжигается</u>."
+ru-RU_description: "Наносит 12 <u>пронзающего</u> урона, распределённого между выбранным врагом и его соседями. <u>Сжигается</u>."
 ru-RU_flavor: "Молния редко бьет в одно место дважды, однако это все равно было бы лишним."
 tile_id: LightningStrike
 cost: 3
@@ -36,7 +36,7 @@ cost: 3
 image: /images/LightningStrike.png
 hero: mage
 pl-PL_name: "Błyskawica"
-pl-PL_description: "Zadaj 12 przenikliwych (<u>przenikający</u>) obrażeń podzielonych między wskazanego przeciwnika i jego sąsiadów. <u>Wyczerpany</u>"
+pl-PL_description: "Zadaj 12 przenikliwych (<u>przenikliwy</u>) obrażeń podzielonych między wskazanego przeciwnika i jego sąsiadów. <u>Wyczerpany</u>"
 pl-PL_flavor: "Błyskawica rzadko trafia dwa razy w to samo miejsce, to byłoby przegięcie."
 tile_id: LightningStrike
 cost: 3

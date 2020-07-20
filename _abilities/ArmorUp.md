@@ -35,8 +35,8 @@ tile_id: ArmorUp
 cost: 2
 image: /images/ArmorUp.png
 hero: warrior
-pl-PL_name: "Pancerz w górę!"
-pl-PL_description: "Przywróć trwałość wszystkich pancerzy w swoim inwentarzu do pełna i zwiększ wartość ich 🛡️️ <u>blok</u> o 2. <u>Wyczerpany</u>"
+pl-PL_name: "Wskakuj w zbroję!"
+pl-PL_description: "Przywróć pełną trwałość wszystkich pancerzy w ekwipunku i zwiększ wartość 🛡️️ <u>blok</u> o 2. <u>Wyczerpany</u>"
 pl-PL_flavor: "Czasami najlepszym atakiem jest ucieczka do swej skorupki i pozwolenie wrogowi wyczerpać się samemu."
 tile_id: ArmorUp
 cost: 2

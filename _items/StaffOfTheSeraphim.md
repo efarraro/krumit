@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 jp-JP_name: "熾天使の杖"
 jp-JP_description: "5❤️回復する"
-jp-JP_flavor: "Как молниеотвод, но для божественной маны вместо молнии."
+jp-JP_flavor: "避雷針に似ているが、雷ではなくマナのためのものなんだ。"
 tile_id: StaffOfTheSeraphim
 cost: 3
 image: /images/StaffOfTheSeraphim.png

@@ -15,7 +15,7 @@ cost: 4
 image: /images/LightningStorm.png
 hero: mage
 ru-RU_name: "Грозовая буря"
-ru-RU_description: "Наносит 4 <u>пронзающий</u> урона всем врагам на поле. <u>Сжигается</u>."
+ru-RU_description: "Наносит 4 <u>пронзающего</u> урона всем врагам на поле. <u>Сжигается</u>."
 ru-RU_flavor: "Эта буря точно не содержится в стакане воды."
 tile_id: LightningStorm
 cost: 4
@@ -36,7 +36,7 @@ cost: 4
 image: /images/LightningStorm.png
 hero: mage
 pl-PL_name: "Burza z Piorunami"
-pl-PL_description: "Zadaj 4 przenikliwych (<u>przenikający</u>) obrażeń wszystkim przeciwnikom na planszy. <u>Wyczerpany</u>"
+pl-PL_description: "Zadaj 4 przenikliwych (<u>przenikliwy</u>) obrażeń wszystkim przeciwnikom na planszy. <u>Wyczerpany</u>"
 pl-PL_flavor: "Z dużej chmury dużo piorunów."
 tile_id: LightningStorm
 cost: 4

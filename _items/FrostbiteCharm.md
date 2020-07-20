@@ -41,7 +41,7 @@ image: /images/FrostbiteCharm.png
 durability: 3
 hero: mage
 pl-PL_name: "Pierścień Odmrożeń"
-pl-PL_description: "Przemień <u>zamrożony</u> wroga, który nie jest bossem, w Szkielet."
+pl-PL_description: "Przemień zamrożonego (<u>zamrożony</u>) wroga, który nie jest bossem, w Szkielet."
 pl-PL_flavor: "'Z połączenia tych mocy powstaje..! Eee, chyba nie działa.' - Herman Von Bek, niefortunny poszukiwacz przygód."
 tile_id: FrostbiteCharm
 cost: 2

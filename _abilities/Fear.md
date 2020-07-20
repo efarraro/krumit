@@ -29,7 +29,7 @@ cost: 3
 image: /images/Fear.png
 hero: necromancer
 es-ES_name: "Terror"
-es-ES_description: "Selecciona un enemigo. Destruye los enemigos en la misma con menos ❤️ que el objetivo. <u>Agota</u>"
+es-ES_description: "Selecciona un enemigo. Destruye los enemigos en la misma fila con menos ❤️ que el objetivo. <u>Agota</u>"
 es-ES_flavor: "El miedo no sólo asesina la mente. Asesina el cuerpo también. Y lo hace en grande."
 tile_id: Fear
 cost: 3

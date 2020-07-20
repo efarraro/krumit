@@ -10,9 +10,9 @@ zh-CN_description: "敌人处于飞行状态！你只能在它进行过一次攻
 zh-CN_flavor: "风行者是速度最快也是嘴巴最臭的一种哈比。根据幸存者的描述来看，在风行者的袭击抵达之前会传来一连串令人毛骨悚然的谩骂声。"
 tile_id: WindRunner
 image: /images/WindRunner.png
-ru-RU_name: "Бегущая по ветру"
+ru-RU_name: "Ветрокрылая"
 ru-RU_description: "Этот враг летает! Вы не можете экипировать оружие, пока этот враг не начнёт атаковать."
-ru-RU_flavor: "Бегущие по ветру - самые быстрые и вульгарные из гарпий. Выжившие рассказывают о кровоточащих потоках нецензурной брани, которые предвещают набег Бегущих по ветру."
+ru-RU_flavor: "Ветрокрылые - самые быстрые и вульгарные из гарпий. Выжившие рассказывают о душераздирающих потоках нецензурной брани, которые предвещают набег Ветрокрылых."
 tile_id: WindRunner
 image: /images/WindRunner.png
 jp-JP_name: "ウィンドランナー"
@@ -27,7 +27,7 @@ tile_id: WindRunner
 image: /images/WindRunner.png
 pl-PL_name: "Riot Girl"
 pl-PL_description: "Ten wróg lata! Nie możesz dobyć broni dopóki nie zaatakuje."
-pl-PL_flavor: "Riot Girl poruszają się błyskawicznie i wyrażają się wulgarnie. Ich ofiary słyszą łabędzią nutę tuż przed nalotem."
+pl-PL_flavor: "Riot Girls poruszają się błyskawicznie i wyrażają się wulgarnie. Ich ofiary słyszą łabędzią nutę tuż przed nalotem."
 tile_id: WindRunner
 image: /images/WindRunner.png
 ---

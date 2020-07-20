@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Shredders"
-EN_description: "<u>piercing</u>. When you acquire this, add a second exact copy to your inventory"
+EN_description: "<u>Piercing</u>. When you acquire this, add a second exact copy to your inventory"
 EN_flavor: "Better suited to tough foes than confidential documents. "
 tile_id: Shredders
 cost: 4
@@ -17,7 +17,7 @@ image: /images/Shredders.png
 durability: 3
 hero: rogue
 ru-RU_name: "Измельчители"
-ru-RU_description: "<u>пронзающий</u>. Когда вы получаете это, добавляет вторую точную копию в снаряжение."
+ru-RU_description: "<u>Пронзающий</u>. Когда вы получаете это, добавляет вторую точную копию в снаряжение."
 ru-RU_flavor: "Лучше подходит для жестких врагов, чем для тайных документов."
 tile_id: Shredders
 cost: 4
@@ -33,7 +33,7 @@ image: /images/Shredders.png
 durability: 3
 hero: rogue
 es-ES_name: "Trituradoras"
-es-ES_description: "<u>penetrante</u>. Cuando adquieras este ítem, añade una segunda copia exacta a tu inventario"
+es-ES_description: "<u>Penetrante</u>. Cuando adquieras este ítem, añade una segunda copia exacta a tu inventario"
 es-ES_flavor: "Son más apropiadas para enemigos difíciles que para documentos confidenciales."
 tile_id: Shredders
 cost: 4
@@ -41,7 +41,7 @@ image: /images/Shredders.png
 durability: 3
 hero: rogue
 pl-PL_name: "Rozpruwacze"
-pl-PL_description: "<u>przenikający</u>. Gdy uzyskasz to, dodaj identyczną kopię do ekwipunku."
+pl-PL_description: "<u>Przenikliwy</u>. Gdy uzyskasz to, dodaj identyczną kopię do ekwipunku."
 pl-PL_flavor: "Ostrożnie, możesz niechcący zaczepić o swój strój."
 tile_id: Shredders
 cost: 4

@@ -58,7 +58,7 @@ monsters:
     quantity: 5
     url: /monsters/Harpy
   - monster:
-    name: "Бегущая по ветру"
+    name: "Ветрокрылая"
     image: /images/WindRunner.png
     quantity: 2
     url: /monsters/WindRunner

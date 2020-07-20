@@ -11,7 +11,7 @@ zh-CN_flavor: "扎考刺客十分擅长潜行和捅人。永远都不要把后�
 tile_id: JackalAssassin
 image: /images/JackalAssassin.png
 ru-RU_name: "Ассасин"
-ru-RU_description: "Этот враг начинает со скрытностью, мешая вам нацелиться на него, пока вы не атакуете его в сражении"
+ru-RU_description: "Этот враг прячется, мешая вам взаимодействовать с ним, пока вы не начнёте с ним бой."
 ru-RU_flavor: "Шакалы-убийцы особенно скрытны и агрессивны. Никогда не поворачивайся к ним спиной."
 tile_id: JackalAssassin
 image: /images/JackalAssassin.png

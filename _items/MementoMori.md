@@ -17,7 +17,7 @@ image: /images/MementoMori.png
 durability: 3
 hero: necromancer
 ru-RU_name: "Memento Mori"
-ru-RU_description: "Имеет +1 🔸 за каждое недостающее ❤️."
+ru-RU_description: "Имеет +1 🔸 за каждое ваше недостающее ❤️."
 ru-RU_flavor: "Помни, что ты умрешь - но возьми с собой несколько из них по дороге, а?"
 tile_id: MementoMori
 cost: 3

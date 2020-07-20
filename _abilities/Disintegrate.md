@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Disintegrate"
-EN_description: "<u>piercing</u>.  Each time you use this ability, increase its damage by 1.  Acquire 3 abilities to recharge"
+EN_description: "<u>Piercing</u>.  Each time you use this ability, increase its damage by 1.  Acquire 3 abilities to recharge"
 EN_flavor: "Now you see it - now you don't."
 tile_id: Disintegrate
 cost: 4
@@ -15,8 +15,8 @@ cost: 4
 image: /images/Disintegrate.png
 hero: mage
 ru-RU_name: "Распад"
-ru-RU_description: "<u>пронзающий</u>. Когда вы используете эту способность, увеличивает свой урон на 1. Перезаряжается после получения 3 способностей."
-ru-RU_flavor: "Вот ты видишь это - вот не видишь."
+ru-RU_description: "<u>Пронзающий</u>. Когда вы используете эту способность, увеличивает свой урон на 1. Перезаряжается после получения 3 способностей."
+ru-RU_flavor: "Был пацан и нет пацана."
 tile_id: Disintegrate
 cost: 4
 image: /images/Disintegrate.png
@@ -29,14 +29,14 @@ cost: 4
 image: /images/Disintegrate.png
 hero: mage
 es-ES_name: "Desintegrar"
-es-ES_description: "<u>penetrante</u>. Cada vez que uses esta habilidad, incrementa su daño en 1. Adquiere 3 habilidades para recargar"
+es-ES_description: "<u>Penetrante</u>. Cada vez que uses esta habilidad, incrementa su daño en 1. Adquiere 3 habilidades para recargar"
 es-ES_flavor: "Ahora lo ves - y ahora no."
 tile_id: Disintegrate
 cost: 4
 image: /images/Disintegrate.png
 hero: mage
 pl-PL_name: "Dezintegracja"
-pl-PL_description: "<u>przenikający</u>. Za każdym razem, gdy użyjesz tej zdolności, zwiększ jej obrażenia o 1. Uzyskaj 3 umiejętności aby naładować"
+pl-PL_description: "<u>Przenikliwy</u>. Za każdym razem, gdy użyjesz tej zdolności, zwiększ jej obrażenia o 1. Uzyskaj 3 umiejętności aby naładować"
 pl-PL_flavor: "W tym miejscu była szopa Krumita, ale już nie stoi."
 tile_id: Disintegrate
 cost: 4

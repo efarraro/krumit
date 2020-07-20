@@ -63,7 +63,7 @@ ru-RU_description: "Место настолько безумное, что да�
 tier: 6
 monsters:
   - monster:
-    name: "Бегущая по ветру"
+    name: "Ветрокрылая"
     image: /images/WindRunner.png
     quantity: 4
     url: /monsters/WindRunner

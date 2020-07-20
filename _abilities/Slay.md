@@ -15,7 +15,7 @@ cost: 5
 image: /images/Slay.png
 hero: rogue
 ru-RU_name: "Убийство"
-ru-RU_description: "Наносит 3 <u>пронзающий</u> урона врагу. Если это убьёт его, увеличивает ваш базовый 🔸 на 1 до конца подземелья. <u>Сжигается</u>."
+ru-RU_description: "Наносит 3 <u>пронзающего</u> урона врагу. Если это убьёт его, увеличивает вашу базовую 🔸 на 1 до конца подземелья. <u>Сжигается</u>."
 ru-RU_flavor: "Просто убей."
 tile_id: Slay
 cost: 5
@@ -36,7 +36,7 @@ cost: 5
 image: /images/Slay.png
 hero: rogue
 pl-PL_name: "Powalenie"
-pl-PL_description: "Zadaj 3 przenikających (<u>przenikający</u>) obrażeń wskazanemu przeciwnikowi. Jeżeli go pokonasz, otrzymasz +1 🔸 do końca lochu. <u>Wyczerpany</u>"
+pl-PL_description: "Zadaj 3 przenikliwych (<u>przenikliwy</u>) obrażeń wskazanemu przeciwnikowi. Jeżeli go pokonasz, otrzymasz +1 🔸 do końca lochu. <u>Wyczerpany</u>"
 pl-PL_flavor: "Zwala z nóg"
 tile_id: Slay
 cost: 5

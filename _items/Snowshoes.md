@@ -41,7 +41,7 @@ image: /images/Snowshoes.png
 durability: 3
 hero: mage
 pl-PL_name: "Rakiety śniegowe"
-pl-PL_description: "Koszt uzyskania tego przedmiotu jest obniżony o 1 💰 za każdego zamrożonego (<u>zamrożony</u>) wroga w tej samej kolumnie i wierszu"
+pl-PL_description: "Koszt uzyskania tego przedmiotu jest obniżony o 1 💰 za każdego zamrożonego (<u>zamrożony</u>) wroga w tej samej kolumnie i wierszu."
 pl-PL_flavor: "Cukinia czy ogórek? Pomarańcza czy grejpfrut? Rakieta tenisowa czy śniegowa? Niektórzy nie potrafią ich odróżnić od siebie."
 tile_id: Snowshoes
 cost: 3

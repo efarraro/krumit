@@ -15,7 +15,7 @@ cost: 1
 image: /images/Shadowburn.png
 hero: priest
 ru-RU_name: "Теневой ожог"
-ru-RU_description: "Наносит 6 <u>пронзающий</u> урона врагу и 2 <u>пронзающий</u> урона вам, затем <u>мутирует</u> в 🟦Королева."
+ru-RU_description: "Наносит 6 <u>пронзающего</u> урона врагу и 2 <u>пронзающего</u> урона вам, затем <u>мутирует</u> в 🟦Королева."
 ru-RU_flavor: "«Вы когда-нибудь чувствовали, как горит ваша тень? Я бы не пожелал этого моему третьему злейшему врагу» - Август, заместитель епископа Церкви святых катаклизмов."
 tile_id: Shadowburn
 cost: 1
@@ -36,7 +36,7 @@ cost: 1
 image: /images/Shadowburn.png
 hero: priest
 pl-PL_name: "Sparzenie Mrokiem"
-pl-PL_description: "Zadaj 6 przenikających (<u>przenikający</u>) obrażeń wskazanemu wrogowi i 2 przenikających obrażeń sobie. <u>Mutacja</u> 🟦Królowa"
+pl-PL_description: "Zadaj 6 przenikliwych (<u>przenikliwy</u>) obrażeń wskazanemu wrogowi i 2 przenikliwych obrażeń sobie. <u>Mutacja</u> 🟦Królowa"
 pl-PL_flavor: "'Czy poparzyliście się kiedyś swoim własnym cieniem? Nie życzyłbym tego swojemu trzeciemu najgorszemu wrogowi.' - Kancjan, Kapłan Kościoła Kataklizmowych Kanoników"
 tile_id: Shadowburn
 cost: 1

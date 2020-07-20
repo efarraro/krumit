@@ -41,7 +41,7 @@ image: /images/Firecracker.png
 durability: 3
 hero: rogue
 pl-PL_name: "Petarda"
-pl-PL_description: "W walce, jeżeli 🔸 twojego przeciwnika jest 4 lub więcej, użyj tego aby go ogłuszyć (<u>ogłuszenie</u>)."
+pl-PL_description: "W walce, jeżeli 🔸 przeciwnika jest 4 lub większy, użyj tego aby go ogłuszyć (<u>ogłuszenie</u>)."
 pl-PL_flavor: "Niewielka kula gazowa oddalona o centymetry - prawie jak gwiazda."
 tile_id: Firecracker
 cost: 1

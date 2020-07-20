@@ -36,7 +36,7 @@ cost: 2
 image: /images/ExplosiveRunes.png
 hero: mage
 pl-PL_name: "Wybuchowe Runy"
-pl-PL_description: "Zniszcz wskazaną umiejętność. Zadaj przenikające (<u>przenikający</u>) obrażenie sąsiadującym przeciwnikom równe kosztowi tej zdolności + 2. <u>Wyczerpany</u>"
+pl-PL_description: "Zniszcz wskazaną umiejętność. Zadaj przenikliwe (<u>przenikliwy</u>) obrażenia sąsiadującym przeciwnikom równe kosztowi tej zdolności + 2. <u>Wyczerpany</u>"
 pl-PL_flavor: "'Stosowanie run wybuchowych powoduje utratę kończyn lub życia.' ostrzega Minister ds. Runicznych"
 tile_id: ExplosiveRunes
 cost: 2

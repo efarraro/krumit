@@ -41,8 +41,8 @@ image: /images/BrassKnuckles.png
 durability: 2
 hero: rogue
 pl-PL_name: "Brązowy Kastet"
-pl-PL_description: "Jeżeli twój atak ma Szarżę (⚡️ <u>blitz</u>), ogłusz (<u>ogłuszenie</u>) przeciwnika po ataku"
-pl-PL_flavor: "Niezastąpione w barowych bójkach"
+pl-PL_description: "Jeżeli twój atak ma ⚡️ <u>blitz</u>, ogłusz (<u>ogłuszenie</u>) przeciwnika po ataku."
+pl-PL_flavor: "Niezastąpione w barowych bójkach."
 tile_id: BrassKnuckles
 cost: 1
 image: /images/BrassKnuckles.png

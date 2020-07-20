@@ -41,7 +41,7 @@ image: /images/SpikedClub.png
 durability: 2
 hero: warrior
 pl-PL_name: "Naszpikowana maczuga"
-pl-PL_description: "Po ataku tą bronią, otrzymujesz 1 przenikających (<u>przenikający</u>) obrażeń."
+pl-PL_description: "Po ataku tą bronią, otrzymujesz 1 przenikliwych (<u>przenikliwy</u>) obrażeń."
 pl-PL_flavor: "Gdy przebijesz ją pierwszym gwoździem przestaje służyć do grania i nadaje się tylko do zabijania."
 tile_id: SpikedClub
 cost: 1

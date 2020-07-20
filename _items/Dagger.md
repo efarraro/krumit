@@ -42,7 +42,7 @@ durability: 2
 hero: rogue
 pl-PL_name: "Sztylet"
 pl-PL_description: "Podstawowy przedmiot - brak dodatkowych efektów"
-pl-PL_flavor: "Nadziej na ostry koniec swoich wrogów i jabłka."
+pl-PL_flavor: "Nadziej na ostry koniec swoich wrogów, i jabłka."
 tile_id: Dagger
 cost: 2
 image: /images/Dagger.png

@@ -8,7 +8,7 @@ cost: 1
 image: /images/IllOmens.png
 hero: priest
 zh-CN_name: "恶兆"
-zh-CN_description: "向一列敌人施加 <u>腐化</u> (5)。<u>消耗</u>"
+zh-CN_description: "向一行敌人施加 <u>腐化</u> (5)。<u>消耗</u>"
 zh-CN_flavor: "“我有一种不祥的预感……” - 陨落之人——洪堡"
 tile_id: IllOmens
 cost: 1

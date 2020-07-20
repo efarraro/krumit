@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 jp-JP_name: "バットキングのマント"
 jp-JP_description: "🟦クイーンを持っている場合のみ装備可能"
-jp-JP_flavor: "Некогда призовую мантию короля летучих мышей сейчас можно одеть, находясь только в королевской позе."
+jp-JP_flavor: "かつて大切にしていたバットキングのマントは、今では王者の風格を持つ者だけが着用できるようになった。"
 tile_id: BatKingsMantle
 cost: 3
 image: /images/BatKingsMantle.png

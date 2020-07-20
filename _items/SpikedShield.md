@@ -41,7 +41,7 @@ image: /images/SpikedShield.png
 durability: 3
 hero: warrior
 pl-PL_name: "Tarcza z kolcem"
-pl-PL_description: "Gdy ten przedmiot jest dobyty, masz <u>ciernie</u> (2)."
+pl-PL_description: "Gdy ten przedmiot jest dobyty, masz <u>ciernie</u> 2."
 pl-PL_flavor: "'Myślą o nas, że jesteśmy różami, które dadzą się zerwać bez walki. Niech spróbują i poznają nasze kolce.' - Guliusz, Poeta-Wartownik"
 tile_id: SpikedShield
 cost: 4

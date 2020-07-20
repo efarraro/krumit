@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 jp-JP_name: "豪奢な手"
 jp-JP_description: "この武器で <u>腐敗</u>した敵を攻撃した時、💰を1枚獲得する"
-jp-JP_flavor: "Пощечина Мидаса."
+jp-JP_flavor: "ミダス王の平手打ち。"
 tile_id: OpulentHand
 cost: 3
 image: /images/OpulentHand.png

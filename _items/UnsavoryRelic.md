@@ -26,7 +26,7 @@ durability: 2
 hero: priest
 jp-JP_name: "穢れた遺物"
 jp-JP_description: "敵を <u>腐敗</u>させる(3)"
-jp-JP_flavor: "Сокровище для одних является худшим кошмаром для остальных."
+jp-JP_flavor: "一人の女性の「宝物」は、他人にとって悪夢である。"
 tile_id: UnsavoryRelic
 cost: 1
 image: /images/UnsavoryRelic.png

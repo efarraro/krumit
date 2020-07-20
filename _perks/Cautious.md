@@ -21,7 +21,7 @@ es-ES_description: "Ya no puedes desviar ataques, pero cada arma equipada te da 
 tile_id: Cautious
 image: /images/Cautious.png
 pl-PL_name: "Ostrożny"
-pl-PL_description: "Nie możesz odparowywać, ale każda użyta broń dodaje 2 🛡️️ <u>blok</u>"
+pl-PL_description: "Nie możesz odparowywać, ale każda użyta broń dodaje 2 🛡️️ <u>blok</u>."
 tile_id: Cautious
 image: /images/Cautious.png
 ---

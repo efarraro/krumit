@@ -41,7 +41,7 @@ image: /images/CowBell.png
 durability: 2
 hero: necromancer
 pl-PL_name: "Nawiedzony Dzwon"
-pl-PL_description: "Zadaj *0* <u>przenikający</u> obrażeń (równe twojemu brakującemu ❤️) wskazanemu wrogowi."
+pl-PL_description: "Zadaj *0* <u>przenikliwy</u> obrażeń (równe twojemu brakującemu ❤️) wskazanemu wrogowi."
 pl-PL_flavor: "Okropne dźwięki tego krowiego dzwonu potrafią ogłuszyć i wywołać potężną chętkę na siano."
 tile_id: CowBell
 cost: 3

@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 jp-JP_name: "猿の手"
 jp-JP_description: "この武器で攻撃すると、デッキのアビリティ一つが<u>呪い</u>に変わる"
-jp-JP_flavor: "Будьте осторожны, ведь то, что вы попросите, может стать реальностью."
+jp-JP_flavor: "ギボンの月（凸月の反対）の下でエンチャントされたこの生々しい前足は、願い事に呪いを掛けてしまう。"
 tile_id: MonkeysPaw
 cost: 1
 image: /images/MonkeysPaw.png

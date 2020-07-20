@@ -161,7 +161,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 es-ES_name: "Cofre de Piratas"
-es-ES_description: "<u>Roba</u> un ítem aleatorio"
+es-ES_description: "<u>Descubre</u> un ítem aleatorio"
 es-ES_flavor: "Los piratas son tipejos desconfiados. La verdadera llave a un cofre de piratas yace en tocarles el corazoncillo."
 tile_id: PirateLockbox
 cost: 2
@@ -169,7 +169,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 es-ES_name: "Cofre de Piratas"
-es-ES_description: "<u>Roba</u> un ítem aleatorio"
+es-ES_description: "<u>Descubre</u> un ítem aleatorio"
 es-ES_flavor: "Los piratas son tipejos desconfiados. La verdadera llave a un cofre de piratas yace en tocarles el corazoncillo."
 tile_id: PirateLockbox
 cost: 2
@@ -177,7 +177,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 es-ES_name: "Cofre de Piratas"
-es-ES_description: "<u>Roba</u> un ítem aleatorio"
+es-ES_description: "<u>Descubre</u> un ítem aleatorio"
 es-ES_flavor: "Los piratas son tipejos desconfiados. La verdadera llave a un cofre de piratas yace en tocarles el corazoncillo."
 tile_id: PirateLockbox
 cost: 2
@@ -185,7 +185,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 es-ES_name: "Cofre de Piratas"
-es-ES_description: "<u>Roba</u> un ítem aleatorio"
+es-ES_description: "<u>Descubre</u> un ítem aleatorio"
 es-ES_flavor: "Los piratas son tipejos desconfiados. La verdadera llave a un cofre de piratas yace en tocarles el corazoncillo."
 tile_id: PirateLockbox
 cost: 2
@@ -193,7 +193,7 @@ image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
 es-ES_name: "Cofre de Piratas"
-es-ES_description: "<u>Roba</u> un ítem aleatorio"
+es-ES_description: "<u>Descubre</u> un ítem aleatorio"
 es-ES_flavor: "Los piratas son tipejos desconfiados. La verdadera llave a un cofre de piratas yace en tocarles el corazoncillo."
 tile_id: PirateLockbox
 cost: 2

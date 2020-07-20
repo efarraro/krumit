@@ -33,7 +33,7 @@ image: /images/ThiefsBelt.png
 durability: 2
 hero: rogue
 es-ES_name: "Cinturón de Herramientas"
-es-ES_description: "<u>Roba</u> una copia de <a href = '../es_es/items#PoisonPotion'>Frasco de Veneno</a>, <a href = '../es_es/items#Blackjack'>Cachiporra</a>, o <a href = '../es_es/abilities#HiddenBlades'>Cuchillas Ocultas</a>"
+es-ES_description: "<u>Descubre</u> una copia de <a href = '../es_es/items#PoisonPotion'>Frasco de Veneno</a>, <a href = '../es_es/items#Blackjack'>Cachiporra</a>, o <a href = '../es_es/abilities#HiddenBlades'>Cuchillas Ocultas</a>"
 es-ES_flavor: "Probablemente le pertenecía a un fontanero, pero ahora se le ha dado un mejor uso."
 tile_id: ThiefsBelt
 cost: 2

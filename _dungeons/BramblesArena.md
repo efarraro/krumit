@@ -125,7 +125,7 @@ pl-PL_description: "'Zapraszamy na Arenę w Cierniowie! Miód i łososie w barze
 tier: 2
 monsters:
   - monster:
-    name: "Niedźwiedźarian"
+    name: "Niedźwierzyńca"
     image: /images/Bear.png
     quantity: 2
     url: /monsters/Bear

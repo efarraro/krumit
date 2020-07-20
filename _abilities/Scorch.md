@@ -15,7 +15,7 @@ cost: 1
 image: /images/Scorch.png
 hero: mage
 ru-RU_name: "Ожог"
-ru-RU_description: "Наносит 3 <u>пронзающий</u> урона врагу и накладывает на него  <u>ожог</u> (1). <u>Сжигается</u>."
+ru-RU_description: "Наносит 3 <u>пронзающего</u> урона врагу и накладывает на него  <u>ожог</u> (1). <u>Сжигается</u>."
 ru-RU_flavor: "Высвободи огонь внутри тебя."
 tile_id: Scorch
 cost: 1
@@ -36,7 +36,7 @@ cost: 1
 image: /images/Scorch.png
 hero: mage
 pl-PL_name: "Przypieczenie"
-pl-PL_description: "Zadaj 3 przenikliwych (<u>przenikający</u>) obrażeń i  <u>podpalenie</u> (1) przeciwnikowi. <u>Wyczerpany</u>"
+pl-PL_description: "Zadaj 3 przenikliwych (<u>przenikliwy</u>) obrażeń i  <u>podpalenie</u> (1) przeciwnikowi. <u>Wyczerpany</u>"
 pl-PL_flavor: "W sosie własnym."
 tile_id: Scorch
 cost: 1

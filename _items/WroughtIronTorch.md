@@ -26,7 +26,7 @@ durability: 3
 hero: priest
 jp-JP_name: "錬鉄トーチ"
 jp-JP_description: "<u>枯渇</u>：🟦クイーンに<u>変異</u>する"
-jp-JP_flavor: "Просветите чью-то голову этим просветляющим подсвечником!"
+jp-JP_flavor: "この立派な燭台で誰かの頭を照らしてみよう！"
 tile_id: WroughtIronTorch
 cost: 3
 image: /images/WroughtIronTorch.png

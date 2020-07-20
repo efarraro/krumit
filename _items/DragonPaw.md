@@ -18,7 +18,7 @@ durability: 3
 hero: mage
 ru-RU_name: "Лапа Драгорна"
 ru-RU_description: "Восстанавливает 2 здоровья, когда вы атакуете  <u>горящего</u> врага."
-ru-RU_flavor: "«Этот трижды проклятый Серобородый... Я найду его и верну свою руку. И если он захочет вернуть свои деньги - обойдётся» - Бартоломью."
+ru-RU_flavor: "«Этот трижды проклятый Седобородый... Я найду его и верну свою руку. И если он захочет вернуть свои деньги - обойдётся» - Бартоломью."
 tile_id: DragonPaw
 cost: 4
 image: /images/DragonPaw.png
@@ -42,7 +42,7 @@ durability: 3
 hero: mage
 pl-PL_name: "Smrocze Łapsko"
 pl-PL_description: "Odnów 2 ❤️ gdy zaatakujesz płonącego ( <u>w płomieniach</u>) wroga."
-pl-PL_flavor: "'Siwobrody, ta zaraza... Znajdę go i odzyskam swoją rękę. A jak zażąda zwrotu pieniędzy to może sobie pogwizdać' - Bartpłomień"
+pl-PL_flavor: "'Siwobrody, ta zaraza... Znajdę go i odzyskam swoją rękę. A jak zażąda zwrotu pieniędzy to może sobie pogwizdać.' - Bartpłomień"
 tile_id: DragonPaw
 cost: 4
 image: /images/DragonPaw.png

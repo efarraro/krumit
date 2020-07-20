@@ -42,7 +42,7 @@ durability: 2147483647
 hero: warrior
 pl-PL_name: "Magnacki hełm"
 pl-PL_description: "Gdy 🛡️️ <u>blok</u> tą zbroją w walce, tracisz 1 💰. Musisz mieć przynajmniej 1 💰 aby założyć tą zbroję."
-pl-PL_flavor: "Należał niegdyś do bogatego pana. Wytrzymały gdzie trzeba, choć ekstrawaganckie wzory i zdobienia często trzeba naprawiać"
+pl-PL_flavor: "Należał niegdyś do bogatego pana. Wytrzymały gdzie trzeba, choć ekstrawaganckie wzory i zdobienia często trzeba naprawiać."
 tile_id: LordsHelm
 cost: 2
 image: /images/LordsHelm.png

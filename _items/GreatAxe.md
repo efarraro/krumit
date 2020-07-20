@@ -40,7 +40,7 @@ cost: 16
 image: /images/GreatAxe.png
 durability: 3
 hero: warrior
-pl-PL_name: "Moja Siekiera"
+pl-PL_name: "Mój Topór"
 pl-PL_description: "Gdy ta broń jest na planszy, obniż jej koszt o 2 💰 gdy pokonasz wroga."
 pl-PL_flavor: "Masz już mój łuk, teraz chcesz mój topór?"
 tile_id: GreatAxe

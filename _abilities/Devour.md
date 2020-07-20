@@ -15,7 +15,7 @@ cost: 1
 image: /images/Devour.png
 hero: necromancer
 ru-RU_name: "Пожирание"
-ru-RU_description: "Уничтожает <a href = '../ru_ru/items#Tombstone'>Надгробье</a> и увеличивает максимальное ❤️ на 4 до конца подземелья. <u>Сжигается</u>."
+ru-RU_description: "Уничтожает <a href = '../ru_ru/items#Tombstone'>Надгробье</a> и увеличивает ваше максимальное ❤️ на 4 до конца подземелья. <u>Сжигается</u>."
 ru-RU_flavor: "«Я не говорю, что он гробовщик. Однако...» - обеспокоенный местным прихожанином Мерседес."
 tile_id: Devour
 cost: 1

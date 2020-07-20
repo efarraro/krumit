@@ -20,7 +20,7 @@ cost: -1
 image: /images/CurseOfTongues.png
 jp-JP_name: "舌の呪い"
 jp-JP_description: "このタイルが盤面にある間は❤️の回復量が1減少する。取り除くには2❤️を支払う"
-jp-JP_flavor: "Идфпдкдл Греячя лллслслслпап уузнрянч!"
+jp-JP_flavor: "クククロムグツケテテテンノゴゴカマルゾバ！"
 tile_id: CurseOfTongues
 cost: -1
 image: /images/CurseOfTongues.png

@@ -33,7 +33,7 @@ image: /images/NecroTome.png
 durability: 2
 hero: necromancer
 es-ES_name: "¡El Necrotomo!"
-es-ES_description: "Destruye una Lápida y luego <u>roba</u> una copia de <a href = '../es_es/abilities#HeartyBones'>Huesos Sanos</a>, <a href = '../es_es/abilities#SoulFeast'>Festín de Almas</a>, o  <a href = '../es_es/abilities#SkeletonParty'>Fiesta Esquelética</a>"
+es-ES_description: "Destruye una Lápida y luego <u>descubre</u> una copia de <a href = '../es_es/abilities#HeartyBones'>Huesos Sanos</a>, <a href = '../es_es/abilities#SoulFeast'>Festín de Almas</a>, o  <a href = '../es_es/abilities#SkeletonParty'>Fiesta Esquelética</a>"
 es-ES_flavor: "Las cubiertas están hechas de cuero humano; el pegamento que empasta las páginas (hechas de pasta de hueso) es 100% de caballo muerto; la tinta es sangre pura de escarabajo. Los hechizos aquí escritos son como para no-morirse."
 tile_id: NecroTome
 cost: 4

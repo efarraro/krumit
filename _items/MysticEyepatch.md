@@ -41,7 +41,7 @@ image: /images/MysticEyepatch.png
 durability: 2
 hero: mage
 pl-PL_name: "Mistyczna Przepaska na Oko"
-pl-PL_description: "Gdy ta płytka pojawia się na planszy, koszt umiejętności w tej samej kolumnie jest zmniejszony 2."
+pl-PL_description: "Gdy ta płytka pojawia się na planszy, koszt umiejętności w tej samej kolumnie jest zmniejszony o 2 💰."
 pl-PL_flavor: "Po co komu widzenie obuoczne?"
 tile_id: MysticEyepatch
 cost: 1

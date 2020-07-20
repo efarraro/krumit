@@ -15,7 +15,7 @@ cost: 1
 image: /images/Zap.png
 hero: mage
 ru-RU_name: "Разряд"
-ru-RU_description: "Наносит 2 <u>пронзающий</u> урона + 1 за каждую другую копию Разряда в колоде. <u>Сжигается</u>."
+ru-RU_description: "Наносит 2 <u>пронзающего</u> урона + 1 за каждую другую копию Разряда в колоде. <u>Сжигается</u>."
 ru-RU_flavor: "Электрический потенциал!"
 tile_id: Zap
 cost: 1
@@ -36,7 +36,7 @@ cost: 1
 image: /images/Zap.png
 hero: mage
 pl-PL_name: "Skra"
-pl-PL_description: "Zadaj 2 przenikliwych (<u>przenikający</u>) obrażeń, +1 za każdą kopię Skry w talii lochu. <u>Wyczerpany</u>"
+pl-PL_description: "Zadaj 2 przenikliwych (<u>przenikliwy</u>) obrażeń, +1 za każdą kopię Skry w talii lochu. <u>Wyczerpany</u>"
 pl-PL_flavor: "Trzyma w napięciu!"
 tile_id: Zap
 cost: 1

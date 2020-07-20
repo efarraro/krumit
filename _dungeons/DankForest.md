@@ -38,7 +38,7 @@ monsters:
     quantity: 1
     url: /monsters/Bear
   - monster:
-    name: "Волк-сопляк"
+    name: "Пёс-сопляк"
     image: /images/Nukadog.png
     quantity: 6
     url: /monsters/Nukadog
@@ -75,7 +75,7 @@ pl-PL_description: "Ten las jest tak stary, że nie wiadomo, czy jego podmokła 
 tier: 1
 monsters:
   - monster:
-    name: "Niedźwiedźarian"
+    name: "Niedźwierzyńca"
     image: /images/Bear.png
     quantity: 1
     url: /monsters/Bear

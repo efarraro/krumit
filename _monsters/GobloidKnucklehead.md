@@ -12,7 +12,7 @@ tile_id: GobloidKnucklehead
 image: /images/GobloidKnucklehead.png
 ru-RU_name: "Каскоголовый"
 ru-RU_description: "Когда этот враг умирает, добавляет копию <a href = '../ru_ru/abilities#Stupidity'>Глупасть</a> в снаряжение."
-ru-RU_flavor: "Самые агрессивные из Гоблоидов известные как тупоголовые. Они - сила, с которой приходится считаться - определенно не договариваться."
+ru-RU_flavor: "Самые агрессивные из гоблоидов, известные как тупоголовые. Они - сила, с которой приходится считаться."
 tile_id: GobloidKnucklehead
 image: /images/GobloidKnucklehead.png
 jp-JP_name: "バケツヘッド"

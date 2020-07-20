@@ -29,7 +29,7 @@ monsters:
     quantity: 4
     url: /monsters/Cooltist
 ru-RU_name: "Подземное собрание крутистов"
-ru-RU_description: "'Ааа... Все эти новые ребята... <i>Я</i> тусовался здесь ещё до того, как кто-нибудь знал об этом' -  Ма$тер Смерти K."
+ru-RU_description: "«Ааа... Все эти новые ребята... <i>Я</i> тусовался здесь ещё до того, как кто-нибудь знал об этом» - Маcтер cмерти K."
 tier: 1
 monsters:
   - monster:
@@ -71,7 +71,7 @@ monsters:
     quantity: 4
     url: /monsters/Cooltist
 pl-PL_name: "Podziemna Kryjówka Gorliwców"
-pl-PL_description: "'Ugh, wszyscy jesteście pozerami - <i>Ja</i> znałem to miejsce zanim ktokolwiek inny o nim wiedział.' - $mierciomistrz K."
+pl-PL_description: "'Ugh, wszyscy jesteście pozerami - <i>Ja</i> znałem to miejsce zanim ktokolwiek inny o nim wiedział.' - Śmierciomistrz K."
 tier: 1
 monsters:
   - monster:

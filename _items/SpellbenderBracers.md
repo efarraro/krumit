@@ -41,8 +41,8 @@ image: /images/SpellbenderBracers.png
 durability: 3
 hero: mage
 pl-PL_name: "Naramienniki Zaklinacza"
-pl-PL_description: " <u>podpalenie</u> (1) i <u>zamrożenie</u> wroga. Zniszcz go jeżeli nie jest on bossem i jest już  <u>w płomieniach</u> oraz <u>zamrożony</u>."
-pl-PL_flavor: "Na te okazje gdy chcesz nagiąć żywioły i zasady."
+pl-PL_description: "Podpal 1 ( <u>podpalenie</u>) i zamroź (<u>zamrożenie</u>) wroga. Zniszcz go jeżeli nie jest on bossem i jest już w płomieniach i zamrożony."
+pl-PL_flavor: "Na te okazje gdy chcesz nagiąć żywioły ORAZ zasady."
 tile_id: SpellbenderBracers
 cost: 2
 image: /images/SpellbenderBracers.png

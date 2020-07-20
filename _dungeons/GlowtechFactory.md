@@ -97,7 +97,7 @@ monsters:
     quantity: 2
     url: /monsters/Peasant
 es-ES_name: "Fábrica Robótica GlowTech"
-es-ES_description: "Aquí se solían construir robots de servicio doméstico. Un día a alguien se le ocurrió añadir espadas y lásers a la línea de producción - y el resto es una historia sanguinolienta."
+es-ES_description: "Aquí se solían construir robots de servicio doméstico. Un día a alguien se le ocurrió añadir espadas y láseres a la línea de producción - y el resto es una historia sanguinolenta."
 tier: 3
 monsters:
   - monster:

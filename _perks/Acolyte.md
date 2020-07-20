@@ -17,7 +17,7 @@ jp-JP_description: "各ダンジョン開始時、ランダムなアビリティ
 tile_id: Acolyte
 image: /images/Acolyte.png
 es-ES_name: "Acólito"
-es-ES_description: "Cuando empiezes una mazmorra, baraja 2 habilidades cualquiera en el mazo"
+es-ES_description: "Cuando empieces una mazmorra, baraja 2 habilidades cualquiera en el mazo"
 tile_id: Acolyte
 image: /images/Acolyte.png
 pl-PL_name: "Akolita"

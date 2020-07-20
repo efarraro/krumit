@@ -15,7 +15,7 @@ cost: 4
 image: /images/Reap.png
 hero: necromancer
 ru-RU_name: "Жать"
-ru-RU_description: "Наносит 4 <u>пронзающий</u> урона выбранному врагу и другим врагам в этом ряду. Даёт ❤️, равное нанесённому урону. <u>Сжигается</u>."
+ru-RU_description: "Наносит 4 <u>пронзающего</u> урона выбранному врагу и другим врагам в этом ряду. Даёт ❤️, равное нанесённому урону. <u>Сжигается</u>."
 ru-RU_flavor: "Заготавливай сено, пока светит солнце. Заготавливай души, когда не светит."
 tile_id: Reap
 cost: 4
@@ -36,7 +36,7 @@ cost: 4
 image: /images/Reap.png
 hero: necromancer
 pl-PL_name: "Rzezanie"
-pl-PL_description: "Zadaj 4 <u>przenikający</u> obrażeń wskazanemu wrogowi i pozostałym wrogom w tym samym rzędzie. Uzyskaj ❤️ równe zadanym obrażeniom. <u>Wyczerpany</u>"
+pl-PL_description: "Zadaj 4 <u>przenikliwy</u> obrażeń wskazanemu wrogowi i pozostałym wrogom w tym samym wierszu. Uzyskaj ❤️ równe zadanym obrażeniom. <u>Wyczerpany</u>"
 pl-PL_flavor: "Jak ustawisz ich w rzędzie to nie trafisz na kamień."
 tile_id: Reap
 cost: 4

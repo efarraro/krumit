@@ -25,7 +25,7 @@ es-ES_description: "Ten cuidado - después de bloquear en el primer turno, este 
 es-ES_flavor: "Los Barbarosos creen que el significado de la vida yace en demostrar su fuerza y en rascarse la espalda contra un buen árbol. Desde su mutación nuclear, ya no necesitan hibernar - sólo tomar frecuentes siestas."
 tile_id: Bear
 image: /images/Bear.png
-pl-PL_name: "Niedźwiedźarian"
+pl-PL_name: "Niedźwierzyńca"
 pl-PL_description: "Ostrożnie - po zablokowaniu w trakcie pierwszej tury, ten gość uderza - MOCNO!"
 pl-PL_flavor: "Niedźwierzyńcy wierzą, że znaczenie w życiu ma jedynie ich siła i masaże pleców na dobrych drzewach. Od ich Nuka-mutacji nie muszą się już hibernować - potrzebują za to częstych drzemek."
 tile_id: Bear

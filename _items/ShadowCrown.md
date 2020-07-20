@@ -26,7 +26,7 @@ durability: 2
 hero: priest
 jp-JP_name: "ダーククラウン"
 jp-JP_description: "このアイテムを使って <u>回避</u>した時、相手の <u>腐敗</u>度を2倍にする"
-jp-JP_flavor: "Дотянись до бездны, и бездна дотянется до тебя."
+jp-JP_flavor: "深淵に手を伸ばせば、深淵が自分に届くだろう。"
 tile_id: ShadowCrown
 cost: 2
 image: /images/ShadowCrown.png

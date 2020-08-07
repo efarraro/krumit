@@ -174,4 +174,33 @@ monsters:
     image: /images/Gobloid.png
     quantity: 2
     url: /monsters/Gobloid
+ko-KR_name: "울부짖는 언덕"
+ko-KR_description: "너무 정신나간 곳이어서 언덕 자체까지도 울부짖고 있습니다."
+tier: 6
+monsters:
+  - monster:
+    name: "Windrunner"
+    image: /images/WindRunner.png
+    quantity: 4
+    url: /monsters/WindRunner
+  - monster:
+    name: "누크 바이킹"
+    image: /images/Viking.png
+    quantity: 8
+    url: /monsters/Viking
+  - monster:
+    name: "펑크"
+    image: /images/Harpy.png
+    quantity: 4
+    url: /monsters/Harpy
+  - monster:
+    name: "Buckethead"
+    image: /images/GobloidKnucklehead.png
+    quantity: 4
+    url: /monsters/GobloidKnucklehead
+  - monster:
+    name: "고블로이드"
+    image: /images/Gobloid.png
+    quantity: 2
+    url: /monsters/Gobloid
 ---

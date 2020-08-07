@@ -24,4 +24,8 @@ pl-PL_name: "Berserker"
 pl-PL_description: "Kiedy atakujesz dwoma dobytymi broniami, otrzymujesz +3 🔸."
 tile_id: Berserker
 image: /images/Berserker.png
+ko-KR_name: "광전사"
+ko-KR_description: "두 개의 무기를 장착하고 공격할 때 총 🔸에 3을 더합니다"
+tile_id: Berserker
+image: /images/Berserker.png
 ---

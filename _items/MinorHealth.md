@@ -240,4 +240,44 @@ cost: 0
 image: /images/MinorHealth.png
 durability: 2
 hero: warrior
+ko-KR_name: "체력 물약병"
+ko-KR_description: "❤️을 2 회복합니다"
+ko-KR_flavor: "Like a bandaid in a bottle."
+tile_id: MinorHealth
+cost: 0
+image: /images/MinorHealth.png
+durability: 2
+hero: warrior
+ko-KR_name: "체력 물약병"
+ko-KR_description: "❤️을 2 회복합니다"
+ko-KR_flavor: "Like a bandaid in a bottle."
+tile_id: MinorHealth
+cost: 0
+image: /images/MinorHealth.png
+durability: 2
+hero: warrior
+ko-KR_name: "체력 물약병"
+ko-KR_description: "❤️을 2 회복합니다"
+ko-KR_flavor: "Like a bandaid in a bottle."
+tile_id: MinorHealth
+cost: 0
+image: /images/MinorHealth.png
+durability: 2
+hero: warrior
+ko-KR_name: "체력 물약병"
+ko-KR_description: "❤️을 2 회복합니다"
+ko-KR_flavor: "Like a bandaid in a bottle."
+tile_id: MinorHealth
+cost: 0
+image: /images/MinorHealth.png
+durability: 2
+hero: warrior
+ko-KR_name: "체력 물약병"
+ko-KR_description: "❤️을 2 회복합니다"
+ko-KR_flavor: "Like a bandaid in a bottle."
+tile_id: MinorHealth
+cost: 0
+image: /images/MinorHealth.png
+durability: 2
+hero: warrior
 ---

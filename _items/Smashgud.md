@@ -48,4 +48,12 @@ cost: 4
 image: /images/Smashgud.png
 durability: 3
 hero: warrior
+ko-KR_name: "일격박살"
+ko-KR_description: "내가 공격할 때마다, 이번 던전에서 이 무기의 🔸이 1 증가합니다"
+ko-KR_flavor: "라마타우르스 그레고리의 전설적인 커다란 철퇴들 중 하나입니다. 피투성이 지하 통로에 적힌 그대로네요."
+tile_id: Smashgud
+cost: 4
+image: /images/Smashgud.png
+durability: 3
+hero: warrior
 ---

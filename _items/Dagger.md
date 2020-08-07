@@ -48,4 +48,12 @@ cost: 2
 image: /images/Dagger.png
 durability: 2
 hero: rogue
+ko-KR_name: "Dagger"
+ko-KR_description: "기본 아이템 - 추가 효과 없음"
+ko-KR_flavor: "Stick 'em with the pointy end, or use it to slice an apple."
+tile_id: Dagger
+cost: 2
+image: /images/Dagger.png
+durability: 2
+hero: rogue
 ---

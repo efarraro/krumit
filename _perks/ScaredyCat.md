@@ -24,4 +24,8 @@ pl-PL_name: "Taktyczny odwrót"
 pl-PL_description: "Gdy uciekasz z walki, uzyskaj 2 🛡️️ <u>blok</u>."
 tile_id: ScaredyCat
 image: /images/ScaredyCat.png
+ko-KR_name: "겁먹은 고양이"
+ko-KR_description: "전투에서 도망칠 때마다 🛡️️ <u>block</u>를 2 얻습니다"
+tile_id: ScaredyCat
+image: /images/ScaredyCat.png
 ---

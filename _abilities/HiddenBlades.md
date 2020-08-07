@@ -42,4 +42,11 @@ tile_id: HiddenBlades
 cost: 1
 image: /images/HiddenBlades.png
 hero: rogue
+ko-KR_name: "숨겨진 칼날"
+ko-KR_description: "<a href = '../ko_kr/abilities#Stab'>찌르기</a>를 2장 덱에 섞어 넣습니다. <u>Exhaust</u>"
+ko-KR_flavor: "'소매는 이상적인 은폐 장소다. 양말도 충분하다. 속옷은 정말 최후의 수단이다.' - 베스트셀러 도둑 가이드 '너의 것은 나의 것' 중"
+tile_id: HiddenBlades
+cost: 1
+image: /images/HiddenBlades.png
+hero: rogue
 ---

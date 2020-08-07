@@ -48,4 +48,12 @@ cost: 1
 image: /images/MonkeysPaw.png
 durability: 3
 hero: priest
+ko-KR_name: "원숭이 손"
+ko-KR_description: "이 무기로 공격할 때, 덱에 있는 능력 한 장을 <u>Curse</u>로 변신시킵니다"
+ko-KR_flavor: "Enchanted under a gibbon moon (the opposite of a gibbous one), this gorey forepaw makes you careful what you wish for."
+tile_id: MonkeysPaw
+cost: 1
+image: /images/MonkeysPaw.png
+durability: 3
+hero: priest
 ---

@@ -48,4 +48,12 @@ cost: 2
 image: /images/MageHat.png
 durability: 3
 hero: mage
+ko-KR_name: "Wizard Hat"
+ko-KR_description: "이 아이템을 획득할 때 같은 행에 있는 능력들을 복사하여 덱에 섞어 넣습니다"
+ko-KR_flavor: "이걸 뒤집어 놓으면...보십시오! 추첨에 사용할 수 있습니다."
+tile_id: MageHat
+cost: 2
+image: /images/MageHat.png
+durability: 3
+hero: mage
 ---

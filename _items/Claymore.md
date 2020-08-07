@@ -48,4 +48,12 @@ cost: 3
 image: /images/Claymore.png
 durability: 2
 hero: warrior
+ko-KR_name: "클레이모어"
+ko-KR_description: "이 무기가 장착되어 있는 동안에는 다른 무기를 장착할 수 없습니다"
+ko-KR_flavor: "두 손으로 이 거대한 칼을 잡는 거야. 알겠지? 이제 조심해!"
+tile_id: Claymore
+cost: 3
+image: /images/Claymore.png
+durability: 2
+hero: warrior
 ---

@@ -48,4 +48,12 @@ cost: 3
 image: /images/Dawnguard.png
 durability: 3
 hero: priest
+ko-KR_name: "여명의 갑옷"
+ko-KR_description: "<u>Depleted</u>: 선택받음로 <u>변화</u>하고, ❤️을 완전히 회복합니다"
+ko-KR_flavor: "이 흉갑은 시원함을 유지하면서 태양을 찬양할 수 있게 해줍니다."
+tile_id: Dawnguard
+cost: 3
+image: /images/Dawnguard.png
+durability: 3
+hero: priest
 ---

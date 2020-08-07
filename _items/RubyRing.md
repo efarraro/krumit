@@ -48,4 +48,12 @@ cost: 6
 image: /images/RubyRing.png
 durability: 3
 hero: mage
+ko-KR_name: "Ruby Ring"
+ko-KR_description: " <u>연소</u> 상태의 적에게 <u>관통</u> 피해를 4 줍니다. 이 피해로 적을 죽이면, 이번 던전에서 내 기본 🔸이 1 증가합니다"
+ko-KR_flavor: "탐욕스러운 화염술사가 마법을 부여한 반지로, 제작자처럼 힘에 굶주렸다고 합니다. 제작자의 영혼까지 포함해서 말이죠."
+tile_id: RubyRing
+cost: 6
+image: /images/RubyRing.png
+durability: 3
+hero: mage
 ---

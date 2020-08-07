@@ -29,15 +29,22 @@ cost: 1
 image: /images/Exorcism.png
 hero: priest
 es-ES_name: "Exorcismo"
-es-ES_description: "Destruye todas las <u>maldiciones</u> y haz {0} de daño <u>penetrante</u> a cada enemigo adyacente por cada maldición destruida"
+es-ES_description: "Destruye la bendición seleccionada y destruye todos los enemigos no jefes en la misma columna y fila. <u>Agota</u>"
 es-ES_flavor: "'Recuerda que el demonio va a estar increíblemente cabreado cuando lo saques.' - Folayang, Primer Exorcista"
 tile_id: Exorcism
 cost: 1
 image: /images/Exorcism.png
 hero: priest
 pl-PL_name: "Egzorcyzm"
-pl-PL_description: "Usuń wskazane błogosławieństwo aby zniszczyć wszystkich przeciwników, którzy nie są bossami w tej samej kolumnie i wierszu."
+pl-PL_description: "Usuń wskazane błogosławieństwo, aby zniszczyć wszystkich przeciwników, którzy nie są bossami, w tej samej kolumnie i wierszu."
 pl-PL_flavor: "'Jak pogonisz diabła, to diabeł cię pogoni.' - powiedzenie egzorcystów"
+tile_id: Exorcism
+cost: 1
+image: /images/Exorcism.png
+hero: priest
+ko-KR_name: "Exorcism"
+ko-KR_description: "대상 축복을 제거하고 같은 행 또는 열에 있는 보스가 아닌 모든 적을 파괴합니다. <u>Exhaust</u>"
+ko-KR_flavor: "'Just remember, when you get the devil out, it's going to be pissed.' - First Exorcist Folayang"
 tile_id: Exorcism
 cost: 1
 image: /images/Exorcism.png

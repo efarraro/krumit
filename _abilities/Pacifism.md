@@ -36,8 +36,15 @@ cost: 3
 image: /images/Pacifism.png
 hero: priest
 pl-PL_name: "Pacyfizm"
-pl-PL_description: "Usuń przeciwnika, który nie jest bossem z lochu (nie liczy się jako pokonanie przeciwnika). <u>Przeleczenie</u> 2 razy aby naładować."
+pl-PL_description: "Usuń przeciwnika, który nie jest bossem, z lochu (nie liczy się jako pokonanie przeciwnika). <u>Przeleczenie</u> 2 razy, aby naładować."
 pl-PL_flavor: "Serce rośnie!"
+tile_id: Pacifism
+cost: 3
+image: /images/Pacifism.png
+hero: priest
+ko-KR_name: "Pacifism"
+ko-KR_description: "Remove a non-boss enemy from the dungeon (does not count as slaying an enemy). <u>과다치유</u> 2 times to recharge this"
+ko-KR_flavor: "내 심장이 넘치나이다!"
 tile_id: Pacifism
 cost: 3
 image: /images/Pacifism.png

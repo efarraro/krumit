@@ -42,4 +42,11 @@ tile_id: Retaliate
 cost: 3
 image: /images/Retaliate.png
 hero: warrior
+ko-KR_name: "Retaliate"
+ko-KR_description: "전투당 한 번, 내 🔸이 X만큼 증가합니다. X는 매 라운드마다 2씩 증가합니다."
+ko-KR_flavor: "원한은 없어. 그냥 돌려주는 거야. 이자를 붙여서. - 추방자"
+tile_id: Retaliate
+cost: 3
+image: /images/Retaliate.png
+hero: warrior
 ---

@@ -24,4 +24,8 @@ pl-PL_name: "Szerszeń"
 pl-PL_description: "Atakując bronią, zatruwasz przeciwnika ( <u>trucizna</u>). +1 🔸 przeciwko zatrutym przeciwnikom."
 tile_id: Hornet
 image: /images/Hornet.png
+ko-KR_name: "말벌"
+ko-KR_description: "내가 무기로 공격한 뒤  <u>중독</u>을 부여합니다. 중독 상태인 적에게 주는 피해량이 +1 증가합니다"
+tile_id: Hornet
+image: /images/Hornet.png
 ---

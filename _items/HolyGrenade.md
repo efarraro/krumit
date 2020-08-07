@@ -17,7 +17,7 @@ image: /images/HolyGrenade.png
 durability: 1
 hero: priest
 ru-RU_name: "Святая граната"
-ru-RU_description: "Наносит 4 урона выбранному врагу и соседним врагам. Восстанавливает 2 ❤️ за каждого врага, получивший урон."
+ru-RU_description: "Наносит 4 <u>пронзающего</u> урона выбранному врагу и соседним врагам. Восстанавливает 2 ❤️ за каждого врага, получивший урон."
 ru-RU_flavor: "Брось эту святую гранату, сделанную, по слухам, в королевстве Анти-Оха."
 tile_id: HolyGrenade
 cost: 3
@@ -43,6 +43,14 @@ hero: priest
 pl-PL_name: "Święty Granat"
 pl-PL_description: "Zadaj 4 przenikliwych (<u>przenikliwy</u>) obrażeń wskazanemu i sąsiadującym mu wrogom. Odnów 2 ❤️ za każdego z nich."
 pl-PL_flavor: "Instrukcja obsługi zawarta w Księdze Zbrojeń, rozdział 2, wersety od 9 do 21."
+tile_id: HolyGrenade
+cost: 3
+image: /images/HolyGrenade.png
+durability: 1
+hero: priest
+ko-KR_name: "성스러운 수류탄"
+ko-KR_description: "대상 적 및 인접한 적들에게 <u>관통</u> 피해를 4 줍니다. 피해를 준 적 하나 당 2 ❤️을 회복합니다"
+ko-KR_flavor: "이 성스러운 수류탄은 멀리 떨어진 안티오케 왕국에서 나온다는 소문이 있습니다."
 tile_id: HolyGrenade
 cost: 3
 image: /images/HolyGrenade.png

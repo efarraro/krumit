@@ -42,4 +42,11 @@ tile_id: Fear
 cost: 3
 image: /images/Fear.png
 hero: necromancer
+ko-KR_name: "공포"
+ko-KR_description: "적을 대상으로 지정합니다. 같은 행에서 대상보다 ❤️이 낮은  적들을 파괴합니다. <u>Exhaust</u>"
+ko-KR_flavor: "공포는 단순히 정신을 죽이는 데 그치지 않는다. 그것은 큰 죽음이기도 하다."
+tile_id: Fear
+cost: 3
+image: /images/Fear.png
+hero: necromancer
 ---

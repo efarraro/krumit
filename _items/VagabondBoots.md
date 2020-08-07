@@ -48,4 +48,12 @@ cost: 2
 image: /images/VagabondBoots.png
 durability: 3
 hero: rogue
+ko-KR_name: "부랑자의 부츠"
+ko-KR_description: "내가 능력을 사용할 때마다 이 아이템의 내구도가 1 회복됩니다"
+ko-KR_flavor: "달리기 위한 부츠 한 켤레는 뾰족한 단검만큼이나 중요합니다."
+tile_id: VagabondBoots
+cost: 2
+image: /images/VagabondBoots.png
+durability: 3
+hero: rogue
 ---

@@ -48,4 +48,12 @@ cost: 3
 image: /images/ReapersRazor.png
 durability: 3
 hero: necromancer
+ko-KR_name: "Reaper's Razor"
+ko-KR_description: "이 무기로 적을 물리쳤을 때 최대 ❤️이 1 증가합니다."
+ko-KR_flavor: "누군가의 생명의 정수 또는 가장 불경스러운 수염을 깎아 낼 만큼 날카롭습니다."
+tile_id: ReapersRazor
+cost: 3
+image: /images/ReapersRazor.png
+durability: 3
+hero: necromancer
 ---

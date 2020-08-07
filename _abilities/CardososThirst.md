@@ -42,4 +42,11 @@ tile_id: CardososThirst
 cost: 2
 image: /images/CardososThirst.png
 hero: necromancer
+ko-KR_name: "Cardoso's Thirst"
+ko-KR_description: "대상 적에게 <u>관통</u> 피해를 4 줍니다. 적이 죽으면, 이번 던전에서 내 최대 ❤️이 2 증가합니다. <u>Exhaust</u>"
+ko-KR_flavor: "'Drink deep, Cardoso, down to the last drop. It's good for you...' - Poh Rei 'The Mentor' Armanghast"
+tile_id: CardososThirst
+cost: 2
+image: /images/CardososThirst.png
+hero: necromancer
 ---

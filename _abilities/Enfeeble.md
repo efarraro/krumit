@@ -37,8 +37,15 @@ cost: 2
 image: /images/Enfeeble.png
 hero: necromancer
 pl-PL_name: "Osłabienie"
-pl-PL_description: "Zapłać 2 ❤️ aby obniżyć do 0 🔸 przeciwnika w tej rundzie. Naładuj po 6 rundach."
+pl-PL_description: "Zapłać 2 ❤️, aby obniżyć do 0 🔸 przeciwnika w tej rundzie. Naładuj po 6 rundach."
 pl-PL_flavor: "'Palec bo budkę kto pije... oh! Racja, nie dacie rady! Bahaha!' - Luca Cardoso, perfidny Manożerca."
+tile_id: Enfeeble
+cost: 2
+image: /images/Enfeeble.png
+hero: necromancer
+ko-KR_name: "Enfeeble"
+ko-KR_description: "Pay 2 ❤️ to reduce your opponent's 🔸 this round to 0. Recharge after 6 rounds"
+ko-KR_flavor: "'Raise your hand if you're feeling strange...oh! That's right! You can't! Bwahahah!' - Poh Rei Cardoso, the perfidious Mana Vamp."
 tile_id: Enfeeble
 cost: 2
 image: /images/Enfeeble.png

@@ -8,7 +8,7 @@ cost: 4
 image: /images/Reap.png
 hero: necromancer
 zh-CN_name: "横扫"
-zh-CN_description: "对你的目标以及同列的所有敌人造成4点<u>穿透</u>伤害。回复等同于造成伤害的❤️。<u>消耗</u>"
+zh-CN_description: "对你的目标以及同行的所有敌人造成4点<u>穿透</u>伤害。回复等同于造成伤害的❤️。<u>消耗</u>"
 zh-CN_flavor: "晴天割草，阴天索命。"
 tile_id: Reap
 cost: 4
@@ -38,6 +38,13 @@ hero: necromancer
 pl-PL_name: "Rzezanie"
 pl-PL_description: "Zadaj 4 <u>przenikliwy</u> obrażeń wskazanemu wrogowi i pozostałym wrogom w tym samym wierszu. Uzyskaj ❤️ równe zadanym obrażeniom. <u>Wyczerpany</u>"
 pl-PL_flavor: "Jak ustawisz ich w rzędzie to nie trafisz na kamień."
+tile_id: Reap
+cost: 4
+image: /images/Reap.png
+hero: necromancer
+ko-KR_name: "수확"
+ko-KR_description: "대상 적 및 같은 행에 있는 다른 적들에게 <u>관통</u> 피해를 4 줍니다. 준 피해량과 동일한 만큼의 ❤️를 얻습니다. Exhuast"
+ko-KR_flavor: "태양이 비칠 때 건초를 만들어라. 그렇지 않을 때 영혼을 거두어라."
 tile_id: Reap
 cost: 4
 image: /images/Reap.png

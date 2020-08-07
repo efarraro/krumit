@@ -42,4 +42,11 @@ tile_id: Execute
 cost: 1
 image: /images/Execute.png
 hero: warrior
+ko-KR_name: "처형"
+ko-KR_description: "피해를 받은 보스가 아닌 대상 적을 파괴합니다. Exhuast"
+ko-KR_flavor: "심판을 내리는 자는 도끼를 휘둘러야 하지. 그러니 우리가 심판을 내리는 게 어때? - 누크바이킹의 사형 집행자 클라인."
+tile_id: Execute
+cost: 1
+image: /images/Execute.png
+hero: warrior
 ---

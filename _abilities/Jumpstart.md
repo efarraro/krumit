@@ -36,8 +36,15 @@ cost: 3
 image: /images/Jumpstart.png
 hero: mage
 pl-PL_name: "Rozruch"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. Wypełnij puste miejsca w ekwipunku losowymi umiejętnościami o koszcie 1 💰 lub mniej."
-pl-PL_flavor: "Magia zmienną jest. Czasem potrzebuje iskierki aby rozpalić potężny płomień."
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. Wypełnij puste miejsca w ekwipunku losowymi umiejętnościami o koszcie 1 💰 lub mniej."
+pl-PL_flavor: "Magia zmienną jest. Czasem potrzebuje iskierki, aby rozpalić potężny płomień."
+tile_id: Jumpstart
+cost: 3
+image: /images/Jumpstart.png
+hero: mage
+ko-KR_name: "점프스타트"
+ko-KR_description: "<u><u>즉발</u></u>. 내 인벤토리의 빈 슬롯을 비용이 1 💰 이하인 무작위 주문으로 가득 채웁니다"
+ko-KR_flavor: "마법은 변덕스러운 여신입니다. 때때로 짧고 날카로운 충격은 그녀를 다시 화나게 하는 데 안성맞춤입니다."
 tile_id: Jumpstart
 cost: 3
 image: /images/Jumpstart.png

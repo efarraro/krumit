@@ -42,4 +42,11 @@ tile_id: Plaguebringer
 cost: 4
 image: /images/Plaguebringer.png
 hero: rogue
+ko-KR_name: "Plaguebringer"
+ko-KR_description: "보스가 아닌 중독 상태의 대상 적을 파괴한 뒤, 인접한 모든 적에게 <u>관통</u> 피해를 4 주고  <u>중독</u>(2)시킵니다. Exhuast"
+ko-KR_flavor: "그들을 고통에서 해방시켜주고, 그 고통을 다른 이들이 겪게 하라."
+tile_id: Plaguebringer
+cost: 4
+image: /images/Plaguebringer.png
+hero: rogue
 ---

@@ -24,4 +24,8 @@ pl-PL_name: "Bogacz"
 pl-PL_description: "Na początku każdego lochu, zyskaj 2 💰."
 tile_id: Rich
 image: /images/Rich.png
+ko-KR_name: "부유함"
+ko-KR_description: "각 던전에 진입할 때, 2 💰을 얻습니다"
+tile_id: Rich
+image: /images/Rich.png
 ---

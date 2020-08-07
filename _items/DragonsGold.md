@@ -240,4 +240,44 @@ cost: 3
 image: /images/DragonsGold.png
 durability: 3
 hero: warrior
+ko-KR_name: "드래고온의 금"
+ko-KR_description: "대상 아이템을 5 💰으로 변환시킵니다"
+ko-KR_flavor: "누가 더 많은 쓰레기를 인생에서 필요로 하겠는가? 필요 없는 물건들을 금으로 재활용하고, 대신 그것을 보관하라! - 프리드리히 콘마리의 '드래고온들을 위한 미니멀리즘'에서 발췌"
+tile_id: DragonsGold
+cost: 3
+image: /images/DragonsGold.png
+durability: 3
+hero: warrior
+ko-KR_name: "드래고온의 금"
+ko-KR_description: "대상 아이템을 5 💰으로 변환시킵니다"
+ko-KR_flavor: "누가 더 많은 쓰레기를 인생에서 필요로 하겠는가? 필요 없는 물건들을 금으로 재활용하고, 대신 그것을 보관하라! - 프리드리히 콘마리의 '드래고온들을 위한 미니멀리즘'에서 발췌"
+tile_id: DragonsGold
+cost: 3
+image: /images/DragonsGold.png
+durability: 3
+hero: warrior
+ko-KR_name: "드래고온의 금"
+ko-KR_description: "대상 아이템을 5 💰으로 변환시킵니다"
+ko-KR_flavor: "누가 더 많은 쓰레기를 인생에서 필요로 하겠는가? 필요 없는 물건들을 금으로 재활용하고, 대신 그것을 보관하라! - 프리드리히 콘마리의 '드래고온들을 위한 미니멀리즘'에서 발췌"
+tile_id: DragonsGold
+cost: 3
+image: /images/DragonsGold.png
+durability: 3
+hero: warrior
+ko-KR_name: "드래고온의 금"
+ko-KR_description: "대상 아이템을 5 💰으로 변환시킵니다"
+ko-KR_flavor: "누가 더 많은 쓰레기를 인생에서 필요로 하겠는가? 필요 없는 물건들을 금으로 재활용하고, 대신 그것을 보관하라! - 프리드리히 콘마리의 '드래고온들을 위한 미니멀리즘'에서 발췌"
+tile_id: DragonsGold
+cost: 3
+image: /images/DragonsGold.png
+durability: 3
+hero: warrior
+ko-KR_name: "드래고온의 금"
+ko-KR_description: "대상 아이템을 5 💰으로 변환시킵니다"
+ko-KR_flavor: "누가 더 많은 쓰레기를 인생에서 필요로 하겠는가? 필요 없는 물건들을 금으로 재활용하고, 대신 그것을 보관하라! - 프리드리히 콘마리의 '드래고온들을 위한 미니멀리즘'에서 발췌"
+tile_id: DragonsGold
+cost: 3
+image: /images/DragonsGold.png
+durability: 3
+hero: warrior
 ---

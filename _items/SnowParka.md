@@ -48,4 +48,12 @@ cost: 3
 image: /images/SnowParka.png
 durability: 2
 hero: mage
+ko-KR_name: "아콘의 파카"
+ko-KR_description: "이 타일을 획득하면, 같은 행 및 열에 있는 적들을 <u>빙결</u>시킵니다"
+ko-KR_flavor: "A cold wind's a-blowin', and anyone not snug in this downy Parka is gonna freeze their buns off."
+tile_id: SnowParka
+cost: 3
+image: /images/SnowParka.png
+durability: 2
+hero: mage
 ---

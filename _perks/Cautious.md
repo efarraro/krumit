@@ -9,7 +9,7 @@ zh-CN_description: "无法招架攻击，但是每把装备的武器都会提供
 tile_id: Cautious
 image: /images/Cautious.png
 ru-RU_name: "Предусмотрительный"
-ru-RU_description: "Вы больше не может парировать, но каждое экипированное оружие даёт 2 🛡️️ <u>блока</u>."
+ru-RU_description: "Вы больше не можете парировать, но каждое экипированное оружие даёт 2 🛡️️ <u>блока</u>."
 tile_id: Cautious
 image: /images/Cautious.png
 jp-JP_name: "用心"
@@ -22,6 +22,10 @@ tile_id: Cautious
 image: /images/Cautious.png
 pl-PL_name: "Ostrożny"
 pl-PL_description: "Nie możesz odparowywać, ale każda użyta broń dodaje 2 🛡️️ <u>blok</u>."
+tile_id: Cautious
+image: /images/Cautious.png
+ko-KR_name: "신중함"
+ko-KR_description: "You can no longer parry, but each equipped weapon adds 2 🛡️️ <u>block</u>"
 tile_id: Cautious
 image: /images/Cautious.png
 ---

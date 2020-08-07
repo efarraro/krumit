@@ -42,4 +42,11 @@ tile_id: Slay
 cost: 5
 image: /images/Slay.png
 hero: rogue
+ko-KR_name: "살해"
+ko-KR_description: "대상 적에게 <u>관통</u> 피해를 3 줍니다. 적이 죽으면, 이번 던전에서 내 기본 🔸이 1 증가합니다. <u>Exhaust</u>"
+ko-KR_flavor: "Just slay"
+tile_id: Slay
+cost: 5
+image: /images/Slay.png
+hero: rogue
 ---

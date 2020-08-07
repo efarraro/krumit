@@ -48,4 +48,12 @@ cost: 16
 image: /images/GreatAxe.png
 durability: 3
 hero: warrior
+ko-KR_name: "My Axe"
+ko-KR_description: "이 무기가 보드에 보이는 동안 적을 물리칠 때 이 무기의 비용이 2 💰 감소합니다"
+ko-KR_flavor: "내 활이 이미 널 지킬 건데, 이젠 내 도끼도 필요하냐?"
+tile_id: GreatAxe
+cost: 16
+image: /images/GreatAxe.png
+durability: 3
+hero: warrior
 ---

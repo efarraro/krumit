@@ -42,4 +42,11 @@ tile_id: Warmblooded
 cost: 2
 image: /images/Warmblooded.png
 hero: mage
+ko-KR_name: "온혈성"
+ko-KR_description: "2 ❤️을 회복합니다. 이 타일을 재충전하려면 적을  <u>연소</u>시키십시오"
+ko-KR_flavor: "살라만드라의 상을 몸에 주입하고 적들로부터, 그리고 가까이 있는 바베큐로부터 열기를 공급받으세요!"
+tile_id: Warmblooded
+cost: 2
+image: /images/Warmblooded.png
+hero: mage
 ---

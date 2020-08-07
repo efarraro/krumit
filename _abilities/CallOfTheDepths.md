@@ -36,8 +36,15 @@ cost: 20
 image: /images/CallOfTheDepths.png
 hero: necromancer
 pl-PL_name: "Zew z Głębin"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. Dodaj kopią <a href = '../pl_pl/items#Tentacle'>Macka Oktawiusza</a> do ręki. Koszt obniżony o każdy punkt zdrowia utracony w tym lochu"
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. Dodaj kopią <a href = '../pl_pl/items#Tentacle'>Macka Oktawiusza</a> do ręki. Koszt obniżony o każdy punkt zdrowia utracony w tym lochu."
 pl-PL_flavor: "Co potężniejsi potrafią przywołać z głębin potworne rzeczy. Wiedzą jednak, że przyjdzie dzień, gdy głębiny odezwą się same..."
+tile_id: CallOfTheDepths
+cost: 20
+image: /images/CallOfTheDepths.png
+hero: necromancer
+ko-KR_name: "Call of the Depths"
+ko-KR_description: "<u><u>즉발</u></u>. Add a copy of <a href = '../ko_kr/items#Tentacle'>Okto's Arm</a> to your hand. The 💰 cost is reduced for each ❤️ you've lost this dungeon"
+ko-KR_flavor: "The powerful can call up truly terrible things from the depths. But they know that one day, the depths will come calling..."
 tile_id: CallOfTheDepths
 cost: 20
 image: /images/CallOfTheDepths.png

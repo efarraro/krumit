@@ -48,4 +48,12 @@ cost: 2
 image: /images/MinersHat.png
 durability: 3
 hero: warrior
+ko-KR_name: "Miner's Hat"
+ko-KR_description: "이 아이템으로  <u>응수</u>했을 때 1 💰을 얻습니다"
+ko-KR_flavor: "Part of Bruno's spelunking kit, worn on his first (and only) expedition to the Ancient Depths."
+tile_id: MinersHat
+cost: 2
+image: /images/MinersHat.png
+durability: 3
+hero: warrior
 ---

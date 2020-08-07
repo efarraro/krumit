@@ -48,4 +48,12 @@ cost: 4
 image: /images/SpikedShield.png
 durability: 3
 hero: warrior
+ko-KR_name: "가시 방패"
+ko-KR_description: "이 아이템을 장착한 동안 <u>thorns</u>(2)를 얻습니다"
+ko-KR_flavor: "'They may think we are roses, to be plucked. Let them come, and meet our thorns.' – Laurids Carsten, Poet-Guard of Yore."
+tile_id: SpikedShield
+cost: 4
+image: /images/SpikedShield.png
+durability: 3
+hero: warrior
 ---

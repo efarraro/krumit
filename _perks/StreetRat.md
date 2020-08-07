@@ -24,4 +24,8 @@ pl-PL_name: "Dziecko ulicy"
 pl-PL_description: "Dodaj 3 <a href = '../pl_pl/monsters#RoyalGuard'>Strażnik Miejski</a> do talii. Pierwsza płytka, którą uzyskasz jest darmowa."
 tile_id: StreetRat
 image: /images/StreetRat.png
+ko-KR_name: "Street Rat"
+ko-KR_description: "Add 3 <a href = '../ko_kr/monsters#RoyalGuard'>Town Guard</a> to the deck. The first tile you acquire is free"
+tile_id: StreetRat
+image: /images/StreetRat.png
 ---

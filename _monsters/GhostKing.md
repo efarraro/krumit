@@ -30,4 +30,9 @@ pl-PL_description: "W tym lochu, gdy odrzucasz płytkę, zniszcz następną kart
 pl-PL_flavor: "Za życia, Król Upiorów był przyjemną i przemiłą duszyczką. Po śmierci, wiecznie prowadzi okrutną rywalizację z Calacasem i wszystkim innym, co stanie mu na drodze gromadzenia duszy."
 tile_id: GhostKing
 image: /images/GhostKing.png
+ko-KR_name: "유령 왕"
+ko-KR_description: "In this dungeon, whenever you discard a tile, destroy the top card of the deck (Ghost King is immune from this effect).  Spooky!"
+ko-KR_flavor: "생전에 유령 왕은 친절하고 멋진 통치자였습니다. 사후에 그는 그의 으스스한 왕국에 신선한 영혼을 모으기 위해 칼라카스(그리고 그를 따르는 다른 이들)와 치열하고 영원한 경쟁을 치르고 있습니다."
+tile_id: GhostKing
+image: /images/GhostKing.png
 ---

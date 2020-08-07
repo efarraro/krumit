@@ -48,4 +48,12 @@ cost: 4
 image: /images/Sharur.png
 durability: 3
 hero: priest
+ko-KR_name: "샤루르"
+ko-KR_description: "내가  <u>타락</u>시킨 적 하나 당 이 무기의 🔸이 1 증가합니다"
+ko-KR_flavor: "간식으로 약간의 저주 정도는 줘도 괜찮습니다."
+tile_id: Sharur
+cost: 4
+image: /images/Sharur.png
+durability: 3
+hero: priest
 ---

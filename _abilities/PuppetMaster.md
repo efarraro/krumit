@@ -36,8 +36,15 @@ cost: 4
 image: /images/PuppetMaster.png
 hero: necromancer
 pl-PL_name: "Lalkarz"
-pl-PL_description: "Zniszcz wskazanego wroga, który nie jest bossem i przywołaj Pradawny Szkielet. <u>Wyczerpany</u>"
+pl-PL_description: "Zniszcz wskazanego wroga, który nie jest bossem, i przywołaj Pradawny Szkielet. <u>Wyczerpany</u>"
 pl-PL_flavor: "Niestety, szkielety nie nadają się do pantomimy. Są bardziej skuteczne jako marionetki w walce."
+tile_id: PuppetMaster
+cost: 4
+image: /images/PuppetMaster.png
+hero: necromancer
+ko-KR_name: "인형의 주인"
+ko-KR_description: "보스가 아닌 대상 적을 파괴하고 Ancient Skeleton을 소환합니다. <u>Exhaust</u>"
+ko-KR_flavor: "안타깝게도 해골 하수인들은 팬터마임에는 쓸모 없지만, 전투에서는 실제 인형보다 더 유용합니다."
 tile_id: PuppetMaster
 cost: 4
 image: /images/PuppetMaster.png

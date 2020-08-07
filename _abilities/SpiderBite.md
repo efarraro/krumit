@@ -42,4 +42,11 @@ tile_id: SpiderBite
 cost: 0
 image: /images/SpiderBite.png
 hero: rogue
+ko-KR_name: "거미 물기"
+ko-KR_description: "적을  <u>중독</u>(3)시킵니다. <u>Exhaust</u>"
+ko-KR_flavor: "거미의 독은 뾰족한 단검을 통해 전달될 때 더욱 치명적인 것으로 밝혀졌습니다."
+tile_id: SpiderBite
+cost: 0
+image: /images/SpiderBite.png
+hero: rogue
 ---

@@ -48,4 +48,12 @@ cost: 3
 image: /images/WroughtIronTorch.png
 durability: 3
 hero: priest
+ko-KR_name: "연철 토치"
+ko-KR_description: "<u>Depleted</u>: 🟦여왕로 <u>변화</u>합니다"
+ko-KR_flavor: "용기를 주는 이 촛대로 누군가의 머리를 환하게 밝히세요!"
+tile_id: WroughtIronTorch
+cost: 3
+image: /images/WroughtIronTorch.png
+durability: 3
+hero: priest
 ---

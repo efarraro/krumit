@@ -41,8 +41,16 @@ image: /images/Firecracker.png
 durability: 3
 hero: rogue
 pl-PL_name: "Petarda"
-pl-PL_description: "W walce, jeżeli 🔸 przeciwnika jest 4 lub większy, użyj tego aby go ogłuszyć (<u>ogłuszenie</u>)."
+pl-PL_description: "W walce, jeżeli 🔸 przeciwnika jest 4 lub większy, użyj tego, aby go ogłuszyć (<u>ogłuszenie</u>)."
 pl-PL_flavor: "Niewielka kula gazowa oddalona o centymetry - prawie jak gwiazda."
+tile_id: Firecracker
+cost: 1
+image: /images/Firecracker.png
+durability: 3
+hero: rogue
+ko-KR_name: "Firecracker"
+ko-KR_description: "전투에서 상대의 행동에 4 이상의 🔸이 포함된 경우, <u>기절</u>시킵니다"
+ko-KR_flavor: "눈 속에 뜬 별...좋은 폭죽에는 아무도 저항할 수 없습니다."
 tile_id: Firecracker
 cost: 1
 image: /images/Firecracker.png

@@ -36,8 +36,15 @@ cost: 1
 image: /images/Rejuvenate.png
 hero: priest
 pl-PL_name: "Odmłodzenie"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. Regeneration"
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. Regeneration"
 pl-PL_flavor: "Dobre dla ciała, ducha, umysłu i skóry."
+tile_id: Rejuvenate
+cost: 1
+image: /images/Rejuvenate.png
+hero: priest
+ko-KR_name: "원기 회복"
+ko-KR_description: "<u><u>즉발</u></u>. <u>재생</u>을 얻습니다"
+ko-KR_flavor: "정신, 신체, 영혼 및 피부에 좋습니다."
 tile_id: Rejuvenate
 cost: 1
 image: /images/Rejuvenate.png

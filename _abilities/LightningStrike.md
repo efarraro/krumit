@@ -22,7 +22,7 @@ cost: 3
 image: /images/LightningStrike.png
 hero: mage
 jp-JP_name: "ライトニングストライク"
-jp-JP_description: "対象の敵に12の<u>貫通</u>ダメージを与え、隣接する敵にも同等のダメージを与える。<u>消耗</u>"
+jp-JP_description: "対象の敵と隣接する敵に12の<u>貫通</u>ダメージを均等に分割して与える。<u>消耗</u>"
 jp-JP_flavor: "雷が同じ場所に2回も落ちることは滅多にないが、いずれにせよそれはやりすぎだろう。"
 tile_id: LightningStrike
 cost: 3
@@ -38,6 +38,13 @@ hero: mage
 pl-PL_name: "Błyskawica"
 pl-PL_description: "Zadaj 12 przenikliwych (<u>przenikliwy</u>) obrażeń podzielonych między wskazanego przeciwnika i jego sąsiadów. <u>Wyczerpany</u>"
 pl-PL_flavor: "Błyskawica rzadko trafia dwa razy w to samo miejsce, to byłoby przegięcie."
+tile_id: LightningStrike
+cost: 3
+image: /images/LightningStrike.png
+hero: mage
+ko-KR_name: "번개 타격"
+ko-KR_description: "대상 적 및 대상 적과 인접한 적들에게 12의 <u>관통</u> 피해를 균일하게 나누어 줍니다. <u>Exhaust</u>"
+ko-KR_flavor: "번개가 같은 곳에 두 번 치는 경우는 거의 없지만, 아무튼 그건 너무 지나쳤다고."
 tile_id: LightningStrike
 cost: 3
 image: /images/LightningStrike.png

@@ -48,4 +48,12 @@ cost: 3
 image: /images/PlagueMask.png
 durability: 3
 hero: rogue
+ko-KR_name: "Plaguebringer's Hood"
+ko-KR_description: "이 타일을 획득하면, 빈 인벤토리 슬롯을 <a href = '../ko_kr/items#PoisonPotion'>독약병</a>으로 가득 채웁니다"
+ko-KR_flavor: "악취를 풍기는 이 두건은 수천 가지의 치명적인 물약을 어떻게 양조하는지에 대한 지식을 부여한다고 합니다."
+tile_id: PlagueMask
+cost: 3
+image: /images/PlagueMask.png
+durability: 3
+hero: rogue
 ---

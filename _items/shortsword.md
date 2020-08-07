@@ -48,4 +48,12 @@ cost: 2
 image: /images/ShortSword.png
 durability: 3
 hero: warrior
+ko-KR_name: "소검"
+ko-KR_description: "기본 아이템 - 추가 효과 없음"
+ko-KR_flavor: "단검과 장검이 아기를 낳으면..."
+tile_id: ShortSword
+cost: 2
+image: /images/ShortSword.png
+durability: 3
+hero: warrior
 ---

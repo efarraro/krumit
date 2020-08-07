@@ -42,4 +42,11 @@ tile_id: Heist
 cost: 1
 image: /images/Heist.png
 hero: rogue
+ko-KR_name: "강탈"
+ko-KR_description: "'다음' 타일이 아이템 또는 능력인 경우, 비용을 지불하지 않고 내 인벤토리로 가져옵니다. <u>Exhaust</u>"
+ko-KR_flavor: "'놈들이 뭐가 없어졌다는 사실조차 모르는 때야말로 가장 순조롭게 일이 풀린 순간이지.' - 미스치프"
+tile_id: Heist
+cost: 1
+image: /images/Heist.png
+hero: rogue
 ---

@@ -240,4 +240,44 @@ cost: 0
 image: /images/FlaskOfRehydration.png
 durability: 3
 hero: warrior
+ko-KR_name: "재수화 플라스크"
+ko-KR_description: "1 ❤️을 회복합니다. 타일을 버릴 때마다 이 아이템의 내구도가 1 회복됩니다"
+ko-KR_flavor: "신기하게도 이 플라스크에는 물이 들어있지 않습니다. 대신 주변 습기를 재수화 마법으로 전환시킵니다."
+tile_id: FlaskOfRehydration
+cost: 0
+image: /images/FlaskOfRehydration.png
+durability: 3
+hero: warrior
+ko-KR_name: "재수화 플라스크"
+ko-KR_description: "1 ❤️을 회복합니다. 타일을 버릴 때마다 이 아이템의 내구도가 1 회복됩니다"
+ko-KR_flavor: "신기하게도 이 플라스크에는 물이 들어있지 않습니다. 대신 주변 습기를 재수화 마법으로 전환시킵니다."
+tile_id: FlaskOfRehydration
+cost: 0
+image: /images/FlaskOfRehydration.png
+durability: 3
+hero: warrior
+ko-KR_name: "재수화 플라스크"
+ko-KR_description: "1 ❤️을 회복합니다. 타일을 버릴 때마다 이 아이템의 내구도가 1 회복됩니다"
+ko-KR_flavor: "신기하게도 이 플라스크에는 물이 들어있지 않습니다. 대신 주변 습기를 재수화 마법으로 전환시킵니다."
+tile_id: FlaskOfRehydration
+cost: 0
+image: /images/FlaskOfRehydration.png
+durability: 3
+hero: warrior
+ko-KR_name: "재수화 플라스크"
+ko-KR_description: "1 ❤️을 회복합니다. 타일을 버릴 때마다 이 아이템의 내구도가 1 회복됩니다"
+ko-KR_flavor: "신기하게도 이 플라스크에는 물이 들어있지 않습니다. 대신 주변 습기를 재수화 마법으로 전환시킵니다."
+tile_id: FlaskOfRehydration
+cost: 0
+image: /images/FlaskOfRehydration.png
+durability: 3
+hero: warrior
+ko-KR_name: "재수화 플라스크"
+ko-KR_description: "1 ❤️을 회복합니다. 타일을 버릴 때마다 이 아이템의 내구도가 1 회복됩니다"
+ko-KR_flavor: "신기하게도 이 플라스크에는 물이 들어있지 않습니다. 대신 주변 습기를 재수화 마법으로 전환시킵니다."
+tile_id: FlaskOfRehydration
+cost: 0
+image: /images/FlaskOfRehydration.png
+durability: 3
+hero: warrior
 ---

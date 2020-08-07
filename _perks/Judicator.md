@@ -24,4 +24,8 @@ pl-PL_name: "Rozjemca"
 pl-PL_description: "Raz na loch, jeżeli otrzymasz w sumie 15 obrażeń, otrzymujesz +1 🔸 do końca lochu (0/15)."
 tile_id: Judicator
 image: /images/Judicator.png
+ko-KR_name: "Judicator"
+ko-KR_description: "던전 당 내가 15의 피해를 받으면, 이번 던전에서 내 기본 🔸이 +1 증가합니다(0/15)"
+tile_id: Judicator
+image: /images/Judicator.png
 ---

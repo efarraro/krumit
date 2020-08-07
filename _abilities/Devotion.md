@@ -36,8 +36,15 @@ cost: 1
 image: /images/Devotion.png
 hero: priest
 pl-PL_name: "Pacierz"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. Wtasuj 3 <u>Błogosławieństwa</u> do talii."
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. Wtasuj 3 <u>Błogosławieństwa</u> do talii."
 pl-PL_flavor: "Zwątpienie żywi się duszą. Pacierz jest jak podpis na plastikowym pojemniku z duszą."
+tile_id: Devotion
+cost: 1
+image: /images/Devotion.png
+hero: priest
+ko-KR_name: "기도"
+ko-KR_description: "<u><u>즉발</u></u>. 덱에 bleesing을 셋 섞어 넣습니다"
+ko-KR_flavor: "의심은 영혼을 갉아먹습니다. 기도가 그것을 봉인합니다."
 tile_id: Devotion
 cost: 1
 image: /images/Devotion.png

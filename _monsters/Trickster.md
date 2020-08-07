@@ -30,4 +30,9 @@ pl-PL_description: "Nigdy nie zobaczysz jak nadchodzi! Ten przeciwnik ukrywa si�
 pl-PL_flavor: "Trucizna w strzałkach używanych przez Cwaniaków powoduje halucynacje, nieskoordynowane podrygi i zwierzanie się z wstydliwych sekretów."
 tile_id: Trickster
 image: /images/Trickster.png
+ko-KR_name: "Trickster"
+ko-KR_description: "You'll never see it coming!  This enemy starts with stealth, preventing you from targeting it until you attack in battle"
+ko-KR_flavor: "The poison in their darts is hallucinogenic, making their victims do silly dances and reveal their embarrassing secrets to anyone nearby."
+tile_id: Trickster
+image: /images/Trickster.png
 ---

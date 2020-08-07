@@ -9,7 +9,7 @@ image: /images/IcicleDagger.png
 durability: 3
 hero: mage
 zh-CN_name: "冰柱匕首"
-zh-CN_description: "在攻击被<u>冻结</u>的敌人时不会损失耐久"
+zh-CN_description: "你每次<u>冰冻</u>一个敌人时会为这件物品回复1点耐久"
 zh-CN_flavor: "和灰胡子被冰冻的心一样冰冷"
 tile_id: IcicleDagger
 cost: 1
@@ -43,6 +43,14 @@ hero: mage
 pl-PL_name: "Lodowy Kozik"
 pl-PL_description: "Odnów 1 trwałości tej broni gdy zamrozisz (<u>zamrożenie</u>) przeciwnika."
 pl-PL_flavor: "Lodowaty sztylet, który żywi się chłodem. Nie próbuj go lizać."
+tile_id: IcicleDagger
+cost: 1
+image: /images/IcicleDagger.png
+durability: 3
+hero: mage
+ko-KR_name: "Icicle Dagger"
+ko-KR_description: "적을 <u>빙결</u>시킬 때마다 이 무기의 내구도가 1 회복됩니다"
+ko-KR_flavor: "이 써늘한 단검은 추위를 먹고 삽니다. 핥아보지 마세요."
 tile_id: IcicleDagger
 cost: 1
 image: /images/IcicleDagger.png

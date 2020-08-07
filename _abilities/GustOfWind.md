@@ -42,4 +42,11 @@ tile_id: GustOfWind
 cost: 1
 image: /images/GustOfWind.png
 hero: mage
+ko-KR_name: "돌풍"
+ko-KR_description: "대상 타일과 같은 열에 있는 최상단 타일의 위치를 서로 바꿉니다. 보드에 2개의 타일이 추가된 뒤에 재충전됩니다"
+ko-KR_flavor: "메마른 돌풍이 지하 묘지를 휩쓸고, 잠깐 동안 죽은 것들이 마치 살아있는 것처럼 흔들리고 덜컹거렸습니다."
+tile_id: GustOfWind
+cost: 1
+image: /images/GustOfWind.png
+hero: mage
 ---

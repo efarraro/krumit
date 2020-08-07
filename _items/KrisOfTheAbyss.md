@@ -48,4 +48,12 @@ cost: 3
 image: /images/KrisOfTheAbyss.png
 durability: 3
 hero: necromancer
+ko-KR_name: "Kris of the Abyss"
+ko-KR_description: "내가 💀 <u>하수인</u>을 소환할 때마다, 이 무기의 🔸이 1 증가합니다"
+ko-KR_flavor: "심연의 크리스는 사후 세계에 영혼을 묶는 끈을 끊을 수 있다고 합니다."
+tile_id: KrisOfTheAbyss
+cost: 3
+image: /images/KrisOfTheAbyss.png
+durability: 3
+hero: necromancer
 ---

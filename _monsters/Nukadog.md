@@ -30,4 +30,9 @@ pl-PL_description: "Ten przeciwnik jest szybki - uważaj na jego ⚡️ <u>blitz
 pl-PL_flavor: "Epoka Radiacji wypaczyła najlepszego przyjaciela człowieka, zamieniając go w smarkatą i wściekłą niedogodność. Mocno zagrożenie, wow, bardzo trujący."
 tile_id: Nukadog
 image: /images/Nukadog.png
+ko-KR_name: "콧물눅대"
+ko-KR_description: "이 적은 재빠릅니다. ⚡️ <u>기습</u> 공격에 주의하십시오!"
+ko-KR_flavor: "방사능의 시대는 인류의 가장 친한 친구를 점액에 찌든 폭력적인 골칫거리로 만들었습니다. 아주 위험하고, 우와, 아주 유독해요."
+tile_id: Nukadog
+image: /images/Nukadog.png
 ---

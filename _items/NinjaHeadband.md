@@ -48,4 +48,12 @@ cost: 2
 image: /images/NinjaHeadband.png
 durability: 3
 hero: rogue
+ko-KR_name: "Shinobi Headband"
+ko-KR_description: "이 아이템으로 적의 공격을  <u>응수</u>할 때, <u>은신</u>을 얻습니다"
+ko-KR_flavor: "닌자 머리띠는 진정한 그림자 기술의 표식입니다. 당신의 눈에 머리카락이 들어가지 않도록 해주기도 합니다."
+tile_id: NinjaHeadband
+cost: 2
+image: /images/NinjaHeadband.png
+durability: 3
+hero: rogue
 ---

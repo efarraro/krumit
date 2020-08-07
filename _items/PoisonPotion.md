@@ -48,4 +48,12 @@ cost: 1
 image: /images/PoisonPotion.png
 durability: 2
 hero: rogue
+ko-KR_name: "독약병"
+ko-KR_description: "적 및 그 적과 같은 행에 있는 다른 모든 적을  <u>중독</u>(1)시킵니다"
+ko-KR_flavor: "이 사악한 혼합물은 스웜팔리나의 아침 식사라는 소문이 있습니다."
+tile_id: PoisonPotion
+cost: 1
+image: /images/PoisonPotion.png
+durability: 2
+hero: rogue
 ---

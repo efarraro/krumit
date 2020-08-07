@@ -30,4 +30,9 @@ pl-PL_description: "Ostrożnie - po zablokowaniu w trakcie pierwszej tury, ten g
 pl-PL_flavor: "Niedźwierzyńcy wierzą, że znaczenie w życiu ma jedynie ich siła i masaże pleców na dobrych drzewach. Od ich Nuka-mutacji nie muszą się już hibernować - potrzebują za to częstych drzemek."
 tile_id: Bear
 image: /images/Bear.png
+ko-KR_name: "Barbearian"
+ko-KR_description: "Watch out - after blocking on the first turn, this guy hits - HARD!"
+ko-KR_flavor: "Barbearians believe the only meaning in life comes from asserting their strength and backrubs on a nice tree. Since their Nuka-mutation, they no longer need to hibernate – they just require frequent naps instead."
+tile_id: Bear
+image: /images/Bear.png
 ---

@@ -48,4 +48,12 @@ cost: 5
 image: /images/ArchmagisAmulet.png
 durability: 2
 hero: mage
+ko-KR_name: "대마법사의 아뮬렛"
+ko-KR_description: "대상 능력을 획득합니다"
+ko-KR_flavor: "'사랑하고, 손에 넣고, 가지고, 사용해.' - 대마법사 알렉산드라"
+tile_id: ArchmagisAmulet
+cost: 5
+image: /images/ArchmagisAmulet.png
+durability: 2
+hero: mage
 ---

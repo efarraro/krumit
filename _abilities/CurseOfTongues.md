@@ -13,7 +13,7 @@ tile_id: CurseOfTongues
 cost: -1
 image: /images/CurseOfTongues.png
 ru-RU_name: "Проклятие языков"
-ru-RU_description: "Когда вы восстанавливаете ❤️, уменьшите это значение на 1, пока эта карточка находится на поле. Потратьте 2 ❤️, чтобы избавиться от этого."
+ru-RU_description: "Когда вы восстанавливаете ❤️, уменьшите это значение на 1, пока эта карточка находится на поле. Потратьте 2 ❤️, чтобы избавиться от этой карточки."
 ru-RU_flavor: "Идфпдкдл Греячя лллслслслпап уузнрянч!"
 tile_id: CurseOfTongues
 cost: -1
@@ -31,8 +31,14 @@ tile_id: CurseOfTongues
 cost: -1
 image: /images/CurseOfTongues.png
 pl-PL_name: "Klątwa Poplątania"
-pl-PL_description: "Gdy odzyskujesz ❤️, obniż wartość o 1 póki ta płytka jest na planszy. Zapłać 2 ❤️ aby usunąć."
+pl-PL_description: "Gdy odzyskujesz ❤️, obniż wartość o 1 póki ta płytka jest na planszy. Zapłać 2 ❤️, aby usunąć."
 pl-PL_flavor: "Blaglrlk Uhtzxz kkkckckckgfg eepyhzyx!"
+tile_id: CurseOfTongues
+cost: -1
+image: /images/CurseOfTongues.png
+ko-KR_name: "Curse of Tongues"
+ko-KR_description: "내가 ❤️을 회복할 때, 이 타일이 보드에 있는 동안 회복량이 1 감소합니다. 이 타일을 제거하려면 2 ❤️을 지불하십시오"
+ko-KR_flavor: "블랔극륻 엌큿크커더픅 이이잇셕직!"
 tile_id: CurseOfTongues
 cost: -1
 image: /images/CurseOfTongues.png

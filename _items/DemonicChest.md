@@ -41,8 +41,16 @@ image: /images/DemonicChest.png
 durability: 3
 hero: priest
 pl-PL_name: "Skrzynia Demonów"
-pl-PL_description: "Zniszcz klątwę (<u>Klątwa</u>) aby wytworzyć (<u>wytwórz</u>) płytkę, która kosztuje 2 💰 lub mniej."
+pl-PL_description: "Zniszcz klątwę (<u>Klątwa</u>), aby wytworzyć (<u>wytwórz</u>) płytkę, która kosztuje 2 💰 lub mniej."
 pl-PL_flavor: "Dziwne pudło przekazywane z rąk do rąk. Znane jako Pożeracz Grzechu, albo Niszczyciel Klątw, albo Przykre Pudło, albo Skrytka Lucyfera, albo NAKARM MNIE."
+tile_id: DemonicChest
+cost: 3
+image: /images/DemonicChest.png
+durability: 3
+hero: priest
+ko-KR_name: "Demonic Chest"
+ko-KR_description: "<u>Curse</u>를 파괴하면 비용이 2 💰 이하인 타일을 <u>선발</u>합니다"
+ko-KR_flavor: "A strange box with many past owners. AKA The Sin Eater, AKA The Curse Consumer, AKA Bad Box AKA Lucifer's Lockbox AKA IT HUNGERS."
 tile_id: DemonicChest
 cost: 3
 image: /images/DemonicChest.png

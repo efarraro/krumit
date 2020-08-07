@@ -30,4 +30,9 @@ pl-PL_description: "Gdy pokonasz tego przeciwnika, <a href = '../pl_pl/abilities
 pl-PL_flavor: "Najbardziej agresywne z Gobloidów są zwane Wiadrogłowymi. Należy się liczyć z tym, że nie potrafią liczyć."
 tile_id: GobloidKnucklehead
 image: /images/GobloidKnucklehead.png
+ko-KR_name: "Buckethead"
+ko-KR_description: "이 적을 처치하면, <a href = '../ko_kr/abilities#Stupidity'>머엉청이</a> 타일을 인벤토리에 넣습니다."
+ko-KR_flavor: "The most aggressive Gobloids are known as Knuckleheads. They're a force to be reckoned – and definitely not reasoned – with."
+tile_id: GobloidKnucklehead
+image: /images/GobloidKnucklehead.png
 ---

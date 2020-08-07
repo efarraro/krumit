@@ -30,4 +30,9 @@ pl-PL_description: "Ten przeciwnik jest nietykalny dopóki inni przeciwnicy znaj
 pl-PL_flavor: "Wygnaniec błąka się po Pustkowiu zbierając artefakty i ubierając się w bibeloty. Czy ten wyrodny wędrownik będzie wałęsać się wiecznie? Skąd został wygnany? Wszystko okaże się w swoim czasie..."
 tile_id: TheExile
 image: /images/TheExile.png
+ko-KR_name: "The Exile"
+ko-KR_description: "This enemy can't be targeted while other enemies are still on the board.  Cost to acquire tiles increased by 1 💰"
+ko-KR_flavor: "The Exile wanders the Wasteland collecting gew-gaws and artifacts, wearing as many of them as possible. To what end does this itinerant individual roam and hoard? What are they exiled from? All will (probably) be revealed!"
+tile_id: TheExile
+image: /images/TheExile.png
 ---

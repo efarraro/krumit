@@ -48,4 +48,12 @@ cost: 2
 image: /images/PlateArmor.png
 durability: 3
 hero: warrior
+ko-KR_name: "판금 갑옷"
+ko-KR_description: "내 인벤토리에 있는 다른 아이템 하나 당 비용이 1 💰 증가합니다"
+ko-KR_flavor: "어디를 가든 서두르지 않는 전사를 위한 전신 갑주입니다."
+tile_id: PlateArmor
+cost: 2
+image: /images/PlateArmor.png
+durability: 3
+hero: warrior
 ---

@@ -30,7 +30,7 @@ image: /images/Parry.png
 hero: warrior
 es-ES_name: "Deflexión"
 es-ES_description: "Una vez por combate, cuando ataques con un arma, gana también 6 de 🛡️️ <u>bloqueo</u>"
-es-ES_flavor: "El arte del Jee-Tukando nos enseña que no existe el ataque ni la defense, sino sólo el movimiento continuo."
+es-ES_flavor: "El arte del Jee-Tukando nos enseña que no existe el ataque ni la defensa, sino sólo el movimiento continuo."
 tile_id: Parry
 cost: 2
 image: /images/Parry.png
@@ -38,6 +38,13 @@ hero: warrior
 pl-PL_name: "Odparcie"
 pl-PL_description: "Raz na walkę, atakując z użyciem broni, uzyskaj 6 🛡️️ <u>blok</u>."
 pl-PL_flavor: "Sztuka walki Jee-Tukando nie polega na ataku lub obronie, lecz na ciągłym ruchu."
+tile_id: Parry
+cost: 2
+image: /images/Parry.png
+hero: warrior
+ko-KR_name: "막기"
+ko-KR_description: "전투 당 한 번, 무기로 공격할 때 6의 🛡️️ <u>block</u>도 얻습니다"
+ko-KR_flavor: "절관도의 검술에는 공격이나 방어가 없고, 완전한 동작만을 가르칩니다."
 tile_id: Parry
 cost: 2
 image: /images/Parry.png

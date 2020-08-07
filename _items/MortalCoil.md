@@ -48,4 +48,12 @@ cost: 3
 image: /images/MortalCoil.png
 durability: 2
 hero: necromancer
+ko-KR_name: "삶의 고리"
+ko-KR_description: "이 무기로 적을 물리치면 Skeleton 💀 <u>하수인</u>을 소환합니다"
+ko-KR_flavor: "'고리 셔플' - 올해의 해골 파티 안무로 선정"
+tile_id: MortalCoil
+cost: 3
+image: /images/MortalCoil.png
+durability: 2
+hero: necromancer
 ---

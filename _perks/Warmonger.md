@@ -24,4 +24,8 @@ pl-PL_name: "Wojownik"
 pl-PL_description: "Twoje bronie do walki wręcz otrzymują +1 🔸."
 tile_id: Warmonger
 image: /images/Warmonger.png
+ko-KR_name: "전쟁광"
+ko-KR_description: "Your melee weapons have +1 🔸"
+tile_id: Warmonger
+image: /images/Warmonger.png
 ---

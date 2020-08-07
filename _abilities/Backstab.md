@@ -42,4 +42,11 @@ tile_id: Backstab
 cost: 1
 image: /images/Backstab.png
 hero: rogue
+ko-KR_name: "암습"
+ko-KR_description: "적에게 <u>관통</u> 피해를 6 줍니다. <u>고립</u> 상태인 적을 대상으로 하거나 내가 <u>은신</u> 상태일 때만 사용할 수 있습니다. Exhuast"
+ko-KR_flavor: "저들의 뒤통수에 눈이 달려있지 않는 이상 대담하게 행동하세요."
+tile_id: Backstab
+cost: 1
+image: /images/Backstab.png
+hero: rogue
 ---

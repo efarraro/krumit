@@ -42,4 +42,11 @@ tile_id: Sharpen
 cost: 1
 image: /images/Sharpen.png
 hero: warrior
+ko-KR_name: "연마"
+ko-KR_description: "보드에 있는 모든 근접 무기의 🔸을 2 증가시킵니다. <u>Exhaust</u>"
+ko-KR_flavor: "무딘 칼날은 무딘 마음과 비슷합니다. 십자말풀이를 할 때 별로 좋지 않죠."
+tile_id: Sharpen
+cost: 1
+image: /images/Sharpen.png
+hero: warrior
 ---

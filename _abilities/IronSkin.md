@@ -36,8 +36,15 @@ cost: 2
 image: /images/IronSkin.png
 hero: warrior
 pl-PL_name: "Żelazna Skóra"
-pl-PL_description: "W walce, zapłać 3 ❤️ aby uzyskać 4 🛡️️ <u>blok</u> na jedną turę."
+pl-PL_description: "W walce, zapłać 3 ❤️, aby uzyskać 4 🛡️️ <u>blok</u> na jedną turę."
 pl-PL_flavor: "Wysoki poziom żelaza w organizmie jest spowodowany dietą bogatą w klucze, pogrzebacze, ostrza wideł i groty strzał."
+tile_id: IronSkin
+cost: 2
+image: /images/IronSkin.png
+hero: warrior
+ko-KR_name: "철의 피부"
+ko-KR_description: "전투에서 3 ❤️을 지불하고 한 라운드 동안 🛡️️ <u>block</u>를 4 얻습니다"
+ko-KR_flavor: "내 피부는 막대기나 돌로 깨지지 않을 거야. 뼈는 말할 것도 없지. 하지만 너무 심하게 하지는 마. 알았지? - 페리스 더모스, 일명 '녹슨 마녀'"
 tile_id: IronSkin
 cost: 2
 image: /images/IronSkin.png

@@ -42,4 +42,11 @@ tile_id: SoulLink
 cost: 1
 image: /images/SoulLink.png
 hero: necromancer
+ko-KR_name: "영혼의 고리"
+ko-KR_description: "내 현재 ❤️과 보스가 아닌 대상의 현재 ❤️를 바꿉니다. <u>Exhaust</u>"
+ko-KR_flavor: "내 건 네 거야. 네 건 내 거야."
+tile_id: SoulLink
+cost: 1
+image: /images/SoulLink.png
+hero: necromancer
 ---

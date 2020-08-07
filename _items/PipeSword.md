@@ -48,4 +48,12 @@ cost: 2
 image: /images/PipeSword.png
 durability: 3
 hero: warrior
+ko-KR_name: "파이프 검"
+ko-KR_description: "기본 아이템 - 추가 효과 없음"
+ko-KR_flavor: "Ceci n'est pas une pipe(이것은 파이프가 아닙니다). 파이프검, 또는 검파이프입니다."
+tile_id: PipeSword
+cost: 2
+image: /images/PipeSword.png
+durability: 3
+hero: warrior
 ---

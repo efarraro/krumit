@@ -42,4 +42,11 @@ tile_id: GarbageGolem
 cost: 12
 image: /images/GarbageGolem.png
 hero: necromancer
+ko-KR_name: "찌꺼기 골렘"
+ko-KR_description: "Trash Golem 💀 <u>하수인</u>을 소환합니다. 내가 버린 타일 하나 당 이 능력의 비용이 1 💰 감소합니다"
+ko-KR_flavor: "'사악한 마법의 강령술? 웃기는 소리. 이건 그냥 재창조라고.' - 멀도르프"
+tile_id: GarbageGolem
+cost: 12
+image: /images/GarbageGolem.png
+hero: necromancer
 ---

@@ -42,4 +42,11 @@ tile_id: Meditate
 cost: 2
 image: /images/Meditate.png
 hero: mage
+ko-KR_name: "명상"
+ko-KR_description: "현재 보이는 모든 능력의 비용을 1 감소시킵니다. <u>Exhaust</u>"
+ko-KR_flavor: "옴~~~~~~~. 무~~~~~~~."
+tile_id: Meditate
+cost: 2
+image: /images/Meditate.png
+hero: mage
 ---

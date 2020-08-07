@@ -43,4 +43,11 @@ tile_id: DefensiveStance
 cost: 3
 image: /images/DefensiveStance.png
 hero: warrior
+ko-KR_name: "Defensive Stance"
+ko-KR_description: "각 턴이 시작될 때 🛡️️ <u>방어도</u>(2)를 얻고 이번 전투에서 내 기본 🔸을 1 감소시킵니다"
+ko-KR_flavor: 
+tile_id: DefensiveStance
+cost: 3
+image: /images/DefensiveStance.png
+hero: warrior
 ---

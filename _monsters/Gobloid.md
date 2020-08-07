@@ -27,7 +27,12 @@ tile_id: Gobloid
 image: /images/Gobloid.png
 pl-PL_name: "Gobloid"
 pl-PL_description: "Ten wróg jest szybki - uważaj na ⚡️ <u>blitz</u>!"
-pl-PL_flavor: "Brudne i głupie, choć nie najgłupsze, Gobloidy są zahukanymi wyrodkami historii. Zbierają się w bandy aby stworzyć nowe państwo, śmierdzące ponad narody."
+pl-PL_flavor: "Brudne i głupie, choć nie najgłupsze, Gobloidy są zahukanymi wyrodkami historii. Zbierają się w bandy, aby stworzyć nowe państwo, śmierdzące ponad narody."
+tile_id: Gobloid
+image: /images/Gobloid.png
+ko-KR_name: "고블로이드"
+ko-KR_description: "이 적은 재빠릅니다. ⚡️ <u>기습</u> 공격에 주의하세요!"
+ko-KR_flavor: "더럽지만 겉보기만큼 멍청하지는 않은 고블로이드들은 핍박 당한 역사로 인해 외부인을 두려워합니다. 그들은 외부 세계로부터 방해받지 않을 만큼 악취를 풍기는 새로운 땅에 정착할 수 있을 거라는 희망으로 단결합니다."
 tile_id: Gobloid
 image: /images/Gobloid.png
 ---

@@ -9,7 +9,7 @@ zh-CN_description: "弃牌时有50%的几率随机为你物品栏中的1件物�
 tile_id: Tinker
 image: /images/Tinker.png
 ru-RU_name: "Инженер"
-ru-RU_description: "После того как вы сбросите 2 предмета, восстанавливает 1 прочность случайному предмету в снаряжении (0/2)."
+ru-RU_description: "После того, как вы сбросите 2 предмета, восстанавливает 1 прочность случайному предмету в снаряжении (0/2)."
 tile_id: Tinker
 image: /images/Tinker.png
 jp-JP_name: "修理屋"
@@ -22,6 +22,10 @@ tile_id: Tinker
 image: /images/Tinker.png
 pl-PL_name: "Majsterkowicz"
 pl-PL_description: "Za każde 2 przedmioty który odrzucisz, odnów 1 trwałości losowemu przedmiotowi w ekwipunku (0/2)."
+tile_id: Tinker
+image: /images/Tinker.png
+ko-KR_name: "Tinker"
+ko-KR_description: "내가 2개의 아이템을 버릴 때마다, 내 인벤토리에 있는 무작위 아이템의 내구도를 1 회복시킵니다(0/2)"
 tile_id: Tinker
 image: /images/Tinker.png
 ---

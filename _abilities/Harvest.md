@@ -60,4 +60,14 @@ tile_id: Harvest
 cost: 1
 image: /images/Harvest.png
 hero: necromancer
+ko-KR_name: "Harvest"
+ko-KR_description: "내 🔸이 3 증가하고 총 피해량과 동일한 만큼의  <u>생명력 흡수</u>을 갖습니다. <u>Exhaust</u>"
+ko-KR_flavor: "열매가 무르익고
+추수의 때가 가깝다
+빨간 것은 물방울
+파란 것은 하늘"
+tile_id: Harvest
+cost: 1
+image: /images/Harvest.png
+hero: necromancer
 ---

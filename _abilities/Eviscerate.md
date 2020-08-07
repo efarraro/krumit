@@ -42,4 +42,11 @@ tile_id: Eviscerate
 cost: 2
 image: /images/Eviscerate.png
 hero: rogue
+ko-KR_name: "절개"
+ko-KR_description: "대상 적에게 <u>관통</u> 피해를 4 줍니다. 이 타일을 재충전하려면 능력을 4개 사용하십시오"
+ko-KR_flavor: "찌르고, 썰고, 신발이 망가지는 걸 피하고. 이건 일종의 춤이라고! - 미스치프"
+tile_id: Eviscerate
+cost: 2
+image: /images/Eviscerate.png
+hero: rogue
 ---

@@ -42,4 +42,11 @@ tile_id: Pyroclasm
 cost: 4
 image: /images/Pyroclasm.png
 hero: mage
+ko-KR_name: "화염 파열"
+ko-KR_description: "대상 적에게 <u>관통</u> 피해를 15 줍니다. <u>Exhaust</u>"
+ko-KR_flavor: "긴 시간 동안 억제된 원초적인 힘입니다. 힘이 해방될 때 근처에 없기를 기도하세요."
+tile_id: Pyroclasm
+cost: 4
+image: /images/Pyroclasm.png
+hero: mage
 ---

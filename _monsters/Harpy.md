@@ -12,7 +12,7 @@ tile_id: Harpy
 image: /images/Harpy.png
 ru-RU_name: "Панк"
 ru-RU_description: "Когда этот враг достигает нижнего ряда, наносит 2 урона вам."
-ru-RU_flavor: "Гарпии верят в анархию и личную свободу и презирают упорядоченные цивилизации землян. Они любят красть еду у своих жертв во время еды, чтобы они могли видеть их лица."
+ru-RU_flavor: "Гарпии верят в анархию и личную свободу и презирают упорядоченные цивилизации землян. Они любят красть еду у своих жертв во время обеда, чтобы они могли видеть их лица."
 tile_id: Harpy
 image: /images/Harpy.png
 jp-JP_name: "パンク"
@@ -28,6 +28,11 @@ image: /images/Harpy.png
 pl-PL_name: "Pank"
 pl-PL_description: "Ten wróg zadaje 2 obrażeń gdy zsunie się do dolnego wiersza."
 pl-PL_flavor: "Harpie wierzą w anarchię i wolności osobiste, gardzą zaś uporządkowanymi systemami naziemnych cywilizacji. Lubią kraść jedzenie prosto z talerza."
+tile_id: Harpy
+image: /images/Harpy.png
+ko-KR_name: "펑크"
+ko-KR_description: "이 적이 하단 행에 도달하면, 내가 피해를 2 받습니다."
+ko-KR_flavor: "하피들은 무정부론과 개인의 자유를 옳다고 생각하고 지상의 거주자들의 질서 있는 문명을 경멸합니다. 그들은 식사 중인 자들(그래서 피해자들의 얼굴을 볼 수 있게끔)의 음식을 빼앗는 걸 좋아합니다."
 tile_id: Harpy
 image: /images/Harpy.png
 ---

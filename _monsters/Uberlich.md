@@ -21,13 +21,18 @@ jp-JP_flavor: "次のメテオフォールの使者であり、ナッツ教団�
 tile_id: Uberlich
 image: /images/Uberlich.png
 es-ES_name: "Uberliche"
-es-ES_description: "Cuando la mazmorra empieze, baraja 6 copias de <a href = '../es_es/abilities#Megaton'>Megatón</a> en el mazo."
+es-ES_description: "Cuando empiece la mazmorra, baraja 6 copias de <a href = '../es_es/abilities#Megaton'>Megatón</a> en el mazo."
 es-ES_flavor: "El sudoroso heraldo del siguiente Meteorismo, y el líder del Kulto de la Tuerka. Los verdaderos propósitos del Uberliche están velados por miasma y misterio, pero una cosa es por seguro - aplastará a cualquiera que se le interponga."
 tile_id: Uberlich
 image: /images/Uberlich.png
 pl-PL_name: "Uberlicz"
 pl-PL_description: "Na początku lochu, wtasuj 6 kopii <a href = '../pl_pl/abilities#Megaton'>Megatona</a> do talii."
 pl-PL_flavor: "Wiecznie spocony objawiciel następnego meteoroidu, lider Kultu Nakrętki. Prawdziwe intencje Uberlicza są spowite mgłą tajemnic i miazmatu, ale jedno jest pewne - nie przetrwa nikt kto stanie na ich drodze."
+tile_id: Uberlich
+image: /images/Uberlich.png
+ko-KR_name: "우버리치"
+ko-KR_description: "던전 진입 시, <a href = '../ko_kr/abilities#Megaton'>Megaton</a> 6장을 덱에 섞어 넣습니다"
+ko-KR_flavor: "The sweaty herald of the next Meteorfall, and leader of the Cult of the Nut. The Uberlich's true goals are shrouded in mystery and miasma, but one thing is for certain – they'll crush anyone that stands in their way."
 tile_id: Uberlich
 image: /images/Uberlich.png
 ---

@@ -48,4 +48,12 @@ cost: 3
 image: /images/MementoMori.png
 durability: 3
 hero: necromancer
+ko-KR_name: "Memento Mori"
+ko-KR_description: "내가 잃은 ❤️의 양만큼 이 무기의 🔸이 증가합니다"
+ko-KR_flavor: "Remember, you will die - but take a few of them with you on the way, eh?"
+tile_id: MementoMori
+cost: 3
+image: /images/MementoMori.png
+durability: 3
+hero: necromancer
 ---

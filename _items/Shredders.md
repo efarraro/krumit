@@ -48,4 +48,12 @@ cost: 4
 image: /images/Shredders.png
 durability: 3
 hero: rogue
+ko-KR_name: "파쇄기"
+ko-KR_description: "<u>관통</u>. 획득할 때 이 타일을 복사하여 인벤토리에 추가합니다"
+ko-KR_flavor: "Better suited to tough foes than confidential documents. "
+tile_id: Shredders
+cost: 4
+image: /images/Shredders.png
+durability: 3
+hero: rogue
 ---

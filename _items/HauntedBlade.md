@@ -48,4 +48,12 @@ cost: 2
 image: /images/HauntedBlade.png
 durability: 3
 hero: necromancer
+ko-KR_name: "유령의 칼"
+ko-KR_description: "<u>패시브</u>: 이 타일이 보드에 추가될 때 1 ❤️을 잃습니다"
+ko-KR_flavor: "반감각적인 이 칼날은 정신적 외상의 기억에 사로잡혀 있어서, 깜짝 놀라는 것을 좋아하지 않습니다."
+tile_id: HauntedBlade
+cost: 2
+image: /images/HauntedBlade.png
+durability: 3
+hero: necromancer
 ---

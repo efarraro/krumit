@@ -42,4 +42,11 @@ tile_id: Shatter
 cost: 2
 image: /images/Shatter.png
 hero: mage
+ko-KR_name: "분쇄"
+ko-KR_description: "근접 무기로 가하는 공격이 +4 🔸을 얻고 <u>빙결</u> 상태의 적을 기절시킵니다. 전투에서 8 라운드가 지난 후 재충전됩니다"
+ko-KR_flavor: "제 검이 당신을 조각낼 거예요!"
+tile_id: Shatter
+cost: 2
+image: /images/Shatter.png
+hero: mage
 ---

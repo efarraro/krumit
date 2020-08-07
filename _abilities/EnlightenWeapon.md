@@ -42,4 +42,11 @@ tile_id: EnlightenWeapon
 cost: 1
 image: /images/EnlightenWeapon.png
 hero: priest
+ko-KR_name: "찬란한 무기"
+ko-KR_description: "<u>패시브</u>: 근접 무기를 획득할 때마다, 그 무기의 🔸을 2 증가시키고 <u>Blessing</u>을 덱에 섞어 넣습니다."
+ko-KR_flavor: "환하게 만든 겁니다. 화나게 만든 건 아닙니다."
+tile_id: EnlightenWeapon
+cost: 1
+image: /images/EnlightenWeapon.png
+hero: priest
 ---

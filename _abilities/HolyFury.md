@@ -36,8 +36,15 @@ cost: 2
 image: /images/HolyFury.png
 hero: priest
 pl-PL_name: "Uświęcona Furia"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. <u>Mutacja</u> 🟦Wybranka i wypełnij puste miejsca w ekwipunku kartą <a href = '../pl_pl/abilities#Smite'>Potępienie</a>."
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. <u>Mutacja</u> 🟦Wybranka i wypełnij puste miejsca w ekwipunku kartą <a href = '../pl_pl/abilities#Smite'>Potępienie</a>."
 pl-PL_flavor: "Ostrożnie, możesz wyjść na furiata."
+tile_id: HolyFury
+cost: 2
+image: /images/HolyFury.png
+hero: priest
+ko-KR_name: "성스러운 분노"
+ko-KR_description: "<u><u>즉발</u></u>. 🟦선택받음로 <u>변화</u>하고 빈 인벤토리 슬롯을 <a href = '../ko_kr/abilities#Smite'>Smite</a> 타일로 채웁니다"
+ko-KR_flavor: "'성스러운 분뇨'와 혼동하는 일은 보통 없습니다."
 tile_id: HolyFury
 cost: 2
 image: /images/HolyFury.png

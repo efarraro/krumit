@@ -22,12 +22,17 @@ tile_id: Bramble
 image: /images/Bramble.png
 es-ES_name: "Zarzal"
 es-ES_description: "En la Arena de Zarzal, descartar fichas ya recupera ❤️, pero los enemigos te dan +1 💰 cuando son derrotados"
-es-ES_flavor: "Zarzal, el rey de los Barbarosos, es también un aficionado a las <i>battle royales</i>. Aventureros de todo el mundo llega a su arena en búsqueda de riquezas y diversión."
+es-ES_flavor: "Zarzal, el rey de los Barbarosos, es también un aficionado a las <i>battle royales</i>. Aventureros de todo el mundo llegan a su arena en búsqueda de riquezas y diversión."
 tile_id: Bramble
 image: /images/Bramble.png
 pl-PL_name: "Misiek z Cierniowa"
 pl-PL_description: "Na Arenie w Cierniowie odrzucanie płytek nie leczy, ale pokonanie przeciwnika daje +1 💰."
 pl-PL_flavor: "Misiek, król Niedźwierzyńców, jest koneserem potyczek do ostatniego kombatanta. Poszukiwacze przygód z całego świata stawiają czoła wyzwaniu na jego arenie."
+tile_id: Bramble
+image: /images/Bramble.png
+ko-KR_name: "브램블"
+ko-KR_description: "In Bramble's Arena, discarding tiles no longer restores ❤️, but enemies give +1 💰 when defeated"
+ko-KR_flavor: "Bramble, king of the Barbearians, is also a connoisseur of battle royales.  Adventurers come from all over the world to seek glory and titilation in his arena."
 tile_id: Bramble
 image: /images/Bramble.png
 ---

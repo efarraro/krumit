@@ -48,4 +48,12 @@ cost: 2
 image: /images/Scythe.png
 durability: 2
 hero: necromancer
+ko-KR_name: "낫"
+ko-KR_description: " <u>생명력 흡수</u>(2)"
+ko-KR_flavor: "베어내라."
+tile_id: Scythe
+cost: 2
+image: /images/Scythe.png
+durability: 2
+hero: necromancer
 ---

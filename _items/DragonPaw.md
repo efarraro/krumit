@@ -48,4 +48,12 @@ cost: 4
 image: /images/DragonPaw.png
 durability: 3
 hero: mage
+ko-KR_name: "드래고온의 손"
+ko-KR_description: " <u>연소</u> 상태의 적을 공격할 때 2 ❤️을 회복합니다"
+ko-KR_flavor: "'망할 그레이비어드 놈...그 놈을 찾아서 내 손을 반드시 되찾고 말겠어. 놈이 돈을 되찾고 싶어 한다면, 그건 꿈도 꾸지 말아야 할 거다.' - 바르톨로뮤"
+tile_id: DragonPaw
+cost: 4
+image: /images/DragonPaw.png
+durability: 3
+hero: mage
 ---

@@ -42,4 +42,11 @@ tile_id: Counterfeit
 cost: 3
 image: /images/Counterfeit.png
 hero: rogue
+ko-KR_name: "모조품"
+ko-KR_description: "대상 아이템을 2장 복사하여 덱에 섞어 넣습니다. 복사한 타일들의 내구도는 1이며 비용은 0입니다. <u>Exhaust</u>"
+ko-KR_flavor: "불법적으로 갖고 싶은 물건을 만드는 일은 별나고, 위험하며, 유용한 기술입니다."
+tile_id: Counterfeit
+cost: 3
+image: /images/Counterfeit.png
+hero: rogue
 ---

@@ -17,7 +17,7 @@ image: /images/GildedSai.png
 durability: 2
 hero: rogue
 ru-RU_name: "Позолоченный сай"
-ru-RU_description: "Когда вы получаете это, добавляет вторую точную копию в снаряжение. 🔸 этого оружия равна вашим 💰."
+ru-RU_description: "Когда вы получаете это, добавляет вторую точную копию в снаряжение. 🔸 этого оружия равна вашему 💰."
 ru-RU_flavor: "От них трудно оторвать глаза, но они с легкостью оторвут вам пальцы."
 tile_id: GildedSai
 cost: 5
@@ -43,6 +43,14 @@ hero: rogue
 pl-PL_name: "Pozłocony Sai"
 pl-PL_description: "Gdy uzyskasz tą broń, dodaj drugą sztukę do ekwipunku. 🔸 jest równy 💰."
 pl-PL_flavor: "Ciężko się nie zapatrzeć, ale łatwo się zaciąć."
+tile_id: GildedSai
+cost: 5
+image: /images/GildedSai.png
+durability: 2
+hero: rogue
+ko-KR_name: "금도금 사이"
+ko-KR_description: "When you acquire this, add a second exact copy to your inventory. This weapon's 🔸 is equal to your 💰"
+ko-KR_flavor: "They're hard to take your eyes off, but they'll easily take your fingers off."
 tile_id: GildedSai
 cost: 5
 image: /images/GildedSai.png

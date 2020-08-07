@@ -21,3 +21,8 @@ The wiki is available in the following languages:
 <li><a href = 'ru_ru'>русский (Russian)</a></li>
 <li><a href = 'es_es'>Español (Spanish)</a></li>
 </ul>
+Partial translations<br /> 
+<i>(Interested in helping? Krumit's Tale is graciously translated by fans of the game. We accept community translations on <a href = 'https://www.localizor.com/'>Localizor</a>!)</i>
+<ul>
+<li><a href = 'ko_kr'>한국어 (Korean)</a></li>
+</ul>

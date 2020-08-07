@@ -234,4 +234,43 @@ monsters:
     image: /images/JackalVagabond.png
     quantity: 4
     url: /monsters/JackalVagabond
+ko-KR_name: "Tower of Thieves"
+ko-KR_description: "'도둑의 탑만큼 끔찍한 악당의 소굴은 없을 거야. 언젠가 그곳으로 이사 가고 싶어.' - 미스치프"
+tier: 6
+monsters:
+  - monster:
+    name: "고블로이드"
+    image: /images/Gobloid.png
+    quantity: 2
+    url: /monsters/Gobloid
+  - monster:
+    name: "Buckethead"
+    image: /images/GobloidKnucklehead.png
+    quantity: 3
+    url: /monsters/GobloidKnucklehead
+  - monster:
+    name: "펑크"
+    image: /images/Harpy.png
+    quantity: 4
+    url: /monsters/Harpy
+  - monster:
+    name: "자칼"
+    image: /images/Jackal.png
+    quantity: 3
+    url: /monsters/Jackal
+  - monster:
+    name: "Assassin"
+    image: /images/JackalAssassin.png
+    quantity: 3
+    url: /monsters/JackalAssassin
+  - monster:
+    name: "Scalywag"
+    image: /images/PirateGirl.png
+    quantity: 2
+    url: /monsters/PirateGirl
+  - monster:
+    name: "Vagabond"
+    image: /images/JackalVagabond.png
+    quantity: 4
+    url: /monsters/JackalVagabond
 ---

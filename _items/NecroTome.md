@@ -41,8 +41,16 @@ image: /images/NecroTome.png
 durability: 2
 hero: necromancer
 pl-PL_name: "Nektotomik"
-pl-PL_description: "Zniszcz nagrobek aby <u>wytwórz</u> <a href = '../pl_pl/abilities#HeartyBones'>Krzepkie Kości</a>, <a href = '../pl_pl/abilities#SoulFeast'>Uczta Duchowa</a>, lub <a href = '../pl_pl/abilities#SkeletonParty'>Schadzka Szkieletów</a>."
+pl-PL_description: "Zniszcz nagrobek, aby <u>wytwórz</u> <a href = '../pl_pl/abilities#HeartyBones'>Krzepkie Kości</a>, <a href = '../pl_pl/abilities#SoulFeast'>Uczta Duchowa</a>, lub <a href = '../pl_pl/abilities#SkeletonParty'>Schadzka Szkieletów</a>."
 pl-PL_flavor: "Okładki są zrobione z utwardzonej ludzkiej skóry; klej, który wiąże strony strony (z mączki kostnej) jest zrobiony z martwych koni; atrament jest z czystej krwi żuków. Zawarte w niej czary są zabójcze."
+tile_id: NecroTome
+cost: 4
+image: /images/NecroTome.png
+durability: 2
+hero: necromancer
+ko-KR_name: "죽음의 책!"
+ko-KR_description: "무덤을 파괴하고 <a href = '../ko_kr/abilities#HeartyBones'>Hearty Bones</a>, <a href = '../ko_kr/abilities#SoulFeast'>영혼의 향연</a>, <a href = '../ko_kr/abilities#SkeletonParty'>Skeleton Party</a> 중 한 장을 <u>선발</u>합니다"
+ko-KR_flavor: "The covers are made from tanned human skin; the glue that binds the bone-meal pages is 100% dead horse; the ink is pure Beetle-blood. The spells within are to undie for.  "
 tile_id: NecroTome
 cost: 4
 image: /images/NecroTome.png

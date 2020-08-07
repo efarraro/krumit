@@ -42,4 +42,11 @@ tile_id: Stab
 cost: 0
 image: /images/Stab.png
 hero: rogue
+ko-KR_name: "찌르기"
+ko-KR_description: "대상 적에게 <u>관통</u> 피해를 1 줍니다. 이 타일을 획득했을 때 한 장 더 복사하여 얻습니다. <u>Exhaust</u>"
+ko-KR_flavor: "스쿠투스 너도냐? - (전) 두목 자칼 지저"
+tile_id: Stab
+cost: 0
+image: /images/Stab.png
+hero: rogue
 ---

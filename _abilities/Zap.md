@@ -42,4 +42,11 @@ tile_id: Zap
 cost: 1
 image: /images/Zap.png
 hero: mage
+ko-KR_name: "번쩍"
+ko-KR_description: "<u>관통</u> 피해를 2 주고, 덱에 남아있는 '번쩍' 한 장당 1의 추가 피해를 줍니다. <u>Exhaust</u>"
+ko-KR_flavor: "포텐셜은 전위를 가리키기도 합니다!"
+tile_id: Zap
+cost: 1
+image: /images/Zap.png
+hero: mage
 ---

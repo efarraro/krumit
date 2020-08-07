@@ -79,7 +79,7 @@ monsters:
     quantity: 3
     url: /monsters/TrashGolem
 ru-RU_name: "Нукр0полис"
-ru-RU_description: "«...Затем появился Нукр0полис, казалось бы, из ниоткуда - безвкусный храм для отравления и распада. Испортил ещё и горизонт» - Крумит"
+ru-RU_description: "«...Затем появился Нукр0полис, казалось бы, из ниоткуда - безвкусный храм для отравления и распада» - Крамит"
 tier: 8
 monsters:
   - monster:
@@ -231,6 +231,45 @@ monsters:
     url: /monsters/AutomatonV2
   - monster:
     name: "Śmieciowy Golem"
+    image: /images/TrashGolem.png
+    quantity: 3
+    url: /monsters/TrashGolem
+ko-KR_name: "누크로폴리스"
+ko-KR_description: "'...그 뒤, 누크로폴리스가 난데없이 나타난 것처럼 보였습니다. 독과 부패로 얼룩진 요란한 신전이었죠. 공중 조망도 망쳐놨답니다.' - 크루밋"
+tier: 8
+monsters:
+  - monster:
+    name: "우버리치"
+    image: /images/Uberlich.png
+    quantity: 1
+    url: /monsters/Uberlich
+  - monster:
+    name: "Skeleton"
+    image: /images/Skeleton.png
+    quantity: 2
+    url: /monsters/Skeleton
+  - monster:
+    name: "Kooltist"
+    image: /images/Cooltist.png
+    quantity: 4
+    url: /monsters/Cooltist
+  - monster:
+    name: "Zealnut"
+    image: /images/Zealnut.png
+    quantity: 5
+    url: /monsters/Zealnut
+  - monster:
+    name: "누크로맨서"
+    image: /images/Automaton.png
+    quantity: 4
+    url: /monsters/Automaton
+  - monster:
+    name: "누크로맨서 v2.0"
+    image: /images/AutomatonV2.png
+    quantity: 4
+    url: /monsters/AutomatonV2
+  - monster:
+    name: "Trash Golem"
     image: /images/TrashGolem.png
     quantity: 3
     url: /monsters/TrashGolem

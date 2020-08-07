@@ -36,8 +36,15 @@ cost: 2
 image: /images/SoulFeast.png
 hero: necromancer
 pl-PL_name: "Uczta Duchowa"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. Zwiększ 🔸 i maksymalne ❤️ twoich 💀 <u>Sługusy</u> o 1."
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. Zwiększ 🔸 i maksymalne ❤️ twoich 💀 <u>Sługusy</u> o 1."
 pl-PL_flavor: "Sługusy zasługują na duchową ucztę od czasu do czasu."
+tile_id: SoulFeast
+cost: 2
+image: /images/SoulFeast.png
+hero: necromancer
+ko-KR_name: "영혼의 향연"
+ko-KR_description: "<u><u>즉발</u></u>. 내 💀 <u>하수인</u>의 🔸과 최대 ❤️을 1 증가시킵니다"
+ko-KR_flavor: "Minions can have little a soul as a feast."
 tile_id: SoulFeast
 cost: 2
 image: /images/SoulFeast.png

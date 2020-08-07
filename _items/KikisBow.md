@@ -48,4 +48,12 @@ cost: 1
 image: /images/KikisBow.png
 durability: 3
 hero: priest
+ko-KR_name: "키키의 리본"
+ko-KR_description: "대상 <u>Curse</u>를 <u>Blessing</u>으로 변환시킵니다. 이 타일을 획득했을 때 🟦선택받음로 <u>변화</u>합니다"
+ko-KR_flavor: "키키의 축복 서비스는 수요가 많았고, 업무량을 완화시키기 위해  그녀는 결국 마법으로 많은 수의 축복의 리본을 만들었습니다."
+tile_id: KikisBow
+cost: 1
+image: /images/KikisBow.png
+durability: 3
+hero: priest
 ---

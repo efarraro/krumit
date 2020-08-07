@@ -9,7 +9,7 @@ zh-CN_description: "开始地下城时向牌库中洗入2张随机技能牌"
 tile_id: Acolyte
 image: /images/Acolyte.png
 ru-RU_name: "Служитель"
-ru-RU_description: "В начале каждого подземелья замешивает 2 случайные способности в колоду подземелья."
+ru-RU_description: "В начале каждого подземелья замешивает 2 случайные способности в колоду."
 tile_id: Acolyte
 image: /images/Acolyte.png
 jp-JP_name: "助手"
@@ -22,6 +22,10 @@ tile_id: Acolyte
 image: /images/Acolyte.png
 pl-PL_name: "Akolita"
 pl-PL_description: "Na początku lochu, wtasuj 2 losowe umiejętności do talii."
+tile_id: Acolyte
+image: /images/Acolyte.png
+ko-KR_name: "수행자"
+ko-KR_description: "각 던전에 진입할 때, 무작위 능력 2장을 덱에 섞어 넣습니다"
 tile_id: Acolyte
 image: /images/Acolyte.png
 ---

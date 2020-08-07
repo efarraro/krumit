@@ -49,4 +49,12 @@ cost: 4
 image: /images/SummoningStaff.png
 durability: 3
 hero: necromancer
+ko-KR_name: "사악의 지팡이"
+ko-KR_description: "이 타일을 획득했을 때, Skeleton 💀 <u>하수인</u>을 둘 소환합니다"
+ko-KR_flavor: "It's so hard to find the staff these days. But when you do, it's so easy to find the minions."
+tile_id: SummoningStaff
+cost: 4
+image: /images/SummoningStaff.png
+durability: 3
+hero: necromancer
 ---

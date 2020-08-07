@@ -21,7 +21,11 @@ es-ES_description: "Tus 💀 <u>Esbirros</u> tienen +1 de ataque, pero tu 🔸 b
 tile_id: Ventriloquist
 image: /images/Ventriloquist.png
 pl-PL_name: "Brzuchomówca"
-pl-PL_description: "💀 <u>Sługusy</u> mają +1 ataku, ale twój 🔸 jest obniżony o 1. Na początku każdego lochu otrzymujesz Szkielet."
+pl-PL_description: "💀 <u>Sługus</u>s mają +1 ataku, ale twój 🔸 jest obniżony o 1. Na początku każdego lochu otrzymujesz Szkielet."
+tile_id: Ventriloquist
+image: /images/Ventriloquist.png
+ko-KR_name: "복화술사"
+ko-KR_description: "내 💀 <u>하수인</u>의 공격력이 +1 증가하지만, 내 기본 🔸이 1 감소합니다. Skeleton 타일을 갖고 전투를 시작합니다"
 tile_id: Ventriloquist
 image: /images/Ventriloquist.png
 ---

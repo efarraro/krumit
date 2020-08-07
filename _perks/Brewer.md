@@ -24,4 +24,8 @@ pl-PL_name: "Mistrz Eliksirów"
 pl-PL_description: "Gdy uzyskasz miksturę, dodaj dodatkową kopię do ekwipunku."
 tile_id: Brewer
 image: /images/Brewer.png
+ko-KR_name: "양조사"
+ko-KR_description: "던전에서 물약을 얻을 때마다 한 장 더 복사하여 인벤토리에 추가합니다"
+tile_id: Brewer
+image: /images/Brewer.png
 ---

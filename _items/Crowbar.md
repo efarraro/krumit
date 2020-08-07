@@ -48,4 +48,12 @@ cost: 3
 image: /images/Crowbar.png
 durability: 3
 hero: warrior
+ko-KR_name: "쇠지렛대"
+ko-KR_description: "대상 적의 모든 방어구와 🛡️️ <u>block</u>를 제거합니다. 인벤토리에 1의 내구도를 가진 <a href = '../ko_kr/items#PlateArmor'>판금 갑옷</a>을 추가합니다"
+ko-KR_flavor: "Not to be confused with the 'Crow Bard', Bruno's longtime rival and editor of Barding & Scribe Monthly. "
+tile_id: Crowbar
+cost: 3
+image: /images/Crowbar.png
+durability: 3
+hero: warrior
 ---

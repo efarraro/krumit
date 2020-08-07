@@ -40,9 +40,17 @@ cost: 4
 image: /images/AtomicBulwark.png
 durability: 3
 hero: priest
-pl-PL_name: "Atomowy bastion"
-pl-PL_description: "Kiedy wykonujesz odbicie tym przedmiotem, zatruwasz (3) swojego przeciwnika"
+pl-PL_name: "Atomowa Pawęż"
+pl-PL_description: "Kiedy odparowujesz atak ( <u>Odparowanie</u>) tym przedmiotem,  <u>trucizna</u> (3) przeciwnika."
 pl-PL_flavor: "Lepiej żeby się nie rozszczepiła."
+tile_id: AtomicBulwark
+cost: 4
+image: /images/AtomicBulwark.png
+durability: 3
+hero: priest
+ko-KR_name: "원자력 방벽"
+ko-KR_description: "이 아이템으로  <u>응수</u>할 때, 상대를  <u>중독</u>(3)시킵니다."
+ko-KR_flavor: "분열시킬 수 없을 겁니다."
 tile_id: AtomicBulwark
 cost: 4
 image: /images/AtomicBulwark.png

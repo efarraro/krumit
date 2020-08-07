@@ -24,4 +24,8 @@ pl-PL_name: "Radioaktywny"
 pl-PL_description: "Zatruj ( <u>trucizna</u>) przeciwników gdy pojawiają się na planszy."
 tile_id: Radioactive
 image: /images/Radioactive.png
+ko-KR_name: "방사능"
+ko-KR_description: "적이 생성될 때  <u>중독</u>시킵니다"
+tile_id: Radioactive
+image: /images/Radioactive.png
 ---

@@ -8,7 +8,7 @@ cost: 3
 image: /images/SoulSurvivor.png
 hero: necromancer
 zh-CN_name: "灵魂幸存者"
-zh-CN_description: "<u><u>即时</u></u>。毁掉你所有的💀 <u>随从</u>以及场上所有的非首领敌人。"
+zh-CN_description: "<u><u>即时</u></u>。毁掉你所有的💀 <u>随从</u>以及相同数量的非首领敌人。"
 zh-CN_flavor: "无论是生者还是死者都无法逃脱等价交换的法则。"
 tile_id: SoulSurvivor
 cost: 3
@@ -36,8 +36,15 @@ cost: 3
 image: /images/SoulSurvivor.png
 hero: necromancer
 pl-PL_name: "Duch Przetrwania"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. Poświęć swoich 💀 <u>Sługusy</u> i zniszcz tyle samo wrogów, którzy nie są bossami z planszy."
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. Poświęć swoich sługusów i zniszcz tyle samo wrogów, którzy nie są bossami, z planszy."
 pl-PL_flavor: "Zasada równoważnej wymiany dotyczy i żywych, i martwych."
+tile_id: SoulSurvivor
+cost: 3
+image: /images/SoulSurvivor.png
+hero: necromancer
+ko-KR_name: "Soul Survivor"
+ko-KR_description: "<u><u>즉발</u></u>. 내 모든 💀 <u>하수인</u>을 파괴하고 보드에 있는 동일한 수만큼 의 보스가 아닌 적을 파괴합니다"
+ko-KR_flavor: "죽은 자나 산 자 모두 등가 교환의 법칙에서 면제될 수 없습니다."
 tile_id: SoulSurvivor
 cost: 3
 image: /images/SoulSurvivor.png

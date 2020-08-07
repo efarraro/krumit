@@ -24,4 +24,8 @@ pl-PL_name: "Inteligencja"
 pl-PL_description: "Rozmiar talii powiększony o 3."
 tile_id: Intelligent
 image: /images/Intelligent.png
+ko-KR_name: "총명함"
+ko-KR_description: "최대 덱 크기가 3 증가합니다"
+tile_id: Intelligent
+image: /images/Intelligent.png
 ---

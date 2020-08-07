@@ -9,7 +9,7 @@ zh-CN_description: "在战斗中收到伤害之后，对敌人施加<u>冰冻</u
 tile_id: Chill
 image: /images/Chill.png
 ru-RU_name: "Охлаждение"
-ru-RU_description: "Когда впервые за бой враг атакует вас с 🔸, накладывает <u>мороз</u> на него."
+ru-RU_description: "Один раз за бой, после действия врага с 🔸, накладывает <u>мороз</u> на него."
 tile_id: Chill
 image: /images/Chill.png
 jp-JP_name: "冷却"
@@ -22,6 +22,10 @@ tile_id: Chill
 image: /images/Chill.png
 pl-PL_name: "Chłód"
 pl-PL_description: "Raz na walkę, zamroź (<u>zamrożenie</u>) przeciwnika go jeżeli jego akcja zawierała 🔸."
+tile_id: Chill
+image: /images/Chill.png
+ko-KR_name: "Chill"
+ko-KR_description: "Once per battle, after your opponent acts, <u>빙결</u> them if their action contained 🔸"
 tile_id: Chill
 image: /images/Chill.png
 ---

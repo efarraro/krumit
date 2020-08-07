@@ -36,8 +36,15 @@ cost: 1
 image: /images/HanasBlessing.png
 hero: priest
 pl-PL_name: "Pomniejszy Cud"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. Odzyskaj 6 ❤️. Gdy uzyskasz tą płytkę, jej miejsce zastąpi losowe <u>Błogosławieństwo</u>."
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. Odzyskaj 6 ❤️. Gdy uzyskasz tą płytkę, jej miejsce zastąpi losowe <u>Błogosławieństwo</u>."
 pl-PL_flavor: "Hana widzi, Hana radzi, Hana nigdy cię nie zdradzi."
+tile_id: HanasBlessing
+cost: 1
+image: /images/HanasBlessing.png
+hero: priest
+ko-KR_name: "Minor Miracle"
+ko-KR_description: "<u><u>즉발</u></u>. 6 ❤️을 회복합니다. 이 타일을 획득하면, 그 자리에 무작위 <u>Blessing</u>을 생성합니다"
+ko-KR_flavor: "하나는 보고, 하나는 승인하고, 하나는 축복합니다."
 tile_id: HanasBlessing
 cost: 1
 image: /images/HanasBlessing.png

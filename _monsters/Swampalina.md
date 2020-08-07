@@ -30,4 +30,9 @@ pl-PL_description: "W tym lochu, pojawiający się przeciwnicy zadają  <u>truci
 pl-PL_flavor: "Uwięziona (oficjalnie...) w Toksycznej Krypcie, Bagninka jest przebiegłą warzycielką trucizn i dziwacznych ciast. Gdy nie zajmuje się warzeniem, planuje zrewanżowanie się swojej siostrze, Bajorce."
 tile_id: Swampalina
 image: /images/Swampalina.png
+ko-KR_name: "스웜팔리나"
+ko-KR_description: "In this dungeon, when enemies spawn, they inflict  <u>중독</u> (1) on you. Globbers also gain an extra poison attack"
+ko-KR_flavor: "Currently imprisoned (or so they think...) to The Toxic Vault, Swampalina is a devious brewer of vile poisons and bizarre cakes. She is still searching for her long-lost sister Marsha, with whom she has unfinished business."
+tile_id: Swampalina
+image: /images/Swampalina.png
 ---

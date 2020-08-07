@@ -24,4 +24,8 @@ pl-PL_name: "Górnik"
 pl-PL_description: "Maksymalne ❤️ zwiększone o 2. Gdy uzyskasz tą zaletę, otrzymasz 100 klejnotów."
 tile_id: Miner
 image: /images/Miner.png
+ko-KR_name: "광부"
+ko-KR_description: "Max ❤️ increased by 2. When you acquire this perk, gain 100 gems"
+tile_id: Miner
+image: /images/Miner.png
 ---

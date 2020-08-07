@@ -42,4 +42,11 @@ tile_id: FlashHeal
 cost: 0
 image: /images/FlashHeal.png
 hero: priest
+ko-KR_name: "순간 치유"
+ko-KR_description: "4 ❤️을 회복합니다. 이 타일이 보드에 추가될 때 2 ❤️을 회복합니다."
+ko-KR_flavor: "영감과 마찬가지로 하늘의 자양분은 가장 기대하지 않을 때 몸에 스며들 수 있습니다."
+tile_id: FlashHeal
+cost: 0
+image: /images/FlashHeal.png
+hero: priest
 ---

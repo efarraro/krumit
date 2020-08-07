@@ -42,4 +42,11 @@ tile_id: Charge
 cost: 0
 image: /images/Charge.png
 hero: warrior
+ko-KR_name: "돌진"
+ko-KR_description: "하단 행에 있는 대상 적에게 기본 피해(2)를 주고 1 💰을 얻습니다. <u>Exhaust</u>"
+ko-KR_flavor: "왜 기다리세요?"
+tile_id: Charge
+cost: 0
+image: /images/Charge.png
+hero: warrior
 ---

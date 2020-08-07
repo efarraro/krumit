@@ -48,4 +48,12 @@ cost: 3
 image: /images/CombatKnife.png
 durability: 3
 hero: rogue
+ko-KR_name: "전투 단검"
+ko-KR_description: "이 타일을 획득할 때, <a href = '../ko_kr/abilities#Stab'>찌르기</a>을 두 장 덱에 섞어 넣습니다"
+ko-KR_flavor: "'이제 이건 사과나 치즈를 자르는 칼이 아니야.' - 극단 소품 감독 젠킨스"
+tile_id: CombatKnife
+cost: 3
+image: /images/CombatKnife.png
+durability: 3
+hero: rogue
 ---

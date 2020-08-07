@@ -36,8 +36,15 @@ cost: 4
 image: /images/Disintegrate.png
 hero: mage
 pl-PL_name: "Dezintegracja"
-pl-PL_description: "<u>Przenikliwy</u>. Za każdym razem, gdy użyjesz tej zdolności, zwiększ jej obrażenia o 1. Uzyskaj 3 umiejętności aby naładować"
+pl-PL_description: "<u>Przenikliwy</u>. Za każdym razem, gdy użyjesz tej zdolności, zwiększ jej obrażenia o 1. Uzyskaj 3 umiejętności, aby naładować."
 pl-PL_flavor: "W tym miejscu była szopa Krumita, ale już nie stoi."
+tile_id: Disintegrate
+cost: 4
+image: /images/Disintegrate.png
+hero: mage
+ko-KR_name: "산산조각"
+ko-KR_description: "<u>관통</u>. 이 능력을 사용할 때마다 피해량이 1 증가합니다. 3개의 능력을 획득하면 재충전됩니다"
+ko-KR_flavor: "지금은 보이죠? 자, 이제 안 보이네요."
 tile_id: Disintegrate
 cost: 4
 image: /images/Disintegrate.png

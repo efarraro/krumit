@@ -30,4 +30,9 @@ pl-PL_description: "Wszystkie Gobloidy mają +1 🔸 w tym lochu. Wtasuj 3 <a hr
 pl-PL_flavor: "Walczy o zjednoczenie Wielkiego Państwa Gobloidzkiego, zgodnie z przepowiednią Proroka Gobloidów, T'abbu. Utrzymuje się przy władzy siłą i smrodem."
 tile_id: GobloidKing
 image: /images/GobloidKing.png
+ko-KR_name: "고블로이드 군주 와구"
+ko-KR_description: "이번 던전에서 모든 고블로이드들이 +1 🔸을 얻습니다. <a href = '../ko_kr/items#Tranquilizer'>Tranquilizer</a> 타일을 3장 덱에 섞어 넣습니다"
+ko-KR_flavor: "건국자 고블로이드 타부가 예언한 위대한 고블로이드 공화국을 추구하며 싸웁니다. 힘과 악취로 권력을 붙잡고 있습니다."
+tile_id: GobloidKing
+image: /images/GobloidKing.png
 ---

@@ -9,7 +9,7 @@ zh-CN_description: "战斗结束时如果生命值低于50%，回复2点生命�
 tile_id: Survivor
 image: /images/Survivor.png
 ru-RU_name: "Выживатель"
-ru-RU_description: "Если ваше ❤️ меньше 50% от вашего максимума после убийства врага в бою, восстанавливает 2 ❤️."
+ru-RU_description: "Если ваше ❤️ меньше 50% от вашего максимума после убийства врага, восстанавливает 2 ❤️."
 tile_id: Survivor
 image: /images/Survivor.png
 jp-JP_name: "サバイバル"
@@ -22,6 +22,10 @@ tile_id: Survivor
 image: /images/Survivor.png
 pl-PL_name: "Biwak"
 pl-PL_description: "Jeżeli twoje ❤️ jest poniżej 50% po pokonaniu przeciwnika w walce, odnów 2 ❤️."
+tile_id: Survivor
+image: /images/Survivor.png
+ko-KR_name: "생존자"
+ko-KR_description: "전투에서 적을 물리친 후 ❤️가 최대 체력의 50% 미만이라면, ❤️를 2 회복합니다."
 tile_id: Survivor
 image: /images/Survivor.png
 ---

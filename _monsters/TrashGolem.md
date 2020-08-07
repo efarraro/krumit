@@ -11,7 +11,7 @@ zh-CN_flavor: "粘球吸收了一大堆垃圾之后就可以进化成一只垃�
 tile_id: TrashGolem
 image: /images/TrashGolem.png
 ru-RU_name: "Мусорный голем"
-ru-RU_description: "Когда вы убиваете этого врага, даёт дополнительный 💰 и замешивает 2 случайных предмета в колоду."
+ru-RU_description: "Когда вы убиваете этого врага, даёт +1 💰 и замешивает 2 случайных предмета в колоду."
 ru-RU_flavor: "Когда глоббер поглощает достаточно большую кучу мусора, он может превратиться в мусорного голема. Их единственной целью является поглощение ещё большего количества мусора, и они будут рады превратить вас в мусор."
 tile_id: TrashGolem
 image: /images/TrashGolem.png
@@ -28,6 +28,11 @@ image: /images/TrashGolem.png
 pl-PL_name: "Śmieciowy Golem"
 pl-PL_description: "Gdy pokonasz tego wroga, otrzymasz dodatkowy 💰 oraz wtasuj 2 losowe przedmioty do talii."
 pl-PL_flavor: "Gdy Szlamor pochłonie wystarczająco dużo śmieci, staje się śmieciowym golemem. Ich jedynym celem jest pochłanianie śmieci, ale chętnie zrobi przerwę, aby zmienić cię w śmieci."
+tile_id: TrashGolem
+image: /images/TrashGolem.png
+ko-KR_name: "Trash Golem"
+ko-KR_description: "이 적을 처치하면, 추가 💰을 얻고 2개의 무작위 아이템을 덱에 섞어 넣습니다"
+ko-KR_flavor: "When a Globber absorbs a large enough pile of trash, it can evolve into a trash golem. Their only goal is to absorb more trash – they’re happy to make you into trash though."
 tile_id: TrashGolem
 image: /images/TrashGolem.png
 ---

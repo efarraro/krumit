@@ -24,4 +24,8 @@ pl-PL_name: "Zdziczały"
 pl-PL_description: "Gdy pokonasz przeciwnika, uzyskaj <a href = '../pl_pl/abilities#Frenzy'>Szał</a> do ekwipunku (jeżeli jest miejsce)."
 tile_id: Savage
 image: /images/Savage.png
+ko-KR_name: "흉포함"
+ko-KR_description: "적을 처치했을 때, <a href = '../ko_kr/abilities#Frenzy'>광란</a> 타일을 내 인벤토리에 추가합니다(공간이 있을 때)"
+tile_id: Savage
+image: /images/Savage.png
 ---

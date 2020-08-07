@@ -36,8 +36,15 @@ cost: 5
 image: /images/Flex.png
 hero: warrior
 pl-PL_name: "Napinka"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. +1 🔸 do końca lochu."
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. +1 🔸 do końca lochu."
 pl-PL_flavor: "Niedźwierzyńcy spędzają większość czasu napinając się przed lustrem i podziwiając się nawzajem."
+tile_id: Flex
+cost: 5
+image: /images/Flex.png
+hero: warrior
+ko-KR_name: "몸 풀기"
+ko-KR_description: "<u><u>즉발</u></u>. 이번 던전에서 내 🔸이 1 증가합니다"
+ko-KR_flavor: "바베어리안들은 거울 앞에서 몸을 풀고 본인이 가꾼 몸매에 감탄하는 데 대부분의 시간을 보냅니다."
 tile_id: Flex
 cost: 5
 image: /images/Flex.png

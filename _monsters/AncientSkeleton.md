@@ -30,4 +30,9 @@ pl-PL_description: "Ten w pełni uzbrojony i modny koleś zaczyna bitwę z 2 pan
 pl-PL_flavor: "Wiedza o podeszłym wieku tego szkieletowego kolesia wynika z jego brody oraz narzekania na bezczelność młodszych szkieletów."
 tile_id: AncientSkeleton
 image: /images/AncientSkeleton.png
+ko-KR_name: "Ancient Skeleton"
+ko-KR_description: "잘 무장되어 있고 패셔너블한 이 친구는 2 방어도로 전투를 시작합니다"
+ko-KR_flavor: "이 해골 친구는 수염이 있어서 정말로 늙었고, 젊은 해골들은 존경심이 없다고 생각합니다."
+tile_id: AncientSkeleton
+image: /images/AncientSkeleton.png
 ---

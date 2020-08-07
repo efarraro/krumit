@@ -48,4 +48,12 @@ cost: 3
 image: /images/WitchesBroom.png
 durability: 2
 hero: mage
+ko-KR_name: "Witches' Broom"
+ko-KR_description: "대상 능력을 2장 복사하여 덱에 섞어 넣습니다"
+ko-KR_flavor: "'진부한 말인 건 알지만, 말이나 농부보다는 이것들 중 하나를 타는 게 낫겠어.' - 스웜팔리나"
+tile_id: WitchesBroom
+cost: 3
+image: /images/WitchesBroom.png
+durability: 2
+hero: mage
 ---

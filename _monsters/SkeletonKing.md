@@ -30,4 +30,9 @@ pl-PL_description: "Calacas otrzymuje 1 🛡️️ <u>blok</u> gdy pokonasz wrog
 pl-PL_flavor: "Niecierpliwy władca bezcielesnych szkieletów! Calacas rywalizuje z Królem Upiorów o każdego świeżego zmarłego."
 tile_id: SkeletonKing
 image: /images/SkeletonKing.png
+ko-KR_name: "칼라카스"
+ko-KR_description: "Calacas gains 1 armor whenever you slay another enemy in this dungeon"
+ko-KR_flavor: "살점 없는 자들의 휴식 없는 지배자! 칼라카스는 새로운 길 잃은 영혼들을 지배하기 위해 유령 왕과 경쟁합니다."
+tile_id: SkeletonKing
+image: /images/SkeletonKing.png
 ---

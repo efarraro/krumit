@@ -48,4 +48,12 @@ cost: 3
 image: /images/CaptainsCutlass.png
 durability: 3
 hero: warrior
+ko-KR_name: "선장의 커틀라스"
+ko-KR_description: "이 타일을 획득할 때, 같은 행 또는 열에 있는 적 하나당 1 💰을 얻습니다"
+ko-KR_flavor: "몇몇 칼들은 피를 갈망하죠. 이 칼은 금화와 술을 갈망합니다."
+tile_id: CaptainsCutlass
+cost: 3
+image: /images/CaptainsCutlass.png
+durability: 3
+hero: warrior
 ---

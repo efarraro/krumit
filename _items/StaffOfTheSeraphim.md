@@ -48,4 +48,12 @@ cost: 3
 image: /images/StaffOfTheSeraphim.png
 durability: 3
 hero: priest
+ko-KR_name: "치천사의 지팡이"
+ko-KR_description: "5 ❤️을 회복합니다"
+ko-KR_flavor: "Like a lightning rod, but for divine mana instead of lightning."
+tile_id: StaffOfTheSeraphim
+cost: 3
+image: /images/StaffOfTheSeraphim.png
+durability: 3
+hero: priest
 ---

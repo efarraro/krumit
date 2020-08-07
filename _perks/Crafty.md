@@ -9,7 +9,7 @@ zh-CN_description: "对<u>晕眩</u>的敌人额外造成1点伤害"
 tile_id: Crafty
 image: /images/Crafty.png
 ru-RU_name: "Драчун"
-ru-RU_description: "Ваш 🔸 увеличен на 1, пока вы атакуете <u>оглушенного</u> врага."
+ru-RU_description: "Ваша 🔸 увеличена на 1, пока вы атакуете <u>оглушенного</u> врага."
 tile_id: Crafty
 image: /images/Crafty.png
 jp-JP_name: "暴れん坊"
@@ -22,6 +22,10 @@ tile_id: Crafty
 image: /images/Crafty.png
 pl-PL_name: "Zadymiarz"
 pl-PL_description: "Twój 🔸 jest zwiększony o 1 przeciwko ogłuszonym (<u>ogłuszony</u>) przeciwnikom."
+tile_id: Crafty
+image: /images/Crafty.png
+ko-KR_name: "Brawler"
+ko-KR_description: "<u>stunned</u> 상태인 상대에 대한 🔸이 1 증가합니다"
 tile_id: Crafty
 image: /images/Crafty.png
 ---

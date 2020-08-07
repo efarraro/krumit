@@ -42,4 +42,11 @@ tile_id: Scorch
 cost: 1
 image: /images/Scorch.png
 hero: mage
+ko-KR_name: "그을리기"
+ko-KR_description: "적에게 <u>관통</u> 피해를 3 주고  <u>연소</u>(1)시킵니다. <u>Exhaust</u>."
+ko-KR_flavor: "당신 안의 불을 내보내세요."
+tile_id: Scorch
+cost: 1
+image: /images/Scorch.png
+hero: mage
 ---

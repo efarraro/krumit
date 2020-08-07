@@ -42,4 +42,11 @@ tile_id: Char
 cost: 1
 image: /images/Char.png
 hero: mage
+ko-KR_name: "숯 만들기"
+ko-KR_description: "적을  <u>연소</u>(3)시킵니다. <u>Exhaust</u>"
+ko-KR_flavor: "전투보다 바베큐에 더 많이 사용되는 간단한 화염술사 주문입니다."
+tile_id: Char
+cost: 1
+image: /images/Char.png
+hero: mage
 ---

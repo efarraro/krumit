@@ -36,8 +36,15 @@ cost: 2
 image: /images/BattleSong.png
 hero: warrior
 pl-PL_name: "Pieśń wojenna"
-pl-PL_description: "Zwiększ 🔸 wszystkich broni widocznych na planszy o 1. Zdobądź jakiekolwiek 2 bronie aby naładować."
+pl-PL_description: "Zwiększ 🔸 wszystkich broni widocznych na planszy o 1. Zdobądź jakiekolwiek 2 bronie, aby naładować."
 pl-PL_flavor: "Młot bogów poprowadzi nasze łodzie ku nowym lądom! Aby walczyć z hordą i śpiewać, i płakać, Nuke-halla, nadchodzę! ' - Ned Zepp, Wojenny Bard Krzykliwych Pagórków"
+tile_id: BattleSong
+cost: 2
+image: /images/BattleSong.png
+hero: warrior
+ko-KR_name: "전투의 노래"
+ko-KR_description: "보드에 보이는 근접 무기들의 🔸이 1 증가합니다. 이 타일을 재충전하려면 무기를 2개 획득하십시오"
+ko-KR_flavor: "'신의 망치가 우리 배를 새로운 땅으로 인도하노니! 저 무리와 싸우고, 노래하고, 울기 위해, 누크-할라여, 내가 가노라!' - 네드 젭, 울부짖는 언덕의 전쟁음유시인"
 tile_id: BattleSong
 cost: 2
 image: /images/BattleSong.png

@@ -48,4 +48,12 @@ cost: 5
 image: /images/WitchHuntersCopotain.png
 durability: 3
 hero: priest
+ko-KR_name: "마녀 사냥꾼의 카포테인"
+ko-KR_description: "이 타일을 획득하면 <a href = '../ko_kr/items#WroughtIronTorch'>연철 토치</a>도 함께 획득합니다"
+ko-KR_flavor: "청소 시간이다."
+tile_id: WitchHuntersCopotain
+cost: 5
+image: /images/WitchHuntersCopotain.png
+durability: 3
+hero: priest
 ---

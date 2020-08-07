@@ -30,4 +30,9 @@ pl-PL_description: "Na końcu tury tego wroga, jeżeli ma 0 🛡️️ <u>blok</
 pl-PL_flavor: "Drzewoludzie żyją nawet tysiąc lat, ale nigdy nie wyrastają z bycia gderami."
 tile_id: Treant
 image: /images/Treant.png
+ko-KR_name: "Treant"
+ko-KR_description: "At the end of this enemy's turn, if it has 0 armor, destroy it"
+ko-KR_flavor: "The average treepeep can grow to over 1,000 years old, but becomes grumpy around age 10."
+tile_id: Treant
+image: /images/Treant.png
 ---

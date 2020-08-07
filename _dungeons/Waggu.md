@@ -114,4 +114,23 @@ monsters:
     image: /images/GobloidKing.png
     quantity: 1
     url: /monsters/GobloidKing
+ko-KR_name: "고블로이드 수도: 와구"
+ko-KR_description: "와구는 고블로이드들의 수도 '도시'입니다. 그리고 그들의 왕의 이름이기도 하고, 대표 음식의 이름이기도 합니다. 그리고 가장 인기 있는 고블로이드 아기 이름이기도 하죠."
+tier: 2
+monsters:
+  - monster:
+    name: "고블로이드"
+    image: /images/Gobloid.png
+    quantity: 5
+    url: /monsters/Gobloid
+  - monster:
+    name: "Buckethead"
+    image: /images/GobloidKnucklehead.png
+    quantity: 4
+    url: /monsters/GobloidKnucklehead
+  - monster:
+    name: "고블로이드 군주 와구"
+    image: /images/GobloidKing.png
+    quantity: 1
+    url: /monsters/GobloidKing
 ---

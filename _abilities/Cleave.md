@@ -42,4 +42,11 @@ tile_id: Cleave
 cost: 1
 image: /images/Cleave.png
 hero: warrior
+ko-KR_name: "가르기"
+ko-KR_description: "하단 행에 있는 모든 적에게 피해를 5 줍니다. <u>Exhaust</u>"
+ko-KR_flavor: "고블로이드들은 공정한 싸움을 싫어한다. 따라서 승산이 있는지 반드시 확인해야 한다. - 브램블의 전쟁 명상"
+tile_id: Cleave
+cost: 1
+image: /images/Cleave.png
+hero: warrior
 ---

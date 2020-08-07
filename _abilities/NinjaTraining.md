@@ -36,8 +36,15 @@ cost: 3
 image: /images/NinjaTraining.png
 hero: rogue
 pl-PL_name: "Szkoła Skrytobójców"
-pl-PL_description: "Pokonaj 5 przeciwników aby zyskać +1 🔸 do końca lochu. Gdy uzyskasz tą płytkę, ukryj się (<u>ukrywanie się</u>). <u>Wyczerpany</u>"
+pl-PL_description: "Pokonaj 5 przeciwników, aby zyskać +1 🔸 do końca lochu. Gdy uzyskasz tą płytkę, ukryj się (<u>ukrywanie się</u>). <u>Wyczerpany</u>"
 pl-PL_flavor: "'Pierwsza zasada Szkoły Skrytobójców: nie wydawaj dźwięków w Szkole Skrytobójców. Druga zasada: żadnych shurikenów na korytarzu.' - Toshiro, Rektor Szkoły Skrytobójców"
+tile_id: NinjaTraining
+cost: 3
+image: /images/NinjaTraining.png
+hero: rogue
+ko-KR_name: "암살자 학교"
+ko-KR_description: "적을 5회 처치하십시오. 처치한 뒤 이 타일을 사용하면 이번 던전에서 기본 🔸이 1 증가합니다. 이 타일을 획득했을 때 <u>은신</u>을 얻습니다. <u>Exhaust</u>"
+ko-KR_flavor: "'닌자 학교의 첫 번째 규칙: 그 누구도 닌자 학교에서 소리를 내지 말 것. 두 번째 규칙, 식당에서 수리검 사용 금지.' - 치명적인 현자 토시로"
 tile_id: NinjaTraining
 cost: 3
 image: /images/NinjaTraining.png

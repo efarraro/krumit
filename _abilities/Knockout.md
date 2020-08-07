@@ -36,8 +36,15 @@ cost: 1
 image: /images/Knockout.png
 hero: rogue
 pl-PL_name: "Nokaut"
-pl-PL_description: "Wtasuj wskazanego przeciwnika do talii. Pokonaj jednego przeciwnika aby naładować."
+pl-PL_description: "Wtasuj wskazanego przeciwnika do talii. Pokonaj jednego przeciwnika, aby naładować."
 pl-PL_flavor: "Dobry złodziej wie kiedy grać fair, a kiedy zdzielić przeciwnika butelką w łeb."
+tile_id: Knockout
+cost: 1
+image: /images/Knockout.png
+hero: rogue
+ko-KR_name: "Knockout"
+ko-KR_description: "대상 적을 다시 덱에 섞어 넣습니다. 이 타일을 재충전하려면 적을 1회 처치하십시오"
+ko-KR_flavor: "유능한 도둑은 언제 싸워야 하고, 언제 병으로 누군가의 머리를 떄려야 하는지를 당신을 발견하기 전부터 알고 있습니다."
 tile_id: Knockout
 cost: 1
 image: /images/Knockout.png

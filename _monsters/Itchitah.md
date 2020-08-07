@@ -30,4 +30,9 @@ pl-PL_description: "Na początku lochu, wtasuj <a href = '../pl_pl/abilities#Per
 pl-PL_flavor: "Potężna Szawomanka i Naczelna Elektromantka w GlowTech. Wynalazca pierwszego Automatu. Nikt nie wie co kryje się w jej pudełeczku."
 tile_id: Itchitah
 image: /images/Itchitah.png
+ko-KR_name: "이치타"
+ko-KR_description: "던전 진입 시, <a href = '../ko_kr/abilities#PerfectStorm'>The Perfect Storm</a> 타일을 덱에 섞어 넣습니다"
+ko-KR_flavor: "글로우테크의 수석 전기술사이자 강력한 샤우먼. 최초의 자동 인형 발명가. 그녀가 작은 상자에 무엇을 보관하고 있는지 아무도 모릅니다."
+tile_id: Itchitah
+image: /images/Itchitah.png
 ---

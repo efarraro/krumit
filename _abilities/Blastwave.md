@@ -42,4 +42,11 @@ tile_id: Blastwave
 cost: 6
 image: /images/Blastwave.png
 hero: mage
+ko-KR_name: "폭발파"
+ko-KR_description: "하단 행의 모든 적에게 <u>관통</u> 피해를 5 주고  <u>연소</u>(5)시킵니다. 그 적들을 던전 덱에 다시 섞어 넣습니다.  <u>Exhaust</u>"
+ko-KR_flavor: "더위를 견딜 수 없다면 던전에서 나가십시오."
+tile_id: Blastwave
+cost: 6
+image: /images/Blastwave.png
+hero: mage
 ---

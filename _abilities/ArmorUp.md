@@ -42,4 +42,11 @@ tile_id: ArmorUp
 cost: 2
 image: /images/ArmorUp.png
 hero: warrior
+ko-KR_name: "방어도 증가!"
+ko-KR_description: "인벤토리에 있는 모든 방어구의 내구도를 전부 회복시키고 🛡️️ <u>block</u> 값을 2 증가시킵니다. <u>Exhaust</u>"
+ko-KR_flavor: "당신의 껍데기 안으로 후퇴해서 적을 지치게 하는 것이 때때로 최고의 공격이 되기도 합니다."
+tile_id: ArmorUp
+cost: 2
+image: /images/ArmorUp.png
+hero: warrior
 ---

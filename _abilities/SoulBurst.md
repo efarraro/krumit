@@ -37,7 +37,14 @@ image: /images/SoulBurst.png
 hero: necromancer
 pl-PL_name: "Rozerwanie Duszy"
 pl-PL_description: "Zapłać 4 ❤️, aby zadać 4 <u>przenikliwy</u> obrażeń wszystkim widocznym wrogom. Pokonaj 2 wrogów aby naładować."
-pl-PL_flavor: "Gdy Manożercy i Nekromanci szukali skąd pochodzą dusze, nikt nie spodziewał się, że odnajdą tak wspaniały oręż."
+pl-PL_flavor: "Gdy Manożercy i Nekromanci badali skąd pochodzą dusze, nikt nie spodziewał się, że odnajdą tak wspaniały oręż."
+tile_id: SoulBurst
+cost: 4
+image: /images/SoulBurst.png
+hero: necromancer
+ko-KR_name: "영혼 파열"
+ko-KR_description: "4 ❤️을 지불하고 보이는 모든 적에게 <u>관통</u> 피해를 4 줍니다. 이 타일을 재충전하려면 적을 2회 처치해야 합니다"
+ko-KR_flavor: "When the first Mana Vamps and Necromantics searched for where the Soul lived, neither expected to find a weapon."
 tile_id: SoulBurst
 cost: 4
 image: /images/SoulBurst.png

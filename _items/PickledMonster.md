@@ -41,9 +41,17 @@ image: /images/PickledMonster.png
 durability: 3
 hero: necromancer
 pl-PL_name: "Potwór Małosolny"
-pl-PL_description: "Użyj, aby wylecz 2 ❤️. Gdy przeciwnik umrze, 
-ten przedmiot odzyskuje 1 punkt trwałości"
+pl-PL_description: "Użyj, aby wyleczyć 2 ❤️. Gdy przeciwnik umrze, 
+ten przedmiot odzyskuje 1 punkt trwałości."
 pl-PL_flavor: "Wygodna, zakwaszona przekąska z długim terminem ważności. Z czasem nabiera smaku."
+tile_id: PickledMonster
+cost: 1
+image: /images/PickledMonster.png
+durability: 3
+hero: necromancer
+ko-KR_name: "몬스터 피클"
+ko-KR_description: "2 ❤️을 회복합니다. 적이 죽으면 이 아이템의 내구도가 1 회복됩니다"
+ko-KR_flavor: "긴 유통 기한을 가진 편리한 발효 간식입니다. 오래 될수록 맛있어집니다."
 tile_id: PickledMonster
 cost: 1
 image: /images/PickledMonster.png

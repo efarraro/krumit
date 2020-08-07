@@ -8,7 +8,7 @@ cost: 4
 image: /images/ElementalDestruction.png
 hero: mage
 zh-CN_name: "元素毁灭"
-zh-CN_description: "消灭所有同时受到 <u>燃烧</u>和<u>冰冻</u>效果影响的非首领敌人。<u>消耗</u>。"
+zh-CN_description: "对场上所有可见敌人施加 <u>燃烧</u>（3）和<u>冰冻</u>。<u>消耗</u>"
 zh-CN_flavor: "“冻烧伤是一种罕见的外伤，一旦受了这种伤，患者必须格外小心避免突然的温度变化。不然立马嗝屁。”——战争药剂师荆棘莓"
 tile_id: ElementalDestruction
 cost: 4
@@ -38,6 +38,13 @@ hero: mage
 pl-PL_name: "Niszczycielskie Żywioły"
 pl-PL_description: " <u>podpalenie</u> 3 i <u>zamrożenie</u> wszystkich widocznych przeciwników. <u>Wyczerpany</u>"
 pl-PL_flavor: "'Zimne ognie i ciepłe lody nigdy nie powinny być mieszane ze sobą.' - Ignacy Zima, wynalazca"
+tile_id: ElementalDestruction
+cost: 4
+image: /images/ElementalDestruction.png
+hero: mage
+ko-KR_name: "원소 파멸"
+ko-KR_description: "보이는 모든 적을  <u>연소</u>(3)시키고 <u>빙결</u>시킵니다. <u>Exhaust</u>"
+ko-KR_flavor: "'냉동화상이란 드물게 발생하는 증상으로, 일단 발증하면 환자가 급격한 온도 변화를 겪지 않도록 각별히 주의해야 합니다. 그렇지 않으면, '펑'.' - 전쟁약제상 손베리"
 tile_id: ElementalDestruction
 cost: 4
 image: /images/ElementalDestruction.png

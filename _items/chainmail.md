@@ -48,4 +48,12 @@ cost: 2
 image: /images/ChainMail.png
 durability: 2
 hero: warrior
+ko-KR_name: "사슬갑옷"
+ko-KR_description: "기본 아이템 - 추가 효과 없음"
+ko-KR_flavor: "보기보다 훨씬 무겁습니다."
+tile_id: ChainMail
+cost: 2
+image: /images/ChainMail.png
+durability: 2
+hero: warrior
 ---

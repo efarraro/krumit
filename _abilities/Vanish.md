@@ -42,4 +42,11 @@ tile_id: Vanish
 cost: 1
 image: /images/Vanish.png
 hero: rogue
+ko-KR_name: "모습 감추기"
+ko-KR_description: "<u>은신</u>를 얻고 충전 가능한 모든 능력을 재충전합니다. <u>Exhaust</u>"
+ko-KR_flavor: "싸워? 하. 꼴사납기는. 썩 꺼져. - 앵무새"
+tile_id: Vanish
+cost: 1
+image: /images/Vanish.png
+hero: rogue
 ---

@@ -48,4 +48,12 @@ cost: 2
 image: /images/MysticDagger.png
 durability: 3
 hero: mage
+ko-KR_name: "Mystic Dagger"
+ko-KR_description: "이 무기의 🔸은 보드에 있는 능력의 수와 같습니다"
+ko-KR_flavor: "이 단검은 치즈 덩어리를 잘라내는 것처럼 현실의 구조를 잘라낼 수 있습니다."
+tile_id: MysticDagger
+cost: 2
+image: /images/MysticDagger.png
+durability: 3
+hero: mage
 ---

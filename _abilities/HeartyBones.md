@@ -36,8 +36,15 @@ cost: 2
 image: /images/HeartyBones.png
 hero: necromancer
 pl-PL_name: "Krzepkie Kości"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. Zwiększ maksymalne ❤️ swoich 💀 <u>Sługusy</u> o 3."
-pl-PL_flavor: "Zbilansowana dieta, bogata w żelazo, wapń i B12 jest konieczna aby zapewnić wzrost silnych kości. To, albo chtoniczna magia."
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. Zwiększ maksymalne ❤️ swoich 💀 <u>Sługusy</u> o 3."
+pl-PL_flavor: "Zbilansowana dieta, bogata w żelazo, wapń i B12 jest konieczna, aby zapewnić wzrost silnych kości. To, albo chtoniczna magia."
+tile_id: HeartyBones
+cost: 2
+image: /images/HeartyBones.png
+hero: necromancer
+ko-KR_name: "Hearty Bones"
+ko-KR_description: "<u><u>즉발</u></u>. Increase the max ❤️ of your 💀 <u>하수인</u> by 3"
+ko-KR_flavor: "철분, 칼슘과 비타민 B12가 풍부한 균형 잡힌 식단은 튼튼한 뼈 성장에 필수적입니다. 하지만 유사시에는 지옥의 마법이 이를 대신할 겁니다."
 tile_id: HeartyBones
 cost: 2
 image: /images/HeartyBones.png

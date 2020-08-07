@@ -30,4 +30,9 @@ pl-PL_description: "Ten przeciwnik nie ma specjalnych zdolności ani efektów"
 pl-PL_flavor: "Tylko najbardziej słoni korsarze pływają po Lepkim Morzu. Piraci wierzą, że ląd jest nawiedzony przez mściwe duchy, które można przekupić tylko darami grogu i skarbów."
 tile_id: Pirate
 image: /images/Pirate.png
+ko-KR_name: "Swashbuckler"
+ko-KR_description: "This enemy doesn't have any special powers or effects"
+ko-KR_flavor: "Only the saltiest of sea dogs dare to sail the Viscous Seas. Pirates believe the land is cursed by vengeful spirits who can only be appeased by offerings of grog and booty."
+tile_id: Pirate
+image: /images/Pirate.png
 ---

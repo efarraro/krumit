@@ -22,12 +22,17 @@ tile_id: Cleric
 image: /images/Cleric.png
 es-ES_name: "Druida"
 es-ES_description: "Cuando entra al tablero, este enemigo da +3 de armadura a otro enemigo al azar en su misma columna"
-es-ES_flavor: "Hasta los monstruos necesitan necesitan cuidados espirituales de cuando en cuando."
+es-ES_flavor: "Hasta los monstruos necesitan cuidados espirituales de cuando en cuando."
 tile_id: Cleric
 image: /images/Cleric.png
 pl-PL_name: "Druid"
 pl-PL_description: "Gdy ten przeciwnik pojawia się na planszy, dodaje innemu losowemu przeciwnikowi w tej samej kolumnie +3 pancerza."
 pl-PL_flavor: "Nawet potwory potrzebują duchowości od czasu do czasu."
+tile_id: Cleric
+image: /images/Cleric.png
+ko-KR_name: "Druid"
+ko-KR_description: "When added to the dungeon, this enemy buffs a random enemy with in the same column +3 armor"
+ko-KR_flavor: "Even monsters need spiritual healing sometimes."
 tile_id: Cleric
 image: /images/Cleric.png
 ---

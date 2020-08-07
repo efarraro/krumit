@@ -81,7 +81,7 @@ image: /images/Tranquilizer.png
 durability: 3
 hero: warrior
 ru-RU_name: "Транквилизатор"
-ru-RU_description: "В бою заменяет текущее действие соперника на ‘Сон’."
+ru-RU_description: "В бою заменяет текущее действие врага на ‘Сон’."
 ru-RU_flavor: "Гарантировано отправит Вардведя в здоровый восьмичасовой сон."
 tile_id: Tranquilizer
 cost: 3
@@ -89,7 +89,7 @@ image: /images/Tranquilizer.png
 durability: 3
 hero: warrior
 ru-RU_name: "Транквилизатор"
-ru-RU_description: "В бою заменяет текущее действие соперника на ‘Сон’."
+ru-RU_description: "В бою заменяет текущее действие врага на ‘Сон’."
 ru-RU_flavor: "Гарантировано отправит Вардведя в здоровый восьмичасовой сон."
 tile_id: Tranquilizer
 cost: 3
@@ -97,7 +97,7 @@ image: /images/Tranquilizer.png
 durability: 3
 hero: warrior
 ru-RU_name: "Транквилизатор"
-ru-RU_description: "В бою заменяет текущее действие соперника на ‘Сон’."
+ru-RU_description: "В бою заменяет текущее действие врага на ‘Сон’."
 ru-RU_flavor: "Гарантировано отправит Вардведя в здоровый восьмичасовой сон."
 tile_id: Tranquilizer
 cost: 3
@@ -105,7 +105,7 @@ image: /images/Tranquilizer.png
 durability: 3
 hero: warrior
 ru-RU_name: "Транквилизатор"
-ru-RU_description: "В бою заменяет текущее действие соперника на ‘Сон’."
+ru-RU_description: "В бою заменяет текущее действие врага на ‘Сон’."
 ru-RU_flavor: "Гарантировано отправит Вардведя в здоровый восьмичасовой сон."
 tile_id: Tranquilizer
 cost: 3
@@ -113,7 +113,7 @@ image: /images/Tranquilizer.png
 durability: 3
 hero: warrior
 ru-RU_name: "Транквилизатор"
-ru-RU_description: "В бою заменяет текущее действие соперника на ‘Сон’."
+ru-RU_description: "В бою заменяет текущее действие врага на ‘Сон’."
 ru-RU_flavor: "Гарантировано отправит Вардведя в здоровый восьмичасовой сон."
 tile_id: Tranquilizer
 cost: 3
@@ -235,6 +235,46 @@ hero: warrior
 pl-PL_name: "Środek Uspokajający"
 pl-PL_description: "W walce, zastąp akcję przeciwnika Snem."
 pl-PL_flavor: "Powala każdego Niedźwierzyńcę na 7 godzin rekomendowanego snu REM."
+tile_id: Tranquilizer
+cost: 3
+image: /images/Tranquilizer.png
+durability: 3
+hero: warrior
+ko-KR_name: "Tranquilizer"
+ko-KR_description: "전투에서 상대의 현재 행동을 수면으로 교체합니다"
+ko-KR_flavor: "완전히 다 자란 바베어리안에게 사용 시 권장 렘 수면 시간인 7시간을 보장합니다."
+tile_id: Tranquilizer
+cost: 3
+image: /images/Tranquilizer.png
+durability: 3
+hero: warrior
+ko-KR_name: "Tranquilizer"
+ko-KR_description: "전투에서 상대의 현재 행동을 수면으로 교체합니다"
+ko-KR_flavor: "완전히 다 자란 바베어리안에게 사용 시 권장 렘 수면 시간인 7시간을 보장합니다."
+tile_id: Tranquilizer
+cost: 3
+image: /images/Tranquilizer.png
+durability: 3
+hero: warrior
+ko-KR_name: "Tranquilizer"
+ko-KR_description: "전투에서 상대의 현재 행동을 수면으로 교체합니다"
+ko-KR_flavor: "완전히 다 자란 바베어리안에게 사용 시 권장 렘 수면 시간인 7시간을 보장합니다."
+tile_id: Tranquilizer
+cost: 3
+image: /images/Tranquilizer.png
+durability: 3
+hero: warrior
+ko-KR_name: "Tranquilizer"
+ko-KR_description: "전투에서 상대의 현재 행동을 수면으로 교체합니다"
+ko-KR_flavor: "완전히 다 자란 바베어리안에게 사용 시 권장 렘 수면 시간인 7시간을 보장합니다."
+tile_id: Tranquilizer
+cost: 3
+image: /images/Tranquilizer.png
+durability: 3
+hero: warrior
+ko-KR_name: "Tranquilizer"
+ko-KR_description: "전투에서 상대의 현재 행동을 수면으로 교체합니다"
+ko-KR_flavor: "완전히 다 자란 바베어리안에게 사용 시 권장 렘 수면 시간인 7시간을 보장합니다."
 tile_id: Tranquilizer
 cost: 3
 image: /images/Tranquilizer.png

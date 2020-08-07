@@ -81,7 +81,7 @@ image: /images/LuckyAce.png
 durability: 1
 hero: rogue
 pl-PL_name: "Szczęśliwy As"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. Wtasuj kopie umiejętności z ekwipunku do talii."
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. Wtasuj kopie umiejętności z ekwipunku do talii."
 pl-PL_flavor: "'Jesteś odpowiedzialny za swoje szczęście. Gdy stawka jest większa niż życie, postaw wszystko na jedną kartę.' - Róża"
 tile_id: LuckyAce
 cost: 2
@@ -89,8 +89,24 @@ image: /images/LuckyAce.png
 durability: 1
 hero: rogue
 pl-PL_name: "Szczęśliwy As"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. Wtasuj kopie umiejętności z ekwipunku do talii."
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. Wtasuj kopie umiejętności z ekwipunku do talii."
 pl-PL_flavor: "'Jesteś odpowiedzialny za swoje szczęście. Gdy stawka jest większa niż życie, postaw wszystko na jedną kartę.' - Róża"
+tile_id: LuckyAce
+cost: 2
+image: /images/LuckyAce.png
+durability: 1
+hero: rogue
+ko-KR_name: "행운의 에이스"
+ko-KR_description: "<u><u>즉발</u></u>. 내 인벤토리에 있는 능력들을 각각 복사하여 덱에 섞어 넣습니다"
+ko-KR_flavor: "'행운은 스스로 만드는 거야. 그러니까 칩이 떨어지면, 올인하고, 모두가 환호성을 지르게 만드는 거지.' -로즈"
+tile_id: LuckyAce
+cost: 2
+image: /images/LuckyAce.png
+durability: 1
+hero: rogue
+ko-KR_name: "행운의 에이스"
+ko-KR_description: "<u><u>즉발</u></u>. 내 인벤토리에 있는 능력들을 각각 복사하여 덱에 섞어 넣습니다"
+ko-KR_flavor: "'행운은 스스로 만드는 거야. 그러니까 칩이 떨어지면, 올인하고, 모두가 환호성을 지르게 만드는 거지.' -로즈"
 tile_id: LuckyAce
 cost: 2
 image: /images/LuckyAce.png

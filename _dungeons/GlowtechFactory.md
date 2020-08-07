@@ -144,4 +144,28 @@ monsters:
     image: /images/Peasant.png
     quantity: 2
     url: /monsters/Peasant
+ko-KR_name: "글로우테크 로봇 공장"
+ko-KR_description: "그들은 이곳에서 가종부 로봇을 만들곤 했습니다. 그 뒤 누군가가 조립 라인에 칼과 레이저를 추가했습니다. 나머지 역사는 매우 지저분합니다."
+tier: 3
+monsters:
+  - monster:
+    name: "누크로맨서"
+    image: /images/Automaton.png
+    quantity: 5
+    url: /monsters/Automaton
+  - monster:
+    name: "누크로맨서 v2.0"
+    image: /images/AutomatonV2.png
+    quantity: 2
+    url: /monsters/AutomatonV2
+  - monster:
+    name: "Globber"
+    image: /images/Slime.png
+    quantity: 4
+    url: /monsters/Slime
+  - monster:
+    name: "Peasant"
+    image: /images/Peasant.png
+    quantity: 2
+    url: /monsters/Peasant
 ---

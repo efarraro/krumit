@@ -42,4 +42,11 @@ tile_id: BloodMoney
 cost: 0
 image: /images/BloodMoney.png
 hero: necromancer
+ko-KR_name: "피 묻은 돈"
+ko-KR_description: "2 ❤️를 지불하여 1 💰을 얻습니다"
+ko-KR_flavor: "'생명에 가격을 매길 수 있는가?'라는 물음에 대한 대답"
+tile_id: BloodMoney
+cost: 0
+image: /images/BloodMoney.png
+hero: necromancer
 ---

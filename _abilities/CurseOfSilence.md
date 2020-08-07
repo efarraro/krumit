@@ -13,7 +13,7 @@ tile_id: CurseOfSilence
 cost: -1
 image: /images/CurseOfSilence.png
 ru-RU_name: "Проклятие тишины"
-ru-RU_description: "<u color='FF5151'>проклятие</u>. Нельзя использовать способности, пока эта карточка на поле. Потратьте 2 ❤️, чтобы избавиться от этого."
+ru-RU_description: "Нельзя использовать способности, пока эта карточка на поле. Потратьте 2 ❤️, чтобы избавиться от этой карточки."
 ru-RU_flavor: "«Тишина. Есть ли что-нибудь более красивое? Мне жаль тех, кто считает это проклятием» - Роза."
 tile_id: CurseOfSilence
 cost: -1
@@ -31,8 +31,14 @@ tile_id: CurseOfSilence
 cost: -1
 image: /images/CurseOfSilence.png
 pl-PL_name: "Klątwa Milczenia"
-pl-PL_description: "<u color='FF5151'>Klątwa</u>. Nie możesz używać umiejętności póki klątwa jest na planszy. Zapłać 2 ❤️ aby usunąć."
+pl-PL_description: "<u color='FF5151'>Klątwa</u>. Nie możesz używać umiejętności póki klątwa jest na planszy. Zapłać 2 ❤️, aby usunąć."
 pl-PL_flavor: "Cisza. Czy jest coś piękniejszego? Żal mi tych, którzy uważają to za przekleństwo. - Rose"
+tile_id: CurseOfSilence
+cost: -1
+image: /images/CurseOfSilence.png
+ko-KR_name: "Curse of Silence"
+ko-KR_description: "<u color='FF5151'>Curse</u>. 이 타일이 보드에 있는 동안 능력을 사용할 수 없습니다. 이 타일을 제거하려면 2 ❤️을 지불하십시오"
+ko-KR_flavor: "침묵. 이보다 더 아름다운 것이 있을까? 이걸 저주로 여기는 사람들이 불쌍해. - 로즈"
 tile_id: CurseOfSilence
 cost: -1
 image: /images/CurseOfSilence.png

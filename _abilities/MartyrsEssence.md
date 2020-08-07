@@ -29,15 +29,22 @@ cost: 1
 image: /images/MartyrsEssence.png
 hero: priest
 es-ES_name: "Esencia de Mártir"
-es-ES_description: "Paga 3 ❤️ para intercambiar 🟦Elegida por 🟦Reina (o viceversa)"
+es-ES_description: "<u><u>Instantánea</u></u>. Baraja 3 copias de <a href = '../es_es/abilities#Renounce'>Renunciar</a> en el mazo"
 es-ES_flavor: "Se requieren sacrificios para mantener el delicado balance entre luz y sombra."
 tile_id: MartyrsEssence
 cost: 1
 image: /images/MartyrsEssence.png
 hero: priest
 pl-PL_name: "Dekokt z Męczennika"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. Wtasuj 3 <a href = '../pl_pl/abilities#Renounce'>Wyparcie</a> do talii."
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. Wtasuj 3 <a href = '../pl_pl/abilities#Renounce'>Wyparcie</a> do talii."
 pl-PL_flavor: "Poświęcenie jest kluczem do utrzymania równowagi między światłem a mrokiem."
+tile_id: MartyrsEssence
+cost: 1
+image: /images/MartyrsEssence.png
+hero: priest
+ko-KR_name: "Martyr's Essence"
+ko-KR_description: "<u><u>즉발</u></u>. 덱에 <a href = '../ko_kr/abilities#Renounce'>포기</a>를 3장 섞어 넣습니다"
+ko-KR_flavor: "빛과 그림자 사이의 미묘한 균형을 유지하기 위해서는 희생이 필요합니다."
 tile_id: MartyrsEssence
 cost: 1
 image: /images/MartyrsEssence.png

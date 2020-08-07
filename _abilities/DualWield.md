@@ -42,4 +42,11 @@ tile_id: DualWield
 cost: 2
 image: /images/DualWield.png
 hero: warrior
+ko-KR_name: "Dual Wield"
+ko-KR_description: "비용이 2 💰 이하인 대상 무기를 획득하고, 그 무기를 한 장 더 복사하여 인벤토리에 추가합니다. <u>Exhaust</u>"
+ko-KR_flavor: "소용돌이 춤꾼은 칼날의 최면으로 강철의 토네이도의 모습으로 나타납니다."
+tile_id: DualWield
+cost: 2
+image: /images/DualWield.png
+hero: warrior
 ---

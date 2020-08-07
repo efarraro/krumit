@@ -48,4 +48,12 @@ cost: 10
 image: /images/RoyalRapier.png
 durability: 3
 hero: rogue
+ko-KR_name: "왕실 레이피어"
+ko-KR_description: "<u>관통</u>. 이 무기로 적을 처치했을 때, 이번 던전에서의 내 기본 🔸이 1 증가합니다"
+ko-KR_flavor: "'숫자 앞에 장사 없다고? 하! 네놈들을 하나씩 죽일 때마다 나는 더 강해질 뿐이다!' - 여성 선제후 나오미의 유명한 마지막 말"
+tile_id: RoyalRapier
+cost: 10
+image: /images/RoyalRapier.png
+durability: 3
+hero: rogue
 ---

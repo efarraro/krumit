@@ -48,4 +48,12 @@ cost: 3
 image: /images/TheDarkestCuirass.png
 durability: 3
 hero: priest
+ko-KR_name: "The Darkest Cuirass"
+ko-KR_description: "When you acquire this,  <u>타락</u> (4) all visible enemies"
+ko-KR_flavor: "Forged in the Sun-shy Vale from penumbrite smelted in nega-flame, merely looking upon the Darkest Cuirass can extinguish the light from your soul."
+tile_id: TheDarkestCuirass
+cost: 3
+image: /images/TheDarkestCuirass.png
+durability: 3
+hero: priest
 ---

@@ -42,4 +42,11 @@ tile_id: Devour
 cost: 1
 image: /images/Devour.png
 hero: necromancer
+ko-KR_name: "집어삼키기"
+ko-KR_description: "대상 <a href = '../ko_kr/items#Tombstone'>Tombstone</a> 타일을 파괴하고 이번 던전에서 내 최대 ❤️을 4 증가시킵니다. <u>Exhaust</u>"
+ko-KR_flavor: "'나는 그가 무덤지기라고 말하는 게 아니야. 하지만...' - 메르세데스가 지역 교구민에 대한 우려를 표하며"
+tile_id: Devour
+cost: 1
+image: /images/Devour.png
+hero: necromancer
 ---

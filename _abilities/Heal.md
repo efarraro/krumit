@@ -42,4 +42,11 @@ tile_id: Heal
 cost: 1
 image: /images/Heal.png
 hero: priest
+ko-KR_name: "치유"
+ko-KR_description: "8 ❤️을 회복합니다. <u>Exhaust</u>"
+ko-KR_flavor: "하나여, 간청하노니, 이 상처들을 치유하여 이렇게 만든 이들을 응징할 수 있게 해주십시오! - 로즈"
+tile_id: Heal
+cost: 1
+image: /images/Heal.png
+hero: priest
 ---

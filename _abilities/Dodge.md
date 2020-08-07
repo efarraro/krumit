@@ -36,8 +36,15 @@ cost: 2
 image: /images/Dodge.png
 hero: rogue
 pl-PL_name: "Unik"
-pl-PL_description: "Usuń 🔸 z akcji przeciwnika. Użyj 4 umiejętności aby naładować."
+pl-PL_description: "Usuń 🔸 z akcji przeciwnika. Użyj 4 umiejętności, aby naładować."
 pl-PL_flavor: "'Niepotrzebna tarcza, gibkość mi wystarcza' - Psota"
+tile_id: Dodge
+cost: 2
+image: /images/Dodge.png
+hero: rogue
+ko-KR_name: "회피"
+ko-KR_description: "상대의 현재 행동에서 🔸을 모두 제거합니다. 이 타일을 재충전하려면 4개의 능력을 사용하십시오"
+ko-KR_flavor: "'흥, 몸놀림이 이런데 방패가 왜 필요해?' - 미스치프"
 tile_id: Dodge
 cost: 2
 image: /images/Dodge.png

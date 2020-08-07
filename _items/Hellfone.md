@@ -48,4 +48,12 @@ cost: 2
 image: /images/Hellfone.png
 durability: 1
 hero: priest
+ko-KR_name: "지옥폰"
+ko-KR_description: "코코캣을 소환합니다. 보이는 모든 저주를 파괴하고 파괴한 저주 하나 당 코코캣의 ❤️을 3 증가시킵니다"
+ko-KR_flavor: "반그늘 영역의 가장 깊은 곳으로 연결되는 직결선입니다. 벨이 울리면 절대, 절대로 받지 마세요."
+tile_id: Hellfone
+cost: 2
+image: /images/Hellfone.png
+durability: 1
+hero: priest
 ---

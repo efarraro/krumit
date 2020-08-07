@@ -15,7 +15,7 @@ cost: 0
 image: /images/Pickpocket.png
 hero: rogue
 ru-RU_name: "Вор-карманник"
-ru-RU_description: "Если вы имеете <u>скрытность</u>, замешивает выбранного врага назад в колоду подземелья, даёт 2 💰 и тратит скрытность (вне боя)."
+ru-RU_description: "Если у вас есть <u>скрытность</u>, замешивает выбранного врага обратно в колоду, даёт 2 💰 и тратит скрытность. Можно использовать только вне боя."
 ru-RU_flavor: "Всё имеет карман, где-нибудь. А-ага. ВСЁ"
 tile_id: Pickpocket
 cost: 0
@@ -38,6 +38,13 @@ hero: rogue
 pl-PL_name: "Kieszonkowiec"
 pl-PL_description: "Jeżeli jesteś ukryty (<u>ukrywanie się</u>), wtasuj wskazanego przeciwnika do talii i zyskaj 2 💰, po czym wyjdziesz z ukrycia. Może być użyte tylko poza walką."
 pl-PL_flavor: "Wszystko ma gdzieś kieszeń. WSZYSTKO."
+tile_id: Pickpocket
+cost: 0
+image: /images/Pickpocket.png
+hero: rogue
+ko-KR_name: "Pickpocket"
+ko-KR_description: "내가 <u>은신</u> 상태라면 대상 적을 다시 덱에 섞어 넣고 2 💰을 얻습니다. 은신을 잃습니다. 비전투 시에만 사용할 수 있습니다."
+ko-KR_flavor: "모든 것 어딘가에는 주머니가 있습니다. 네, 모든 것에요."
 tile_id: Pickpocket
 cost: 0
 image: /images/Pickpocket.png

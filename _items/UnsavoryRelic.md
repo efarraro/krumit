@@ -48,4 +48,12 @@ cost: 1
 image: /images/UnsavoryRelic.png
 durability: 2
 hero: priest
+ko-KR_name: "냄새나는 유물"
+ko-KR_description: "적을  <u>타락</u>(3)시킵니다"
+ko-KR_flavor: "One woman's 'treasure' is everyone elses worst nightmare."
+tile_id: UnsavoryRelic
+cost: 1
+image: /images/UnsavoryRelic.png
+durability: 2
+hero: priest
 ---

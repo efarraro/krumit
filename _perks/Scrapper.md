@@ -9,7 +9,7 @@ zh-CN_description: "攻击拥有护甲或者🛡️️ <u>格挡</u>的敌人时
 tile_id: Scrapper
 image: /images/Scrapper.png
 ru-RU_name: "Дуэлянт"
-ru-RU_description: "Ваша базовая 🔸 увеличен на 2, пока вы атакуете врага, который имеет броню или 🛡️️ <u>блок</u>."
+ru-RU_description: "Ваша базовая 🔸 увеличена на 2, пока вы атакуете врага, который имеет броню или 🛡️️ <u>блок</u>."
 tile_id: Scrapper
 image: /images/Scrapper.png
 jp-JP_name: "スクラッパー"
@@ -22,6 +22,10 @@ tile_id: Scrapper
 image: /images/Scrapper.png
 pl-PL_name: "Złomiarz"
 pl-PL_description: "🔸 jest zwiększony o 2 jeżeli atakujesz przeciwników blokujących (🛡️️ <u>blok</u>) lub w pancerzu."
+tile_id: Scrapper
+image: /images/Scrapper.png
+ko-KR_name: "고철 수집가"
+ko-KR_description: "방어구 또는 🛡️️ <u>block</u>가 있는 적을 공격할 때 내 기본 🔸이 2 증가합니다"
 tile_id: Scrapper
 image: /images/Scrapper.png
 ---

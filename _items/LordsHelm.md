@@ -41,8 +41,16 @@ image: /images/LordsHelm.png
 durability: 2147483647
 hero: warrior
 pl-PL_name: "Magnacki hełm"
-pl-PL_description: "Gdy 🛡️️ <u>blok</u> tą zbroją w walce, tracisz 1 💰. Musisz mieć przynajmniej 1 💰 aby założyć tą zbroję."
+pl-PL_description: "Gdy 🛡️️ <u>blok</u> tą zbroją w walce, tracisz 1 💰. Musisz mieć przynajmniej 1 💰, aby założyć tą zbroję."
 pl-PL_flavor: "Należał niegdyś do bogatego pana. Wytrzymały gdzie trzeba, choć ekstrawaganckie wzory i zdobienia często trzeba naprawiać."
+tile_id: LordsHelm
+cost: 2
+image: /images/LordsHelm.png
+durability: 2147483647
+hero: warrior
+ko-KR_name: "군주의 투구"
+ko-KR_description: "전투에서 이 아이템으로 방어하면 1 💰을 잃습니다. 이 방어구를 장착하려면 최소 1 💰이 있어야 합니다"
+ko-KR_flavor: "한때는 부유한 군주의 물건이었던 투구입니다. 충분히 튼튼하지만, 화려한 페인트칠을 수리하는 데 비용이 정말 많이 듭니다."
 tile_id: LordsHelm
 cost: 2
 image: /images/LordsHelm.png

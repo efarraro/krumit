@@ -48,4 +48,12 @@ cost: 3
 image: /images/WaggusHand.png
 durability: 3
 hero: necromancer
+ko-KR_name: "와구의 손"
+ko-KR_description: "이 무기로 공격한 뒤, 이 무기의 🔸이 2 감소합니다"
+ko-KR_flavor: "한때 강력한 힘을 발휘한 고블로이드 전쟁군주의 잘린 손을 챙기셨다가 언제든지 펀치를 날리세요. 냄새는 맡지 마시구요."
+tile_id: WaggusHand
+cost: 3
+image: /images/WaggusHand.png
+durability: 3
+hero: necromancer
 ---

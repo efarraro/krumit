@@ -114,4 +114,23 @@ monsters:
     image: /images/Nukadog.png
     quantity: 5
     url: /monsters/Nukadog
+ko-KR_name: "자칼 도시 빈민가"
+ko-KR_description: "자칼 빈민가를 방문하려면 길을 잃거나, 등에 칼이 꽂혀도 살아남을 수 있다는 확신이 있어야 합니다."
+tier: 4
+monsters:
+  - monster:
+    name: "자칼"
+    image: /images/Jackal.png
+    quantity: 8
+    url: /monsters/Jackal
+  - monster:
+    name: "Vagabond"
+    image: /images/JackalVagabond.png
+    quantity: 4
+    url: /monsters/JackalVagabond
+  - monster:
+    name: "콧물눅대"
+    image: /images/Nukadog.png
+    quantity: 5
+    url: /monsters/Nukadog
 ---

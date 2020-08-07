@@ -42,4 +42,11 @@ tile_id: BodySlam
 cost: 3
 image: /images/BodySlam.png
 hero: warrior
+ko-KR_name: "몸통 박치기"
+ko-KR_description: "전투 당 한 번, 적에게 내 🛡️️ <u>block</u>와 동일한 만큼의 피해를 줍니다. 장착된 아이템의 내구도를 1 감소시킵니다"
+ko-KR_flavor: "'마법사가 보이면 냅다 들이받는 거야! 걔넨 항상 너무 물렁물렁해.' - 보리스가 가장 좋아하는 선술집 일화."
+tile_id: BodySlam
+cost: 3
+image: /images/BodySlam.png
+hero: warrior
 ---

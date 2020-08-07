@@ -48,4 +48,12 @@ cost: 2
 image: /images/DemonicDagger.png
 durability: 3
 hero: necromancer
+ko-KR_name: "Demonic Dagger"
+ko-KR_description: "<u>관통</u>.  <u>생명력 흡수</u>(2)"
+ko-KR_flavor: "This dagger once mortally wounded a lesser demon - which refused to die and so entombed its soul within the blade."
+tile_id: DemonicDagger
+cost: 2
+image: /images/DemonicDagger.png
+durability: 3
+hero: necromancer
 ---

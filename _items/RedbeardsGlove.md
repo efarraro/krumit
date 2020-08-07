@@ -48,4 +48,12 @@ cost: 2
 image: /images/RedbeardsGlove.png
 durability: 2
 hero: mage
+ko-KR_name: "붉은수염의 장갑"
+ko-KR_description: "적을  <u>연소</u>시킬 때마다, 이 무기의 🔸이 1 증가합니다"
+ko-KR_flavor: "'화염을 휘두를 자격이 없는 자들은 화염에 먹히는 운명을 맞이하게 된다.' - 붉은수염"
+tile_id: RedbeardsGlove
+cost: 2
+image: /images/RedbeardsGlove.png
+durability: 2
+hero: mage
 ---

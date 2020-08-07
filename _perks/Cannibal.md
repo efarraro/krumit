@@ -21,7 +21,11 @@ es-ES_description: "Tu 🔸 base se incrementa en 1 si hay al menos 3 <a href = 
 tile_id: Cannibal
 image: /images/Cannibal.png
 pl-PL_name: "Grabarz"
-pl-PL_description: "Twój podstawowy atak jest zwiększony o 1 jeżeli na planszy znajdują się przynajmniej 3 Nagrobki (<a href = '../pl_pl/items#Tombstone'>Nagrobek</a>)"
+pl-PL_description: "Twój podstawowy 🔸 jest zwiększony o 1 jeżeli na planszy znajdują się przynajmniej 3 Nagrobki (<a href = '../pl_pl/items#Tombstone'>Nagrobek</a>)."
+tile_id: Cannibal
+image: /images/Cannibal.png
+ko-KR_name: "무덤지기"
+ko-KR_description: "보드에 <a href = '../ko_kr/items#Tombstone'>Tombstone</a>이 3장 이상 있으면 내 기본 🔸이 1 증가합니다"
 tile_id: Cannibal
 image: /images/Cannibal.png
 ---

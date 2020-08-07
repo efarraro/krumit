@@ -48,4 +48,12 @@ cost: 3
 image: /images/BloodyDagger.png
 durability: 3
 hero: rogue
+ko-KR_name: "피 묻은 단검"
+ko-KR_description: "피해를 받은 적을 공격할 때, 3 ❤️을 회복합니다"
+ko-KR_flavor: "'그래, 그래... 힘... 힘이 나를 부른다...' - 광인 멘덱"
+tile_id: BloodyDagger
+cost: 3
+image: /images/BloodyDagger.png
+durability: 3
+hero: rogue
 ---

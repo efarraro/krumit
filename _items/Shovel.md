@@ -41,8 +41,16 @@ image: /images/Shovel.png
 durability: 2
 hero: necromancer
 pl-PL_name: "Łopata Krzyśka"
-pl-PL_description: "Gdy pokonasz przeciwnika tą bronią, wtasuj <a href = '../pl_pl/items#RoyalTombstone'>Zdobiony Nagrobek</a> to talii"
+pl-PL_description: "Gdy pokonasz przeciwnika tą bronią, wtasuj <a href = '../pl_pl/items#RoyalTombstone'>Zdobiony Nagrobek</a> to talii."
 pl-PL_flavor: "'Grabaż Krzysiek? Niewątpliwie bardzo pracowity, świadczą o tym krzyże na cmentarzach.'"
+tile_id: Shovel
+cost: 2
+image: /images/Shovel.png
+durability: 2
+hero: necromancer
+ko-KR_name: "Buba's Shovel"
+ko-KR_description: "이 무기로 적을 처치할 때마다, <a href = '../ko_kr/items#RoyalTombstone'>고귀한 묘비</a> 타일을 덱에 섞어 넣습니다"
+ko-KR_flavor: "'Buba The Gravedigger? Yeah, he's got a bad patch - half the time he has to use that shovel to finish the job before he can bury 'em!'"
 tile_id: Shovel
 cost: 2
 image: /images/Shovel.png

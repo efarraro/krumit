@@ -17,7 +17,7 @@ image: /images/MisfitMask.png
 durability: 3
 hero: rogue
 ru-RU_name: "Маска изгоя"
-ru-RU_description: "Даёт <u>скрытность</u> (вне боя)."
+ru-RU_description: "Даёт <u>скрытность</u>. Можно использовать только вне боя."
 ru-RU_flavor: "Что-то в этой маске утомительно смотреть. Как будто твой взгляд просто соскальзывает с неё. "
 tile_id: MisfitMask
 cost: 2
@@ -43,6 +43,14 @@ hero: rogue
 pl-PL_name: "Maska Ekscentryka"
 pl-PL_description: "Ukryj się (<u>ukrywanie się</u>) poza walką."
 pl-PL_flavor: "Coś jest nie tak z tą maską, zdaje się być niesymetryczna."
+tile_id: MisfitMask
+cost: 2
+image: /images/MisfitMask.png
+durability: 3
+hero: rogue
+ko-KR_name: "부적응자의 가면"
+ko-KR_description: "<u>은신</u>를 얻습니다(비전투 시)"
+ko-KR_flavor: "이 가면에 대해 살펴보는 건 힘듭니다. 마치 시선이 미끄러져 나가는 것처럼 느껴집니다."
 tile_id: MisfitMask
 cost: 2
 image: /images/MisfitMask.png

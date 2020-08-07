@@ -34,7 +34,7 @@ durability: 3
 hero: rogue
 es-ES_name: "Colmillo de Dragullo"
 es-ES_description: "Si tienes <u>sigilo</u>, esta arma tiene +4 🔸"
-es-ES_flavor: "'...Por días, todo lo he podido sentir es el olor metálico del oro, y un siniestro susurro de plumas...' -  - Extracto de las memorias de Ludlow 'Comida-de-serpiente' Gabblesnoz."
+es-ES_flavor: "'...Durante días, todo lo que uno puede sentir es el sabor metálico del oro, y un siniestro susurro de plumas...' -  - Extracto de las memorias de Ludlow 'Comida-de-serpiente' Gabblesnoz."
 tile_id: DragonFang
 cost: 4
 image: /images/DragonFang.png
@@ -43,6 +43,14 @@ hero: rogue
 pl-PL_name: "Smroczy Kieł"
 pl-PL_description: "Jeżeli się ukrywasz (<u>ukrywanie się</u>), ta broń ma +4 🔸."
 pl-PL_flavor: "'... Przez wiele dni czujesz posmak złota i słyszysz szelest piór...' - wyciąg z życiorysu Ludwika 'Wężera' Trajkotki"
+tile_id: DragonFang
+cost: 4
+image: /images/DragonFang.png
+durability: 3
+hero: rogue
+ko-KR_name: "드래고온 송곳니"
+ko-KR_description: "내가 <u>은신</u> 상태인 동안, 이 무기가 +4 🔸을 얻습니다"
+ko-KR_flavor: "'...수일 동안 금의 냄새와 깃털이 바스락거리는 불길한 소리 밖에 느껴지지 않았다...' - '뱀 먹이' 루들로 가블 스노즈의 회고록에서 발췌"
 tile_id: DragonFang
 cost: 4
 image: /images/DragonFang.png

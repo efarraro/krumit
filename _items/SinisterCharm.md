@@ -48,4 +48,12 @@ cost: 2
 image: /images/SinisterCharm.png
 durability: 3
 hero: rogue
+ko-KR_name: "사악한 부적"
+ko-KR_description: "적을  <u>중독</u>(1)시키고, 대상의  <u>중독</u> 레벨과 동일한 만큼의 <u>관통</u> 피해를 줍니다"
+ko-KR_flavor: "미스치프는 고글을 벗고 그녀의 세공품에 감탄했습니다. 와, 이건 정말 죽어도 갖고 싶은 선물인데."
+tile_id: SinisterCharm
+cost: 2
+image: /images/SinisterCharm.png
+durability: 3
+hero: rogue
 ---

@@ -24,4 +24,8 @@ pl-PL_name: "Chwciwy"
 pl-PL_description: "🔸 jest zwiększony o 1 jeżeli masz 4 lub więcej 💰, obniżony o 1 w przeciwnym razie."
 tile_id: GreedyPerk
 image: /images/GreedyPerk.png
+ko-KR_name: "탐욕"
+ko-KR_description: "Your base 🔸 is increased by 1 if you have 4 or more 💰, and decreased by 1 otherwise"
+tile_id: GreedyPerk
+image: /images/GreedyPerk.png
 ---

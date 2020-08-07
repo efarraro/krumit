@@ -24,4 +24,8 @@ pl-PL_name: "Krżyżak"
 pl-PL_description: "Jeżeli masz pełne ❤️, zwiększ 🔸 o 1."
 tile_id: Crusader
 image: /images/Crusader.png
+ko-KR_name: "성전사"
+ko-KR_description: "❤️가 가득 찬 상태일 때 기본 🔸이 1 증가합니다"
+tile_id: Crusader
+image: /images/Crusader.png
 ---

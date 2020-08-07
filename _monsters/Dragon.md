@@ -2,11 +2,11 @@
 
 EN_name: "Bartholomew"
 EN_description: "At 60, 40, and 20 ❤️, add  <u>burn</u> (3) to this tile and shuffle it back into the deck. Attack +1 for each stack of burn"
-EN_flavor: "Batholomew is the last (known…) Drargorn, a fearsome and unfortunate looking race born from highly irradiated Chickens."
+EN_flavor: "Batholomew is the last (known…) Dragorn, a fearsome and unfortunate looking race born from highly irradiated Chickens."
 tile_id: Dragon
 image: /images/Dragon.png
 zh-CN_name: "巴斯隆缪"
-zh-CN_description: "巴斯隆缪移动时会对相邻的敌人造成1点伤害并施加 <u>燃烧</u>。让这张卡牌落到最底排时，将其洗回牌库。"
+zh-CN_description: "❤️处于60，40和20时，卡牌获得brun (3)，并将其洗回牌库。每叠加一层燃烧，攻击力+1。"
 zh-CN_flavor: "巴斯隆缪是世界上最后一只（目前已知的……）扎尔贡，一支极为可怕且长相令人同情的种族，诞生自一个脾气暴躁的鸡群。"
 tile_id: Dragon
 image: /images/Dragon.png
@@ -28,6 +28,11 @@ image: /images/Dragon.png
 pl-PL_name: "Bartpłomień"
 pl-PL_description: "Po osiągnięciu 60, 40 i 20 ❤️, ta płytka otrzymuje  <u>podpalenie</u> 3 i jest wtasowana do talii. +1 🔸 za każde  <u>podpalenie</u>."
 pl-PL_flavor: "Bartpłomień jest ostatnim ze (znanych...) Smroków, przerażającej i niefortunnie wyglądającej rasie zrodzonej z napromieniowanych kurczaków."
+tile_id: Dragon
+image: /images/Dragon.png
+ko-KR_name: "바르톨로뮤"
+ko-KR_description: "At 60, 40, and 20 ❤️, add  <u>연소</u> (3) to this tile and shuffle it back into the deck. Attack +1 for each stack of burn"
+ko-KR_flavor: "Batholomew is the last (known…) Dragorn, a fearsome and unfortunate looking race born from highly irradiated Chickens."
 tile_id: Dragon
 image: /images/Dragon.png
 ---

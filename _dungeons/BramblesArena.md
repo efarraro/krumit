@@ -144,4 +144,28 @@ monsters:
     image: /images/Bramble.png
     quantity: 1
     url: /monsters/Bramble
+ko-KR_name: "브램블 경의 투기장"
+ko-KR_description: "'브램블의 투기장으로 오십시오! 마을에서 가장 야만적인 싸움이 펼쳐집니다! 거의 합법적입니다!' - 투기장 포고꾼 샤드라트"
+tier: 2
+monsters:
+  - monster:
+    name: "Barbearian"
+    image: /images/Bear.png
+    quantity: 2
+    url: /monsters/Bear
+  - monster:
+    name: "Peasant"
+    image: /images/Peasant.png
+    quantity: 3
+    url: /monsters/Peasant
+  - monster:
+    name: "고블로이드"
+    image: /images/Gobloid.png
+    quantity: 3
+    url: /monsters/Gobloid
+  - monster:
+    name: "브램블"
+    image: /images/Bramble.png
+    quantity: 1
+    url: /monsters/Bramble
 ---

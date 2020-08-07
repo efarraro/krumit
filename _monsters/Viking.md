@@ -30,4 +30,9 @@ pl-PL_description: "Nie możesz zakładać pancerza przeciwko temu wrogowi"
 pl-PL_flavor: "Jego rozjarzona broda służy jako filtr promieniowania. Nie przeszkadza mu, że z czasem się rozpadnie - przybliża to go do Valhalli."
 tile_id: Viking
 image: /images/Viking.png
+ko-KR_name: "누크 바이킹"
+ko-KR_description: "이 적을 상대로 방어구를 장착할 수 없습니다"
+ko-KR_flavor: "His glowing beard acts as a radiation filter. He doesn't mind having a half-life – just means getting to Valhalla even quicker."
+tile_id: Viking
+image: /images/Viking.png
 ---

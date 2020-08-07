@@ -48,4 +48,12 @@ cost: 3
 image: /images/Snowshoes.png
 durability: 3
 hero: mage
+ko-KR_name: "Snowshoes"
+ko-KR_description: "같은 행 또는 열에 있는 <u>빙결</u> 상태의 적 하나 당 이 아이템의 비용이 1 감소합니다"
+ko-KR_flavor: "Is a tennis racket a shoe? Is a hotdog a sandwich? Do Barbearians sh – you get the idea."
+tile_id: Snowshoes
+cost: 3
+image: /images/Snowshoes.png
+durability: 3
+hero: mage
 ---

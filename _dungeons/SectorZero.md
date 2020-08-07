@@ -204,4 +204,38 @@ monsters:
     image: /images/TheExile.png
     quantity: 1
     url: /monsters/TheExile
+ko-KR_name: "Sector Zero"
+ko-KR_description: "섹터 제로. 새로운 세계 질서가 시작된 곳. 이제는 미화되고 기억하기 쉬운 이름을 가졌을 뿐인 유독성 진흙 웅덩이에 지나지 않습니다."
+tier: 7
+monsters:
+  - monster:
+    name: "Globber"
+    image: /images/Slime.png
+    quantity: 4
+    url: /monsters/Slime
+  - monster:
+    name: "콧물눅대"
+    image: /images/Nukadog.png
+    quantity: 4
+    url: /monsters/Nukadog
+  - monster:
+    name: "누크 바이킹"
+    image: /images/Viking.png
+    quantity: 4
+    url: /monsters/Viking
+  - monster:
+    name: "Mutant Biker"
+    image: /images/Biker.png
+    quantity: 3
+    url: /monsters/Biker
+  - monster:
+    name: "Trash Golem"
+    image: /images/TrashGolem.png
+    quantity: 2
+    url: /monsters/TrashGolem
+  - monster:
+    name: "The Exile"
+    image: /images/TheExile.png
+    quantity: 1
+    url: /monsters/TheExile
 ---

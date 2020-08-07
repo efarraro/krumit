@@ -13,7 +13,7 @@ tile_id: CurseOfRadiation
 cost: -1
 image: /images/CurseOfRadiation.png
 ru-RU_name: "Проклятие радиации"
-ru-RU_description: "<u color='FF5151'>проклятие</u>. Когда карточка добавляется на поле, накладывает  <u>яд</u> (1) на вас. Потратьте 2 ❤️, чтобы избавиться от этого."
+ru-RU_description: "Когда любая карточка добавляется на поле, накладывает  <u>яд</u> (1) на вас. Потратьте 2 ❤️, чтобы избавиться от этой карточки."
 ru-RU_flavor: "Некоторые считают, что ядерное сияние - это скрытое благословение. Это ни то, ни другое."
 tile_id: CurseOfRadiation
 cost: -1
@@ -31,8 +31,14 @@ tile_id: CurseOfRadiation
 cost: -1
 image: /images/CurseOfRadiation.png
 pl-PL_name: "Klątwa Promieniowania"
-pl-PL_description: "<u color='FF5151'>Klątwa</u>. Gdy płytki pojawiają się na planszy, otrzymujesz  <u>Trucizna</u> (1). Zapłać 2 ❤️ aby usunąć."
+pl-PL_description: "<u color='FF5151'>Klątwa</u>. Gdy płytki pojawiają się na planszy, otrzymujesz  <u>Trucizna</u> (1). Zapłać 2 ❤️, aby usunąć."
 pl-PL_flavor: "Poświata popromienna pomaga widzieć w ciemności."
+tile_id: CurseOfRadiation
+cost: -1
+image: /images/CurseOfRadiation.png
+ko-KR_name: "방사능의 저주"
+ko-KR_description: "<u color='FF5151'>Curse</u>. 타일이 생성될 때 내가  <u>중독</u>(1)됩니다. 이 타일을 제거하려면 2 ❤️를 지불하십시오"
+ko-KR_flavor: "어떤 사람들은 누클리어의 빛이 불행을 가장한 축복이라고 말합니다. 사실 둘 다 아닙니다."
 tile_id: CurseOfRadiation
 cost: -1
 image: /images/CurseOfRadiation.png

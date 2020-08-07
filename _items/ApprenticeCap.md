@@ -48,4 +48,12 @@ cost: 3
 image: /images/ApprenticeCap.png
 durability: 3
 hero: mage
+ko-KR_name: "수습생 모자"
+ko-KR_description: "이 타일을 획득할 때, 인접한 모든 능력의 비용을 2 💰으로 만듭니다"
+ko-KR_flavor: "1년차 마법사의 필수 모자입니다. 하지만 지역 주민들 주위에서 쓰려면 위험을 감수해야 합니다."
+tile_id: ApprenticeCap
+cost: 3
+image: /images/ApprenticeCap.png
+durability: 3
+hero: mage
 ---

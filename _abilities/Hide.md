@@ -15,7 +15,7 @@ cost: 1
 image: /images/Hide.png
 hero: rogue
 ru-RU_name: "Укрытие"
-ru-RU_description: "Даёт <u>скрытность</u> (вне боя). Перезаряжается после убийства 3 врагов."
+ru-RU_description: "Даёт <u>скрытность</u>. Можно использовать только вне боя. Перезаряжается после убийства 3 врагов."
 ru-RU_flavor: "«Наметанный глаз заметит, что везде есть, где укрыться - даже в коробке из картона или в стоге сена» - инструктор труппы Торнивальд."
 tile_id: Hide
 cost: 1
@@ -36,8 +36,15 @@ cost: 1
 image: /images/Hide.png
 hero: rogue
 pl-PL_name: "Kamuflaż"
-pl-PL_description: "Ukryj się (<u>ukrywanie się</u>) poza walką. Pokonaj 3 wrogów aby naładować."
+pl-PL_description: "Ukryj się (<u>ukrywanie się</u>) poza walką. Pokonaj 3 wrogów, aby naładować."
 pl-PL_flavor: "'Gdy udoskonalisz sztukę kamuflażu, nie będziesz potrzebować kartonowych pudeł i stosów siana.' - Tornivald, instruktor trupy"
+tile_id: Hide
+cost: 1
+image: /images/Hide.png
+hero: rogue
+ko-KR_name: "숨기"
+ko-KR_description: "Stealth를 얻습니다(비전투 시). 이 타일을 재충전하려면 적을 3회 처치하십시오"
+ko-KR_flavor: "'훈련된 자의 눈에는 항상 숨을 곳이 보인다. 심지어 골판지 상자나 건초 더미에까지도.' - 극단 강사 토르니발드"
 tile_id: Hide
 cost: 1
 image: /images/Hide.png

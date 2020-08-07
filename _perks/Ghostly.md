@@ -24,4 +24,8 @@ pl-PL_name: "Duchowy"
 pl-PL_description: "Jeżeli masz 2 lub mniej ❤️, ukryj się (<u>ukrywanie się</u>) gdy zaatakujesz lub otrzymasz obrażenia."
 tile_id: Ghostly
 image: /images/Ghostly.png
+ko-KR_name: "유령"
+ko-KR_description: "내 ❤️이 2 이하인 동안, 공격하거나 피해를 받을 때마다 <u>은신</u>을 얻습니다"
+tile_id: Ghostly
+image: /images/Ghostly.png
 ---

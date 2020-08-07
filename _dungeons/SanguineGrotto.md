@@ -171,7 +171,7 @@ monsters:
     quantity: 1
     url: /monsters/Cardoso
 pl-PL_name: "Krwista Grota Cardosa"
-pl-PL_description: "W tej ozdobionej w kolorach czerwieni grocie przebywa samotny Cardoso. Samotny z wyboru, nie z tragedii."
+pl-PL_description: "W tej ozdobionej w kolorach czerwieni grocie przebywa samotny Poh Rei Cardoso. Samotny z wyboru, nie z tragedii."
 tier: 5
 monsters:
   - monster:
@@ -196,6 +196,40 @@ monsters:
     url: /monsters/PirateGirl
   - monster:
     name: "Żarliwiec"
+    image: /images/Zealnut.png
+    quantity: 5
+    url: /monsters/Zealnut
+  - monster:
+    name: "Cardoso"
+    image: /images/Cardoso.png
+    quantity: 1
+    url: /monsters/Cardoso
+ko-KR_name: "카르도소의 붉은 동굴"
+ko-KR_description: "포 레이 카르도소는 이 촌스러운   저택의 핏빛 벽에 둘러싸인 외로운 궁정을 지키고 있습니다. 그리고 그는 손님들을 싫어합니다."
+tier: 5
+monsters:
+  - monster:
+    name: "Skeleton"
+    image: /images/Skeleton.png
+    quantity: 4
+    url: /monsters/Skeleton
+  - monster:
+    name: "Globber"
+    image: /images/Slime.png
+    quantity: 2
+    url: /monsters/Slime
+  - monster:
+    name: "황무지 폭력배"
+    image: /images/Knave.png
+    quantity: 6
+    url: /monsters/Knave
+  - monster:
+    name: "Scalywag"
+    image: /images/PirateGirl.png
+    quantity: 1
+    url: /monsters/PirateGirl
+  - monster:
+    name: "Zealnut"
     image: /images/Zealnut.png
     quantity: 5
     url: /monsters/Zealnut

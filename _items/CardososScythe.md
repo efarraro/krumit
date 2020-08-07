@@ -49,4 +49,12 @@ cost: 4
 image: /images/CardososScythe.png
 durability: 3
 hero: necromancer
+ko-KR_name: "Cardoso's Scythe"
+ko-KR_description: " <u>생명력 흡수</u>(내 🔸과 동일: 0). 내가 공격할 때, 내 최대 ❤️이 1 감소합니다"
+ko-KR_flavor: "'공물을 필요로 하니, 아껴서 사용하십시오...'"
+tile_id: CardososScythe
+cost: 4
+image: /images/CardososScythe.png
+durability: 3
+hero: necromancer
 ---

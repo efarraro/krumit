@@ -48,4 +48,12 @@ cost: 2
 image: /images/Drums.png
 durability: 3
 hero: warrior
+ko-KR_name: "전쟁 북"
+ko-KR_description: "전투에서 상대의 현재 행동을 (🔸 2)로 교체합니다"
+ko-KR_flavor: "'올바른 박자는 적을 격분하게 만들어 다시 생각할 겨를 없이 공격하게 만든다. 그 생각을 생애 마지막 생각으로 만들어주기도 한다.' - 메슈가의 리듬술사들"
+tile_id: Drums
+cost: 2
+image: /images/Drums.png
+durability: 3
+hero: warrior
 ---

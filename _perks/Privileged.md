@@ -24,4 +24,8 @@ pl-PL_name: "Zamożny"
 pl-PL_description: "Zaczynasz z 8 💰. Twój podstawowy 🔸 jest obniżony do 1."
 tile_id: Privileged
 image: /images/Privileged.png
+ko-KR_name: "특권층"
+ko-KR_description: "8 💰을 갖고 시작하지만 기본 🔸이 1 감소합니다"
+tile_id: Privileged
+image: /images/Privileged.png
 ---

@@ -26,13 +26,19 @@ cost: -1
 image: /images/ToxicBlood.png
 es-ES_name: "Sangre Tóxica"
 es-ES_description: "Adquiere esta ficha cuando adquieras otra ficha en la misma fila. <u>Pasiva</u>: Cuando recuperes ❤️, reduce el monto en 1"
-es-ES_flavor: "Una pequeña probada de un paraíso envenenado."
+es-ES_flavor: "Una pequeña muestra de un paraíso envenenado."
 tile_id: ToxicBlood
 cost: -1
 image: /images/ToxicBlood.png
 pl-PL_name: "Toksyczna Krew"
 pl-PL_description: "Uzyskaj to uzyskując inną płytkę w tym samym wierszu. <u>Pasywny</u>: Gdy odnawiasz ❤️, obniż wartość leczenia o 1."
 pl-PL_flavor: "Zasmakuj się w trutce."
+tile_id: ToxicBlood
+cost: -1
+image: /images/ToxicBlood.png
+ko-KR_name: "유독성 혈액"
+ko-KR_description: "같은 행의 다른 타일을 획득할 떄 이 타일도 획득합니다. <u>패시브</u>: 내가 ❤️을 회복할 때 회복량이 1 감소합니다"
+ko-KR_flavor: "Just a taste of poison paradise."
 tile_id: ToxicBlood
 cost: -1
 image: /images/ToxicBlood.png

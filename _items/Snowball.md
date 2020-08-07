@@ -48,4 +48,12 @@ cost: 2
 image: /images/Snowball.png
 durability: 3
 hero: mage
+ko-KR_name: "눈덩이"
+ko-KR_description: "적을 <u>빙결</u>(1)시킵니다"
+ko-KR_flavor: "Densely packed, enchanted flakes from Mountainface's highest plateau."
+tile_id: Snowball
+cost: 2
+image: /images/Snowball.png
+durability: 3
+hero: mage
 ---

@@ -42,7 +42,15 @@ durability: 3
 hero: priest
 pl-PL_name: "Buława Kleryka"
 pl-PL_description: "<u>Przeleczenie</u>: Zwiększ 🔸 tej broni o 1."
-pl-PL_flavor: "Kleryk Hany używa buławy aby przynieść światłem rozgonić mrok. A jak nie światłem, to siłą."
+pl-PL_flavor: "Kleryk Hany używa buławy, aby przynieść światłem rozgonić mrok. A jak nie światłem, to siłą."
+tile_id: ClericsBattleStaff
+cost: 3
+image: /images/ClericsBattleStaff.png
+durability: 3
+hero: priest
+ko-KR_name: "성직자의 전투지팡이"
+ko-KR_description: "<u>과다치유</u>: 이 무기의 🔸이 1 증가합니다"
+ko-KR_flavor: "A Cleric of Hana staff is bound to bring life and light to the darkness, usually by force."
 tile_id: ClericsBattleStaff
 cost: 3
 image: /images/ClericsBattleStaff.png

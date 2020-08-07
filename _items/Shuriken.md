@@ -48,4 +48,12 @@ cost: 3
 image: /images/Shuriken.png
 durability: 3
 hero: rogue
+ko-KR_name: "수리검"
+ko-KR_description: "대상 적에게 피해를 4 줍니다. 방어구가 있는 적을 대상으로 지정할 수 없습니다"
+ko-KR_flavor: "놀라울 정도로 치명적인 무기지만 무장한 적에게는 효과적이지 않습니다."
+tile_id: Shuriken
+cost: 3
+image: /images/Shuriken.png
+durability: 3
+hero: rogue
 ---

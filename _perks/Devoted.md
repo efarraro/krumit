@@ -24,4 +24,8 @@ pl-PL_name: "Oddany"
 pl-PL_description: "Na początku każdego lochu, wtasuj 3 losowe <u>Błogosławieństwa</u> do talii."
 tile_id: Devoted
 image: /images/Devoted.png
+ko-KR_name: "Devoted"
+ko-KR_description: "각 던전에 진입 시, 무작위 <u>Blessings</u>을 3장 덱에 섞어 넣습니다"
+tile_id: Devoted
+image: /images/Devoted.png
 ---

@@ -36,4 +36,10 @@ pl-PL_flavor: "Burza z piorunami, kotami, psami, żabami i obrażeniami."
 tile_id: PerfectStorm
 cost: 0
 image: /images/PerfectStorm.png
+ko-KR_name: "The Perfect Storm"
+ko-KR_description: "타일을 획득하면 피해를 2 받습니다. 획득한 타일에 인접한 적들은 <u>관통</u> 피해를 2 받습니다. 이 타일이 하단 행에 도달하면 다시 덱에 섞어 넣습니다"
+ko-KR_flavor: "여기서 '완벽한 폭풍'은 어떤 식으로든 지독하고 골치 아픈 시나리오로 통합되기 위해 음모를 꾸미는, 예상을 벗어나는 일련의 불행한 사건들을 의미합니다."
+tile_id: PerfectStorm
+cost: 0
+image: /images/PerfectStorm.png
 ---

@@ -42,4 +42,11 @@ tile_id: BoneArmor
 cost: 1
 image: /images/BoneArmor.png
 hero: necromancer
+ko-KR_name: "Bone Armor"
+ko-KR_description: "💀 <u>하수인</u>이 죽을 때마다, 이 타일이 +2 🛡️️ <u>block</u>를 얻습니다. 전투에서 6 라운드가 지난 뒤 재충전됩니다"
+ko-KR_flavor: "In un-life, they attack, in re-death they protect."
+tile_id: BoneArmor
+cost: 1
+image: /images/BoneArmor.png
+hero: necromancer
 ---

@@ -48,4 +48,12 @@ cost: 4
 image: /images/AncientTome.png
 durability: 2
 hero: mage
+ko-KR_name: "고대의 책"
+ko-KR_description: "이번 던전에서 획득했던 능력을 <u>선발</u>합니다."
+ko-KR_flavor: "그레이비어드는 이 책에 그의 수염이 자라는 것을 막는 방법에 대한 단서가 담겨져있기를 바랐습니다. 그리고 다시 한 번 실망했죠."
+tile_id: AncientTome
+cost: 4
+image: /images/AncientTome.png
+durability: 2
+hero: mage
 ---

@@ -48,4 +48,12 @@ cost: 2
 image: /images/InquisitorsFist.png
 durability: 2
 hero: priest
+ko-KR_name: "심문관의 주먹"
+ko-KR_description: "보드에 <u>Blessing</u>이 하나 이상 있으면, 내 공격이  <u>생명력 흡수</u>(3)를 얻습니다"
+ko-KR_flavor: "충분히 강한 신념은 고통조차도 자양분으로 만들 수 있습니다. 당신의 고통이 아니라면 특히 더 말이죠."
+tile_id: InquisitorsFist
+cost: 2
+image: /images/InquisitorsFist.png
+durability: 2
+hero: priest
 ---

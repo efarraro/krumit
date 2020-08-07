@@ -41,8 +41,16 @@ image: /images/SpellbenderBracers.png
 durability: 3
 hero: mage
 pl-PL_name: "Naramienniki Zaklinacza"
-pl-PL_description: "Podpal 1 ( <u>podpalenie</u>) i zamroź (<u>zamrożenie</u>) wroga. Zniszcz go jeżeli nie jest on bossem i jest już w płomieniach i zamrożony."
+pl-PL_description: "Podpal 1 ( <u>podpalenie</u>) i zamroź (<u>zamrożenie</u>) wroga. Zniszcz go jeżeli nie jest on bossem, i jest już w płomieniach oraz zamrożony."
 pl-PL_flavor: "Na te okazje gdy chcesz nagiąć żywioły ORAZ zasady."
+tile_id: SpellbenderBracers
+cost: 2
+image: /images/SpellbenderBracers.png
+durability: 3
+hero: mage
+ko-KR_name: "주문왜곡사의 팔 보호구"
+ko-KR_description: "적을  <u>연소</u>(1)시키고 <u>빙결</u>시킵니다. 보스가 아닌 대상 적이 이미  <u>연소</u> 및 <u>빙결</u> 상태라면, 대신 대상을 파괴합니다"
+ko-KR_flavor: "둘 이상의 원소와 규칙을 왜곡시키고 싶을 때를 위한 물건입니다."
 tile_id: SpellbenderBracers
 cost: 2
 image: /images/SpellbenderBracers.png

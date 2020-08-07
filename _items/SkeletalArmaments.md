@@ -48,4 +48,12 @@ cost: 2
 image: /images/SkeletalArmaments.png
 durability: 3
 hero: necromancer
+ko-KR_name: "해골의 무기"
+ko-KR_description: "💀 <u>하수인</u>만 사용할 수 있습니다. 장착 시 +2 🔸과 2 🛡️️ <u>block</u>를 얻습니다"
+ko-KR_flavor: "막대기나 돌에 뼈가 부러질 테니 최소한의 보호 장비라도 주세요."
+tile_id: SkeletalArmaments
+cost: 2
+image: /images/SkeletalArmaments.png
+durability: 3
+hero: necromancer
 ---

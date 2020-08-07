@@ -36,8 +36,15 @@ cost: 0
 image: /images/Bounty.png
 hero: rogue
 pl-PL_name: "Nagroda"
-pl-PL_description: "Gdy pokonasz wroga sąsiadującego z tą płytką, dodaj 1 💰 do Nagrody. Uzyskaj tą płytkę aby zyskać 💰. <u><u>Niezwłoczny</u></u>"
+pl-PL_description: "Gdy pokonasz wroga sąsiadującego z tą płytką, dodaj 1 💰 do Nagrody. Uzyskaj tą płytkę, aby uzyskać wszystkie 💰. <u><u>Niezwłocznie</u></u>"
 pl-PL_flavor: "'Jest nagroda za jego głowę. Tak, jestem pewien. Jestem pewien, że poszli w tym kierunku.' - Gyralt, zwany Kapusiem"
+tile_id: Bounty
+cost: 0
+image: /images/Bounty.png
+hero: rogue
+ko-KR_name: "현상금"
+ko-KR_description: "이 타일에 인접한 적을 처치할 때마다, 현상금에 1 💰을 추가합니다. 이 타일을 획득하면 쌓인 💰을 얻습니다. <u><u>즉발</u></u>"
+ko-KR_flavor: "'놈들의 머리에 돈이 걸려있어. 뭐라고? 그럼, 당연히 진짜지. 그리고 놈들은 저쪽으로 갔어.' -기롤트, 일명 고자질쟁이"
 tile_id: Bounty
 cost: 0
 image: /images/Bounty.png

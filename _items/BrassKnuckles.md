@@ -48,4 +48,12 @@ cost: 1
 image: /images/BrassKnuckles.png
 durability: 2
 hero: rogue
+ko-KR_name: "Brass Knuckles"
+ko-KR_description: "내 공격에 ⚡️ <u>기습</u>이 있으면, 내가 공격한 뒤 상대를 <u>기절</u>시킵니다"
+ko-KR_flavor: "술집에서 싸울 생각이라면 꼭 챙기세요."
+tile_id: BrassKnuckles
+cost: 1
+image: /images/BrassKnuckles.png
+durability: 2
+hero: rogue
 ---

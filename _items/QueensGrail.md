@@ -41,8 +41,16 @@ image: /images/QueensGrail.png
 durability: 1
 hero: priest
 pl-PL_name: "Graal Królowej"
-pl-PL_description: "Zapłać 25 ❤️ (obniżone o 3 za każdego  <u>zepsuty</u> przeciwnika w tym lochu) aby zniszczyć *wszystkie* płytki w talii."
+pl-PL_description: "Zapłać 25 ❤️ (obniżone o 3 za każdego  <u>zepsuty</u> przeciwnika w tym lochu), aby zniszczyć *wszystkie* płytki w talii."
 pl-PL_flavor: "Graal jest pełen potępionych dusz. Nie podnoś pokrywki, bo uciekną!"
+tile_id: QueensGrail
+cost: 0
+image: /images/QueensGrail.png
+durability: 1
+hero: priest
+ko-KR_name: "The Queen's Grail"
+ko-KR_description: "25 ❤️(이번 던전에서  <u>타락</u>시킨 적 하나당 3 감소)를 지불하여 덱에 있는 *모든* 타일을 파괴합니다"
+ko-KR_flavor: "이 성배는 저주받은 자들에 의해 채워져 있습니다. 엎질러진 한 방울 한 방울이 터무니없는 낭비입니다..."
 tile_id: QueensGrail
 cost: 0
 image: /images/QueensGrail.png

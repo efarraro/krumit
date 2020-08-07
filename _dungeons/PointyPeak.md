@@ -49,7 +49,7 @@ monsters:
     quantity: 2
     url: /monsters/AncientSkeleton
 ru-RU_name: "Острые верхушки"
-ru-RU_description: "«Гарпии гнездятся на дальних вершинах, но они не слишком беспокоят гондолу. До тех пор, пока я не вспомню, что нужно провести на ней жертвоприношение» - гондольер Вивиан"
+ru-RU_description: "«Гарпии гнездятся на дальних вершинах и не беспокоят ни меня, ни мою гондолу, пока я не начну проводить на ней жертвоприношение» - гондольер Вивиан"
 tier: 3
 monsters:
   - monster:
@@ -141,6 +141,30 @@ monsters:
     url: /monsters/Skeleton
   - monster:
     name: "Pradawny Szkielet"
+    image: /images/AncientSkeleton.png
+    quantity: 2
+    url: /monsters/AncientSkeleton
+ko-KR_name: "Pointy Peak"
+ko-KR_description: "'The Harpies roost in yonder peaks, but they don't bother the gondola too much. Long as I remember to strap a sacrifice to it.' – Gondola Controller Vivian."
+tier: 3
+monsters:
+  - monster:
+    name: "펑크"
+    image: /images/Harpy.png
+    quantity: 5
+    url: /monsters/Harpy
+  - monster:
+    name: "Windrunner"
+    image: /images/WindRunner.png
+    quantity: 2
+    url: /monsters/WindRunner
+  - monster:
+    name: "Skeleton"
+    image: /images/Skeleton.png
+    quantity: 6
+    url: /monsters/Skeleton
+  - monster:
+    name: "Ancient Skeleton"
     image: /images/AncientSkeleton.png
     quantity: 2
     url: /monsters/AncientSkeleton

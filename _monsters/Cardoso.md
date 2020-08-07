@@ -30,4 +30,9 @@ pl-PL_description: "Wtasuj 4x <a href = '../pl_pl/abilities#ToxicBlood'>Toksyczn
 pl-PL_flavor: "Cardoso, Upadły arcymag, Pierwszy Wampir Many, słynny odkrywca i smakosz. Czcigodny?"
 tile_id: Cardoso
 image: /images/Cardoso.png
+ko-KR_name: "Cardoso"
+ko-KR_description: "Shuffle 4x <a href = '../ko_kr/abilities#ToxicBlood'>유독성 혈액</a> into the deck at the start of the dungeon. If you hold <a href = '../ko_kr/abilities#ToxicBlood'>유독성 혈액</a>, Cardoso will no longer restore ❤️ when attacking"
+ko-KR_flavor: "Will you admire Cardoso? The fallen archmage, the Prime Mana Vamp, a famed explorer and gourmand.  "
+tile_id: Cardoso
+image: /images/Cardoso.png
 ---

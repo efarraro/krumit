@@ -48,4 +48,12 @@ cost: 2
 image: /images/ViperSting.png
 durability: 2
 hero: rogue
+ko-KR_name: "독사의 이빨"
+ko-KR_description: "내가 공격한 뒤, 상대를  <u>중독</u>(2)시킵니다"
+ko-KR_flavor: "'이빨이 사라진 후에도 물린 자국이 오랫동안 남아있었다...' - '뱀 먹이' 루들로 가블스노즈의 회고록에서 발췌."
+tile_id: ViperSting
+cost: 2
+image: /images/ViperSting.png
+durability: 2
+hero: rogue
 ---

@@ -37,7 +37,14 @@ image: /images/DrainEssence.png
 hero: necromancer
 pl-PL_name: "Wyciąg z Istoty"
 pl-PL_description: "W walce, obniż 🔸 przeciwnika do 0 i odnów 4 ❤️. Pokonaj 3 wrogów aby naładować."
-pl-PL_flavor: "Tylko najstarsi Manożercy znają sekret manipulowania esencji życiowej. Raz posmakowana, żądza nigdy nie może być zaspokojona."
+pl-PL_flavor: "Tylko najstarsi Manożercy znają sekret manipulowania esencji życiowej. Raz posmakowana, żądza nigdy nie może zostać zaspokojona."
+tile_id: DrainEssence
+cost: 2
+image: /images/DrainEssence.png
+hero: necromancer
+ko-KR_name: "정수 흡수"
+ko-KR_description: "전투에서 상대의 🔸을 0으로 줄이고 4 ❤️을 회복합니다. 재충전하려면 적을 3회 처치하십시오"
+ko-KR_flavor: "Only the most wizened Mana Vamps unlock the secret of how to manipulate someone's essence. Once tasted, the craving can never fully be satisfied."
 tile_id: DrainEssence
 cost: 2
 image: /images/DrainEssence.png

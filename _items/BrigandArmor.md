@@ -41,8 +41,16 @@ image: /images/BrigandArmor.png
 durability: 3
 hero: rogue
 pl-PL_name: "Zbroja Zbójnika"
-pl-PL_description: "Musisz się skradać (<u>ukrywanie się</u>) aby to założyć"
+pl-PL_description: "Musisz się skradać (<u>ukrywanie się</u>), aby to założyć."
 pl-PL_flavor: "Ciemna kurtka, idealna na wieczorne zasadzki."
+tile_id: BrigandArmor
+cost: 2
+image: /images/BrigandArmor.png
+durability: 3
+hero: rogue
+ko-KR_name: "산적의 갑옷"
+ko-KR_description: "<u>은신</u> 상태여야 장착할 수 있습니다"
+ko-KR_flavor: "이 어둡고 교활한 갑옷은 장난스럽게 놀래키는 데 안성맞춤입니다."
 tile_id: BrigandArmor
 cost: 2
 image: /images/BrigandArmor.png

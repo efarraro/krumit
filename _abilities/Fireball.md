@@ -42,4 +42,11 @@ tile_id: Fireball
 cost: 2
 image: /images/Fireball.png
 hero: mage
+ko-KR_name: "화염구"
+ko-KR_description: "대상 적에게 <u>관통</u> 피해를 6 줍니다. <u>Exhaust</u>"
+ko-KR_flavor: "초보 마법사가 배우는 첫 번째 주문은 '불꽃' 같은 거라고 생각하시겠죠. 하지만 그러면 재미가 있을까요?"
+tile_id: Fireball
+cost: 2
+image: /images/Fireball.png
+hero: mage
 ---

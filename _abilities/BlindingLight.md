@@ -42,4 +42,11 @@ tile_id: BlindingLight
 cost: 2
 image: /images/BlindingLight.png
 hero: priest
+ko-KR_name: "Blinding Light"
+ko-KR_description: "<u>패시브</u>. <u>과다치유</u>: 상대를 <u>기절</u>시킵니다. 전투에서 3 라운드가 지난 후 재충전됩니다"
+ko-KR_flavor: "공포와 충격."
+tile_id: BlindingLight
+cost: 2
+image: /images/BlindingLight.png
+hero: priest
 ---

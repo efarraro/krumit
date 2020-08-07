@@ -36,8 +36,15 @@ cost: 0
 image: /images/DarkRitual.png
 hero: necromancer
 pl-PL_name: "Czarny Rytuał"
-pl-PL_description: "Zapłać 6 ❤️ aby zwiększyć 🔸 wszystkich 💀 <u>Sługusy</u> w ekwipunku o 1 i obniżyć twoje maksymalne ❤️ o 1 do końca lochu."
+pl-PL_description: "Zapłać 6 ❤️, aby zwiększyć 🔸 wszystkich 💀 <u>Sługusy</u> w ekwipunku o 1 i obniżyć twoje maksymalne ❤️ o 1 do końca lochu."
 pl-PL_flavor: "Dobry mroczny rytuał zawiera mnóstwo krwi, świec, intonowania i precyzyjnych schematów geometrycznych."
+tile_id: DarkRitual
+cost: 0
+image: /images/DarkRitual.png
+hero: necromancer
+ko-KR_name: "암흑의 의식"
+ko-KR_description: "6 ❤️을 지불하고 내 인벤토리에 있는 모든 💀 <u>하수인</u>의 🔸을 1 증가시킵니다. 이번 던전에서 내 최대 ❤️이 1 감소합니다"
+ko-KR_flavor: "A good, dark ritual contains plenty of blood, candles, chanting and precise geometric diagrams."
 tile_id: DarkRitual
 cost: 0
 image: /images/DarkRitual.png

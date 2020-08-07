@@ -41,8 +41,16 @@ image: /images/BarrelAgedDjinn.png
 durability: 3
 hero: necromancer
 pl-PL_name: "Dżin postarzony w beczce"
-pl-PL_description: "Odzyskaj ❤️ i oraz uzyskaj <a href = '../pl_pl/abilities#Stupidity'>Gupota</a>"
+pl-PL_description: "Odzyskaj ❤️ do pełna i oraz uzyskaj <a href = '../pl_pl/abilities#Stupidity'>Gupota</a>."
 pl-PL_flavor: "Butelka podobna tej wysłała Muldorfa na ścieżkę przeznaczenia. Po 3 krokach wpadł w ścianę i obudził się 2 dni później."
+tile_id: BarrelAgedDjinn
+cost: 2
+image: /images/BarrelAgedDjinn.png
+durability: 3
+hero: necromancer
+ko-KR_name: "배럴 숙성 진"
+ko-KR_description: "❤️를 전부 회복하고 <a href = '../ko_kr/abilities#Stupidity'>머엉청이</a>를 인벤토리에 추가합니다"
+ko-KR_flavor: "이런 배럴이 멀도르프를 운명의 길로 인도했습니다. 3계단 내려간 뒤 그는 벽에 부딪쳤고 이틀 뒤에 깨어났습니다."
 tile_id: BarrelAgedDjinn
 cost: 2
 image: /images/BarrelAgedDjinn.png

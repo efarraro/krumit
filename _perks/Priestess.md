@@ -24,4 +24,8 @@ pl-PL_name: "Wybranka"
 pl-PL_description: "<u>Przeleczenie</u>: Zamień 3 <u>klątwy</u> na <u>Błogosławieństwa</u>."
 tile_id: Priestess
 image: /images/Priestess.png
+ko-KR_name: "선택받음"
+ko-KR_description: "<u>과다치유</u>: 보드에 있는 최대 3개까지의 <u>저주</u>를 <u>Blessing</u>으로 변환시킵니다"
+tile_id: Priestess
+image: /images/Priestess.png
 ---

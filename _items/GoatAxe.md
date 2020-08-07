@@ -48,4 +48,12 @@ cost: 1
 image: /images/GoatAxe.png
 durability: 3
 hero: warrior
+ko-KR_name: "Goat Axe"
+ko-KR_description: "내 공격이 ⚡️ <u>기습</u>을 갖습니다."
+ko-KR_flavor: "This makeshift weapon is hardly the G.O.A.T."
+tile_id: GoatAxe
+cost: 1
+image: /images/GoatAxe.png
+durability: 3
+hero: warrior
 ---

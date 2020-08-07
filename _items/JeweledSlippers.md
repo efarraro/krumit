@@ -48,4 +48,12 @@ cost: 2
 image: /images/JeweledSlippers.png
 durability: 3
 hero: mage
+ko-KR_name: "Jeweled Slippers"
+ko-KR_description: "모든 타일을 덱에 섞어 넣습니다. 전투 중이었다면, 전투에서도 벗어납니다."
+ko-KR_flavor: "뒤꿈치를 톡톡 하고 나면...아니, 아직 던전에 그대로 있네."
+tile_id: JeweledSlippers
+cost: 2
+image: /images/JeweledSlippers.png
+durability: 3
+hero: mage
 ---

@@ -9,7 +9,7 @@ image: /images/Penance.png
 durability: 2
 hero: priest
 zh-CN_name: "苦修"
-zh-CN_description: "当你使用这件武器击败一个敌人时，将场上的一个<u>诅咒</u>转化为<u>祝福</u>"
+zh-CN_description: "当你使用武器进行攻击时，将会承受2点<u>穿透</u>伤害，你的初始能力将被替换成🟦神选"
 zh-CN_flavor: "自我鞭笞有利身心。"
 tile_id: Penance
 cost: 2
@@ -33,7 +33,7 @@ image: /images/Penance.png
 durability: 2
 hero: priest
 es-ES_name: "Penitencia"
-es-ES_description: "Cuando derrotes a un enemigo con esta arma, transforma una <u>Maldición</u> en el tablero en una <u>Bendición</u>"
+es-ES_description: "Después de atacar con esta arma recibe 2 de daño <u>penetrante</u> y <u>Mutar</u> 🟦Elegida"
 es-ES_flavor: "Flagelar para acumular."
 tile_id: Penance
 cost: 2
@@ -43,6 +43,14 @@ hero: priest
 pl-PL_name: "Pokuta"
 pl-PL_description: "Po zaatakowaniu tą bronią otrzymasz 2 <u>przenikliwy</u> obrażeń <u>Mutacja</u> 🟦Wybranka"
 pl-PL_flavor: "Biczowanie na śniadanie."
+tile_id: Penance
+cost: 2
+image: /images/Penance.png
+durability: 2
+hero: priest
+ko-KR_name: "Penance"
+ko-KR_description: "After you attack with this weapon, take 2 <u>관통</u> damage and <u>변화</u> 🟦선택받음"
+ko-KR_flavor: "Flaggelate to accumulate."
 tile_id: Penance
 cost: 2
 image: /images/Penance.png

@@ -24,4 +24,8 @@ pl-PL_name: "Zbalansowany"
 pl-PL_description: "Podstawowy koszt wszystkich twoich umiejętności wynosi 2 💰."
 tile_id: BalancedPerk
 image: /images/BalancedPerk.png
+ko-KR_name: "균형"
+ko-KR_description: "모든 능력의 기본 비용이 2 💰이 됩니다"
+tile_id: BalancedPerk
+image: /images/BalancedPerk.png
 ---

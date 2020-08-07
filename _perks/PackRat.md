@@ -24,4 +24,8 @@ pl-PL_name: "Ciułacz"
 pl-PL_description: "Twój 🔸 jest zwiększony o 1 jeśli masz 4 płytki w ekwipunku."
 tile_id: PackRat
 image: /images/PackRat.png
+ko-KR_name: "Pack Rat"
+ko-KR_description: "Your base 🔸 is increased by 1 while you have 4 tiles in your inventory"
+tile_id: PackRat
+image: /images/PackRat.png
 ---

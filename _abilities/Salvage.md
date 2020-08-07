@@ -15,7 +15,7 @@ cost: 1
 image: /images/Salvage.png
 hero: warrior
 ru-RU_name: "Переработка"
-ru-RU_description: "Удаляет выбранную карточку с поля и полностью восстанавливает прочность всех предметов в снаряжении. <u>Сжигается</u>."
+ru-RU_description: "Удаляет выбранный предмет с поля и полностью восстанавливает прочность всех предметов в снаряжении. <u>Сжигается</u>."
 ru-RU_flavor: "«Немного металлолома, немного верёвки, немного слизи и будет выглядеть как новенький» - мастер Брэмли."
 tile_id: Salvage
 cost: 1
@@ -38,6 +38,13 @@ hero: warrior
 pl-PL_name: "Odzysk"
 pl-PL_description: "Usuń wskazany przedmiot z planszy i w pełni odnów trwałość wszystkich przedmiotów w ekwipunku. <u>Wyczerpany</u>"
 pl-PL_flavor: "'Trochę kartonu, szpachli, złomu i pancerz się wyklepie!' - każdy płatnerz w każdej wiosce"
+tile_id: Salvage
+cost: 1
+image: /images/Salvage.png
+hero: warrior
+ko-KR_name: "재활용"
+ko-KR_description: "대상 아이템을 던전에서 제거하고 인벤토리에 있는 모든 아이템의 내구도를 완전히 회복시킵니다. Exhuast"
+ko-KR_flavor: "고철 한 조각, 노끈 조금, 글루버 슬라임 약간을 넣으면 새것처럼 좋아질 거예요! - 팅커 베어 브램리"
 tile_id: Salvage
 cost: 1
 image: /images/Salvage.png

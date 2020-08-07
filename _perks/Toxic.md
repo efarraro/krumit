@@ -9,7 +9,7 @@ zh-CN_description: "<a href = '../zh_cn/abilities#Stab'>穿刺</a>还会对目�
 tile_id: Toxic
 image: /images/Toxic.png
 ru-RU_name: "Ядовитый"
-ru-RU_description: "<a href = '../ru_ru/abilities#Stab'>Удар ножом</a> также накладывает  <u>Яд</u> (1)."
+ru-RU_description: "<a href = '../ru_ru/abilities#Stab'>Удар ножом</a> также накладывает  <u>яд</u> (1)."
 tile_id: Toxic
 image: /images/Toxic.png
 jp-JP_name: "毒性"
@@ -22,6 +22,10 @@ tile_id: Toxic
 image: /images/Toxic.png
 pl-PL_name: "Toksyczny"
 pl-PL_description: "<a href = '../pl_pl/abilities#Stab'>Dźgnięcie</a> zadaje  <u>Trucizna</u> (1)"
+tile_id: Toxic
+image: /images/Toxic.png
+ko-KR_name: "유독성"
+ko-KR_description: "<a href = '../ko_kr/abilities#Stab'>찌르기</a>가  <u>중독</u>(1)도 가합니다"
 tile_id: Toxic
 image: /images/Toxic.png
 ---

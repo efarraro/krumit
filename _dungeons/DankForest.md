@@ -84,4 +84,18 @@ monsters:
     image: /images/Nukadog.png
     quantity: 6
     url: /monsters/Nukadog
+ko-KR_name: "우중충한 숲"
+ko-KR_description: "This forest is truly the dankest. Yet, it doesn't seem to faze the War Bears and their brutal Barbearians!"
+tier: 1
+monsters:
+  - monster:
+    name: "Barbearian"
+    image: /images/Bear.png
+    quantity: 1
+    url: /monsters/Bear
+  - monster:
+    name: "콧물눅대"
+    image: /images/Nukadog.png
+    quantity: 6
+    url: /monsters/Nukadog
 ---

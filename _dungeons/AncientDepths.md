@@ -114,4 +114,23 @@ monsters:
     image: /images/Slime.png
     quantity: 4
     url: /monsters/Slime
+ko-KR_name: "Depths of Doom"
+ko-KR_description: "'나, 힘센 브루노는 어떤 사람도 표지판도 두렵지 않아. 하지만 위험을 무릅쓸 이유는 또 뭐야?' - Bruno"
+tier: 3
+monsters:
+  - monster:
+    name: "Kooltist"
+    image: /images/Cooltist.png
+    quantity: 5
+    url: /monsters/Cooltist
+  - monster:
+    name: "Druid"
+    image: /images/Cleric.png
+    quantity: 3
+    url: /monsters/Cleric
+  - monster:
+    name: "Globber"
+    image: /images/Slime.png
+    quantity: 4
+    url: /monsters/Slime
 ---

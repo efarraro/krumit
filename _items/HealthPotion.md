@@ -240,4 +240,44 @@ cost: 0
 image: /images/HealthPotion.png
 durability: 3
 hero: warrior
+ko-KR_name: "체력 물약"
+ko-KR_description: "❤️을 2 회복합니다"
+ko-KR_flavor: "무지개 맛과 꿀맛이 나는 건강 음료입니다."
+tile_id: HealthPotion
+cost: 0
+image: /images/HealthPotion.png
+durability: 3
+hero: warrior
+ko-KR_name: "체력 물약"
+ko-KR_description: "❤️을 2 회복합니다"
+ko-KR_flavor: "무지개 맛과 꿀맛이 나는 건강 음료입니다."
+tile_id: HealthPotion
+cost: 0
+image: /images/HealthPotion.png
+durability: 3
+hero: warrior
+ko-KR_name: "체력 물약"
+ko-KR_description: "❤️을 2 회복합니다"
+ko-KR_flavor: "무지개 맛과 꿀맛이 나는 건강 음료입니다."
+tile_id: HealthPotion
+cost: 0
+image: /images/HealthPotion.png
+durability: 3
+hero: warrior
+ko-KR_name: "체력 물약"
+ko-KR_description: "❤️을 2 회복합니다"
+ko-KR_flavor: "무지개 맛과 꿀맛이 나는 건강 음료입니다."
+tile_id: HealthPotion
+cost: 0
+image: /images/HealthPotion.png
+durability: 3
+hero: warrior
+ko-KR_name: "체력 물약"
+ko-KR_description: "❤️을 2 회복합니다"
+ko-KR_flavor: "무지개 맛과 꿀맛이 나는 건강 음료입니다."
+tile_id: HealthPotion
+cost: 0
+image: /images/HealthPotion.png
+durability: 3
+hero: warrior
 ---

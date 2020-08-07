@@ -24,4 +24,8 @@ pl-PL_name: "Lekka dieta"
 pl-PL_description: "Uzyskaj dodatkowe 2 ❤️ gdy odrzucasz płytkę. Maksymalne ❤️ obniżone o 4."
 tile_id: Scrappy
 image: /images/Scrappy.png
+ko-KR_name: "부스러기"
+ko-KR_description: "타일을 버릴 때 2 ❤️을 추가로 얻습니다. 최대 ❤️이 4 감소합니다"
+tile_id: Scrappy
+image: /images/Scrappy.png
 ---

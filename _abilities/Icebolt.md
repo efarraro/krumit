@@ -42,4 +42,11 @@ tile_id: Icebolt
 cost: 1
 image: /images/Icebolt.png
 hero: mage
+ko-KR_name: "얼음 화살"
+ko-KR_description: "적에게 <u>관통</u> 피해를 3 주고 <u>빙결</u>시킵니다. <u>Exhaust</u>"
+ko-KR_flavor: "저학년 마법사들이 좋아하는 주문으로, 고블로이드를 느리게 만들고 음료를 식히는 데 유용합니다."
+tile_id: Icebolt
+cost: 1
+image: /images/Icebolt.png
+hero: mage
 ---

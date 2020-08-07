@@ -48,4 +48,12 @@ cost: 2
 image: /images/DeathMask.png
 durability: 1
 hero: priest
+ko-KR_name: "Hana's Death Mask"
+ko-KR_description: "<u>패시브</u>: 죽음에 이르는 피해를 받으면, 이 아이템을 <u>Exhaust</u>시킵니다. 🟦선택받음로 <u>변화</u>하고 내 ❤️을 완전히 회복시킵니다"
+ko-KR_flavor: "두 얼굴을 가진 반그늘의 여신 하나에게 헌정된 가면입니다."
+tile_id: DeathMask
+cost: 2
+image: /images/DeathMask.png
+durability: 1
+hero: priest
 ---

@@ -96,4 +96,20 @@ cost: 0
 image: /images/LeatherHelm.png
 durability: 2
 hero: warrior
+ko-KR_name: "Leather Helm"
+ko-KR_description: "When you acquire this item, gain 1 💰"
+ko-KR_flavor: "방어구로서 적합하진 않은 것 같습니다. 아마 원래는 다른 용도로 사용되지 않았을까요?"
+tile_id: LeatherHelm
+cost: 0
+image: /images/LeatherHelm.png
+durability: 2
+hero: warrior
+ko-KR_name: "Leather Helm"
+ko-KR_description: "When you acquire this item, gain 1 💰"
+ko-KR_flavor: "방어구로서 적합하진 않은 것 같습니다. 아마 원래는 다른 용도로 사용되지 않았을까요?"
+tile_id: LeatherHelm
+cost: 0
+image: /images/LeatherHelm.png
+durability: 2
+hero: warrior
 ---

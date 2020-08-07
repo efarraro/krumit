@@ -48,4 +48,12 @@ cost: 2
 image: /images/IcePick.png
 durability: 3
 hero: mage
+ko-KR_name: "아이스픽"
+ko-KR_description: "<u>빙결</u> 상태의 적을 대상으로 할 때 이 무기의 🔸이 4 증가합니다"
+ko-KR_flavor: "A top-of-the-range, brillanium composite Glacier-Racer model."
+tile_id: IcePick
+cost: 2
+image: /images/IcePick.png
+durability: 3
+hero: mage
 ---

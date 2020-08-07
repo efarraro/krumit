@@ -36,8 +36,15 @@ cost: 3
 image: /images/Boast.png
 hero: warrior
 pl-PL_name: "Przechwała"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. Zwiększ maksymalne ❤️ o 4. Gdy ta płytka dotrze do dolnego wiersza, wartość bonusu wzrośnie o 2 do końca tego lochu i zostanie wtasowana do talii."
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. Zwiększ maksymalne ❤️ o 4. Gdy ta płytka dotrze do dolnego wiersza, wartość bonusu wzrośnie o 2 do końca tego lochu i zostanie wtasowana do talii."
 pl-PL_flavor: "Udawaj aż się uda. Albo ktoś wszystko zepsuje."
+tile_id: Boast
+cost: 3
+image: /images/Boast.png
+hero: warrior
+ko-KR_name: "호언장담"
+ko-KR_description: "<u><u>즉발</u></u>. 최대 ❤️을 4 증가시킵니다. 이 타일이 하단 행에 도달하면 이번 던전 동안 ❤️ 보너스가 +2 증가합니다. 덱에 다시 섞어 넣습니다"
+ko-KR_flavor: "될 때까지 그런 척하세요. 그렇지 않으면 누군가가 깨뜨릴 겁니다."
 tile_id: Boast
 cost: 3
 image: /images/Boast.png

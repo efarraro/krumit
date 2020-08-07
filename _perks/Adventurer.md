@@ -24,4 +24,8 @@ pl-PL_name: "Poszukiwacz przygód"
 pl-PL_description: "Zacznij loch z płytkami <a href = '../pl_pl/items#ShortSword'>Miecz krótki</a>, <a href = '../pl_pl/items#ChainMail'>Kolczuga</a>, oraz <a href = '../pl_pl/items#Matches'>Zapałki</a>"
 tile_id: Adventurer
 image: /images/Adventurer.png
+ko-KR_name: "Adventurer"
+ko-KR_description: "<a href = '../ko_kr/items#ShortSword'>소검</a>, <a href = '../ko_kr/items#ChainMail'>사슬갑옷</a>, <a href = '../ko_kr/items#Matches'>Matches</a>을 가지고 각 던전에 진입합니다."
+tile_id: Adventurer
+image: /images/Adventurer.png
 ---

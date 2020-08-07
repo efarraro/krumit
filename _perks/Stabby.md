@@ -24,4 +24,8 @@ pl-PL_name: "Ostrzejsze Dźgnięcie"
 pl-PL_description: "<a href = '../pl_pl/abilities#Stab'>Dźgnięcie</a> zadaje +1 obrażeń."
 tile_id: Stabby
 image: /images/Stabby.png
+ko-KR_name: "예리함"
+ko-KR_description: "'찌르기' 피해량 +1"
+tile_id: Stabby
+image: /images/Stabby.png
 ---

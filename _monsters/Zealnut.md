@@ -30,4 +30,9 @@ pl-PL_description: "Ten przeciwnik nie ma specjalnych zdolności ani efektów"
 pl-PL_flavor: "Żarliwcy są Starszymi Nadgorliwcami, stąd zwiększony przydział łańcuchów, sygnetów i złotych zębów. Kochają błyskotki tak bardzo, że po bling wyciągną dłonie zanim położą je na mikrofonie."
 tile_id: Zealnut
 image: /images/Zealnut.png
+ko-KR_name: "Zealnut"
+ko-KR_description: "This enemy doesn't have any special powers or effects"
+ko-KR_flavor: "Zealnuts are Senior Kooltists, and are permitted to wear extra bling as proof of their station. Their chains are goldie-lookin' but are only 7 karat."
+tile_id: Zealnut
+image: /images/Zealnut.png
 ---

@@ -174,4 +174,33 @@ monsters:
     image: /images/GhostKing.png
     quantity: 1
     url: /monsters/GhostKing
+ko-KR_name: "유령 왕의 크립토리움"
+ko-KR_description: "'나와 유령 왕? 아는 척만 하는 그 에테리얼 놈? 그래, 우린 오랫동안 알고 지냈지. 그리고 항상 내 수염이 더 멋있었어.' - 뼈의군주 칼라카스"
+tier: 5
+monsters:
+  - monster:
+    name: "Skeleton"
+    image: /images/Skeleton.png
+    quantity: 6
+    url: /monsters/Skeleton
+  - monster:
+    name: "Ancient Skeleton"
+    image: /images/AncientSkeleton.png
+    quantity: 5
+    url: /monsters/AncientSkeleton
+  - monster:
+    name: "Kooltist"
+    image: /images/Cooltist.png
+    quantity: 3
+    url: /monsters/Cooltist
+  - monster:
+    name: "Zealnut"
+    image: /images/Zealnut.png
+    quantity: 4
+    url: /monsters/Zealnut
+  - monster:
+    name: "유령 왕"
+    image: /images/GhostKing.png
+    quantity: 1
+    url: /monsters/GhostKing
 ---

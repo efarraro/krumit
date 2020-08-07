@@ -42,4 +42,11 @@ tile_id: IceArmor
 cost: 4
 image: /images/IceArmor.png
 hero: mage
+ko-KR_name: "Ice Armor"
+ko-KR_description: "라운드가 끝날 때 🛡️️ <u>block</u>를 6 얻고 상대를 <u>빙결</u>시킵니다. 보드에 타일이 6개 추가된 후에 재충전됩니다"
+ko-KR_flavor: "아이스, 아이스, 베이비."
+tile_id: IceArmor
+cost: 4
+image: /images/IceArmor.png
+hero: mage
 ---

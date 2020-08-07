@@ -240,4 +240,44 @@ cost: 0
 image: /images/AmanitaEssence.png
 durability: 3
 hero: warrior
+ko-KR_name: "광대버섯 진액"
+ko-KR_description: "대상 능력의 비용을 1 💰 감소시킵니다"
+ko-KR_flavor: "치명적인 광대버섯에서 추출되었습니다. 마음을 열어주고 마법 능력 학습을 도와줍니다. 우주에 있는 모든 물질과 교감하는 결과를 가져올 수도 있습니다."
+tile_id: AmanitaEssence
+cost: 0
+image: /images/AmanitaEssence.png
+durability: 3
+hero: warrior
+ko-KR_name: "광대버섯 진액"
+ko-KR_description: "대상 능력의 비용을 1 💰 감소시킵니다"
+ko-KR_flavor: "치명적인 광대버섯에서 추출되었습니다. 마음을 열어주고 마법 능력 학습을 도와줍니다. 우주에 있는 모든 물질과 교감하는 결과를 가져올 수도 있습니다."
+tile_id: AmanitaEssence
+cost: 0
+image: /images/AmanitaEssence.png
+durability: 3
+hero: warrior
+ko-KR_name: "광대버섯 진액"
+ko-KR_description: "대상 능력의 비용을 1 💰 감소시킵니다"
+ko-KR_flavor: "치명적인 광대버섯에서 추출되었습니다. 마음을 열어주고 마법 능력 학습을 도와줍니다. 우주에 있는 모든 물질과 교감하는 결과를 가져올 수도 있습니다."
+tile_id: AmanitaEssence
+cost: 0
+image: /images/AmanitaEssence.png
+durability: 3
+hero: warrior
+ko-KR_name: "광대버섯 진액"
+ko-KR_description: "대상 능력의 비용을 1 💰 감소시킵니다"
+ko-KR_flavor: "치명적인 광대버섯에서 추출되었습니다. 마음을 열어주고 마법 능력 학습을 도와줍니다. 우주에 있는 모든 물질과 교감하는 결과를 가져올 수도 있습니다."
+tile_id: AmanitaEssence
+cost: 0
+image: /images/AmanitaEssence.png
+durability: 3
+hero: warrior
+ko-KR_name: "광대버섯 진액"
+ko-KR_description: "대상 능력의 비용을 1 💰 감소시킵니다"
+ko-KR_flavor: "치명적인 광대버섯에서 추출되었습니다. 마음을 열어주고 마법 능력 학습을 도와줍니다. 우주에 있는 모든 물질과 교감하는 결과를 가져올 수도 있습니다."
+tile_id: AmanitaEssence
+cost: 0
+image: /images/AmanitaEssence.png
+durability: 3
+hero: warrior
 ---

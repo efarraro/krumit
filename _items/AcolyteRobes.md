@@ -48,4 +48,12 @@ cost: 1
 image: /images/AcolyteRobes.png
 durability: 1
 hero: necromancer
+ko-KR_name: "누크로맨시 로브"
+ko-KR_description: "<u>패시브</u>: <a href = '../ko_kr/items#Tombstone'>Tombstone</a>에서 💀 <u>하수인</u>을 소환하는 비용이 1 ❤️ 감소합니다"
+ko-KR_flavor: "이 지저분한 로브는 솔기를 따라 룬을 꿰매어 놓아서, 착용자에게 강령술 암거래 할인을 제공합니다."
+tile_id: AcolyteRobes
+cost: 1
+image: /images/AcolyteRobes.png
+durability: 1
+hero: necromancer
 ---

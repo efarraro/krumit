@@ -48,4 +48,12 @@ cost: 2
 image: /images/HolyHammer.png
 durability: 2
 hero: priest
+ko-KR_name: "신성한 망치"
+ko-KR_description: " <u>생명력 흡수</u>(1)"
+ko-KR_flavor: "Hits with the blunt, crushing force of an epiphany, but leaves you with less understanding."
+tile_id: HolyHammer
+cost: 2
+image: /images/HolyHammer.png
+durability: 2
+hero: priest
 ---

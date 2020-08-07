@@ -24,4 +24,8 @@ pl-PL_name: "Nekroziom"
 pl-PL_description: "Maksymalne ❤️ -2. Pokonani wrogowie pozostawiają <a href = '../pl_pl/items#Tombstone'>Nagrobek</a>. Odrzucanie płytek nie odnawia ❤️."
 tile_id: Necrodude
 image: /images/Necrodude.png
+ko-KR_name: "Necrodude"
+ko-KR_description: "Max ❤️ -2. Enemies spawn <a href = '../ko_kr/items#Tombstone'>Tombstone</a> when defeated. Discarding tiles does not restore ❤️"
+tile_id: Necrodude
+image: /images/Necrodude.png
 ---

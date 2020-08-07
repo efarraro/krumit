@@ -48,4 +48,12 @@ cost: 3
 image: /images/BattlewornGauntlets.png
 durability: 3
 hero: warrior
+ko-KR_name: "마모된 건틀릿"
+ko-KR_description: "무기를 획득할 때마다 이 아이템의 내구도가 1 회복됩니다"
+ko-KR_flavor: "낙하 이전 시대의 이 건틀릿은 아마도 당신보다 더 경험이 많을 것입니다. 착용하면 자신감과 세련됨을 느낄 수 있습니다."
+tile_id: BattlewornGauntlets
+cost: 3
+image: /images/BattlewornGauntlets.png
+durability: 3
+hero: warrior
 ---

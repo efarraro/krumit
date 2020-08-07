@@ -27,8 +27,14 @@ es-ES_flavor: "No puedes escribir 'gamberros' sin 'berros'. ¿Estarán emparenta
 tile_id: Knave
 image: /images/Knave.png
 pl-PL_name: "Zbir z Pustkowi"
-pl-PL_description: "Zadaje ranę (<u>Rana</u>) wrażliwym przeciwnikom aby ich osłabić, po czym zatruwa ( <u>trucizna</u>) ich śmiercionośną trucizną."
+pl-PL_description: "Zadaje ranę (<u>Rana</u>) wrażliwym przeciwnikom, aby ich osłabić, po czym zatruwa ( <u>trucizna</u>) ich śmiercionośną trucizną."
 pl-PL_flavor: "Pustkowie w pochodzeniu i w głowie."
+tile_id: Knave
+image: /images/Knave.png
+ko-KR_name: "황무지 폭력배"
+ko-KR_description: "Applies <u>부상</u> to vulnerable enemies to weaken them, before striking with deadly  <u>중독</u>!"
+ko-KR_flavor: "You can't spell 'thug' without 'hug'. But you don't think they'd appreciate one.
+"
 tile_id: Knave
 image: /images/Knave.png
 ---

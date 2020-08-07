@@ -48,4 +48,12 @@ cost: 3
 image: /images/CardososChapeau.png
 durability: 3
 hero: necromancer
+ko-KR_name: "Cardoso's Chapeau"
+ko-KR_description: "After you  <u>응수</u> with this item, swap current ❤️ values with your non-boss opponent"
+ko-KR_flavor: "If Cardoso takes his hat off to you - don't assume he's being good mannered. "
+tile_id: CardososChapeau
+cost: 3
+image: /images/CardososChapeau.png
+durability: 3
+hero: necromancer
 ---

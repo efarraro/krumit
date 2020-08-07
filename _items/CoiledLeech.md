@@ -48,4 +48,12 @@ cost: 3
 image: /images/CoiledLeech.png
 durability: 3
 hero: priest
+ko-KR_name: "나선 거머리"
+ko-KR_description: "❤️이 가득 찬 상태에서 적을 공격할 때 이 무기가  <u>생명력 흡수</u>(4)를 가집니다"
+ko-KR_flavor: "'They only drink from the fullest of cups. Picky little bastards.' Leech Farmer Lonzo"
+tile_id: CoiledLeech
+cost: 3
+image: /images/CoiledLeech.png
+durability: 3
+hero: priest
 ---

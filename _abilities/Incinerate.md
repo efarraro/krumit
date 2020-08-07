@@ -42,4 +42,11 @@ tile_id: Incinerate
 cost: 2
 image: /images/Incinerate.png
 hero: mage
+ko-KR_name: "소각"
+ko-KR_description: "대상 적에게 <u>관통</u> 피해를 4 줍니다. 대상이  <u>연소</u> 상태라면, 6의 추가 <u>관통</u> 피해를 줍니다. <u>Exhaust</u>"
+ko-KR_flavor: "불타오르네."
+tile_id: Incinerate
+cost: 2
+image: /images/Incinerate.png
+hero: mage
 ---

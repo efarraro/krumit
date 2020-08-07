@@ -42,4 +42,11 @@ tile_id: SkeletonParty
 cost: 3
 image: /images/SkeletonParty.png
 hero: necromancer
+ko-KR_name: "Skeleton Party"
+ko-KR_description: "내 ❤️을 1로 감소시키고 인벤토리의 빈 공간을 Skeleton로 채웁니다. <u>Exhaust</u>"
+ko-KR_flavor: "'It's my party and I'll undie if I want to!' - Muldorf"
+tile_id: SkeletonParty
+cost: 3
+image: /images/SkeletonParty.png
+hero: necromancer
 ---

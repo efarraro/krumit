@@ -48,4 +48,12 @@ cost: 3
 image: /images/CowBell.png
 durability: 2
 hero: necromancer
+ko-KR_name: "Haunting Bell"
+ko-KR_description: "Deal *0* <u>관통</u> damage (equal to your missing ❤️) to target enemy"
+ko-KR_flavor: "The terrible peals of this bovine gong can split eardrums and instill a powerful hunger for hay."
+tile_id: CowBell
+cost: 3
+image: /images/CowBell.png
+durability: 2
+hero: necromancer
 ---

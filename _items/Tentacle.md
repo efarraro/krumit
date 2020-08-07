@@ -48,4 +48,12 @@ cost: 4
 image: /images/Tentacle.png
 durability: 3
 hero: warrior
+ko-KR_name: "Okto's Arm"
+ko-KR_description: "전투에서 각 라운드가 끝날 때, 이 무기의 🔸이 1 증가합니다(전투 후 초기화)"
+ko-KR_flavor: "옥토는 이러한 것들 8개를 가지고 있습니다. 아, 이제 7개겠군요. 의족을 달지 않는 이상. 아니, 의촉수라고 해야 하나?"
+tile_id: Tentacle
+cost: 4
+image: /images/Tentacle.png
+durability: 3
+hero: warrior
 ---

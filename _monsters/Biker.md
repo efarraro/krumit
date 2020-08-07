@@ -12,7 +12,7 @@ tile_id: Biker
 image: /images/Biker.png
 ru-RU_name: "Байкер-Мутант"
 ru-RU_description: "Тебе он не понравится, когда он злой! Каждый раз, когда этот враг получает урон, его 🔸 увеличивается на 1."
-ru-RU_flavor: "Байкеры-мутанты поклоняются богу машин, мистеру Дарли Хэвидсону, и молятся, чтобы в один день он спустился со своими ездками Байкопокалипсиса: миссис Сью Зуки, Дюк Ати, и карлик семьи, Вес Па."
+ru-RU_flavor: "Байкеры-мутанты поклоняются богу машин, мистеру Дарли Хэвидсону, и молятся, чтобы однажды он спустился со своими всадниками Байкопокалипсиса: миссис Сью Зуки, Дюк Ати и карлик семьи Вес Па."
 tile_id: Biker
 image: /images/Biker.png
 jp-JP_name: "ミュータントバイカー"
@@ -28,6 +28,11 @@ image: /images/Biker.png
 pl-PL_name: "Mutocyklista"
 pl-PL_description: "Robi się nieprzyjemny gdy się wkurzy! Za każdym razem gdy ten wróg otrzymuje obrażenia, jego 🔸 wzrasta o 1."
 pl-PL_flavor: "Mutocykliści czczą boga maszyn, Pana Darley'a Havidson'a, i modlą się że pewnego dnia zstąpi ze swymi Jeźdźcami Motocykalipsy: Panią Sue Zuuki, Duke Ati oraz chuchrem rodziny, Ves Pah."
+tile_id: Biker
+image: /images/Biker.png
+ko-KR_name: "Mutant Biker"
+ko-KR_description: "You won't like him when he's angry!  Whenever this enemy takes damage, its 🔸 increases by 1."
+ko-KR_flavor: "MutaBikers worship the machine god, Mr. Darley Havidson, and pray that he will one day descend with his riders of the Bikepocalypse: Mrs. Sue Zuuki, Duke Ati, and the runt of the family, Ves Pah."
 tile_id: Biker
 image: /images/Biker.png
 ---

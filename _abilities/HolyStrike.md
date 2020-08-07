@@ -42,4 +42,11 @@ tile_id: HolyStrike
 cost: 1
 image: /images/HolyStrike.png
 hero: priest
+ko-KR_name: "성스러운 일격"
+ko-KR_description: "내 다음 공격이 +4의 피해를 주고  <u>생명력 흡수</u>(4)을 가집니다. <u>Exhaust</u>"
+ko-KR_flavor: "신의 힘을 빌고, 올바른 자가 당신의 목소리를 듣기를 기도하십시오."
+tile_id: HolyStrike
+cost: 1
+image: /images/HolyStrike.png
+hero: priest
 ---

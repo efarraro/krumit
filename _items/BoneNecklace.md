@@ -41,8 +41,16 @@ image: /images/BoneNecklace.png
 durability: 3
 hero: necromancer
 pl-PL_name: "Naszyjnik z kości"
-pl-PL_description: "Przywołaj Szkielet 💀 <u>Sługus</u>"
+pl-PL_description: "Przywołaj Szkielet 💀 <u>Sługus</u>."
 pl-PL_flavor: "UWAGA! Użycie wymaga posiadania szyi!"
+tile_id: BoneNecklace
+cost: 4
+image: /images/BoneNecklace.png
+durability: 3
+hero: necromancer
+ko-KR_name: "Bonedolier"
+ko-KR_description: "Skeleton 💀 <u>하수인</u>을 소환합니다"
+ko-KR_flavor: "Accessorize, skeletize, brutalize!"
 tile_id: BoneNecklace
 cost: 4
 image: /images/BoneNecklace.png

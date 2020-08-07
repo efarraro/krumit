@@ -48,4 +48,12 @@ cost: 3
 image: /images/OpulentHand.png
 durability: 3
 hero: priest
+ko-KR_name: "부유함의 손"
+ko-KR_description: "이 무기로  <u>타락</u> 상태의 적을 공격할 때, 1 💰을 얻습니다"
+ko-KR_flavor: "마이더스의 손으로 찰싹."
+tile_id: OpulentHand
+cost: 3
+image: /images/OpulentHand.png
+durability: 3
+hero: priest
 ---

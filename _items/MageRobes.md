@@ -48,4 +48,12 @@ cost: 0
 image: /images/MageRobes.png
 durability: 2
 hero: mage
+ko-KR_name: "Wizard Robe"
+ko-KR_description: "능력을 획득하면 이 아이템의 🛡️️ <u>block</u>가 1 증가합니다"
+ko-KR_flavor: "이 로브는 34개의 별들로 장식되어 있습니다. 각각의 별은 마법사 학교 졸업생을 나타냅니다."
+tile_id: MageRobes
+cost: 0
+image: /images/MageRobes.png
+durability: 2
+hero: mage
 ---

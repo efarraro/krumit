@@ -48,4 +48,12 @@ cost: 2
 image: /images/PipeDagger.png
 durability: 3
 hero: rogue
+ko-KR_name: "감옥 나이프"
+ko-KR_description: "<u>관통</u>. ⚡️ <u>기습</u>. 내가 <u>은신</u> 상태일 때 비용이 1 💰 감소합니다"
+ko-KR_flavor: "가진 걸로 잘 해보라고."
+tile_id: PipeDagger
+cost: 2
+image: /images/PipeDagger.png
+durability: 3
+hero: rogue
 ---

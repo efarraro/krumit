@@ -15,7 +15,7 @@ cost: 1
 image: /images/FalseAlarm.png
 hero: rogue
 ru-RU_name: "Ложная тревога"
-ru-RU_description: "Замешивает всех врагов обратно в колоду (вне боя). <u>Сжигается</u>."
+ru-RU_description: "Замешивает всех врагов обратно в колоду. Можно использовать только вне боя. <u>Сжигается</u>."
 ru-RU_flavor: "Просто ложная тревога! Это никогда не надоест!"
 tile_id: FalseAlarm
 cost: 1
@@ -38,6 +38,13 @@ hero: rogue
 pl-PL_name: "Fałszywy Alarm"
 pl-PL_description: "Wtasuj wszystkich przeciwników do talii. Nie może być użyte w walce. <u>Wyczerpany</u>"
 pl-PL_flavor: "'Gobloidy na horyzoncie! Do broni!... A nie, już nic, to tylko wóz ze starociami.'"
+tile_id: FalseAlarm
+cost: 1
+image: /images/FalseAlarm.png
+hero: rogue
+ko-KR_name: "False Alarm"
+ko-KR_description: "모든 적을 덱에 다시 섞어 넣습니다. 전투 중에는 사용할 수 없습니다. <u>Exhaust</u>"
+ko-KR_flavor: "그냥 '늑대다!'라고 외치세요. 절대 질리지 않습니다!"
 tile_id: FalseAlarm
 cost: 1
 image: /images/FalseAlarm.png

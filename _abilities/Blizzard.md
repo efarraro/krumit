@@ -42,4 +42,11 @@ tile_id: Blizzard
 cost: 3
 image: /images/Blizzard.png
 hero: mage
+ko-KR_name: "Winter Winds"
+ko-KR_description: "보이는 <u>빙결</u> 상태의 적에게 <u>관통</u> 피해를 4 주고, 보이는 모든 적을 빙결시킵니다.  <u>Exhaust</u>"
+ko-KR_flavor: "이런 식으로 사악한 바람이 분다."
+tile_id: Blizzard
+cost: 3
+image: /images/Blizzard.png
+hero: mage
 ---

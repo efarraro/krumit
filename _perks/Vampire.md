@@ -9,7 +9,7 @@ zh-CN_description: "击败敌人时回复2点生命值。弃牌时不再回复�
 tile_id: Vampire
 image: /images/Vampire.png
 ru-RU_name: "Вампир"
-ru-RU_description: "Восстанавливает 2 ❤️, когда вы убиваете врага в бою. Сбрасывание карточек больше не восстанавливает ❤️."
+ru-RU_description: "Восстанавливает 2 ❤️, когда вы убиваете врага. Сбрасывание карточек больше не восстанавливает ❤️."
 tile_id: Vampire
 image: /images/Vampire.png
 jp-JP_name: "ヴァンパイア"
@@ -22,6 +22,10 @@ tile_id: Vampire
 image: /images/Vampire.png
 pl-PL_name: "Wampir"
 pl-PL_description: "Odnów 2 ❤️ kiedy pokonasz przeciwnika w walce. Odrzucanie płytek nie odnawia ❤️."
+tile_id: Vampire
+image: /images/Vampire.png
+ko-KR_name: "Vampire"
+ko-KR_description: "전투에서 적을 처치할 때마다 2 ❤️을 회복합니다. 타일을 버릴 때 더 이상 ❤️이 회복되지 않습니다"
 tile_id: Vampire
 image: /images/Vampire.png
 ---

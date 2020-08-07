@@ -48,4 +48,12 @@ cost: 2
 image: /images/RattlebonesCuirass.png
 durability: 3
 hero: necromancer
+ko-KR_name: "덜덜거리는 뼈 흉갑"
+ko-KR_description: "이 전투에서 하수인이 죽은 뒤에만 사용할 수 있습니다"
+ko-KR_flavor: "이 끔찍한 흉갑을 보면 뼈가 덜덜 떨릴 겁니다."
+tile_id: RattlebonesCuirass
+cost: 2
+image: /images/RattlebonesCuirass.png
+durability: 3
+hero: necromancer
 ---

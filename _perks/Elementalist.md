@@ -24,4 +24,8 @@ pl-PL_name: "Żywiołak"
 pl-PL_description: "Twój 🔸 jest zwiększony o 1 przeciwko wrogom, którzy są podpaleni ( <u>podpalenie</u>), zatruci ( <u>trucizna</u>), lub zamrożeni (<u>zamrożenie</u>)."
 tile_id: Elementalist
 image: /images/Elementalist.png
+ko-KR_name: "원소술사"
+ko-KR_description: " <u>연소</u>,  <u>poisoned</u>, 또는 <u>빙결</u> 상태의 적을 대상으로 할 때의 내 기본 🔸이 1 증가합니다"
+tile_id: Elementalist
+image: /images/Elementalist.png
 ---

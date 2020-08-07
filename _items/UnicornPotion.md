@@ -202,7 +202,7 @@ durability: 3
 hero: warrior
 pl-PL_name: "Mikstura Transmogrifikacji"
 pl-PL_description: "Przemień wskazany przedmiot w inny losowy przedmiot i obniż jego koszt o 2 💰."
-pl-PL_flavor: "Skroplenie kilku kropel śliny jednorożca wystarczy aby przedmiot przemienił się w coś zupełnie nowego! Plama, niestety, się nie odpierze."
+pl-PL_flavor: "Skroplenie kilku kropel śliny jednorożca wystarczy, aby przedmiot przemienił się w coś zupełnie nowego! Plama, niestety, się nie odpierze."
 tile_id: UnicornPotion
 cost: 3
 image: /images/UnicornPotion.png
@@ -210,7 +210,7 @@ durability: 3
 hero: warrior
 pl-PL_name: "Mikstura Transmogrifikacji"
 pl-PL_description: "Przemień wskazany przedmiot w inny losowy przedmiot i obniż jego koszt o 2 💰."
-pl-PL_flavor: "Skroplenie kilku kropel śliny jednorożca wystarczy aby przedmiot przemienił się w coś zupełnie nowego! Plama, niestety, się nie odpierze."
+pl-PL_flavor: "Skroplenie kilku kropel śliny jednorożca wystarczy, aby przedmiot przemienił się w coś zupełnie nowego! Plama, niestety, się nie odpierze."
 tile_id: UnicornPotion
 cost: 3
 image: /images/UnicornPotion.png
@@ -218,7 +218,7 @@ durability: 3
 hero: warrior
 pl-PL_name: "Mikstura Transmogrifikacji"
 pl-PL_description: "Przemień wskazany przedmiot w inny losowy przedmiot i obniż jego koszt o 2 💰."
-pl-PL_flavor: "Skroplenie kilku kropel śliny jednorożca wystarczy aby przedmiot przemienił się w coś zupełnie nowego! Plama, niestety, się nie odpierze."
+pl-PL_flavor: "Skroplenie kilku kropel śliny jednorożca wystarczy, aby przedmiot przemienił się w coś zupełnie nowego! Plama, niestety, się nie odpierze."
 tile_id: UnicornPotion
 cost: 3
 image: /images/UnicornPotion.png
@@ -226,7 +226,7 @@ durability: 3
 hero: warrior
 pl-PL_name: "Mikstura Transmogrifikacji"
 pl-PL_description: "Przemień wskazany przedmiot w inny losowy przedmiot i obniż jego koszt o 2 💰."
-pl-PL_flavor: "Skroplenie kilku kropel śliny jednorożca wystarczy aby przedmiot przemienił się w coś zupełnie nowego! Plama, niestety, się nie odpierze."
+pl-PL_flavor: "Skroplenie kilku kropel śliny jednorożca wystarczy, aby przedmiot przemienił się w coś zupełnie nowego! Plama, niestety, się nie odpierze."
 tile_id: UnicornPotion
 cost: 3
 image: /images/UnicornPotion.png
@@ -234,7 +234,47 @@ durability: 3
 hero: warrior
 pl-PL_name: "Mikstura Transmogrifikacji"
 pl-PL_description: "Przemień wskazany przedmiot w inny losowy przedmiot i obniż jego koszt o 2 💰."
-pl-PL_flavor: "Skroplenie kilku kropel śliny jednorożca wystarczy aby przedmiot przemienił się w coś zupełnie nowego! Plama, niestety, się nie odpierze."
+pl-PL_flavor: "Skroplenie kilku kropel śliny jednorożca wystarczy, aby przedmiot przemienił się w coś zupełnie nowego! Plama, niestety, się nie odpierze."
+tile_id: UnicornPotion
+cost: 3
+image: /images/UnicornPotion.png
+durability: 3
+hero: warrior
+ko-KR_name: "Potion of Transmogrification"
+ko-KR_description: "대상 아이템을 무작위 아이템으로 변환시키고 비용을 2 감소시킵니다"
+ko-KR_flavor: "유니콘의 침 몇 방울을 아무 것에나 뿌려서 다른 것으로 변형되는 과정을 지켜보십시오! 단, 얼룩이 지워질 거라고 기대하지는 마십시오."
+tile_id: UnicornPotion
+cost: 3
+image: /images/UnicornPotion.png
+durability: 3
+hero: warrior
+ko-KR_name: "Potion of Transmogrification"
+ko-KR_description: "대상 아이템을 무작위 아이템으로 변환시키고 비용을 2 감소시킵니다"
+ko-KR_flavor: "유니콘의 침 몇 방울을 아무 것에나 뿌려서 다른 것으로 변형되는 과정을 지켜보십시오! 단, 얼룩이 지워질 거라고 기대하지는 마십시오."
+tile_id: UnicornPotion
+cost: 3
+image: /images/UnicornPotion.png
+durability: 3
+hero: warrior
+ko-KR_name: "Potion of Transmogrification"
+ko-KR_description: "대상 아이템을 무작위 아이템으로 변환시키고 비용을 2 감소시킵니다"
+ko-KR_flavor: "유니콘의 침 몇 방울을 아무 것에나 뿌려서 다른 것으로 변형되는 과정을 지켜보십시오! 단, 얼룩이 지워질 거라고 기대하지는 마십시오."
+tile_id: UnicornPotion
+cost: 3
+image: /images/UnicornPotion.png
+durability: 3
+hero: warrior
+ko-KR_name: "Potion of Transmogrification"
+ko-KR_description: "대상 아이템을 무작위 아이템으로 변환시키고 비용을 2 감소시킵니다"
+ko-KR_flavor: "유니콘의 침 몇 방울을 아무 것에나 뿌려서 다른 것으로 변형되는 과정을 지켜보십시오! 단, 얼룩이 지워질 거라고 기대하지는 마십시오."
+tile_id: UnicornPotion
+cost: 3
+image: /images/UnicornPotion.png
+durability: 3
+hero: warrior
+ko-KR_name: "Potion of Transmogrification"
+ko-KR_description: "대상 아이템을 무작위 아이템으로 변환시키고 비용을 2 감소시킵니다"
+ko-KR_flavor: "유니콘의 침 몇 방울을 아무 것에나 뿌려서 다른 것으로 변형되는 과정을 지켜보십시오! 단, 얼룩이 지워질 거라고 기대하지는 마십시오."
 tile_id: UnicornPotion
 cost: 3
 image: /images/UnicornPotion.png

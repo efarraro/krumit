@@ -42,4 +42,11 @@ tile_id: Thrust
 cost: 0
 image: /images/Thrust.png
 hero: warrior
+ko-KR_name: "꿰찌르기"
+ko-KR_description: "이 타일을 획득했을 때 1 💰을 얻습니다. 내가 근접 무기로 공격할 때 <u>관통</u>과 +2 🔸을 얻습니다. <u>Exhaust</u>"
+ko-KR_flavor: "가장 약한 곳을 공격해! 망설이지 마라! - 임페리움빌 훈련 교관 레드제피"
+tile_id: Thrust
+cost: 0
+image: /images/Thrust.png
+hero: warrior
 ---

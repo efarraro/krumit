@@ -68,7 +68,7 @@ monsters:
     image: /images/GobloidKnucklehead.png
     quantity: 2
     url: /monsters/GobloidKnucklehead
-ru-RU_name: "Старая таверна «Падение Метеора»"
+ru-RU_name: "Таверна «Падение Метеора»"
 ru-RU_description: "«Я слышала, что они там играют в какую-то чудную карточную игру - Meteorfall, не так ли? Я всегда хотела сыграть в неё» - Роза"
 tier: 4
 monsters:
@@ -201,6 +201,40 @@ monsters:
     url: /monsters/RoyalGuard
   - monster:
     name: "Wiadrołeb"
+    image: /images/GobloidKnucklehead.png
+    quantity: 2
+    url: /monsters/GobloidKnucklehead
+ko-KR_name: "낡은 유성낙하 선술집"
+ko-KR_description: "'그곳에서 재밌는 카드 게임을 하고 있다고 들었어. 유성낙하, 였던가? 항상 해보고 싶었어.' - 로즈"
+tier: 4
+monsters:
+  - monster:
+    name: "Mutant Biker"
+    image: /images/Biker.png
+    quantity: 3
+    url: /monsters/Biker
+  - monster:
+    name: "Swashbuckler"
+    image: /images/Pirate.png
+    quantity: 3
+    url: /monsters/Pirate
+  - monster:
+    name: "Vagabond"
+    image: /images/JackalVagabond.png
+    quantity: 3
+    url: /monsters/JackalVagabond
+  - monster:
+    name: "Peasant"
+    image: /images/Peasant.png
+    quantity: 2
+    url: /monsters/Peasant
+  - monster:
+    name: "Town Guard"
+    image: /images/RoyalGuard.png
+    quantity: 2
+    url: /monsters/RoyalGuard
+  - monster:
+    name: "Buckethead"
     image: /images/GobloidKnucklehead.png
     quantity: 2
     url: /monsters/GobloidKnucklehead

@@ -42,4 +42,11 @@ tile_id: Taunt
 cost: 1
 image: /images/Taunt.png
 hero: warrior
+ko-KR_name: "도발"
+ko-KR_description: "보드에 있는 적이 아닌 타일을 덱에 섞어 넣고 비용을 1 💰 감소시킵니다. 이 타일을 재충전하려면 적을 3회 처치하십시오"
+ko-KR_flavor: "브루노는 거울에 비친 그의 모습을 향해 도발을 연습하곤 했습니다. '와봐라, 이 녀석아!' 하지만 너무 효과적이어서 멈춰야만 했습니다. 어쨌든 거울은 값싸지는 않으니까요."
+tile_id: Taunt
+cost: 1
+image: /images/Taunt.png
+hero: warrior
 ---

@@ -30,4 +30,9 @@ pl-PL_description: "Ten wróg lata! Nie możesz dobyć broni dopóki nie zaataku
 pl-PL_flavor: "Riot Girls poruszają się błyskawicznie i wyrażają się wulgarnie. Ich ofiary słyszą łabędzią nutę tuż przed nalotem."
 tile_id: WindRunner
 image: /images/WindRunner.png
+ko-KR_name: "Windrunner"
+ko-KR_description: "이 적은 비행 중입니다! 이 적이 공격하기 전에 무기를 장착할 수 없습니다."
+ko-KR_flavor: "Windrunners are the swiftest and most foul-mouthed of Harpys. Survivors tell of the blood-curdling streams of invective that foretell a Windrunner raid."
+tile_id: WindRunner
+image: /images/WindRunner.png
 ---

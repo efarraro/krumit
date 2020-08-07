@@ -57,7 +57,7 @@ monsters:
     quantity: 4
     url: /monsters/Cooltist
 es-ES_name: "Reunión Kultista Clandestina"
-es-ES_description: "'Ugh, todos estos novatos - <i>Yo</i> estaba merodeando por aquí antes de que nadie más supiera de este lugar.' - Mae$tra de la Muerte K."
+es-ES_description: "'Ugh, todos estos novatos... <i>yo</i> ya estaba aquí antes de que nadie más supiera de este lugar.' - Mae$tra de la Muerte K."
 tier: 1
 monsters:
   - monster:
@@ -81,6 +81,20 @@ monsters:
     url: /monsters/Skeleton
   - monster:
     name: "Nadgorliwiec"
+    image: /images/Cooltist.png
+    quantity: 4
+    url: /monsters/Cooltist
+ko-KR_name: "Underground Cult Meetup"
+ko-KR_description: "'Ugh, all these new guys – <i>I</i> was hanging out here before anyone else even knew about it.' - Death Ma$ter K."
+tier: 1
+monsters:
+  - monster:
+    name: "Skeleton"
+    image: /images/Skeleton.png
+    quantity: 4
+    url: /monsters/Skeleton
+  - monster:
+    name: "Kooltist"
     image: /images/Cooltist.png
     quantity: 4
     url: /monsters/Cooltist

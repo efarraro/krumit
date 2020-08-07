@@ -48,4 +48,12 @@ cost: 2
 image: /images/FoxMask.png
 durability: 3
 hero: rogue
+ko-KR_name: "Sly Fox Mask"
+ko-KR_description: "<u>패시브</u>: <a href = '../ko_kr/abilities#Stab'>찌르기</a>의 피해량이 +1 증가합니다"
+ko-KR_flavor: "우동 일족의 애장품입니다. 왠지 희미하게 두부 튀김 냄새가 납니다."
+tile_id: FoxMask
+cost: 2
+image: /images/FoxMask.png
+durability: 3
+hero: rogue
 ---

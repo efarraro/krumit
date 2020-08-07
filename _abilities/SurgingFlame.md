@@ -42,4 +42,11 @@ tile_id: SurgingFlame
 cost: 3
 image: /images/SurgingFlame.png
 hero: mage
+ko-KR_name: "솟구치는 화염"
+ko-KR_description: "적을  <u>연소</u>(4)시키고 같은 행에 있는 다른 적들을  <u>연소</u>(2)시킵니다. <u>Exhaust</u>"
+ko-KR_flavor: "물 속의 코르크처럼, 불꽃을 뒤로 밀어내려고 하면 오히려 더 강하게 솟구칠 뿐입니다."
+tile_id: SurgingFlame
+cost: 3
+image: /images/SurgingFlame.png
+hero: mage
 ---

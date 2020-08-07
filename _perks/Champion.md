@@ -24,4 +24,8 @@ pl-PL_name: "Czempion"
 pl-PL_description: "Na początku każdego lochu wtasuj 3 kopie karty <a href = '../pl_pl/abilities#Flex'>Napinka</a> do talii."
 tile_id: Champion
 image: /images/Champion.png
+ko-KR_name: "투사"
+ko-KR_description: "각 던전 진입 시, <a href = '../ko_kr/abilities#Flex'>몸 풀기</a> 3장을 덱에 섞어 넣습니다"
+tile_id: Champion
+image: /images/Champion.png
 ---

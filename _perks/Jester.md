@@ -9,7 +9,7 @@ zh-CN_description: "弃牌时会随机重置所有场上卡牌的费用（0到5�
 tile_id: Jester
 image: /images/Jester.png
 ru-RU_name: "Шут"
-ru-RU_description: "Когда вы сбрасываете карточку, задаёт случайную цену всем карточкам на поле (от 0 до 5 💰)."
+ru-RU_description: "Когда вы сбрасываете карточку, задаёт каждой карточке на поле случайную цену (от 0 до 5 💰)."
 tile_id: Jester
 image: /images/Jester.png
 jp-JP_name: "道化師"
@@ -22,6 +22,10 @@ tile_id: Jester
 image: /images/Jester.png
 pl-PL_name: "Błazen"
 pl-PL_description: "Gdy odrzucisz płytkę, wylosuj koszt pozostałych widocznych płytek (od 0 do 5 💰)."
+tile_id: Jester
+image: /images/Jester.png
+ko-KR_name: "Jester"
+ko-KR_description: "내가 타일을 버릴 때마다, 보이는 모든 타일의 비용을 무작위로 변경합니다(0~5 💰)"
 tile_id: Jester
 image: /images/Jester.png
 ---

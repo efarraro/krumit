@@ -29,7 +29,7 @@ cost: 1
 image: /images/CorruptingTouch.png
 hero: priest
 es-ES_name: "Toque Corruptor"
-es-ES_description: "Cuando adquieras esto, intercambia tu ventaja inicial por iconReina. Tu siguiente ataque es <u>penetrante</u> y aplica  <u>corrupción</u> (6). <u>Agota</u>"
+es-ES_description: "Cuando adquieras esto, intercambia tu ventaja inicial por 🟦Reina. Tu siguiente ataque es <u>penetrante</u> y aplica  <u>corrupción</u> (6). <u>Agota</u>"
 es-ES_flavor: "'Condena su alma, y prueba que en verdad mereces el trono eterno...' - Umbrala"
 tile_id: CorruptingTouch
 cost: 1
@@ -38,6 +38,13 @@ hero: priest
 pl-PL_name: "Dotyk Zepsucia"
 pl-PL_description: "Po uzyskaniu <u>Mutacja</u> 🟦Królowa. Twój następny atak jest przenikliwy (<u>przenikliwy</u>) i powoduje  <u>zepsucie</u> (6). <u>Wyczerpany</u>"
 pl-PL_flavor: "'Ześlij potępienie na swoich wrogów i udowodnij, że pragniesz zasiąść na wiecznym tronie...' - Umbrala"
+tile_id: CorruptingTouch
+cost: 1
+image: /images/CorruptingTouch.png
+hero: priest
+ko-KR_name: "타락의 손길"
+ko-KR_description: "이 타일을 획득했을 때, 🟦여왕으로 <u>변화</u>합니다. 내 다음 공격이 <u>관통</u>을 가지고  <u>타락</u>(6)을 부여합니다. <u>Exhaust</u>"
+ko-KR_flavor: "'Damn their soul and prove you truly desire the eternal throne...' - Umbrala"
 tile_id: CorruptingTouch
 cost: 1
 image: /images/CorruptingTouch.png

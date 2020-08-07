@@ -48,4 +48,12 @@ cost: 2
 image: /images/ThiefsBelt.png
 durability: 2
 hero: rogue
+ko-KR_name: "다용도 허리띠"
+ko-KR_description: "<a href = '../ko_kr/items#PoisonPotion'>독약병</a>, <a href = '../ko_kr/items#Blackjack'>블랙잭</a>, 또는 <a href = '../ko_kr/abilities#HiddenBlades'>숨겨진 칼날</a> 타일을 <u>선발</u>합니다"
+ko-KR_flavor: "한때는 배관공의 물건이었을 테지만, 지금은 더 잘 쓰이게 되었습니다."
+tile_id: ThiefsBelt
+cost: 2
+image: /images/ThiefsBelt.png
+durability: 2
+hero: rogue
 ---

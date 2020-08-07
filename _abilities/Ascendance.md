@@ -36,8 +36,15 @@ cost: 6
 image: /images/Ascendance.png
 hero: priest
 pl-PL_name: "Wstąpienie"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. +1 🔸 oraz +1 ❤️. Koszt obniżony o 1 💰 za każde widoczne <u>Błogosławieństwo</u>."
-pl-PL_flavor: "Wejdź, jeżeli jest ci po drodze."
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. +1 🔸 oraz +1 ❤️. Koszt obniżony o 1 💰 za każde widoczne <u>Błogosławieństwo</u>."
+pl-PL_flavor: "Wstąp, jeżeli jest ci po drodze."
+tile_id: Ascendance
+cost: 6
+image: /images/Ascendance.png
+hero: priest
+ko-KR_name: "승천"
+ko-KR_description: "<u><u>즉발</u></u>. 내 기본 🔸과 최대 ❤️이 1 증가합니다. 보이는 <u>Blessing</u> 하나당 비용이 1 💰 감소합니다"
+ko-KR_flavor: "올라간 것은..."
 tile_id: Ascendance
 cost: 6
 image: /images/Ascendance.png

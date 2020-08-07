@@ -24,4 +24,8 @@ pl-PL_name: "Błogosławiony"
 pl-PL_description: "Gdy uzyskujesz umiejętność, odzyskaj 1 ❤️."
 tile_id: Blessed
 image: /images/Blessed.png
+ko-KR_name: "축복받음"
+ko-KR_description: "능력을 얻을 때마다 ❤️을 1 회복합니다"
+tile_id: Blessed
+image: /images/Blessed.png
 ---

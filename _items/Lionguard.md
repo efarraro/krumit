@@ -48,4 +48,12 @@ cost: 2
 image: /images/Lionguard.png
 durability: 3
 hero: warrior
+ko-KR_name: "사자의 수호방패"
+ko-KR_description: "상대의 행동에 3 이하의 🔸이 포함되어 있으면 이 아이템의 🛡️️ <u>block</u> 값이 0으로 감소합니다"
+ko-KR_flavor: "앞에 사자가 새겨져 있으니까, 좋은 물건이라는 거 아실 겁니다."
+tile_id: Lionguard
+cost: 2
+image: /images/Lionguard.png
+durability: 3
+hero: warrior
 ---

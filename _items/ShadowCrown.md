@@ -17,7 +17,7 @@ image: /images/ShadowCrown.png
 durability: 2
 hero: priest
 ru-RU_name: "Тёмная корона"
-ru-RU_description: "Когда вы  <u>парируете</u> с этим предметом, удваивает количество  <u>осквернение</u> на вашем враге."
+ru-RU_description: "Когда вы  <u>парируете</u> с этим предметом, удваивает значение  <u>осквернение</u> на вашем враге."
 ru-RU_flavor: "Дотянись до бездны, и бездна дотянется до тебя."
 tile_id: ShadowCrown
 cost: 2
@@ -43,6 +43,14 @@ hero: priest
 pl-PL_name: "Korona Ciemności"
 pl-PL_description: "Gdy odparowujesz ( <u>Odparowanie</u>) tym przedmiotem, podwój  <u>zepsucie</u> przeciwnika."
 pl-PL_flavor: "Czeluść musisz przywołać, sama nie przyjdzie."
+tile_id: ShadowCrown
+cost: 2
+image: /images/ShadowCrown.png
+durability: 2
+hero: priest
+ko-KR_name: "암흑 왕관"
+ko-KR_description: "이 아이템으로  <u>응수</u>하면, 상대의  <u>타락</u> 스택을 2배로 증가시킵니다"
+ko-KR_flavor: "심연에 닿게 되면, 심연 또한 나에게 닿게 될 것이다."
 tile_id: ShadowCrown
 cost: 2
 image: /images/ShadowCrown.png

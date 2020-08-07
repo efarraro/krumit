@@ -8,7 +8,7 @@ cost: 1
 image: /images/Smite.png
 hero: priest
 zh-CN_name: "重击"
-zh-CN_description: "对目标造成3点<u>穿透</u>伤害。这张卡牌在你的物品栏中时，每次在你回复生命值的时候都会为这个技能增加1点攻击力。<u>消耗</u>。"
+zh-CN_description: "对目标造成3点<u>穿透</u>伤害(❤️全满时+2穿透伤害)。<u>消耗</u>"
 zh-CN_flavor: "哈娜的复仇之火会吞噬你！——蔷薇"
 tile_id: Smite
 cost: 1
@@ -38,6 +38,13 @@ hero: priest
 pl-PL_name: "Potępienie"
 pl-PL_description: "Zadaj 3 przenikliwych (<u>przenikliwy</u>) obrażeń (+2 jeżeli twoje ❤️ jest pełne). <u>Wyczerpany</u>"
 pl-PL_flavor: "'Potępienie wrogów jest skuteczną, efektywną i efektowną bronią.' - wyciąg z 'Kapłaństwa dla Żółtodziobów'"
+tile_id: Smite
+cost: 1
+image: /images/Smite.png
+hero: priest
+ko-KR_name: "Smite"
+ko-KR_description: "<u>관통</u> 피해를 3 줍니다(내 ❤️이 가득 찬 상태라면 +2 <u>관통</u> 피해). <u>Exhaust</u>"
+ko-KR_flavor: "'정의로운 분노로 적을 강타하라. 멋있어 보이게끔.' - '여성 사제가 되고 싶어?'에서 발췌 "
 tile_id: Smite
 cost: 1
 image: /images/Smite.png

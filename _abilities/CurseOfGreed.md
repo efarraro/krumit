@@ -13,7 +13,7 @@ tile_id: CurseOfGreed
 cost: -1
 image: /images/CurseOfGreed.png
 ru-RU_name: "Проклятие жадности"
-ru-RU_description: "<u color='FF5151'>проклятие</u>. Стоимость получения всех карточек увеличена на 1 💰. Потратьте 2 ❤️, чтобы избавиться от этого."
+ru-RU_description: "Стоимость получения всех карточек увеличена на 1 💰. Потратьте 2 ❤️, чтобы избавиться от этой карточки."
 ru-RU_flavor: "Забавная мысль о жадности... чем больше у вас есть, тем больше это стоит вам."
 tile_id: CurseOfGreed
 cost: -1
@@ -33,6 +33,12 @@ image: /images/CurseOfGreed.png
 pl-PL_name: "Klątwa Chciwości"
 pl-PL_description: "<u color='FF5151'>Klątwa</u>. Koszt uzyskania płytek jest zwiększony o 1 💰. Zapłać 2 ❤️ aby usunąć."
 pl-PL_flavor: "Jest taka zabawna rzecz w chciwości... im więcej masz, tym więcej cię to kosztuje. -"
+tile_id: CurseOfGreed
+cost: -1
+image: /images/CurseOfGreed.png
+ko-KR_name: "Curse of Greed"
+ko-KR_description: "<u color='FF5151'>Curse</u>. 모든 타일을 획득하는 데 드는 비용이 1 💰 증가합니다. 이 타일을 제거하려면 2 ❤️를 지불하십시오"
+ko-KR_flavor: "탐욕에 대한 재미있는 사실... 더 많이 가질 수록 더 많은 돈이 든다. -"
 tile_id: CurseOfGreed
 cost: -1
 image: /images/CurseOfGreed.png

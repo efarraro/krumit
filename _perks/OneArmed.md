@@ -24,4 +24,8 @@ pl-PL_name: "Jednoręki"
 pl-PL_description: "Możesz założyć tylko 1 przedmiot na raz. Przedmioty kosztują o 1 💰 mniej."
 tile_id: OneArmed
 image: /images/OneArmed.png
+ko-KR_name: "외팔"
+ko-KR_description: "한 번에 하나의 아이템만 장비할 수 있지만, 아이템 비용이 1 💰 감소합니다"
+tile_id: OneArmed
+image: /images/OneArmed.png
 ---

@@ -48,4 +48,12 @@ cost: 0
 image: /images/Matches.png
 durability: 3
 hero: mage
+ko-KR_name: "Matches"
+ko-KR_description: "적을  <u>연소</u>(1)시킵니다"
+ko-KR_flavor: "모피와 그로그 얼룩(그리고 끝내주는 로고)으로 미루어 볼 때, 이 작은 성냥갑은 유성낙하 선술집에서 나온 것이라고 말할 수 있겠죠."
+tile_id: Matches
+cost: 0
+image: /images/Matches.png
+durability: 3
+hero: mage
 ---

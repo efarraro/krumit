@@ -8,7 +8,7 @@ cost: 1
 image: /images/Bribe.png
 hero: rogue
 zh-CN_name: "贿赂"
-zh-CN_description: "花费4枚金币来消灭目标非首领敌人。"
+zh-CN_description: "花费4枚💰来消灭目标非首领敌人。"
 zh-CN_flavor: "想想看——这本可以做成一个氪金点的！"
 tile_id: Bribe
 cost: 1
@@ -36,8 +36,15 @@ cost: 1
 image: /images/Bribe.png
 hero: rogue
 pl-PL_name: "Łapówka"
-pl-PL_description: "Zapłać 4 złota żeby zniszczyć przeciwnika, który nie jest bossem."
+pl-PL_description: "Zapłać 4 💰, aby zabić wybranego wroga niebędącego bossem"
 pl-PL_flavor: "Przynajmniej nie mikropłatność!"
+tile_id: Bribe
+cost: 1
+image: /images/Bribe.png
+hero: rogue
+ko-KR_name: "Bribe"
+ko-KR_description: "4 💰을 지불하여 보스가 아닌 대상 적을 처치합니다"
+ko-KR_flavor: "생각해 봐, 이건 그냥 소액 결제일 수도 있다고!"
 tile_id: Bribe
 cost: 1
 image: /images/Bribe.png

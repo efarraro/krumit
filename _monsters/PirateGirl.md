@@ -30,4 +30,9 @@ pl-PL_description: "Po pokonaniu tego przeciwnika, wtasuj <a href = '../pl_pl/it
 pl-PL_flavor: "Piraci wiecznie szukają łatwej zdobyczy."
 tile_id: PirateGirl
 image: /images/PirateGirl.png
+ko-KR_name: "Scalywag"
+ko-KR_description: "이 적을 처치하면 card(PirateLockBox)를 덱에 섞어 넣습니다."
+ko-KR_flavor: "These incorrigible lesser-pirates are only ever after your booty."
+tile_id: PirateGirl
+image: /images/PirateGirl.png
 ---

@@ -24,4 +24,8 @@ pl-PL_name: "Alchemik"
 pl-PL_description: "Na początku każdego lochu, wtasuj 3 losowe mikstury do talii."
 tile_id: Alchemist
 image: /images/Alchemist.png
+ko-KR_name: "Alchemist"
+ko-KR_description: "각 던전에 진입할 때, 무작위 물약 3개를 덱에 섞어 넣습니다."
+tile_id: Alchemist
+image: /images/Alchemist.png
 ---

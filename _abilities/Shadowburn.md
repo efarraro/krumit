@@ -42,4 +42,11 @@ tile_id: Shadowburn
 cost: 1
 image: /images/Shadowburn.png
 hero: priest
+ko-KR_name: "그림자 태우기"
+ko-KR_description: "대상 적에게 <u>관통</u> 피해를 6 주고 내가 <u>관통</u> 피해를 2 받습니다. 🟦여왕으로 <u>변화</u>합니다"
+ko-KR_flavor: "'자신의 그림자가 타는 것을 느낀 적이 있으십니까? 제가 생각하는 최악의 적들 중 3위 이하에게는 그런 경험을 겪게 하고 싶지 않습니다.' - 대격변 성인들의 교회 부주교 아우거스투스"
+tile_id: Shadowburn
+cost: 1
+image: /images/Shadowburn.png
+hero: priest
 ---

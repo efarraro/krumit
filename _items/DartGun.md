@@ -49,4 +49,12 @@ cost: 2
 image: /images/DartGun.png
 durability: 3
 hero: rogue
+ko-KR_name: "다트 총"
+ko-KR_description: "적을  <u>중독</u>(2)시킵니다. 물약을 획득할 때 이 아이템의 내구도가 1 회복됩니다"
+ko-KR_flavor: "'멀리에서 중독을, 항아리에서 충전을!' - 사기꾼의 다트 총 사용자 가이드에서 발췌...음, 전체 문구였네요."
+tile_id: DartGun
+cost: 2
+image: /images/DartGun.png
+durability: 3
+hero: rogue
 ---

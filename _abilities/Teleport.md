@@ -15,7 +15,7 @@ cost: 0
 image: /images/Teleport.png
 hero: mage
 ru-RU_name: "Телепортация"
-ru-RU_description: "Замешивает все карточки обратно в колоду и восстанавливает 4 ❤️. Если активируется в бою, также завершает его. <u>Сжигается</u>."
+ru-RU_description: "Замешивает все карточки с поля обратно в колоду и восстанавливает 4 ❤️. Если активируется в бою, также завершает его. <u>Сжигается</u>."
 ru-RU_flavor: "Когда происходящее становится напряжённым, напряжённое становится транслокационным."
 tile_id: Teleport
 cost: 0
@@ -38,6 +38,13 @@ hero: mage
 pl-PL_name: "Teleport"
 pl-PL_description: "Wtasuj wszystkie płytki do talii i odzyskaj 4 ❤️. Jeżeli użyte w walce, przerywa walkę. <u>Wyczerpany</u>"
 pl-PL_flavor: "Po co iść pod wiatr, skoro można się teleportować."
+tile_id: Teleport
+cost: 0
+image: /images/Teleport.png
+hero: mage
+ko-KR_name: "Teleport"
+ko-KR_description: "모든 타일을 덱에 다시 섞어 넣고 4 ❤️을 회복합니다. 전투 중이라면, 전투에서도 벗어납니다. <u>Exhaust</u>"
+ko-KR_flavor: "상황이 어려워지면, 강인한 사람들은 자리를 옮깁니다."
 tile_id: Teleport
 cost: 0
 image: /images/Teleport.png

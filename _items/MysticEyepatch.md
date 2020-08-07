@@ -48,4 +48,12 @@ cost: 1
 image: /images/MysticEyepatch.png
 durability: 2
 hero: mage
+ko-KR_name: "신비한 안대"
+ko-KR_description: "이 타일이 보드에 추가되면, 같은 열에 있는 능력들의 비용이 2 감소합니다"
+ko-KR_flavor: "해적의 눈을 가질 수 있는데 거리 감각이 무슨 소용이야?"
+tile_id: MysticEyepatch
+cost: 1
+image: /images/MysticEyepatch.png
+durability: 2
+hero: mage
 ---

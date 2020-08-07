@@ -48,4 +48,12 @@ cost: 3
 image: /images/AlchemistTable.png
 durability: 3
 hero: rogue
+ko-KR_name: "Alchemy Kit"
+ko-KR_description: "무작위 물약을 <u>선발</u>합니다"
+ko-KR_flavor: "이 연금술 키트는 완전한 금속으로 되어 있어서 견고하지만 가지고 다니기 어렵습니다."
+tile_id: AlchemistTable
+cost: 3
+image: /images/AlchemistTable.png
+durability: 3
+hero: rogue
 ---

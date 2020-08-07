@@ -42,4 +42,11 @@ tile_id: Intimidate
 cost: 4
 image: /images/Intimidate.png
 hero: warrior
+ko-KR_name: "Intimidate"
+ko-KR_description: "내 🔸이 2 증가합니다. 상대보다 ❤️이 높을 때만 사용할 수 있습니다"
+ko-KR_flavor: "'나 같은 얼굴을 가진 사람하고 정말로 박치기 대결을 하고 싶어?' 브루노가 목에서 뚜둑 소리를 내며 중얼거렸습니다."
+tile_id: Intimidate
+cost: 4
+image: /images/Intimidate.png
+hero: warrior
 ---

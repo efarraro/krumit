@@ -48,4 +48,12 @@ cost: 4
 image: /images/OracleRod.png
 durability: 3
 hero: mage
+ko-KR_name: "신탁의 지팡이"
+ko-KR_description: "보이는  <u>연소</u> 또는 <u>빙결</u> 상태의 적 하나당 이 타일의 비용이 1 💰 감소합니다"
+ko-KR_flavor: "'신탁의 지팡이는 인간이나 짐승에게 그들의 미래를 보여줄 수 있습니다. 그것은 언제나 고통스러운 일일 뿐입니다.' - 예언자 델핀"
+tile_id: OracleRod
+cost: 4
+image: /images/OracleRod.png
+durability: 3
+hero: mage
 ---

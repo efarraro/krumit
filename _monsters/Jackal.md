@@ -30,4 +30,9 @@ pl-PL_description: "Ten wróg pojawia się na planszy w ukryciu, więc nie może
 pl-PL_flavor: "Szakale są długodystansowcami, co pomaga im tchórzliwie uciekać z walki. Działają w grupach i często układają puzzle czekając w zasadzce."
 tile_id: Jackal
 image: /images/Jackal.png
+ko-KR_name: "자칼"
+ko-KR_description: "이 적은 시작부터 은신 상태여서, 전투에서 내가 공격하기 전까지 대상으로 지정할 수 없습니다."
+ko-KR_flavor: "자칼들은 장거리 달리기에 능숙합니다. 이는 그들이 완전히 겁쟁이라는 사실을 감안하면 도움이 되는 부분이죠. 그들은 무리를 지어 일하며, 누군가를 기습해야 하는 때가 아니면 보통 직소 퍼즐을 함께 완성시키며 놉니다."
+tile_id: Jackal
+image: /images/Jackal.png
 ---

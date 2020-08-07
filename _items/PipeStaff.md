@@ -48,4 +48,12 @@ cost: 5
 image: /images/PipeStaff.png
 durability: 3
 hero: mage
+ko-KR_name: "파이프 지팡이"
+ko-KR_description: "능력을 획득할 때마다 이 무기의 내구도가 1 회복됩니다"
+ko-KR_flavor: "예전에는 하수관이었지만, 이제는 강력한 비전 에너지를 전달합니다. 아직 냄새가 좀 나지만요."
+tile_id: PipeStaff
+cost: 5
+image: /images/PipeStaff.png
+durability: 3
+hero: mage
 ---

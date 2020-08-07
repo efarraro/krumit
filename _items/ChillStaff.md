@@ -48,4 +48,12 @@ cost: 3
 image: /images/ChillStaff.png
 durability: 2
 hero: mage
+ko-KR_name: "냉기의 지팡이"
+ko-KR_description: "이 무기로 적을 공격하여 처치할 때, <a href = '../ko_kr/abilities#Icebolt'>얼음 화살</a> 타일을 내 인벤토리에 추가합니다"
+ko-KR_flavor: "'머리를 좀 식히는 게 어때요, 할아버지?' - 그레이비어드의 첫 번째 제자, 아콘. '넌 파문이다.' - 그레이비어드가 그의 마지막 제자인 아콘에게."
+tile_id: ChillStaff
+cost: 3
+image: /images/ChillStaff.png
+durability: 2
+hero: mage
 ---

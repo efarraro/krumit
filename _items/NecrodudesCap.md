@@ -42,7 +42,15 @@ durability: 2
 hero: necromancer
 pl-PL_name: "Czapka Nekroziomka"
 pl-PL_description: "Gdy odparowujesz tym przedmiotem zwiększ maksymalne ❤️ swoich 💀 <u>Sługusy</u> o 2."
-pl-PL_flavor: "Ulubione nakrycie głowy Nekroziomków z bloków. Absorbuje energię kinetyczną uderzeń do pobliskich sługusów."
+pl-PL_flavor: "Ulubione nakrycie głowy Nekroziomków z bloków. Absorbuje energię kinetyczną otrzymanych uderzeń, po czym wykorzystuje ją by wzmocnić pobliskich sługusów."
+tile_id: NecrodudesCap
+cost: 2
+image: /images/NecrodudesCap.png
+durability: 2
+hero: necromancer
+ko-KR_name: "Necrodude's Cap"
+ko-KR_description: "이 아이템으로  <u>응수</u>할 때, 내 💀 <u>하수인</u>의 최대 ❤️이 2 증가합니다"
+ko-KR_flavor: "The chosen headgear of any self-respecting Necrodude! Absorbs kinetic energy before transferring it to nearby minions."
 tile_id: NecrodudesCap
 cost: 2
 image: /images/NecrodudesCap.png

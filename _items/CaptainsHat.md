@@ -41,8 +41,16 @@ image: /images/CaptainsHat.png
 durability: 2
 hero: necromancer
 pl-PL_name: "Kapelusz Kapitana"
-pl-PL_description: "Gdy blokujesz tym przedmiotem, zwiększ atak swoich sługusów o 1 (💀 <u>Sługus</u>)"
+pl-PL_description: "Gdy blokujesz tym przedmiotem, zwiększ 🔸 swoich sługusów o 1 (💀 <u>Sługus</u>)."
 pl-PL_flavor: "Jeden za wszystkich, potem wszyscy za jednym."
+tile_id: CaptainsHat
+cost: 2
+image: /images/CaptainsHat.png
+durability: 2
+hero: necromancer
+ko-KR_name: "Captain's Hat"
+ko-KR_description: "이 아이템을 획득하면, 내 💀 <u>하수인</u>의 🔸이 1 증가합니다"
+ko-KR_flavor: "Take one for the team, then lead the charge."
 tile_id: CaptainsHat
 cost: 2
 image: /images/CaptainsHat.png

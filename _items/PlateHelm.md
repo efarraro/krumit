@@ -48,4 +48,12 @@ cost: 3
 image: /images/PlateHelm.png
 durability: 3
 hero: warrior
+ko-KR_name: "Plate Helm"
+ko-KR_description: "이 타일을 장착하면, 장착된 모든 근접 무기가 해제됩니다"
+ko-KR_flavor: "머리 눌림에 개의치 않는다면 좋은 방어구입니다."
+tile_id: PlateHelm
+cost: 3
+image: /images/PlateHelm.png
+durability: 3
+hero: warrior
 ---

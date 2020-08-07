@@ -48,4 +48,12 @@ cost: 3
 image: /images/DeathblowKatana.png
 durability: 3
 hero: warrior
+ko-KR_name: "일격필살 카타나"
+ko-KR_description: "이 무기는 내가  <u>응수</u>한 직후에만 장착할 수 있습니다"
+ko-KR_flavor: "머나먼 땅에서 온 치명적인 무기입니다. 칼자루에는 '습득 시 외팔이 늑대에게 돌려주세요'라고 희미하게 적혀있습니다."
+tile_id: DeathblowKatana
+cost: 3
+image: /images/DeathblowKatana.png
+durability: 3
+hero: warrior
 ---

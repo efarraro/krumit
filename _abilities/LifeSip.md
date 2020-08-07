@@ -42,4 +42,11 @@ tile_id: LifeSip
 cost: 1
 image: /images/LifeSip.png
 hero: necromancer
+ko-KR_name: "생명력 한 모금"
+ko-KR_description: "대상 적에게 <u>관통</u> 피해를 2 주고 3 ❤️을 회복합니다. <u>Exhaust</u>"
+ko-KR_flavor: "'한 모금만! 나 마시게 좀 남겨줘!'"
+tile_id: LifeSip
+cost: 1
+image: /images/LifeSip.png
+hero: necromancer
 ---

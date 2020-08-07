@@ -48,4 +48,12 @@ cost: 3
 image: /images/CelestialMaul.png
 durability: 3
 hero: priest
+ko-KR_name: "천상의 망치"
+ko-KR_description: "내 ❤️이 가득 찬 동안, 이 무기의 🔸이 4 증가합니다. 🟦선택받음일 때만 사용할 수 있습니다"
+ko-KR_flavor: "A true artifact of the uncaring heavens, this pious pounder can only be wielded by those who embody the true relationship between light and shadow."
+tile_id: CelestialMaul
+cost: 3
+image: /images/CelestialMaul.png
+durability: 3
+hero: priest
 ---

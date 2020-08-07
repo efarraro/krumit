@@ -42,4 +42,11 @@ tile_id: Hamstring
 cost: 1
 image: /images/Hamstring.png
 hero: warrior
+ko-KR_name: "Hamstring"
+ko-KR_description: "전투 당 한 번, 이 타일을 사용하면 상대의 행동에서 🔸 이외의 모든 기호를 제거합니다"
+ko-KR_flavor: "놈들이 서 있지를 못하면 싸울 수도, 널 쫓을 수도 없어."
+tile_id: Hamstring
+cost: 1
+image: /images/Hamstring.png
+hero: warrior
 ---

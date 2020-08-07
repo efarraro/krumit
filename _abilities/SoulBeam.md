@@ -36,8 +36,15 @@ cost: 4
 image: /images/SoulBeam.png
 hero: necromancer
 pl-PL_name: "Strumień Duchowy"
-pl-PL_description: "Zadaj 2 <u>przenikliwy</u> obrażeń wskazanemu wrogowi i wszystkim wrogom w tej samej kolumnie. Naładuj gdy 💀 <u>Sługus</u> polegnie."
+pl-PL_description: "Zadaj 2 <u>przenikliwy</u> obrażeń wskazanemu wrogowi i wszystkim wrogom w tej samej kolumnie. Naładuj, gdy polegnie 💀 <u>Sługus</u>."
 pl-PL_flavor: "Muldorf szeroko rozłożył ramiona i eksplodował nieokiełznaną energią wchłoniętych dusz."
+tile_id: SoulBeam
+cost: 4
+image: /images/SoulBeam.png
+hero: necromancer
+ko-KR_name: "영혼 광선"
+ko-KR_description: "Deal 2 <u>관통</u> damage to target enemy and all enemies in the same column. Recharge after a 💀 <u>하수인</u> dies"
+ko-KR_flavor: "Muldorf opened his arms wide, and the lives he'd absorbed burst from his soul in an uncontrollable torrent."
 tile_id: SoulBeam
 cost: 4
 image: /images/SoulBeam.png

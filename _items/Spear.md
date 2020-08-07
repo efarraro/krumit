@@ -48,4 +48,12 @@ cost: 2
 image: /images/Spear.png
 durability: 2
 hero: warrior
+ko-KR_name: "Spear"
+ko-KR_description: "<u>관통</u>"
+ko-KR_flavor: "갑옷을 뜨거운 버터로 만듭니다. 진짜로 그렇다는 건 아닙니다. 마법이 걸린 게 아니에요!"
+tile_id: Spear
+cost: 2
+image: /images/Spear.png
+durability: 2
+hero: warrior
 ---

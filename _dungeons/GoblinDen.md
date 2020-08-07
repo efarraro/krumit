@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Filthy Gobloid Town"
-EN_description: "'The Gobloids are a tragic, filthy race – doomed by their stench to live as outcasts, forever shunned. I wonder if they can they smell each other?' - Krumit"
+EN_description: "'The Gobloids are a tragic, filthy race – doomed by their stench to live as outcasts, forever shunned. I wonder if they can smell each other?' - Krumit"
 tier: 0
 monsters:
   - monster:
@@ -19,7 +19,7 @@ monsters:
     quantity: 6
     url: /monsters/Gobloid
 ru-RU_name: "Грязный город гоблоидов"
-ru-RU_description: "«Гоблоиды - трагическая и грязная раса, обречённая вонью на жизнь изгоями, вечно сторонясь. Интересно, пахнут ли они друг другом?» - Крумит"
+ru-RU_description: "«Гоблоиды - трагическая и грязная раса, обречённая вонью на жизнь изгоями, вечно сторонясь. Интересно, пахнут ли они друг другом?» - Крамит"
 tier: 0
 monsters:
   - monster:
@@ -51,6 +51,15 @@ tier: 0
 monsters:
   - monster:
     name: "Gobloid"
+    image: /images/Gobloid.png
+    quantity: 6
+    url: /monsters/Gobloid
+ko-KR_name: "더러운 고블로이드 도시"
+ko-KR_description: "'The Gobloids are a tragic, filthy race – doomed by their stench to live as outcasts, forever shunned. I wonder if they can smell each other?' - Krumit"
+tier: 0
+monsters:
+  - monster:
+    name: "고블로이드"
     image: /images/Gobloid.png
     quantity: 6
     url: /monsters/Gobloid

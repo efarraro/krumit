@@ -16,7 +16,7 @@ image: /images/ExplosiveRunes.png
 hero: mage
 ru-RU_name: "Взрывные руны"
 ru-RU_description: "Уничтожает способность, затем наносит <u>пронзающий</u> урон соседним врагам, равный цене способности + 2. <u>Сжигается</u>."
-ru-RU_flavor: "Рунные кузнецы всегда предупреждают новых упрямых учеников, что не нужно в первую очередь связываться с взрывоопасными рунами. Рунные кузнецы постоянно нуждаются в учениках."
+ru-RU_flavor: "Рунные кузнецы всегда предупреждают новых упрямых учеников, что им ещё рано связываться с взрывными рунами. Рунные кузнецы постоянно нуждаются в учениках."
 tile_id: ExplosiveRunes
 cost: 2
 image: /images/ExplosiveRunes.png
@@ -38,6 +38,13 @@ hero: mage
 pl-PL_name: "Wybuchowe Runy"
 pl-PL_description: "Zniszcz wskazaną umiejętność. Zadaj przenikliwe (<u>przenikliwy</u>) obrażenia sąsiadującym przeciwnikom równe kosztowi tej zdolności + 2. <u>Wyczerpany</u>"
 pl-PL_flavor: "'Stosowanie run wybuchowych powoduje utratę kończyn lub życia.' ostrzega Minister ds. Runicznych"
+tile_id: ExplosiveRunes
+cost: 2
+image: /images/ExplosiveRunes.png
+hero: mage
+ko-KR_name: "폭발의 룬"
+ko-KR_description: "대상 능력을 파괴하고 인접한 적들에게 그 능력의 비용 + 2 만큼의 <u>관통</u> 피해를 줍니다. <u>Exhaust</u>"
+ko-KR_flavor: "룬 제작자들은 항상 신입 견습생들에게 폭발성 기호에 섣불리 손을 대지 말라고 경고합니다. 룬 제작자들은 많은 신입 견습생들을 받습니다."
 tile_id: ExplosiveRunes
 cost: 2
 image: /images/ExplosiveRunes.png

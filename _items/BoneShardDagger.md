@@ -48,4 +48,12 @@ cost: 3
 image: /images/BoneShardDagger.png
 durability: 3
 hero: necromancer
+ko-KR_name: "Bone Shard Dagger"
+ko-KR_description: "At the time you acquire this, the 🔸 of this weapon is increased by 1 for each 💀 <u>하수인</u> in your inventory"
+ko-KR_flavor: "Sharpened bone sharpened on bones."
+tile_id: BoneShardDagger
+cost: 3
+image: /images/BoneShardDagger.png
+durability: 3
+hero: necromancer
 ---

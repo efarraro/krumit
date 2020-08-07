@@ -36,8 +36,15 @@ cost: 1
 image: /images/PurgeDarkness.png
 hero: priest
 pl-PL_name: "Oczyszczenie z Ciemności"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. Podmień startową zaletę na 🟦Wybranka, po czym odnów 4 ❤️."
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. Podmień startową zaletę na 🟦Wybranka, po czym odnów 4 ❤️."
 pl-PL_flavor: 
+tile_id: PurgeDarkness
+cost: 1
+image: /images/PurgeDarkness.png
+hero: priest
+ko-KR_name: "어둠 정화"
+ko-KR_description: "<u><u>즉발</u></u>. 내 시작 특성을 🟦선택받음로 바꾸고, 4 ❤️을 회복합니다"
+ko-KR_flavor: 
 tile_id: PurgeDarkness
 cost: 1
 image: /images/PurgeDarkness.png

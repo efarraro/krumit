@@ -33,7 +33,7 @@ image: /images/Crossbow.png
 durability: 3
 hero: warrior
 ru-RU_name: "Арбалет"
-ru-RU_description: "Наносит 2 <u>пронзающий</u> урона выбранному врагу в верхнем или среднем ряду."
+ru-RU_description: "Наносит 2 <u>пронзающего</u> урона врагу в верхнем или среднем ряду."
 ru-RU_flavor: "Высокотехнологичный лук. Проще стрелять в трудную минуту."
 tile_id: Crossbow
 cost: 2
@@ -41,7 +41,7 @@ image: /images/Crossbow.png
 durability: 3
 hero: warrior
 ru-RU_name: "Арбалет"
-ru-RU_description: "Наносит 2 <u>пронзающий</u> урона выбранному врагу в верхнем или среднем ряду."
+ru-RU_description: "Наносит 2 <u>пронзающего</u> урона врагу в верхнем или среднем ряду."
 ru-RU_flavor: "Высокотехнологичный лук. Проще стрелять в трудную минуту."
 tile_id: Crossbow
 cost: 2
@@ -91,6 +91,22 @@ hero: warrior
 pl-PL_name: "Kusza"
 pl-PL_description: "Zadaj 2 przenikliwych (<u>przenikliwy</u>) obrażeń wskazanemu przeciwnikowi w górnym lub środkowym wierszu."
 pl-PL_flavor: "Technologicznie zaawansowany, łatwy w użyciu łuk."
+tile_id: Crossbow
+cost: 2
+image: /images/Crossbow.png
+durability: 3
+hero: warrior
+ko-KR_name: "Crossbow"
+ko-KR_description: "상단 또는 중단 행에 있는 대상 적에게 <u>관통</u> 피해를 2 줍니다"
+ko-KR_flavor: "최첨단 활입니다. 유사시에 더 쉽게 쏠 수 있습니다."
+tile_id: Crossbow
+cost: 2
+image: /images/Crossbow.png
+durability: 3
+hero: warrior
+ko-KR_name: "Crossbow"
+ko-KR_description: "상단 또는 중단 행에 있는 대상 적에게 <u>관통</u> 피해를 2 줍니다"
+ko-KR_flavor: "최첨단 활입니다. 유사시에 더 쉽게 쏠 수 있습니다."
 tile_id: Crossbow
 cost: 2
 image: /images/Crossbow.png

@@ -174,4 +174,33 @@ monsters:
     image: /images/Dragon.png
     quantity: 1
     url: /monsters/Dragon
+ko-KR_name: "마그마 분출 동굴"
+ko-KR_description: "'마그마 동굴, 드래고온 바르톨로뮤의 영역이지. 저번에 거기 갔을 때 수염을 태워 먹었는데, 일주일이나 악취가 나더라니깐.' - 그레이비어드"
+tier: 7
+monsters:
+  - monster:
+    name: "Ancient Skeleton"
+    image: /images/AncientSkeleton.png
+    quantity: 6
+    url: /monsters/AncientSkeleton
+  - monster:
+    name: "Windrunner"
+    image: /images/WindRunner.png
+    quantity: 6
+    url: /monsters/WindRunner
+  - monster:
+    name: "펑크"
+    image: /images/Harpy.png
+    quantity: 8
+    url: /monsters/Harpy
+  - monster:
+    name: "Trash Golem"
+    image: /images/TrashGolem.png
+    quantity: 4
+    url: /monsters/TrashGolem
+  - monster:
+    name: "바르톨로뮤"
+    image: /images/Dragon.png
+    quantity: 1
+    url: /monsters/Dragon
 ---

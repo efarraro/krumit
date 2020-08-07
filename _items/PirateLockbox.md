@@ -240,4 +240,44 @@ cost: 2
 image: /images/PirateLockbox.png
 durability: 1
 hero: warrior
+ko-KR_name: "Pirate Lockbox"
+ko-KR_description: "무작위 아이템을 <u>선발</u>합니다"
+ko-KR_flavor: "해적들은 의심 많은 타입의 사람들입니다. 해적 금고의 진정한 열쇠는 그들의 마음을 감동시키는 것입니다."
+tile_id: PirateLockbox
+cost: 2
+image: /images/PirateLockbox.png
+durability: 1
+hero: warrior
+ko-KR_name: "Pirate Lockbox"
+ko-KR_description: "무작위 아이템을 <u>선발</u>합니다"
+ko-KR_flavor: "해적들은 의심 많은 타입의 사람들입니다. 해적 금고의 진정한 열쇠는 그들의 마음을 감동시키는 것입니다."
+tile_id: PirateLockbox
+cost: 2
+image: /images/PirateLockbox.png
+durability: 1
+hero: warrior
+ko-KR_name: "Pirate Lockbox"
+ko-KR_description: "무작위 아이템을 <u>선발</u>합니다"
+ko-KR_flavor: "해적들은 의심 많은 타입의 사람들입니다. 해적 금고의 진정한 열쇠는 그들의 마음을 감동시키는 것입니다."
+tile_id: PirateLockbox
+cost: 2
+image: /images/PirateLockbox.png
+durability: 1
+hero: warrior
+ko-KR_name: "Pirate Lockbox"
+ko-KR_description: "무작위 아이템을 <u>선발</u>합니다"
+ko-KR_flavor: "해적들은 의심 많은 타입의 사람들입니다. 해적 금고의 진정한 열쇠는 그들의 마음을 감동시키는 것입니다."
+tile_id: PirateLockbox
+cost: 2
+image: /images/PirateLockbox.png
+durability: 1
+hero: warrior
+ko-KR_name: "Pirate Lockbox"
+ko-KR_description: "무작위 아이템을 <u>선발</u>합니다"
+ko-KR_flavor: "해적들은 의심 많은 타입의 사람들입니다. 해적 금고의 진정한 열쇠는 그들의 마음을 감동시키는 것입니다."
+tile_id: PirateLockbox
+cost: 2
+image: /images/PirateLockbox.png
+durability: 1
+hero: warrior
 ---

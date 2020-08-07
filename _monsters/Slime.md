@@ -30,4 +30,9 @@ pl-PL_description: "Nie możesz używać broni przeciwko Szlamorom. Kłopotliwa 
 pl-PL_flavor: "Jeżeli są pustymi workami śluzu to skąd ten jęzor? Lepiej się nie zbliżać, żeby się przekonać. Może wolą śmieci, ale w ostateczności zjedzą ludzkie mięso."
 tile_id: Slime
 image: /images/Slime.png
+ko-KR_name: "Globber"
+ko-KR_description: "Well, this is awkward.  This enemy is immune to weapons."
+ko-KR_flavor: "Are they hollow bags of slime? If so, where does their tongue start? Best not think too much about it. They prefer trash, but human flesh will do in a pinch."
+tile_id: Slime
+image: /images/Slime.png
 ---

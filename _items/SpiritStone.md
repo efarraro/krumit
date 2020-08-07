@@ -41,8 +41,16 @@ image: /images/SpiritStone.png
 durability: 3
 hero: priest
 pl-PL_name: "Kamień Duszy"
-pl-PL_description: "Gdy uzyskasz ten przedmiot, zachowa on twój aktualny stan ❤️. Użyj przedmiotu aby ustawić ❤️ na zachowany stan (nie liczy się jako leczenie)."
+pl-PL_description: "Gdy uzyskasz ten przedmiot, zachowa on twój aktualny stan ❤️. Użyj przedmiotu, aby ustawić ❤️ na zachowany stan (nie liczy się jako leczenie)."
 pl-PL_flavor: "Kto wie ile dusz zostało uwięzionych w tym piekielnym kamieniu..."
+tile_id: SpiritStone
+cost: 4
+image: /images/SpiritStone.png
+durability: 3
+hero: priest
+ko-KR_name: "영혼의 돌"
+ko-KR_description: "이 타일을 획득하면 현재 ❤️값을 저장합니다. 사용하면 내 ❤️을 그 값으로 만듭니다(치유로 간주되지 않음)"
+ko-KR_flavor: "얼마나 많은 영혼들이 이 지옥의 돌 안에서 잠들지 못하고 갇혀있는지 누가 알겠습니까?"
 tile_id: SpiritStone
 cost: 4
 image: /images/SpiritStone.png

@@ -48,4 +48,12 @@ cost: 1
 image: /images/SpikedClub.png
 durability: 2
 hero: warrior
+ko-KR_name: "가시 박힌 곤봉"
+ko-KR_description: "이 무기로 공격한 뒤에 내가 <u>관통</u> 피해를 1 받습니다."
+ko-KR_flavor: "부랑아들이 좋아하는 치명적인 무기입니다."
+tile_id: SpikedClub
+cost: 1
+image: /images/SpikedClub.png
+durability: 2
+hero: warrior
 ---

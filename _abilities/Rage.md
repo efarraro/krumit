@@ -36,8 +36,15 @@ cost: 4
 image: /images/Rage.png
 hero: warrior
 pl-PL_name: "Amok"
-pl-PL_description: "Uzyskaj +3 🔸. Otrzymaj obrażenia dwukrotnie aby naładować."
+pl-PL_description: "Uzyskaj +3 🔸. Otrzymaj obrażenia dwukrotnie, aby naładować."
 pl-PL_flavor: "Skoczyło ciśnienie?"
+tile_id: Rage
+cost: 4
+image: /images/Rage.png
+hero: warrior
+ko-KR_name: "Rage"
+ko-KR_description: "내 🔸이 3 증가합니다. 피해를 두 번 받으면 재충전됩니다"
+ko-KR_flavor: "피가 거꾸로 솟네."
 tile_id: Rage
 cost: 4
 image: /images/Rage.png

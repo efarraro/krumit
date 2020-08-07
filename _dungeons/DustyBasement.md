@@ -54,4 +54,13 @@ monsters:
     image: /images/Skeleton.png
     quantity: 6
     url: /monsters/Skeleton
+ko-KR_name: "먼지투성이 지하실"
+ko-KR_description: "이 먼지투성이 지하실은 강력한 향수를 불러일으킵니다."
+tier: 0
+monsters:
+  - monster:
+    name: "Skeleton"
+    image: /images/Skeleton.png
+    quantity: 6
+    url: /monsters/Skeleton
 ---

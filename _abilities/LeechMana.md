@@ -42,4 +42,11 @@ tile_id: LeechMana
 cost: 1
 image: /images/LeechMana.png
 hero: mage
+ko-KR_name: "마나 착취"
+ko-KR_description: "대상 적에게 <u>관통</u> 피해를 2 주고 인접한 주문의 비용을 2 감소시킵니다. <u>Exhaust</u>"
+ko-KR_flavor: "뭐야? 사용법을 잘 모르고 있잖아! - '마나 흡혈귀' 루카 카르도소"
+tile_id: LeechMana
+cost: 1
+image: /images/LeechMana.png
+hero: mage
 ---

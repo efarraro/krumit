@@ -48,4 +48,12 @@ cost: 3
 image: /images/LeatherArmor.png
 durability: 3
 hero: rogue
+ko-KR_name: "Leather Armor"
+ko-KR_description: "전투에서 도망칠 때 이 아이템이 활성화되어 있으면 <u>은신</u>을 얻습니다"
+ko-KR_flavor: "어디에서나 산적과 악당의 공식 유니폼입니다."
+tile_id: LeatherArmor
+cost: 3
+image: /images/LeatherArmor.png
+durability: 3
+hero: rogue
 ---

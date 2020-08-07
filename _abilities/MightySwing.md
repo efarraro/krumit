@@ -42,4 +42,11 @@ tile_id: MightySwing
 cost: 2
 image: /images/MightySwing.png
 hero: warrior
+ko-KR_name: "크게 휘두르기"
+ko-KR_description: "장착된 근접무기의 피해량만큼 내 🔸이 증가합니다. 전투에서 6 라운드가 지난 뒤 재충전됩니다"
+ko-KR_flavor: "으아아아아! - 라마타우르스 그레고리"
+tile_id: MightySwing
+cost: 2
+image: /images/MightySwing.png
+hero: warrior
 ---

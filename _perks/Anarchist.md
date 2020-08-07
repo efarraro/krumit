@@ -24,4 +24,8 @@ pl-PL_name: "Anarchista"
 pl-PL_description: "Gdy podpalasz ( <u>podpalenie</u>) przeciwnika, zwiększ wartość o 1."
 tile_id: Anarchist
 image: /images/Anarchist.png
+ko-KR_name: "Anarchist"
+ko-KR_description: "적을  <u>연소</u>시킬 때의 피해량이 1 증가합니다."
+tile_id: Anarchist
+image: /images/Anarchist.png
 ---

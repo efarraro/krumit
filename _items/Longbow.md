@@ -96,4 +96,20 @@ cost: 2
 image: /images/Longbow.png
 durability: 2
 hero: warrior
+ko-KR_name: "장궁"
+ko-KR_description: "상단 행에 있는 대상 적에게 <u>관통</u> 피해를 4 줍니다"
+ko-KR_flavor: "냄새 나거나 위험한 적과 거리를 유지하기에 좋습니다."
+tile_id: Longbow
+cost: 2
+image: /images/Longbow.png
+durability: 2
+hero: warrior
+ko-KR_name: "장궁"
+ko-KR_description: "상단 행에 있는 대상 적에게 <u>관통</u> 피해를 4 줍니다"
+ko-KR_flavor: "냄새 나거나 위험한 적과 거리를 유지하기에 좋습니다."
+tile_id: Longbow
+cost: 2
+image: /images/Longbow.png
+durability: 2
+hero: warrior
 ---

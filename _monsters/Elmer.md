@@ -27,7 +27,12 @@ tile_id: Elmer
 image: /images/Elmer.png
 pl-PL_name: "Dąbromir"
 pl-PL_description: "Dąbromir otrzymuje podwójne obrażenia gdy jest <u>ogłuszony</u>. Gdy pokonasz innego Treanta, Dąbromir otrzymuje 5 obrażeń."
-pl-PL_flavor: "Dąbromir, Strażnik Drzewoludzi, wykorzystuje sieć samoświadomej grzybni aby podsłuchiwać rozmów w lesie. Czasami wiewiórki zajmują linię żeby plotkować o żołędziach."
+pl-PL_flavor: "Dąbromir, Strażnik Drzewoludzi, wykorzystuje sieć samoświadomej grzybni, aby podsłuchiwać rozmów w lesie. Czasami wiewiórki zajmują linię żeby plotkować o żołędziach."
+tile_id: Elmer
+image: /images/Elmer.png
+ko-KR_name: "Elmer"
+ko-KR_description: "Elmer takes double damage while <u>stunned</u>.  When you defeat another Treant, Elmer takes 5 damage"
+ko-KR_flavor: "Herald of the Treepeeps, Elmer can tap in to a network of sentient funghi to stay alert and overhear secrets. Dislike squirrels."
 tile_id: Elmer
 image: /images/Elmer.png
 ---

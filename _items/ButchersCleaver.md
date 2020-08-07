@@ -41,8 +41,16 @@ image: /images/ButchersCleaver.png
 durability: 3
 hero: warrior
 pl-PL_name: "Rzeźniczy Tasak"
-pl-PL_description: "Zadaje dodatkowe 2 obrażeń zranionym przeciwnikom"
+pl-PL_description: "Zadaje dodatkowe 2 🔸 obrażeń zranionym przeciwnikom."
 pl-PL_flavor: "Broń tak brutalna, że powraca w koszmarach twoich przeciwników."
+tile_id: ButchersCleaver
+cost: 2
+image: /images/ButchersCleaver.png
+durability: 3
+hero: warrior
+ko-KR_name: "도살자의 식칼"
+ko-KR_description: "피해를 받은 적을 공격할 때 이 무기가 +2 🔸을 얻습니다"
+ko-KR_flavor: "상대에게 악몽을 선사하는 다소 잔인한 무기입니다."
 tile_id: ButchersCleaver
 cost: 2
 image: /images/ButchersCleaver.png

@@ -48,4 +48,12 @@ cost: 3
 image: /images/BatKingsMantle.png
 durability: 3
 hero: priest
+ko-KR_name: "박쥐 왕의 망토"
+ko-KR_description: "🟦여왕을 가진 경우에만 장착 가능합니다"
+ko-KR_flavor: "한때 사랑받았던 박쥐 왕의 망토는 이제 왕의 풍채를 가진 자들만이 착용할 수 있습니다."
+tile_id: BatKingsMantle
+cost: 3
+image: /images/BatKingsMantle.png
+durability: 3
+hero: priest
 ---

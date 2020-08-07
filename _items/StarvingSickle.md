@@ -41,8 +41,16 @@ image: /images/StarvingSickle.png
 durability: 3
 hero: necromancer
 pl-PL_name: "Wygłodniały Sierp"
-pl-PL_description: "Koszt 💰 jest obniżony o ilość utraconego ❤️ (0)."
+pl-PL_description: "Koszt 💰 jest obniżony o wartość utraconego ❤️ (0)."
 pl-PL_flavor: "Apetyt sierpa rośnie w miarę jedzenia ducha."
+tile_id: StarvingSickle
+cost: 9
+image: /images/StarvingSickle.png
+durability: 3
+hero: necromancer
+ko-KR_name: "Starving Sickle"
+ko-KR_description: "내가 잃은 ❤️의 양만큼 이 무기의 비용이 감소합니다(0 💰)"
+ko-KR_flavor: "Enchanted with a soul-link, this fickle sickle works at the peak of its wielder's appetite (for bread and/or destruction)."
 tile_id: StarvingSickle
 cost: 9
 image: /images/StarvingSickle.png

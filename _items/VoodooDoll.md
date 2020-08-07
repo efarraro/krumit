@@ -42,7 +42,15 @@ durability: 3
 hero: necromancer
 pl-PL_name: "Laleczka Voodoo"
 pl-PL_description: "Wskaż wroga. Dopóki nie zostanie pokonany, otrzymuje 4 przenikliwych (<u>przenikliwy</u>) obrażeń za każdym razem gdy przywołasz sługusa."
-pl-PL_flavor: "Zużyte lalki voodoo można ponownie wprowadzić do obiegu jako prezenty dla małych dzieci. Tylko lepiej nie mów im skąd je masz."
+pl-PL_flavor: "Zużyte lalki voodoo można ponownie wprowadzić do obiegu jako prezenty dla małych dzieci. Lepiej nie wspominać skąd je masz."
+tile_id: VoodooDoll
+cost: 2
+image: /images/VoodooDoll.png
+durability: 3
+hero: necromancer
+ko-KR_name: "Voodoo Doll"
+ko-KR_description: "적을 대상으로 지정합니다. 그 적이 죽을 때까지, 내가 하수인을 소환할 때마다 그 적에게 <u>관통</u> 피해를 4 줍니다"
+ko-KR_flavor: "'이미 사용된' 부두 인형은 어린 아이들을 위한 선물로 안전하게 재활용 가능합니다. 그래도 어디서 났는지는 알려주지 마세요."
 tile_id: VoodooDoll
 cost: 2
 image: /images/VoodooDoll.png

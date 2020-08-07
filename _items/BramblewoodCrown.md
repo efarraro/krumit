@@ -48,4 +48,12 @@ cost: 2
 image: /images/BramblewoodCrown.png
 durability: 3
 hero: priest
+ko-KR_name: "가시나무 왕관"
+ko-KR_description: "이 아이템으로 방어할 때, 🛡️️ <u>block</u>(0)와 동일한 만큼의 <u>thorns</u>를 가집니다"
+ko-KR_flavor: "A bit itchy for you, very scratchy for them."
+tile_id: BramblewoodCrown
+cost: 2
+image: /images/BramblewoodCrown.png
+durability: 3
+hero: priest
 ---

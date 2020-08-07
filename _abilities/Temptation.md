@@ -36,8 +36,15 @@ cost: 4
 image: /images/Temptation.png
 hero: priest
 pl-PL_name: "Kuszenie"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. +1 🔸 do końca lochu. Wtasuj 3 <u>klątwy</u> do talii."
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. +1 🔸 do końca lochu. Wtasuj 3 <u>klątwy</u> do talii."
 pl-PL_flavor: "Wbrew wszystkiemu, kuszenie ma niezłe wzięcie. Mało kogo obchodzi grzech, skoro dostają coś w zamian."
+tile_id: Temptation
+cost: 4
+image: /images/Temptation.png
+hero: priest
+ko-KR_name: "Temptation"
+ko-KR_description: "<u><u>즉발</u></u>. 이번 던전에서 내 기본 🔸이 1 증가합니다. <u>저주</u>를 3장 덱에 섞어 넣습니다"
+ko-KR_flavor: "유혹은 나쁜 평판을 얻습니다. 설령 죄라고 해도 원하는 것을 얻을 수 있다면 무슨 상관이 있겠어요?"
 tile_id: Temptation
 cost: 4
 image: /images/Temptation.png

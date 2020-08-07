@@ -48,4 +48,12 @@ cost: 2
 image: /images/FirestarterStaff.png
 durability: 2
 hero: mage
+ko-KR_name: "부싯돌 지팡이 MK II"
+ko-KR_description: "이 타일을 획득했을 때 인접한 모든 적을  <u>연소</u>(2)시킵니다"
+ko-KR_flavor: "그레이비어드는 첫 번째 지팡이에 난연 마법을 추가하는 것을 잊어버렸고, 그의 눈썹은 예전의 모습을 잃어버렸습니다."
+tile_id: FirestarterStaff
+cost: 2
+image: /images/FirestarterStaff.png
+durability: 2
+hero: mage
 ---

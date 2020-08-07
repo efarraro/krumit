@@ -201,7 +201,7 @@ image: /images/GoldChest.png
 durability: 1
 hero: warrior
 pl-PL_name: "Złota Skrzynka"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. +3 💰"
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. +3 💰"
 pl-PL_flavor: "Sama skrzynia pewnie jest warta więcej niż zawartość, ale nie zmieści się w kieszeni."
 tile_id: GoldChest
 cost: 0
@@ -209,7 +209,7 @@ image: /images/GoldChest.png
 durability: 1
 hero: warrior
 pl-PL_name: "Złota Skrzynka"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. +3 💰"
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. +3 💰"
 pl-PL_flavor: "Sama skrzynia pewnie jest warta więcej niż zawartość, ale nie zmieści się w kieszeni."
 tile_id: GoldChest
 cost: 0
@@ -217,7 +217,7 @@ image: /images/GoldChest.png
 durability: 1
 hero: warrior
 pl-PL_name: "Złota Skrzynka"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. +3 💰"
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. +3 💰"
 pl-PL_flavor: "Sama skrzynia pewnie jest warta więcej niż zawartość, ale nie zmieści się w kieszeni."
 tile_id: GoldChest
 cost: 0
@@ -225,7 +225,7 @@ image: /images/GoldChest.png
 durability: 1
 hero: warrior
 pl-PL_name: "Złota Skrzynka"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. +3 💰"
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. +3 💰"
 pl-PL_flavor: "Sama skrzynia pewnie jest warta więcej niż zawartość, ale nie zmieści się w kieszeni."
 tile_id: GoldChest
 cost: 0
@@ -233,8 +233,48 @@ image: /images/GoldChest.png
 durability: 1
 hero: warrior
 pl-PL_name: "Złota Skrzynka"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. +3 💰"
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. +3 💰"
 pl-PL_flavor: "Sama skrzynia pewnie jest warta więcej niż zawartość, ale nie zmieści się w kieszeni."
+tile_id: GoldChest
+cost: 0
+image: /images/GoldChest.png
+durability: 1
+hero: warrior
+ko-KR_name: "Golden Chest"
+ko-KR_description: "<u><u>즉발</u></u>. 3 💰을 얻습니다"
+ko-KR_flavor: "상자 자체가 보물보다 더 가치 있겠지만, 주머니에 들어가지 않을 겁니다."
+tile_id: GoldChest
+cost: 0
+image: /images/GoldChest.png
+durability: 1
+hero: warrior
+ko-KR_name: "Golden Chest"
+ko-KR_description: "<u><u>즉발</u></u>. 3 💰을 얻습니다"
+ko-KR_flavor: "상자 자체가 보물보다 더 가치 있겠지만, 주머니에 들어가지 않을 겁니다."
+tile_id: GoldChest
+cost: 0
+image: /images/GoldChest.png
+durability: 1
+hero: warrior
+ko-KR_name: "Golden Chest"
+ko-KR_description: "<u><u>즉발</u></u>. 3 💰을 얻습니다"
+ko-KR_flavor: "상자 자체가 보물보다 더 가치 있겠지만, 주머니에 들어가지 않을 겁니다."
+tile_id: GoldChest
+cost: 0
+image: /images/GoldChest.png
+durability: 1
+hero: warrior
+ko-KR_name: "Golden Chest"
+ko-KR_description: "<u><u>즉발</u></u>. 3 💰을 얻습니다"
+ko-KR_flavor: "상자 자체가 보물보다 더 가치 있겠지만, 주머니에 들어가지 않을 겁니다."
+tile_id: GoldChest
+cost: 0
+image: /images/GoldChest.png
+durability: 1
+hero: warrior
+ko-KR_name: "Golden Chest"
+ko-KR_description: "<u><u>즉발</u></u>. 3 💰을 얻습니다"
+ko-KR_flavor: "상자 자체가 보물보다 더 가치 있겠지만, 주머니에 들어가지 않을 겁니다."
 tile_id: GoldChest
 cost: 0
 image: /images/GoldChest.png

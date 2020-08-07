@@ -48,4 +48,12 @@ cost: 2
 image: /images/ThiefGlove.png
 durability: 2
 hero: rogue
+ko-KR_name: "Thief's Glove"
+ko-KR_description: "내가 도망갈 때 이 아이템이 장착되어 있으면 1 💰을 얻습니다"
+ko-KR_flavor: "이 장갑은 손가락이 끈적끈적합니다. 비상시에 유용하죠."
+tile_id: ThiefGlove
+cost: 2
+image: /images/ThiefGlove.png
+durability: 2
+hero: rogue
 ---

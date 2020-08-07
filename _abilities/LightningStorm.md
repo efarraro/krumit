@@ -30,7 +30,7 @@ image: /images/LightningStorm.png
 hero: mage
 es-ES_name: "Tormenta Eléctrica"
 es-ES_description: "Haz 4 de daño <u>penetrante</u> a todos los enemigos en el tablero. <u>Agota</u>"
-es-ES_flavor: "Esta tormenta definitivemente no está contenida en una tacita de té."
+es-ES_flavor: "Esta tormenta definitivamente no está contenida en una tacita de té."
 tile_id: LightningStorm
 cost: 4
 image: /images/LightningStorm.png
@@ -38,6 +38,13 @@ hero: mage
 pl-PL_name: "Burza z Piorunami"
 pl-PL_description: "Zadaj 4 przenikliwych (<u>przenikliwy</u>) obrażeń wszystkim przeciwnikom na planszy. <u>Wyczerpany</u>"
 pl-PL_flavor: "Z dużej chmury dużo piorunów."
+tile_id: LightningStorm
+cost: 4
+image: /images/LightningStorm.png
+hero: mage
+ko-KR_name: "Lightning Storm"
+ko-KR_description: "보드에 있는 모든 적에게 <u>관통</u> 피해를 4 줍니다. <u>Exhaust</u>"
+ko-KR_flavor: "이 폭풍은 확실하게 찻잔 안에 들어있지 않습니다."
 tile_id: LightningStorm
 cost: 4
 image: /images/LightningStorm.png

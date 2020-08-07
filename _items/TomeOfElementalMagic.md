@@ -48,4 +48,12 @@ cost: 3
 image: /images/TomeOfElementalMagic.png
 durability: 3
 hero: mage
+ko-KR_name: "기초 마법서"
+ko-KR_description: "비용이 2 💰 이하인 능력을 <u>선발</u>합니다"
+ko-KR_flavor: "'이것이 이제 여러분의 성경입니다. 그저... 침대에서 읽지 마십시오.' - 마법사 아카데미 학장 그럼블고어"
+tile_id: TomeOfElementalMagic
+cost: 3
+image: /images/TomeOfElementalMagic.png
+durability: 3
+hero: mage
 ---

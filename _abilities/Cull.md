@@ -42,4 +42,11 @@ tile_id: Cull
 cost: 1
 image: /images/Cull.png
 hero: rogue
+ko-KR_name: "도태"
+ko-KR_description: "보스가 아닌 <u>고립</u> 상태의 적을 파괴합니다. <u>Exhaust</u>"
+ko-KR_flavor: "친구를 가까이 두고, 적을 멀리, 가급적 쉽게 볼 수 있는 곳에 두어라."
+tile_id: Cull
+cost: 1
+image: /images/Cull.png
+hero: rogue
 ---

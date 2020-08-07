@@ -36,8 +36,15 @@ cost: -99
 image: /images/Tombstone.png
 durability: 1
 pl-PL_name: "Nagrobek"
-pl-PL_description: "Zapłać 3 punktów zdrowia aby przywołać Szkielet. Odrzuć aby wyleczyć siebie o 2 punkty zdrowia i sługusów o 1 punkt zdrowia"
+pl-PL_description: "Zapłać 3 ❤️, aby przywołać Szkielet. Odrzuć aby wyleczyć siebie o 2 ❤️ i sługusów o 1 ❤️."
 pl-PL_flavor: "'Jeżeli nagrobek jest na wierzchu to trup to pod-grobek! Haha-ha!' - ulubiony żart Muldorfa. Niestety."
+tile_id: Tombstone
+cost: -99
+image: /images/Tombstone.png
+durability: 1
+ko-KR_name: "Tombstone"
+ko-KR_description: "3 ❤️을 지불하여 Skeleton 💀 <u>하수인</u>을 소환합니다. 이 타일을 버리면 내 ❤️을 2 회복하고 내 하수인들의 ❤️을 1 회복시킵니다"
+ko-KR_flavor: "'Tombstone? More like, soon-bones! Bwahahah!' - Muldorf's favourite joke. Unfortunately."
 tile_id: Tombstone
 cost: -99
 image: /images/Tombstone.png

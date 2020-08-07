@@ -201,7 +201,7 @@ image: /images/TreasureChest.png
 durability: 1
 hero: warrior
 pl-PL_name: "Skrzynia skarbów"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. Uzyskaj 2 💰."
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. Uzyskaj 2 💰."
 pl-PL_flavor: "Pieniądze nie rosną na drzewach. Z jakiegoś powodu rosną w środku tych skrzyń."
 tile_id: TreasureChest
 cost: 0
@@ -209,7 +209,7 @@ image: /images/TreasureChest.png
 durability: 1
 hero: warrior
 pl-PL_name: "Skrzynia skarbów"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. Uzyskaj 2 💰."
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. Uzyskaj 2 💰."
 pl-PL_flavor: "Pieniądze nie rosną na drzewach. Z jakiegoś powodu rosną w środku tych skrzyń."
 tile_id: TreasureChest
 cost: 0
@@ -217,7 +217,7 @@ image: /images/TreasureChest.png
 durability: 1
 hero: warrior
 pl-PL_name: "Skrzynia skarbów"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. Uzyskaj 2 💰."
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. Uzyskaj 2 💰."
 pl-PL_flavor: "Pieniądze nie rosną na drzewach. Z jakiegoś powodu rosną w środku tych skrzyń."
 tile_id: TreasureChest
 cost: 0
@@ -225,7 +225,7 @@ image: /images/TreasureChest.png
 durability: 1
 hero: warrior
 pl-PL_name: "Skrzynia skarbów"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. Uzyskaj 2 💰."
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. Uzyskaj 2 💰."
 pl-PL_flavor: "Pieniądze nie rosną na drzewach. Z jakiegoś powodu rosną w środku tych skrzyń."
 tile_id: TreasureChest
 cost: 0
@@ -233,8 +233,48 @@ image: /images/TreasureChest.png
 durability: 1
 hero: warrior
 pl-PL_name: "Skrzynia skarbów"
-pl-PL_description: "<u><u>Niezwłoczny</u></u>. Uzyskaj 2 💰."
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. Uzyskaj 2 💰."
 pl-PL_flavor: "Pieniądze nie rosną na drzewach. Z jakiegoś powodu rosną w środku tych skrzyń."
+tile_id: TreasureChest
+cost: 0
+image: /images/TreasureChest.png
+durability: 1
+hero: warrior
+ko-KR_name: "Treasure Chest"
+ko-KR_description: "<u><u>즉발</u></u>. 2 💰을 얻습니다"
+ko-KR_flavor: "돈은 땅에서 솟아나지 않습니다. 이런 곳에서 솟아나는 거죠."
+tile_id: TreasureChest
+cost: 0
+image: /images/TreasureChest.png
+durability: 1
+hero: warrior
+ko-KR_name: "Treasure Chest"
+ko-KR_description: "<u><u>즉발</u></u>. 2 💰을 얻습니다"
+ko-KR_flavor: "돈은 땅에서 솟아나지 않습니다. 이런 곳에서 솟아나는 거죠."
+tile_id: TreasureChest
+cost: 0
+image: /images/TreasureChest.png
+durability: 1
+hero: warrior
+ko-KR_name: "Treasure Chest"
+ko-KR_description: "<u><u>즉발</u></u>. 2 💰을 얻습니다"
+ko-KR_flavor: "돈은 땅에서 솟아나지 않습니다. 이런 곳에서 솟아나는 거죠."
+tile_id: TreasureChest
+cost: 0
+image: /images/TreasureChest.png
+durability: 1
+hero: warrior
+ko-KR_name: "Treasure Chest"
+ko-KR_description: "<u><u>즉발</u></u>. 2 💰을 얻습니다"
+ko-KR_flavor: "돈은 땅에서 솟아나지 않습니다. 이런 곳에서 솟아나는 거죠."
+tile_id: TreasureChest
+cost: 0
+image: /images/TreasureChest.png
+durability: 1
+hero: warrior
+ko-KR_name: "Treasure Chest"
+ko-KR_description: "<u><u>즉발</u></u>. 2 💰을 얻습니다"
+ko-KR_flavor: "돈은 땅에서 솟아나지 않습니다. 이런 곳에서 솟아나는 거죠."
 tile_id: TreasureChest
 cost: 0
 image: /images/TreasureChest.png

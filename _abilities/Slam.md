@@ -42,4 +42,11 @@ tile_id: Slam
 cost: 3
 image: /images/Slam.png
 hero: warrior
+ko-KR_name: "내리꽂기"
+ko-KR_description: "전투에서 내 현재 ❤️(*10*)과 동일한 만큼의 피해를 줍니다. 내 ❤️이 가득 찬 상태라면, 추가로 <u>기절</u>시킵니다. Exhuast"
+ko-KR_flavor: "조용히 하세요!"
+tile_id: Slam
+cost: 3
+image: /images/Slam.png
+hero: warrior
 ---

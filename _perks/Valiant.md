@@ -28,4 +28,8 @@ ko-KR_name: "용맹"
 ko-KR_description: "<u>압도당함</u>: +2 🔸을 얻습니다"
 tile_id: Valiant
 image: /images/Valiant.png
+cs-CZ_name: "Valiant"
+cs-CZ_description: "<u>Zahlcení</u>: Získáš +2 🔸"
+tile_id: Valiant
+image: /images/Valiant.png
 ---

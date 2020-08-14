@@ -24,8 +24,12 @@ pl-PL_name: "Chłód"
 pl-PL_description: "Raz na walkę, zamroź (<u>zamrożenie</u>) przeciwnika go jeżeli jego akcja zawierała 🔸."
 tile_id: Chill
 image: /images/Chill.png
-ko-KR_name: "Chill"
-ko-KR_description: "Once per battle, after your opponent acts, <u>빙결</u> them if their action contained 🔸"
+ko-KR_name: "오한"
+ko-KR_description: "전투 당 한 번, 상대의 행동에 🔸이 포함되어 있을 경우, 상대가 행동한 후 <u>빙결</u>시킵니다."
+tile_id: Chill
+image: /images/Chill.png
+cs-CZ_name: "Chlad"
+cs-CZ_description: "Jednou za souboj vyvolá po tahu soupeře <u>zmražení</u>, ovšem pokud chystaný tah nepřítele obsahuje 🔸."
 tile_id: Chill
 image: /images/Chill.png
 ---

@@ -149,7 +149,7 @@ ko-KR_description: "'브램블의 투기장으로 오십시오! 마을에서 가
 tier: 2
 monsters:
   - monster:
-    name: "Barbearian"
+    name: "바베어리안"
     image: /images/Bear.png
     quantity: 2
     url: /monsters/Bear
@@ -165,6 +165,30 @@ monsters:
     url: /monsters/Gobloid
   - monster:
     name: "브램블"
+    image: /images/Bramble.png
+    quantity: 1
+    url: /monsters/Bramble
+cs-CZ_name: "Aréna pana Brambla"
+cs-CZ_description: "„Vstupte do Bramblovy arény! Do místa, kde se odehrávají nejzajímavější souboje ve městě! Vše legální!“ – Shadrat, vyvolávač"
+tier: 2
+monsters:
+  - monster:
+    name: "Barběd"
+    image: /images/Bear.png
+    quantity: 2
+    url: /monsters/Bear
+  - monster:
+    name: "Rolník"
+    image: /images/Peasant.png
+    quantity: 3
+    url: /monsters/Peasant
+  - monster:
+    name: "Gobloid"
+    image: /images/Gobloid.png
+    quantity: 3
+    url: /monsters/Gobloid
+  - monster:
+    name: "Bramble"
     image: /images/Bramble.png
     quantity: 1
     url: /monsters/Bramble

@@ -28,4 +28,8 @@ ko-KR_name: "Vampire"
 ko-KR_description: "전투에서 적을 처치할 때마다 2 ❤️을 회복합니다. 타일을 버릴 때 더 이상 ❤️이 회복되지 않습니다"
 tile_id: Vampire
 image: /images/Vampire.png
+cs-CZ_name: "Upír"
+cs-CZ_description: "Obnoví 2 ❤️ pokaždé, když porazíš nepřítele v souboji. Odkládání dlaždic ale již neobnovuje ❤️."
+tile_id: Vampire
+image: /images/Vampire.png
 ---

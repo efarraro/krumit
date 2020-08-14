@@ -24,8 +24,12 @@ pl-PL_name: "Dziarski"
 pl-PL_description: "Zwiększa maksymalne ❤️ o 6."
 tile_id: Stout
 image: /images/Stout.png
-ko-KR_name: "Stout"
+ko-KR_name: "완강함"
 ko-KR_description: "최대 ❤️이 6 증가합니다"
+tile_id: Stout
+image: /images/Stout.png
+cs-CZ_name: "Tlusťoch"
+cs-CZ_description: "Zvýší maximální počet ❤️ o 6."
 tile_id: Stout
 image: /images/Stout.png
 ---

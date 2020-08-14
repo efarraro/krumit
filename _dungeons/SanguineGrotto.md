@@ -214,22 +214,56 @@ monsters:
     quantity: 4
     url: /monsters/Skeleton
   - monster:
-    name: "Globber"
+    name: "끈끈이덩어리"
     image: /images/Slime.png
     quantity: 2
     url: /monsters/Slime
   - monster:
-    name: "황무지 폭력배"
+    name: "Wasteland Thug"
     image: /images/Knave.png
     quantity: 6
     url: /monsters/Knave
   - monster:
-    name: "Scalywag"
+    name: "뱃사람"
     image: /images/PirateGirl.png
     quantity: 1
     url: /monsters/PirateGirl
   - monster:
-    name: "Zealnut"
+    name: "질너트"
+    image: /images/Zealnut.png
+    quantity: 5
+    url: /monsters/Zealnut
+  - monster:
+    name: "Cardoso"
+    image: /images/Cardoso.png
+    quantity: 1
+    url: /monsters/Cardoso
+cs-CZ_name: "Cardosova veselá jeskyně"
+cs-CZ_description: "Poh Rei Cardoso sedí osamocen uvnitř krvavě červených zdí svého rustikálního obydlí. A nenávidí návštěvníky."
+tier: 5
+monsters:
+  - monster:
+    name: "Kostlivec"
+    image: /images/Skeleton.png
+    quantity: 4
+    url: /monsters/Skeleton
+  - monster:
+    name: "Vyhnanec"
+    image: /images/Slime.png
+    quantity: 2
+    url: /monsters/Slime
+  - monster:
+    name: "Zpustlý lupič"
+    image: /images/Knave.png
+    quantity: 6
+    url: /monsters/Knave
+  - monster:
+    name: "Spratek"
+    image: /images/PirateGirl.png
+    quantity: 1
+    url: /monsters/PirateGirl
+  - monster:
+    name: "Horlivák"
     image: /images/Zealnut.png
     quantity: 5
     url: /monsters/Zealnut

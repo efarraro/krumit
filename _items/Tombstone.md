@@ -44,7 +44,14 @@ image: /images/Tombstone.png
 durability: 1
 ko-KR_name: "Tombstone"
 ko-KR_description: "3 ❤️을 지불하여 Skeleton 💀 <u>하수인</u>을 소환합니다. 이 타일을 버리면 내 ❤️을 2 회복하고 내 하수인들의 ❤️을 1 회복시킵니다"
-ko-KR_flavor: "'Tombstone? More like, soon-bones! Bwahahah!' - Muldorf's favourite joke. Unfortunately."
+ko-KR_flavor: "'묘비에서 해골이 나오면 묘 비나? 와하하하!' - 멀도르프가 가장 좋아하는 농담. 유감스럽게도."
+tile_id: Tombstone
+cost: -99
+image: /images/Tombstone.png
+durability: 1
+cs-CZ_name: "Tombstone"
+cs-CZ_description: "Zaplacením 3 ❤️ se vyvolá Kostlivec 💀 <u>Sluha</u>. Odložením obnovíš 2 ❤️ ty i tví 💀 <u>Sluhové</u>."
+cs-CZ_flavor: "„Náhrobek nebo podhrobek? Chacháá!“ – Muldorfův oblíbený vtip. Bohužel."
 tile_id: Tombstone
 cost: -99
 image: /images/Tombstone.png

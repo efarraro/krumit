@@ -28,4 +28,8 @@ ko-KR_name: "Brawler"
 ko-KR_description: "<u>stunned</u> 상태인 상대에 대한 🔸이 1 증가합니다"
 tile_id: Crafty
 image: /images/Crafty.png
+cs-CZ_name: "Brawler"
+cs-CZ_description: "Tvůj 🔸 je navýšen o 1 oproti nepřátelům ve fázi <u>omráčený</u>."
+tile_id: Crafty
+image: /images/Crafty.png
 ---

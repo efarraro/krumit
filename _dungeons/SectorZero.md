@@ -209,7 +209,7 @@ ko-KR_description: "섹터 제로. 새로운 세계 질서가 시작된 곳. 이
 tier: 7
 monsters:
   - monster:
-    name: "Globber"
+    name: "끈끈이덩어리"
     image: /images/Slime.png
     quantity: 4
     url: /monsters/Slime
@@ -224,7 +224,7 @@ monsters:
     quantity: 4
     url: /monsters/Viking
   - monster:
-    name: "Mutant Biker"
+    name: "돌연변이 폭주족"
     image: /images/Biker.png
     quantity: 3
     url: /monsters/Biker
@@ -234,7 +234,41 @@ monsters:
     quantity: 2
     url: /monsters/TrashGolem
   - monster:
-    name: "The Exile"
+    name: "추방자"
+    image: /images/TheExile.png
+    quantity: 1
+    url: /monsters/TheExile
+cs-CZ_name: "Sektor nula"
+cs-CZ_description: "Sektor nula. Tam začal nový světový řád. Teď je z toho opěvovaná louže toxického sajrajtu s chytlavým názvem."
+tier: 7
+monsters:
+  - monster:
+    name: "Vyhnanec"
+    image: /images/Slime.png
+    quantity: 4
+    url: /monsters/Slime
+  - monster:
+    name: "Vlkosmrk"
+    image: /images/Nukadog.png
+    quantity: 4
+    url: /monsters/Nukadog
+  - monster:
+    name: "Radioaktivní Viking"
+    image: /images/Viking.png
+    quantity: 4
+    url: /monsters/Viking
+  - monster:
+    name: "Zmutovaný motorkář"
+    image: /images/Biker.png
+    quantity: 3
+    url: /monsters/Biker
+  - monster:
+    name: "Odpadkový golem"
+    image: /images/TrashGolem.png
+    quantity: 2
+    url: /monsters/TrashGolem
+  - monster:
+    name: "Vyhnanec"
     image: /images/TheExile.png
     quantity: 1
     url: /monsters/TheExile

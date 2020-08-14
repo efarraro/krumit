@@ -31,8 +31,13 @@ pl-PL_flavor: "Cardoso, Upadły arcymag, Pierwszy Wampir Many, słynny odkrywca 
 tile_id: Cardoso
 image: /images/Cardoso.png
 ko-KR_name: "Cardoso"
-ko-KR_description: "Shuffle 4x <a href = '../ko_kr/abilities#ToxicBlood'>유독성 혈액</a> into the deck at the start of the dungeon. If you hold <a href = '../ko_kr/abilities#ToxicBlood'>유독성 혈액</a>, Cardoso will no longer restore ❤️ when attacking"
-ko-KR_flavor: "Will you admire Cardoso? The fallen archmage, the Prime Mana Vamp, a famed explorer and gourmand.  "
+ko-KR_description: "던전에 진입 시 4x <a href = '../ko_kr/abilities#ToxicBlood'>유독성 혈액</a> 타일을 덱에 섞어 넣습니다. 만약 내가 card(ToxicBloood) 타일을 들고 있다면, 카르도소는 더 이상 공격할 때 ❤️을 회복하지 않습니다"
+ko-KR_flavor: "카로도소를 숭배하시겠습니까? 타락한 대마법사이자 최고의 마나 뱀파이어, 유명한 탐험가 겸 미식가이기도 합니다."
+tile_id: Cardoso
+image: /images/Cardoso.png
+cs-CZ_name: "Cardoso"
+cs-CZ_description: "Na začátku kobky zamíchá 4x <a href = '../cs_cz/abilities#ToxicBlood'>Toxic Blood</a> do balíčku. Pokud držíš <a href = '../cs_cz/abilities#ToxicBlood'>Toxic Blood</a>, Cardoso si už při útoku nebude obnovovat ❤️."
+cs-CZ_flavor: "Obdivuješ Cardosa? Padlého arcimága, upíra s dobrou manou, známého průzkumníka a gurmána?"
 tile_id: Cardoso
 image: /images/Cardoso.png
 ---

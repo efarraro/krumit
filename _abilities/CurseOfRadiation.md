@@ -42,4 +42,10 @@ ko-KR_flavor: "어떤 사람들은 누클리어의 빛이 불행을 가장한 �
 tile_id: CurseOfRadiation
 cost: -1
 image: /images/CurseOfRadiation.png
+cs-CZ_name: "Prokletí radiace"
+cs-CZ_description: "<u color='FF5151'>Prokletí</u>. Když se tato dlaždice objeví, dostaneš  <u>Otrávení</u> (1). Lze odstranit zaplacením 2 ❤️."
+cs-CZ_flavor: "Někteří tvrdí, že atomová záře je vhodná k maskování. Tak není."
+tile_id: CurseOfRadiation
+cost: -1
+image: /images/CurseOfRadiation.png
 ---

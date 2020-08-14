@@ -32,7 +32,12 @@ tile_id: TrashGolem
 image: /images/TrashGolem.png
 ko-KR_name: "Trash Golem"
 ko-KR_description: "이 적을 처치하면, 추가 💰을 얻고 2개의 무작위 아이템을 덱에 섞어 넣습니다"
-ko-KR_flavor: "When a Globber absorbs a large enough pile of trash, it can evolve into a trash golem. Their only goal is to absorb more trash – they’re happy to make you into trash though."
+ko-KR_flavor: "끈끈이덩어리가 충분히 큰 쓰레기 더미를 흡수하면 쓰레기 골렘으로 진화할 수 있습니다. 이들의 유일한 목표는 더 많은 쓰레기를 흡수하는 것이지만, 그래도 이들은 당신을 쓰레기로 만들 수 있어서 행복합니다."
+tile_id: TrashGolem
+image: /images/TrashGolem.png
+cs-CZ_name: "Odpadkový golem"
+cs-CZ_description: "Když porazíš tohoto nepřítele, získáš 💰 navíc a do balíčku se přimíchají 2 náhodné předměty."
+cs-CZ_flavor: "Když Globber pojme dostatečně velkou hromadu odpadků, může se vyvinout v Odpadkového golema. Jejich jediným cílem je pak pojmout více odpadků - ale tebe pojmou také a rádi."
 tile_id: TrashGolem
 image: /images/TrashGolem.png
 ---

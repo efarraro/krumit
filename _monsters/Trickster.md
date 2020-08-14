@@ -31,8 +31,13 @@ pl-PL_flavor: "Trucizna w strzałkach używanych przez Cwaniaków powoduje haluc
 tile_id: Trickster
 image: /images/Trickster.png
 ko-KR_name: "Trickster"
-ko-KR_description: "You'll never see it coming!  This enemy starts with stealth, preventing you from targeting it until you attack in battle"
-ko-KR_flavor: "The poison in their darts is hallucinogenic, making their victims do silly dances and reveal their embarrassing secrets to anyone nearby."
+ko-KR_description: "근처에 올 때까지 알아챌 수 없을 겁니다! 이 적은 시작부터 은신 상태여서, 전투에서 내가 공격하기 전까지 대상으로 지정할 수 없습니다"
+ko-KR_flavor: "그들이 사용하는 다트에 있는 독은 환각 성분을 가지고 있어서, 희생자들이 바보 같은 춤을 추게 만들고 자신의 부끄러운 비밀을 가까이 있는 사람에게 폭로하게 만듭니다."
+tile_id: Trickster
+image: /images/Trickster.png
+cs-CZ_name: "Šotek"
+cs-CZ_description: "Nikdy ho neuvidíš přicházet! Tento nepřítel má na začátku <u>ukrytí</u>, díky čemuž ho nemůžeš napadnout, dokud se při souboji sám neprozdradíš útokem."
+cs-CZ_flavor: "Je vybaven halucinogenními jedovatými šipkami, kterými své oběti donutí k přihlouplým tanečkům a odhalování svých tajemství komukoli, kdo je zrovna na blízku."
 tile_id: Trickster
 image: /images/Trickster.png
 ---

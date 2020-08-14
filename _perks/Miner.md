@@ -25,7 +25,11 @@ pl-PL_description: "Maksymalne ❤️ zwiększone o 2. Gdy uzyskasz tą zaletę,
 tile_id: Miner
 image: /images/Miner.png
 ko-KR_name: "광부"
-ko-KR_description: "Max ❤️ increased by 2. When you acquire this perk, gain 100 gems"
+ko-KR_description: "최대 ❤️이 2 증가합니다. 이 특성을 획득하면, 100 보석을 얻습니다"
+tile_id: Miner
+image: /images/Miner.png
+cs-CZ_name: "Miner"
+cs-CZ_description: "Maximální ❤️ se zvýší o 2. Když získáš tento odznak, získáš 100 drahokamů."
 tile_id: Miner
 image: /images/Miner.png
 ---

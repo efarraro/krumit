@@ -244,7 +244,7 @@ monsters:
     quantity: 2
     url: /monsters/Gobloid
   - monster:
-    name: "Buckethead"
+    name: "양동이대가리"
     image: /images/GobloidKnucklehead.png
     quantity: 3
     url: /monsters/GobloidKnucklehead
@@ -264,12 +264,51 @@ monsters:
     quantity: 3
     url: /monsters/JackalAssassin
   - monster:
-    name: "Scalywag"
+    name: "뱃사람"
     image: /images/PirateGirl.png
     quantity: 2
     url: /monsters/PirateGirl
   - monster:
     name: "Vagabond"
+    image: /images/JackalVagabond.png
+    quantity: 4
+    url: /monsters/JackalVagabond
+cs-CZ_name: "Věž zlodějů"
+cs-CZ_description: "„Nikde nenajdeš horší hnízdo darebáků než je ve Věži zlodějů. Doufám, že se tam jednou odstěhuji.“ – Mischief"
+tier: 6
+monsters:
+  - monster:
+    name: "Gobloid"
+    image: /images/Gobloid.png
+    quantity: 2
+    url: /monsters/Gobloid
+  - monster:
+    name: "Kolenohlav"
+    image: /images/GobloidKnucklehead.png
+    quantity: 3
+    url: /monsters/GobloidKnucklehead
+  - monster:
+    name: "Král duchů"
+    image: /images/Harpy.png
+    quantity: 4
+    url: /monsters/Harpy
+  - monster:
+    name: "Šakal"
+    image: /images/Jackal.png
+    quantity: 3
+    url: /monsters/Jackal
+  - monster:
+    name: "Zabiják"
+    image: /images/JackalAssassin.png
+    quantity: 3
+    url: /monsters/JackalAssassin
+  - monster:
+    name: "Spratek"
+    image: /images/PirateGirl.png
+    quantity: 2
+    url: /monsters/PirateGirl
+  - monster:
+    name: "Tulák"
     image: /images/JackalVagabond.png
     quantity: 4
     url: /monsters/JackalVagabond

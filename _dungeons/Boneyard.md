@@ -115,7 +115,7 @@ monsters:
     quantity: 1
     url: /monsters/SkeletonKing
 ko-KR_name: "묘지"
-ko-KR_description: "Calacas tends to the Boneyard like a morbid garden. With the right parts, he can grow a new skeleton to join his pale kingdom."
+ko-KR_description: "칼라카스는 묘지를 병든 정원인 양 가꿉니다. 적당한 부위의 뼈를 이용하여 자신의 창백한 왕국에 합류시킬 새로운 해골을 길러냅니다."
 tier: 2
 monsters:
   - monster:
@@ -130,6 +130,25 @@ monsters:
     url: /monsters/Skeleton
   - monster:
     name: "칼라카스"
+    image: /images/SkeletonKing.png
+    quantity: 1
+    url: /monsters/SkeletonKing
+cs-CZ_name: "Kostnice"
+cs-CZ_description: "Calacasova kostnice je spíš jakousi morbidní zahradou. Zde sestavuje z potřebných částí nové kostlivce, kterými doplní svou bledou armádu."
+tier: 2
+monsters:
+  - monster:
+    name: "Starověký kostlivec"
+    image: /images/AncientSkeleton.png
+    quantity: 3
+    url: /monsters/AncientSkeleton
+  - monster:
+    name: "Kostlivec"
+    image: /images/Skeleton.png
+    quantity: 6
+    url: /monsters/Skeleton
+  - monster:
+    name: "Calacas"
     image: /images/SkeletonKing.png
     quantity: 1
     url: /monsters/SkeletonKing

@@ -84,17 +84,31 @@ monsters:
     image: /images/Trickster.png
     quantity: 3
     url: /monsters/Trickster
-ko-KR_name: "Slithering Swamp"
-ko-KR_description: "Home to a monstrous Snek and borders the Bumm Pass and the Screaming Hills. Hardly prime real estate."
+ko-KR_name: "미끄러운 늪지대"
+ko-KR_description: "거대한 스네크들의 보금자리이며, 상심의 고개와 울부짖는 언덕의 경계 지역입니다. 부동산은 거의 없습니다."
 tier: 1
 monsters:
   - monster:
-    name: "Globber"
+    name: "끈끈이덩어리"
     image: /images/Slime.png
     quantity: 4
     url: /monsters/Slime
   - monster:
     name: "Trickster"
+    image: /images/Trickster.png
+    quantity: 3
+    url: /monsters/Trickster
+cs-CZ_name: "Kluzká bažina"
+cs-CZ_description: "Domov Sneka je monstrózní a má výhled na průsmyk Bumm a na Křikovské kopce. Opravdu prvotřídní nemovitost."
+tier: 1
+monsters:
+  - monster:
+    name: "Vyhnanec"
+    image: /images/Slime.png
+    quantity: 4
+    url: /monsters/Slime
+  - monster:
+    name: "Šotek"
     image: /images/Trickster.png
     quantity: 3
     url: /monsters/Trickster

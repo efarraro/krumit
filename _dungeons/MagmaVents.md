@@ -184,7 +184,7 @@ monsters:
     quantity: 6
     url: /monsters/AncientSkeleton
   - monster:
-    name: "Windrunner"
+    name: "바람질주자"
     image: /images/WindRunner.png
     quantity: 6
     url: /monsters/WindRunner
@@ -200,6 +200,35 @@ monsters:
     url: /monsters/TrashGolem
   - monster:
     name: "바르톨로뮤"
+    image: /images/Dragon.png
+    quantity: 1
+    url: /monsters/Dragon
+cs-CZ_name: "Magmatické sluje"
+cs-CZ_description: "„Magmatické sluje, tady žije Bartolomňau. Naposledy jsem tu byl, když jsem ještě neměl vousy. A smrděl jsem ještě týden.“ – Šedovous"
+tier: 7
+monsters:
+  - monster:
+    name: "Starověký kostlivec"
+    image: /images/AncientSkeleton.png
+    quantity: 6
+    url: /monsters/AncientSkeleton
+  - monster:
+    name: "Divoletka"
+    image: /images/WindRunner.png
+    quantity: 6
+    url: /monsters/WindRunner
+  - monster:
+    name: "Král duchů"
+    image: /images/Harpy.png
+    quantity: 8
+    url: /monsters/Harpy
+  - monster:
+    name: "Odpadkový golem"
+    image: /images/TrashGolem.png
+    quantity: 4
+    url: /monsters/TrashGolem
+  - monster:
+    name: "Bartolomňau"
     image: /images/Dragon.png
     quantity: 1
     url: /monsters/Dragon

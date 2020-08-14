@@ -144,8 +144,8 @@ monsters:
     image: /images/Elmer.png
     quantity: 1
     url: /monsters/Elmer
-ko-KR_name: "Iron Wood Forest"
-ko-KR_description: "In the Iron Wood Forest, you can see the wood for the trees but you can't saw them."
+ko-KR_name: "철나무 숲"
+ko-KR_description: "철나무 숲에서는 숲을 볼 수 있지만, 나무를 볼 순 없습니다."
 tier: 5
 monsters:
   - monster:
@@ -155,6 +155,30 @@ monsters:
     url: /monsters/Gobloid
   - monster:
     name: "Trickster"
+    image: /images/Trickster.png
+    quantity: 5
+    url: /monsters/Trickster
+  - monster:
+    name: "나무 정령"
+    image: /images/Treant.png
+    quantity: 6
+    url: /monsters/Treant
+  - monster:
+    name: "Elmer"
+    image: /images/Elmer.png
+    quantity: 1
+    url: /monsters/Elmer
+cs-CZ_name: "Železodřevěný les"
+cs-CZ_description: "V Železodřevěném lese můžeš vidět dřevo třeba na stromech, ale nevidíš je."
+tier: 5
+monsters:
+  - monster:
+    name: "Gobloid"
+    image: /images/Gobloid.png
+    quantity: 6
+    url: /monsters/Gobloid
+  - monster:
+    name: "Šotek"
     image: /images/Trickster.png
     quantity: 5
     url: /monsters/Trickster

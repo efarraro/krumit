@@ -28,4 +28,8 @@ ko-KR_name: "Tinker"
 ko-KR_description: "내가 2개의 아이템을 버릴 때마다, 내 인벤토리에 있는 무작위 아이템의 내구도를 1 회복시킵니다(0/2)"
 tile_id: Tinker
 image: /images/Tinker.png
+cs-CZ_name: "Dráteník"
+cs-CZ_description: "Za každý 2 odložený předmět obnoví 1 životnost náhodnému předmětu v inventáři (0/2)."
+tile_id: Tinker
+image: /images/Tinker.png
 ---

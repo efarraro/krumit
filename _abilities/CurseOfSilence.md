@@ -42,4 +42,10 @@ ko-KR_flavor: "침묵. 이보다 더 아름다운 것이 있을까? 이걸 저�
 tile_id: CurseOfSilence
 cost: -1
 image: /images/CurseOfSilence.png
+cs-CZ_name: "Prokletí ticha"
+cs-CZ_description: "<u color='FF5151'>Prokletí</u>. Dokud je na hrací ploše, nelze používat schopnosti. Lze odstranit zaplacením 2 ❤️."
+cs-CZ_flavor: "„Ticho. Existuje něco krásnějšího? Je mi líto těch, kteří jej vnímají jako prokletí.“ – Rose"
+tile_id: CurseOfSilence
+cost: -1
+image: /images/CurseOfSilence.png
 ---

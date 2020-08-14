@@ -31,8 +31,13 @@ pl-PL_flavor: "Za życia, Król Upiorów był przyjemną i przemiłą duszyczką
 tile_id: GhostKing
 image: /images/GhostKing.png
 ko-KR_name: "유령 왕"
-ko-KR_description: "In this dungeon, whenever you discard a tile, destroy the top card of the deck (Ghost King is immune from this effect).  Spooky!"
+ko-KR_description: "이 던전에서 내가 타일을 버릴 때마다, 덱의 맨 위 카드를 파괴합니다(유령 왕은 이 효과에 면역입니다). 귀신이다!"
 ko-KR_flavor: "생전에 유령 왕은 친절하고 멋진 통치자였습니다. 사후에 그는 그의 으스스한 왕국에 신선한 영혼을 모으기 위해 칼라카스(그리고 그를 따르는 다른 이들)와 치열하고 영원한 경쟁을 치르고 있습니다."
+tile_id: GhostKing
+image: /images/GhostKing.png
+cs-CZ_name: "Král duchů"
+cs-CZ_description: "Kdykoli zlikviduješ dlaždici v této kobce, zničí se vrchní karta z balíčku (proti tomuto účinku je Král duchů imunní). Strašidelné!"
+cs-CZ_flavor: "Za života byl Král duchů laskavý a cool vládce. Po smrti věčně bojuje s Calacasem (a s kýmkoli jiným, kdo mu vstoupí do cesty), aby nasbíral čerstvé duše pro jeho strašidelné království."
 tile_id: GhostKing
 image: /images/GhostKing.png
 ---

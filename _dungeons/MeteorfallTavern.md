@@ -209,12 +209,12 @@ ko-KR_description: "'그곳에서 재밌는 카드 게임을 하고 있다고 �
 tier: 4
 monsters:
   - monster:
-    name: "Mutant Biker"
+    name: "돌연변이 폭주족"
     image: /images/Biker.png
     quantity: 3
     url: /monsters/Biker
   - monster:
-    name: "Swashbuckler"
+    name: "무법자"
     image: /images/Pirate.png
     quantity: 3
     url: /monsters/Pirate
@@ -229,12 +229,46 @@ monsters:
     quantity: 2
     url: /monsters/Peasant
   - monster:
-    name: "Town Guard"
+    name: "도시 경비병"
     image: /images/RoyalGuard.png
     quantity: 2
     url: /monsters/RoyalGuard
   - monster:
-    name: "Buckethead"
+    name: "양동이대가리"
+    image: /images/GobloidKnucklehead.png
+    quantity: 2
+    url: /monsters/GobloidKnucklehead
+cs-CZ_name: "Nejstarší hospoda Meteorfallu"
+cs-CZ_description: "„Slyšela jsem, že tam hrají nějakou fantastickou karetní hru - Meteorfall, že? Vždycky jsem ji chtěla vyzkoušet.“ - Rose"
+tier: 4
+monsters:
+  - monster:
+    name: "Zmutovaný motorkář"
+    image: /images/Biker.png
+    quantity: 3
+    url: /monsters/Biker
+  - monster:
+    name: "Hulvát"
+    image: /images/Pirate.png
+    quantity: 3
+    url: /monsters/Pirate
+  - monster:
+    name: "Tulák"
+    image: /images/JackalVagabond.png
+    quantity: 3
+    url: /monsters/JackalVagabond
+  - monster:
+    name: "Rolník"
+    image: /images/Peasant.png
+    quantity: 2
+    url: /monsters/Peasant
+  - monster:
+    name: "Městská garda"
+    image: /images/RoyalGuard.png
+    quantity: 2
+    url: /monsters/RoyalGuard
+  - monster:
+    name: "Kolenohlav"
     image: /images/GobloidKnucklehead.png
     quantity: 2
     url: /monsters/GobloidKnucklehead

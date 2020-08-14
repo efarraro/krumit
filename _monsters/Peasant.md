@@ -35,4 +35,9 @@ ko-KR_description: "This enemy doesn't have any special powers or effects"
 ko-KR_flavor: "무정부-생디칼리즘 집단의 구성원입니다."
 tile_id: Peasant
 image: /images/Peasant.png
+cs-CZ_name: "Rolník"
+cs-CZ_description: "Tento nepřítel nemá žádnou zvláštní sílu ani efekty."
+cs-CZ_flavor: "Část anarchisticko-syndikální partičky."
+tile_id: Peasant
+image: /images/Peasant.png
 ---

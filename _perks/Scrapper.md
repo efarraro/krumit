@@ -25,7 +25,11 @@ pl-PL_description: "🔸 jest zwiększony o 2 jeżeli atakujesz przeciwników bl
 tile_id: Scrapper
 image: /images/Scrapper.png
 ko-KR_name: "고철 수집가"
-ko-KR_description: "방어구 또는 🛡️️ <u>block</u>가 있는 적을 공격할 때 내 기본 🔸이 2 증가합니다"
+ko-KR_description: "방어구 또는 🛡️️ <u>방어도</u>가 있는 적을 공격할 때 내 기본 🔸이 2 증가합니다"
+tile_id: Scrapper
+image: /images/Scrapper.png
+cs-CZ_name: "Scrapper"
+cs-CZ_description: "Pokud útočíš na nepřítele, který má brnění nebo 🛡️️ <u>krytí</u>, tvůj základní 🔸 se zvýší o 2."
 tile_id: Scrapper
 image: /images/Scrapper.png
 ---

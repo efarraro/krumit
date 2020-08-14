@@ -28,4 +28,8 @@ ko-KR_name: "Giantslayer"
 ko-KR_description: "보스와 전투 시 내 기본 🔸이 2 증가합니다"
 tile_id: Giantslayer
 image: /images/Giantslayer.png
+cs-CZ_name: "Zabiják obrů"
+cs-CZ_description: "Tvůj základní 🔸 se při souboji se šéfy zvýší o 2."
+tile_id: Giantslayer
+image: /images/Giantslayer.png
 ---

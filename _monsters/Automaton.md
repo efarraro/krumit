@@ -35,4 +35,9 @@ ko-KR_description: "This enemy doesn't have any special powers or effects"
 ko-KR_flavor: "이 역겨운 자동 인형은 결함이 생긴 라인에서 만들어집니다. 글로우텍의 품질 보증은 예전과 다를 바 없습니다."
 tile_id: Automaton
 image: /images/Automaton.png
+cs-CZ_name: "Nitromancer"
+cs-CZ_description: "Tento nepřítel nemá žádnou zvláštní sílu ani efekty."
+cs-CZ_flavor: "Tento vadný automat sjel z porouchané linky. Oddělení kontroly kvality v GlowTech už není, co bývalo."
+tile_id: Automaton
+image: /images/Automaton.png
 ---

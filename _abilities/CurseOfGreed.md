@@ -42,4 +42,10 @@ ko-KR_flavor: "탐욕에 대한 재미있는 사실... 더 많이 가질 수록 
 tile_id: CurseOfGreed
 cost: -1
 image: /images/CurseOfGreed.png
+cs-CZ_name: "Prokletí chamtivosti"
+cs-CZ_description: "<u color='FF5151'>Prokletí</u>. Cena na získání všech dlaždic se zvýší o 1 💰. Lze odstranit zaplacením 2 ❤️."
+cs-CZ_flavor: "Chamtivost je legrační... čím více ji máš, tím více to stojí."
+tile_id: CurseOfGreed
+cost: -1
+image: /images/CurseOfGreed.png
 ---

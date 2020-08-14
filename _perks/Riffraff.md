@@ -28,4 +28,8 @@ ko-KR_name: "어중이떠중이"
 ko-KR_description: "<u>고립</u> 상태의 적을 공격할 때 <u>은신</u>을 얻습니다. <u>압도당함</u> 상태가 아니라면 기본 🔸이 1 감소합니다"
 tile_id: Riffraff
 image: /images/Riffraff.png
+cs-CZ_name: "Riffraff"
+cs-CZ_description: "Získáš <u>ukrytí</u> při útoku na nepřátele typu <u>Solitér</u>. Pokud došlo k <u>Zahlcení</u>, základní attach-icon se sníží o 1."
+tile_id: Riffraff
+image: /images/Riffraff.png
 ---

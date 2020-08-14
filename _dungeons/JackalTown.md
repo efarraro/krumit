@@ -133,4 +133,23 @@ monsters:
     image: /images/Nukadog.png
     quantity: 5
     url: /monsters/Nukadog
+cs-CZ_name: "Šakalí slumy"
+cs-CZ_description: "Během návštěvy v Šakalích slumech musí být člověk buď naprosto ztracen nebo naprosto jistý tím, že ten nůž v zádech přežije."
+tier: 4
+monsters:
+  - monster:
+    name: "Šakal"
+    image: /images/Jackal.png
+    quantity: 8
+    url: /monsters/Jackal
+  - monster:
+    name: "Tulák"
+    image: /images/JackalVagabond.png
+    quantity: 4
+    url: /monsters/JackalVagabond
+  - monster:
+    name: "Vlkosmrk"
+    image: /images/Nukadog.png
+    quantity: 5
+    url: /monsters/Nukadog
 ---

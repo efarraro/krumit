@@ -35,4 +35,9 @@ ko-KR_description: "This enemy doesn't have any special powers or effects"
 ko-KR_flavor: "뼈의군주 칼라카스의 노예인 이 해골들은 비정할 수는 있지만 여전히 영혼을 가지고 있습니다."
 tile_id: Skeleton
 image: /images/Skeleton.png
+cs-CZ_name: "Kostlivec"
+cs-CZ_description: "Tento nepřítel nemá žádnou zvláštní sílu ani efekty."
+cs-CZ_flavor: "Tito kostlivci zotročení Kostipánem Calacasem mohou vypadat bezcitně, ale stále mají duši."
+tile_id: Skeleton
+image: /images/Skeleton.png
 ---

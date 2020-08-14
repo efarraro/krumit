@@ -25,7 +25,11 @@ pl-PL_description: "Nie możesz odparowywać, ale każda użyta broń dodaje 2 �
 tile_id: Cautious
 image: /images/Cautious.png
 ko-KR_name: "신중함"
-ko-KR_description: "You can no longer parry, but each equipped weapon adds 2 🛡️️ <u>block</u>"
+ko-KR_description: "더 이상  <u>응수</u>할 수 없지만, 장착된 무기마다 2 🛡️️ <u>방어도</u>를 얻습니다."
+tile_id: Cautious
+image: /images/Cautious.png
+cs-CZ_name: "Cautious"
+cs-CZ_description: "Již nemůžeš odrazit útok, ale za každou vybavenou zbraň přidá 2 🛡️️ <u>krytí</u>."
 tile_id: Cautious
 image: /images/Cautious.png
 ---

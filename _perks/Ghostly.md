@@ -28,4 +28,8 @@ ko-KR_name: "유령"
 ko-KR_description: "내 ❤️이 2 이하인 동안, 공격하거나 피해를 받을 때마다 <u>은신</u>을 얻습니다"
 tile_id: Ghostly
 image: /images/Ghostly.png
+cs-CZ_name: "Ghostly"
+cs-CZ_description: "Přestože máš 2 nebo méně ❤️, získáš <u>ukrytí</u> vždy, když zaútočíš nebo když jsi zasažen."
+tile_id: Ghostly
+image: /images/Ghostly.png
 ---

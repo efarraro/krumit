@@ -28,4 +28,8 @@ ko-KR_name: "부유함"
 ko-KR_description: "각 던전에 진입할 때, 2 💰을 얻습니다"
 tile_id: Rich
 image: /images/Rich.png
+cs-CZ_name: "Boháč"
+cs-CZ_description: "Na začátku každé kobky získáš 2 💰."
+tile_id: Rich
+image: /images/Rich.png
 ---

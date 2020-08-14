@@ -28,4 +28,8 @@ ko-KR_name: "광전사"
 ko-KR_description: "두 개의 무기를 장착하고 공격할 때 총 🔸에 3을 더합니다"
 tile_id: Berserker
 image: /images/Berserker.png
+cs-CZ_name: "Šílenec"
+cs-CZ_description: "Kdykoli zaútočíš dvěma zbraněmi najednou, tvůj celkový 🔸 se zvýší o 3."
+tile_id: Berserker
+image: /images/Berserker.png
 ---

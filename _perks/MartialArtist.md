@@ -28,4 +28,8 @@ ko-KR_name: "Martial Artist"
 ko-KR_description: "내 기본 🔸이 +1 증가합니다(무기를 장착한 동안엔 -1)"
 tile_id: MartialArtist
 image: /images/MartialArtist.png
+cs-CZ_name: "Mistr bojového umění"
+cs-CZ_description: "Tvůj základní 🔸 se zvýší o +1 (-1 pokud jsi vybaven zbraní)."
+tile_id: MartialArtist
+image: /images/MartialArtist.png
 ---

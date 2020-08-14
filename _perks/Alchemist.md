@@ -28,4 +28,8 @@ ko-KR_name: "Alchemist"
 ko-KR_description: "각 던전에 진입할 때, 무작위 물약 3개를 덱에 섞어 넣습니다."
 tile_id: Alchemist
 image: /images/Alchemist.png
+cs-CZ_name: "Alchymista"
+cs-CZ_description: "Na začátku každé kobky zamíchá do balíčku 3 náhodné lektvary."
+tile_id: Alchemist
+image: /images/Alchemist.png
 ---

@@ -36,9 +36,15 @@ pl-PL_flavor: "'Co za dzień, wszystko leci z rąk!'"
 tile_id: CurseOfWeakness
 cost: -1
 image: /images/CurseOfWeakness.png
-ko-KR_name: "Curse of Weakness"
+ko-KR_name: "나약함의 저주"
 ko-KR_description: "인접한 적을 상대로 내 기본 🔸이 1 감소합니다. 인접한 적을 처치했을 때, 이 타일을 보드에서 제거합니다"
-ko-KR_flavor: "'May your grip loosen and your jaw go slack!'"
+ko-KR_flavor: "'손에 힘이 풀리고 턱이 느슨해지기를!'"
+tile_id: CurseOfWeakness
+cost: -1
+image: /images/CurseOfWeakness.png
+cs-CZ_name: "Curse of Weakness"
+cs-CZ_description: "Tvůj základní 🔸 se sníží o 1 oproti sousedním nepřátelům. Jakmile porazíš sousedního nepřítele, dlaždice se odstraní z herní plochy."
+cs-CZ_flavor: "„Můžeš uvolnit sevření a zmírnit tlak čelistí!“"
 tile_id: CurseOfWeakness
 cost: -1
 image: /images/CurseOfWeakness.png

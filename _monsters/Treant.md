@@ -30,9 +30,14 @@ pl-PL_description: "Na końcu tury tego wroga, jeżeli ma 0 🛡️️ <u>blok</
 pl-PL_flavor: "Drzewoludzie żyją nawet tysiąc lat, ale nigdy nie wyrastają z bycia gderami."
 tile_id: Treant
 image: /images/Treant.png
-ko-KR_name: "Treant"
-ko-KR_description: "At the end of this enemy's turn, if it has 0 armor, destroy it"
-ko-KR_flavor: "The average treepeep can grow to over 1,000 years old, but becomes grumpy around age 10."
+ko-KR_name: "나무 정령"
+ko-KR_description: "이 적의 턴이 끝날 때, 이 적의 방어도가 0이라면 파괴됩니다"
+ko-KR_flavor: "나무인간은 평균적으로 1,000년 이상 살 수 있지만, 10세 전후로 성격이 까다로워집니다."
+tile_id: Treant
+image: /images/Treant.png
+cs-CZ_name: "Treant"
+cs-CZ_description: "Na konci soupeřova tahu bude nepřítel zničen, pokud má 0 brnění."
+cs-CZ_flavor: "Průměrný treepeep se může dožít přes 1000 let, nicméně kolem 10. roku věku se z něj stává tak trochu samorost."
 tile_id: Treant
 image: /images/Treant.png
 ---

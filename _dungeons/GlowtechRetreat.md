@@ -174,12 +174,12 @@ monsters:
     image: /images/Itchitah.png
     quantity: 1
     url: /monsters/Itchitah
-ko-KR_name: "Glowtech Annual Retreat"
-ko-KR_description: "The GlowTech annual retreat is filled with GlowWine, team-building exercises, world-irradiation workshops, mandatory pledges of loyalty, and Brendon's terrible karaoke."
+ko-KR_name: "글로우테크 연간 연수"
+ko-KR_description: "글로우테크 연간 연수는 글로우와인, 팀 구성 연습, 세계 피폭 워크샵, 의무 충성 서약, 그리고 브랜든의 끔찍한 노래방 등 알찬 구성으로 가득 차있습니다."
 tier: 5
 monsters:
   - monster:
-    name: "Town Guard"
+    name: "도시 경비병"
     image: /images/RoyalGuard.png
     quantity: 4
     url: /monsters/RoyalGuard
@@ -200,6 +200,35 @@ monsters:
     url: /monsters/AutomatonV2
   - monster:
     name: "이치타"
+    image: /images/Itchitah.png
+    quantity: 1
+    url: /monsters/Itchitah
+cs-CZ_name: "Útulek GlowTech"
+cs-CZ_description: "Útulek GlowTech je plný GlowVína, cvičení pro utužování kolektivu, workshopy na téma Ozařování světa, podivných příslibů loajality a strašným Brendonovým karaoke."
+tier: 5
+monsters:
+  - monster:
+    name: "Městská garda"
+    image: /images/RoyalGuard.png
+    quantity: 4
+    url: /monsters/RoyalGuard
+  - monster:
+    name: "Odpadkový golem"
+    image: /images/TrashGolem.png
+    quantity: 2
+    url: /monsters/TrashGolem
+  - monster:
+    name: "Nitromancer"
+    image: /images/Automaton.png
+    quantity: 6
+    url: /monsters/Automaton
+  - monster:
+    name: "Nitromancer v2.0"
+    image: /images/AutomatonV2.png
+    quantity: 6
+    url: /monsters/AutomatonV2
+  - monster:
+    name: "Itchitah"
     image: /images/Itchitah.png
     quantity: 1
     url: /monsters/Itchitah

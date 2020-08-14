@@ -25,7 +25,11 @@ pl-PL_description: "<a href = '../pl_pl/abilities#Stab'>Dźgnięcie</a> zadaje +
 tile_id: Stabby
 image: /images/Stabby.png
 ko-KR_name: "예리함"
-ko-KR_description: "'찌르기' 피해량 +1"
+ko-KR_description: "'찌르기' 피해량이 1 증가합니다"
+tile_id: Stabby
+image: /images/Stabby.png
+cs-CZ_name: "Pichlavý"
+cs-CZ_description: "Bodnutí udělí +1 poškození."
 tile_id: Stabby
 image: /images/Stabby.png
 ---

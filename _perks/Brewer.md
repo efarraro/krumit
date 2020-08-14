@@ -28,4 +28,8 @@ ko-KR_name: "양조사"
 ko-KR_description: "던전에서 물약을 얻을 때마다 한 장 더 복사하여 인벤토리에 추가합니다"
 tile_id: Brewer
 image: /images/Brewer.png
+cs-CZ_name: "Brewer"
+cs-CZ_description: "Kdykoli během pobytu v kobce získáš lektvar, přidá do inventáře druhou kopii."
+tile_id: Brewer
+image: /images/Brewer.png
 ---

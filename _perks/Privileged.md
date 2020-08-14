@@ -28,4 +28,8 @@ ko-KR_name: "특권층"
 ko-KR_description: "8 💰을 갖고 시작하지만 기본 🔸이 1 감소합니다"
 tile_id: Privileged
 image: /images/Privileged.png
+cs-CZ_name: "Privilegovaný"
+cs-CZ_description: "Začneš s 8 💰, ale tvůj základní 🔸 se sníží na 1."
+tile_id: Privileged
+image: /images/Privileged.png
 ---

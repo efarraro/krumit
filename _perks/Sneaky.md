@@ -25,7 +25,11 @@ pl-PL_description: "Twój pierwszy atak w walce zadaje +1 🔸."
 tile_id: Sneaky
 image: /images/Sneaky.png
 ko-KR_name: "교활함"
-ko-KR_description: "각 전투에서 첫 번째 공격의 🔸이 +1 증가합니다"
+ko-KR_description: "각 전투에서 첫 번째 공격이 +1 🔸을 얻습니다"
+tile_id: Sneaky
+image: /images/Sneaky.png
+cs-CZ_name: "Plíživý"
+cs-CZ_description: "Tvůj první útok v každém souboji získá +1 🔸."
 tile_id: Sneaky
 image: /images/Sneaky.png
 ---

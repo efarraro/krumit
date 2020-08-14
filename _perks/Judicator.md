@@ -25,7 +25,11 @@ pl-PL_description: "Raz na loch, jeżeli otrzymasz w sumie 15 obrażeń, otrzymu
 tile_id: Judicator
 image: /images/Judicator.png
 ko-KR_name: "Judicator"
-ko-KR_description: "던전 당 내가 15의 피해를 받으면, 이번 던전에서 내 기본 🔸이 +1 증가합니다(0/15)"
+ko-KR_description: "각 던전에서 내가 15의 피해를 받으면, 이번 던전에서 내 기본 🔸이 1 증가합니다(0/15)"
+tile_id: Judicator
+image: /images/Judicator.png
+cs-CZ_name: "Soudce"
+cs-CZ_description: "Jakmile dostaneš 15 poškození, tvůj základní 🔸 se zvýší o 1 po dobu pobytu v kobce (0/15). Použije se pouze jednou v každé kobce."
 tile_id: Judicator
 image: /images/Judicator.png
 ---

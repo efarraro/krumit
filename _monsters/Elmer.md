@@ -31,8 +31,13 @@ pl-PL_flavor: "Dąbromir, Strażnik Drzewoludzi, wykorzystuje sieć samoświadom
 tile_id: Elmer
 image: /images/Elmer.png
 ko-KR_name: "Elmer"
-ko-KR_description: "Elmer takes double damage while <u>stunned</u>.  When you defeat another Treant, Elmer takes 5 damage"
-ko-KR_flavor: "Herald of the Treepeeps, Elmer can tap in to a network of sentient funghi to stay alert and overhear secrets. Dislike squirrels."
+ko-KR_description: "엘머는 <u>stunned</u> 상태인 동안 2배의 피해를 받습니다. 다른 나무 정령을 처치하면 엘머가 피해를 5 받습니다"
+ko-KR_flavor: "나무인간들의 전령 엘머는 균류 신경망을 활용하여 경계를 유지하며 비밀을 엿듣습니다. 그리고 다람쥐를 싫어합니다."
+tile_id: Elmer
+image: /images/Elmer.png
+cs-CZ_name: "Elmer"
+cs-CZ_description: "Elmer dostává dvojnásobné poškození, pokud je <u>omráčený</u>. Pokud porazíš jiného Treanta, Elmer dostane 5 poškození."
+cs-CZ_flavor: "Herald z Treepeeps Elmer se může připojit k podhoubí funghi, aby si zachoval pozornost a slyšel nějaká tajemství. Nesnáší veverky."
 tile_id: Elmer
 image: /images/Elmer.png
 ---

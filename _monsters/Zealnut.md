@@ -30,9 +30,14 @@ pl-PL_description: "Ten przeciwnik nie ma specjalnych zdolności ani efektów"
 pl-PL_flavor: "Żarliwcy są Starszymi Nadgorliwcami, stąd zwiększony przydział łańcuchów, sygnetów i złotych zębów. Kochają błyskotki tak bardzo, że po bling wyciągną dłonie zanim położą je na mikrofonie."
 tile_id: Zealnut
 image: /images/Zealnut.png
-ko-KR_name: "Zealnut"
+ko-KR_name: "질너트"
 ko-KR_description: "This enemy doesn't have any special powers or effects"
-ko-KR_flavor: "Zealnuts are Senior Kooltists, and are permitted to wear extra bling as proof of their station. Their chains are goldie-lookin' but are only 7 karat."
+ko-KR_flavor: "질넛들은 상급 쿨티스트들로, 자신들의 지위를 입증하기 위해 추가로 반짝이는 장신구를 착용할 수 있습니다. 그들이 두른 사슬은 금처럼 보이지만 사실 7캐럿에 불과합니다."
+tile_id: Zealnut
+image: /images/Zealnut.png
+cs-CZ_name: "Horlivák"
+cs-CZ_description: "Tento nepřítel nemá žádnou zvláštní sílu ani efekty."
+cs-CZ_flavor: "Horliváci jsou starší Ocooltisti a jako důkaz svého postavení smí nosit šperky. Řetězy, které nosí kolem krku, vypadají zlatě, ale mají jen 7 karátů."
 tile_id: Zealnut
 image: /images/Zealnut.png
 ---

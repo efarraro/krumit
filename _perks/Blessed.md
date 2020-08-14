@@ -28,4 +28,8 @@ ko-KR_name: "축복받음"
 ko-KR_description: "능력을 얻을 때마다 ❤️을 1 회복합니다"
 tile_id: Blessed
 image: /images/Blessed.png
+cs-CZ_name: "Požehnaný"
+cs-CZ_description: "Kdykoli získáš schopnost, obnoví 1 ❤️."
+tile_id: Blessed
+image: /images/Blessed.png
 ---

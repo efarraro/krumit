@@ -28,4 +28,8 @@ ko-KR_name: "Jester"
 ko-KR_description: "내가 타일을 버릴 때마다, 보이는 모든 타일의 비용을 무작위로 변경합니다(0~5 💰)"
 tile_id: Jester
 image: /images/Jester.png
+cs-CZ_name: "Jester"
+cs-CZ_description: "Kdykoli odložíš dlaždici, dostanou všechny viditelné dlaždice náhodnou cenu (0 až 5 💰)."
+tile_id: Jester
+image: /images/Jester.png
 ---

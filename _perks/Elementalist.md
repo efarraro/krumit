@@ -28,4 +28,8 @@ ko-KR_name: "원소술사"
 ko-KR_description: " <u>연소</u>,  <u>poisoned</u>, 또는 <u>빙결</u> 상태의 적을 대상으로 할 때의 내 기본 🔸이 1 증가합니다"
 tile_id: Elementalist
 image: /images/Elementalist.png
+cs-CZ_name: "Elementalista"
+cs-CZ_description: "Tvůj základní 🔸 se zvýší o 1 oproti nepříteli, který má  <u>popálení</u>,  <u>poisoned</u> nebo je <u>zmražený</u>."
+tile_id: Elementalist
+image: /images/Elementalist.png
 ---

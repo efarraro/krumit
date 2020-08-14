@@ -28,4 +28,8 @@ ko-KR_name: "유독성"
 ko-KR_description: "<a href = '../ko_kr/abilities#Stab'>찌르기</a>가  <u>중독</u>(1)도 가합니다"
 tile_id: Toxic
 image: /images/Toxic.png
+cs-CZ_name: "Toxický"
+cs-CZ_description: "<a href = '../cs_cz/abilities#Stab'>Bodnutí</a> také způsobuje  <u>Otrávení</u> (1)."
+tile_id: Toxic
+image: /images/Toxic.png
 ---

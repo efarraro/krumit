@@ -25,7 +25,11 @@ pl-PL_description: "Gdy uciekasz z walki, uzyskaj 2 🛡️️ <u>blok</u>."
 tile_id: ScaredyCat
 image: /images/ScaredyCat.png
 ko-KR_name: "겁먹은 고양이"
-ko-KR_description: "전투에서 도망칠 때마다 🛡️️ <u>block</u>를 2 얻습니다"
+ko-KR_description: "전투에서 도망칠 때마다 🛡️️ <u>방어도</u>를 2 얻습니다"
+tile_id: ScaredyCat
+image: /images/ScaredyCat.png
+cs-CZ_name: "Vystrašené kotě"
+cs-CZ_description: "Jakmile uprchneš z bitvy, získáš 2 🛡️️ <u>krytí</u>."
 tile_id: ScaredyCat
 image: /images/ScaredyCat.png
 ---

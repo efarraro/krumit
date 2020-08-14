@@ -35,4 +35,9 @@ ko-KR_description: "던전 진입 시, <a href = '../ko_kr/abilities#PerfectStor
 ko-KR_flavor: "글로우테크의 수석 전기술사이자 강력한 샤우먼. 최초의 자동 인형 발명가. 그녀가 작은 상자에 무엇을 보관하고 있는지 아무도 모릅니다."
 tile_id: Itchitah
 image: /images/Itchitah.png
+cs-CZ_name: "Itchitah"
+cs-CZ_description: "Na začátku kobky zamíchá <a href = '../cs_cz/abilities#PerfectStorm'>Dokonalá bouře</a> do balíčku."
+cs-CZ_flavor: "Výkonná Shawoman a hlavní Electromancerka v Glowtech. Vynálezce prvního automatu. Nosí s sebou malou krabičku, o jejíž obsahu nikdo netuší."
+tile_id: Itchitah
+image: /images/Itchitah.png
 ---

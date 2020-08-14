@@ -30,9 +30,14 @@ pl-PL_description: "Dosyć awantur! Ten wróg uniemożliwia atakowanie innych wr
 pl-PL_flavor: "Ciężkozbrojna straż Imperialna uwielbia organizować zawody w polerowaniu pancerzy i ozdabianiu hełmów."
 tile_id: RoyalGuardElite
 image: /images/RoyalGuardElite.png
-ko-KR_name: "Royal Guard"
-ko-KR_description: "Back off!  This enemy prevents you from attacking enemies in the same row, until defeated."
-ko-KR_flavor: "These heavily armoured paragons of The Imperium love to hold armour polishing and helmet plume pruning competitions."
+ko-KR_name: "왕실 경비병"
+ko-KR_description: "물러서라! 이 적은 처치될 때까지 같은 행에 있는 다른 적을 공격하지 못하게 합니다."
+ko-KR_flavor: "제국의 귀감이 되는 중무장한 이 경비병들은 갑옷에 광내는 일과 투구 깃털 손질로 겨루기를 좋아합니다."
+tile_id: RoyalGuardElite
+image: /images/RoyalGuardElite.png
+cs-CZ_name: "Královská stráž"
+cs-CZ_description: "Zpátky! Tento nepřítel ti brání v útoku na ostatní nepřátele ve stejné řadě, dokud není poražen."
+cs-CZ_flavor: "Tyto těžce obrněné vzory Impéria milují pořádání soutěží v cídění brnění nebo o nejlepší průřez pro chochol na helmě."
 tile_id: RoyalGuardElite
 image: /images/RoyalGuardElite.png
 ---

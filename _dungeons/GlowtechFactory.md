@@ -145,7 +145,7 @@ monsters:
     quantity: 2
     url: /monsters/Peasant
 ko-KR_name: "글로우테크 로봇 공장"
-ko-KR_description: "그들은 이곳에서 가종부 로봇을 만들곤 했습니다. 그 뒤 누군가가 조립 라인에 칼과 레이저를 추가했습니다. 나머지 역사는 매우 지저분합니다."
+ko-KR_description: "그들은 이곳에서 가정부 로봇을 만들곤 했습니다. 그 뒤 누군가가 조립 라인에 칼과 레이저를 추가했습니다. 나머지 역사는 매우 지저분합니다."
 tier: 3
 monsters:
   - monster:
@@ -159,12 +159,36 @@ monsters:
     quantity: 2
     url: /monsters/AutomatonV2
   - monster:
-    name: "Globber"
+    name: "끈끈이덩어리"
     image: /images/Slime.png
     quantity: 4
     url: /monsters/Slime
   - monster:
     name: "Peasant"
+    image: /images/Peasant.png
+    quantity: 2
+    url: /monsters/Peasant
+cs-CZ_name: "Továrna na roboty Glowtech"
+cs-CZ_description: "Původně se tu vyráběli roboti do domácnosti. Pak tam někdo přidal meče, lasery a montážní linku. Zbytek historie už není nic pěkného."
+tier: 3
+monsters:
+  - monster:
+    name: "Nitromancer"
+    image: /images/Automaton.png
+    quantity: 5
+    url: /monsters/Automaton
+  - monster:
+    name: "Nitromancer v2.0"
+    image: /images/AutomatonV2.png
+    quantity: 2
+    url: /monsters/AutomatonV2
+  - monster:
+    name: "Vyhnanec"
+    image: /images/Slime.png
+    quantity: 4
+    url: /monsters/Slime
+  - monster:
+    name: "Rolník"
     image: /images/Peasant.png
     quantity: 2
     url: /monsters/Peasant

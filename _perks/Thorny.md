@@ -25,7 +25,11 @@ pl-PL_description: "Gdy masz przynajmniej 4 🛡️️ <u>blok</u>, uzyskujesz <
 tile_id: Thorny
 image: /images/Thorny.png
 ko-KR_name: "가시돋침"
-ko-KR_description: "내 🛡️️ <u>block</u>이 최소 4일 때, <u>thorns</u>(2)도 얻습니다."
+ko-KR_description: "내 🛡️️ <u>방어도</u>이 최소 4일 때, <u>thorns</u>(2)도 얻습니다."
+tile_id: Thorny
+image: /images/Thorny.png
+cs-CZ_name: "Ostnatý"
+cs-CZ_description: "Jakmile máš aspoň 4 🛡️️ <u>krytí</u>, získáš také thorns (2)."
 tile_id: Thorny
 image: /images/Thorny.png
 ---

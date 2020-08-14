@@ -28,4 +28,8 @@ ko-KR_name: "균형"
 ko-KR_description: "모든 능력의 기본 비용이 2 💰이 됩니다"
 tile_id: BalancedPerk
 image: /images/BalancedPerk.png
+cs-CZ_name: "Balanced"
+cs-CZ_description: "Základní cena všech tvých schopností je 2 💰."
+tile_id: BalancedPerk
+image: /images/BalancedPerk.png
 ---

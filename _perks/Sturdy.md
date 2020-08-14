@@ -25,7 +25,11 @@ pl-PL_description: "Odnów 2 ❤️ gdy uzyskasz przedmiot, który daje 🛡️�
 tile_id: Sturdy
 image: /images/Sturdy.png
 ko-KR_name: "튼튼함"
-ko-KR_description: "던전에서 🛡️️ <u>block</u>를 주는 아이템을 얻을 때마다 2 ❤️를 회복합니다"
+ko-KR_description: "던전에서 🛡️️ <u>방어도</u>를 주는 아이템을 얻을 때마다 2 ❤️를 회복합니다"
+tile_id: Sturdy
+image: /images/Sturdy.png
+cs-CZ_name: "Odolnost"
+cs-CZ_description: "Obnoví 2 ❤️, jakmile získáš z kobky předmět, který vyvolává 🛡️️ <u>krytí</u>."
 tile_id: Sturdy
 image: /images/Sturdy.png
 ---

@@ -31,10 +31,14 @@ pl-PL_description: "Zadaje ranę (<u>Rana</u>) wrażliwym przeciwnikom, aby ich 
 pl-PL_flavor: "Pustkowie w pochodzeniu i w głowie."
 tile_id: Knave
 image: /images/Knave.png
-ko-KR_name: "황무지 폭력배"
-ko-KR_description: "Applies <u>부상</u> to vulnerable enemies to weaken them, before striking with deadly  <u>중독</u>!"
-ko-KR_flavor: "You can't spell 'thug' without 'hug'. But you don't think they'd appreciate one.
-"
+ko-KR_name: "Wasteland Thug"
+ko-KR_description: "취약한 적을 <u>부상</u>시켜 약하게 만들고, 치명적인 독으로  <u>중독</u>시킵니다!"
+ko-KR_flavor: "'깡패'에게 '깡'이 없으면 '패'할 뿐입니다."
+tile_id: Knave
+image: /images/Knave.png
+cs-CZ_name: "Zpustlý lupič"
+cs-CZ_description: "Zranitelným nepřátelům způsobí <u>Wound</u>, čímž je oslabí a pak zasáhne smrtícím jedem."
+cs-CZ_flavor: "Ne, „lupič“ nemá nic společného s lupy. A s tím druhým taky ne."
 tile_id: Knave
 image: /images/Knave.png
 ---

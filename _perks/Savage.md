@@ -28,4 +28,8 @@ ko-KR_name: "흉포함"
 ko-KR_description: "적을 처치했을 때, <a href = '../ko_kr/abilities#Frenzy'>광란</a> 타일을 내 인벤토리에 추가합니다(공간이 있을 때)"
 tile_id: Savage
 image: /images/Savage.png
+cs-CZ_name: "Nelítostný"
+cs-CZ_description: "Po poražení nepřítele přidá kopii <a href = '../cs_cz/abilities#Frenzy'>Šílenství</a> do inventáře (pokud je v něm místo)."
+tile_id: Savage
+image: /images/Savage.png
 ---

@@ -35,4 +35,9 @@ ko-KR_description: "이 적이 하단 행에 도달하면, 내가 피해를 2 �
 ko-KR_flavor: "하피들은 무정부론과 개인의 자유를 옳다고 생각하고 지상의 거주자들의 질서 있는 문명을 경멸합니다. 그들은 식사 중인 자들(그래서 피해자들의 얼굴을 볼 수 있게끔)의 음식을 빼앗는 걸 좋아합니다."
 tile_id: Harpy
 image: /images/Harpy.png
+cs-CZ_name: "Král duchů"
+cs-CZ_description: "Pokud tento nepřítel dosáhne spodní řady, udělí ti 2 poškození."
+cs-CZ_flavor: "Tyto Harpyje věří v anarchii a osobní svobodu a pohrdají klasickými civilizacemi pozemních obyvatel. Rády kradou jídlo z jejich obětí během chvíle, kdy jedí (aby mohly vidět jejich výrazy)."
+tile_id: Harpy
+image: /images/Harpy.png
 ---

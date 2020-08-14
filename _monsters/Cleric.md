@@ -31,8 +31,13 @@ pl-PL_flavor: "Nawet potwory potrzebują duchowości od czasu do czasu."
 tile_id: Cleric
 image: /images/Cleric.png
 ko-KR_name: "Druid"
-ko-KR_description: "When added to the dungeon, this enemy buffs a random enemy with in the same column +3 armor"
+ko-KR_description: "던전에 추가되면, 이 적과 같은 행에 있는 무작위 적에게 +3 방어도를 부여합니다"
 ko-KR_flavor: "Even monsters need spiritual healing sometimes."
+tile_id: Cleric
+image: /images/Cleric.png
+cs-CZ_name: "Druid"
+cs-CZ_description: "Jakmile se přidá do kobky, zvýhodní náhodného nepřítele ve stejném sloupci +3 brněním."
+cs-CZ_flavor: "Dokonce i monstra někdy potřebují duchovní pomoc."
 tile_id: Cleric
 image: /images/Cleric.png
 ---

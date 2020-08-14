@@ -28,4 +28,8 @@ ko-KR_name: "부스러기"
 ko-KR_description: "타일을 버릴 때 2 ❤️을 추가로 얻습니다. 최대 ❤️이 4 감소합니다"
 tile_id: Scrappy
 image: /images/Scrappy.png
+cs-CZ_name: "Povrchnost"
+cs-CZ_description: "Když odložíš dlaždici, získáš 2 další ❤️. Maximální ❤️ se sníží o 4."
+tile_id: Scrappy
+image: /images/Scrappy.png
 ---

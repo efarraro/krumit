@@ -114,12 +114,12 @@ monsters:
     image: /images/Slime.png
     quantity: 4
     url: /monsters/Slime
-ko-KR_name: "Depths of Doom"
+ko-KR_name: "파멸의 심연"
 ko-KR_description: "'나, 힘센 브루노는 어떤 사람도 표지판도 두렵지 않아. 하지만 위험을 무릅쓸 이유는 또 뭐야?' - Bruno"
 tier: 3
 monsters:
   - monster:
-    name: "Kooltist"
+    name: "쿨티스트"
     image: /images/Cooltist.png
     quantity: 5
     url: /monsters/Cooltist
@@ -129,7 +129,26 @@ monsters:
     quantity: 3
     url: /monsters/Cleric
   - monster:
-    name: "Globber"
+    name: "끈끈이덩어리"
+    image: /images/Slime.png
+    quantity: 4
+    url: /monsters/Slime
+cs-CZ_name: "Zhoubné hlubiny"
+cs-CZ_description: "„Já, mocný Bruno, se obávám, že bych nebyl dobrý člověk ani kazatel. Tak proč to riskovat, že?“ - Bruno"
+tier: 3
+monsters:
+  - monster:
+    name: "Ocooltista"
+    image: /images/Cooltist.png
+    quantity: 5
+    url: /monsters/Cooltist
+  - monster:
+    name: "Druid"
+    image: /images/Cleric.png
+    quantity: 3
+    url: /monsters/Cleric
+  - monster:
+    name: "Vyhnanec"
     image: /images/Slime.png
     quantity: 4
     url: /monsters/Slime

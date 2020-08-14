@@ -179,7 +179,7 @@ ko-KR_description: "너무 정신나간 곳이어서 언덕 자체까지도 울�
 tier: 6
 monsters:
   - monster:
-    name: "Windrunner"
+    name: "바람질주자"
     image: /images/WindRunner.png
     quantity: 4
     url: /monsters/WindRunner
@@ -194,12 +194,41 @@ monsters:
     quantity: 4
     url: /monsters/Harpy
   - monster:
-    name: "Buckethead"
+    name: "양동이대가리"
     image: /images/GobloidKnucklehead.png
     quantity: 4
     url: /monsters/GobloidKnucklehead
   - monster:
     name: "고블로이드"
+    image: /images/Gobloid.png
+    quantity: 2
+    url: /monsters/Gobloid
+cs-CZ_name: "Křikovské kopce"
+cs-CZ_description: "Místo, které je tak šílené, že i samotné kopce křičí hrůzou."
+tier: 6
+monsters:
+  - monster:
+    name: "Divoletka"
+    image: /images/WindRunner.png
+    quantity: 4
+    url: /monsters/WindRunner
+  - monster:
+    name: "Radioaktivní Viking"
+    image: /images/Viking.png
+    quantity: 8
+    url: /monsters/Viking
+  - monster:
+    name: "Král duchů"
+    image: /images/Harpy.png
+    quantity: 4
+    url: /monsters/Harpy
+  - monster:
+    name: "Kolenohlav"
+    image: /images/GobloidKnucklehead.png
+    quantity: 4
+    url: /monsters/GobloidKnucklehead
+  - monster:
+    name: "Gobloid"
     image: /images/Gobloid.png
     quantity: 2
     url: /monsters/Gobloid

@@ -24,8 +24,12 @@ pl-PL_name: "Dziecko ulicy"
 pl-PL_description: "Dodaj 3 <a href = '../pl_pl/monsters#RoyalGuard'>Strażnik Miejski</a> do talii. Pierwsza płytka, którą uzyskasz jest darmowa."
 tile_id: StreetRat
 image: /images/StreetRat.png
-ko-KR_name: "Street Rat"
-ko-KR_description: "Add 3 <a href = '../ko_kr/monsters#RoyalGuard'>Town Guard</a> to the deck. The first tile you acquire is free"
+ko-KR_name: "밑바닥 출신"
+ko-KR_description: "<a href = '../ko_kr/monsters#RoyalGuard'>도시 경비병</a> 3장을 덱에 추가합니다. 내가 처음으로 획득하는 타일이 무료가 됩니다"
+tile_id: StreetRat
+image: /images/StreetRat.png
+cs-CZ_name: "Pouliční krysa"
+cs-CZ_description: "Přidá 3 <a href = '../cs_cz/monsters#RoyalGuard'>Městská garda</a> do balíčku. První získaná dlaždice je zdarma."
 tile_id: StreetRat
 image: /images/StreetRat.png
 ---

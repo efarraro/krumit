@@ -42,4 +42,10 @@ ko-KR_flavor: "여기서 '완벽한 폭풍'은 어떤 식으로든 지독하고 
 tile_id: PerfectStorm
 cost: 0
 image: /images/PerfectStorm.png
+cs-CZ_name: "Dokonalá bouře"
+cs-CZ_description: "Po získání dlaždice dostaneš 2 poškožení. Nepřátelé sousedící se získanou dlaždicí dostanou 2 poškození <u>zkrz</u>. Když tato dlaždice dosáhne spodní řady, zamíchá se zpět do balíčku."
+cs-CZ_flavor: "Dokonalá bouře vyvolá nepravděpodobnou sérii nešťastných událostí, které se nějakým záhadným způsobem sejdou na jednom místě."
+tile_id: PerfectStorm
+cost: 0
+image: /images/PerfectStorm.png
 ---

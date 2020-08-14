@@ -35,4 +35,9 @@ ko-KR_description: "This enemy doesn't have any special powers or effects"
 ko-KR_flavor: "글로우텍 주주들은 V2의 첫 실사용 공개에 기뻐했습니다. 폭발 전까지는요."
 tile_id: AutomatonV2
 image: /images/AutomatonV2.png
+cs-CZ_name: "Nitromancer v2.0"
+cs-CZ_description: "Tento nepřítel nemá žádnou zvláštní sílu ani efekty."
+cs-CZ_flavor: "Akcionáři GlowTech byli potěšeni odhalením „praktičtějšího“ V2. Tedy až do výbuchu."
+tile_id: AutomatonV2
+image: /images/AutomatonV2.png
 ---

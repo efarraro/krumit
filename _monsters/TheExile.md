@@ -30,9 +30,14 @@ pl-PL_description: "Ten przeciwnik jest nietykalny dopóki inni przeciwnicy znaj
 pl-PL_flavor: "Wygnaniec błąka się po Pustkowiu zbierając artefakty i ubierając się w bibeloty. Czy ten wyrodny wędrownik będzie wałęsać się wiecznie? Skąd został wygnany? Wszystko okaże się w swoim czasie..."
 tile_id: TheExile
 image: /images/TheExile.png
-ko-KR_name: "The Exile"
-ko-KR_description: "This enemy can't be targeted while other enemies are still on the board.  Cost to acquire tiles increased by 1 💰"
-ko-KR_flavor: "The Exile wanders the Wasteland collecting gew-gaws and artifacts, wearing as many of them as possible. To what end does this itinerant individual roam and hoard? What are they exiled from? All will (probably) be revealed!"
+ko-KR_name: "추방자"
+ko-KR_description: "다른 적이 보드에 있는 동안 이 적을 대상으로 지정할 수 없습니다. 타일 획득 비용이 1 💰 증가합니다"
+ko-KR_flavor: "추방자는 수집한 번지르르한 물건들과 유물들을 가능한 한 많이 몸에 걸친 채로 황무지를 거닙니다. 이 방랑자는 무슨 목적으로 떠돌며 물건들을 모으는 걸까요? 어디에서 추방된 걸까요? 모든 것이 (아마도) 밝혀지게 될 겁니다!"
+tile_id: TheExile
+image: /images/TheExile.png
+cs-CZ_name: "Vyhnanec"
+cs-CZ_description: "Tento nepřítel nejde vybrat, dokud jsou na herní ploše jiní nepřátelé. Cena za získání dlaždic se zvýší o 1 💰."
+cs-CZ_flavor: "Vyhnanec putuje po pustině a shromažďuje gew-gawy a artefakty, které si hromadně zavěšuje na tělo. Za jakým účelem je tento poutník hromadí? Odkud ho vůbec vyhnali? Vše bude (pravděpodobně) odhaleno!"
 tile_id: TheExile
 image: /images/TheExile.png
 ---

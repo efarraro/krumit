@@ -63,4 +63,13 @@ monsters:
     image: /images/Skeleton.png
     quantity: 6
     url: /monsters/Skeleton
+cs-CZ_name: "Špinavý suterén"
+cs-CZ_description: "Tento zaprášený suterén je naplněn silným zápachem nostalgie."
+tier: 0
+monsters:
+  - monster:
+    name: "Kostlivec"
+    image: /images/Skeleton.png
+    quantity: 6
+    url: /monsters/Skeleton
 ---

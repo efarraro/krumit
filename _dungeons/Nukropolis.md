@@ -249,12 +249,12 @@ monsters:
     quantity: 2
     url: /monsters/Skeleton
   - monster:
-    name: "Kooltist"
+    name: "쿨티스트"
     image: /images/Cooltist.png
     quantity: 4
     url: /monsters/Cooltist
   - monster:
-    name: "Zealnut"
+    name: "질너트"
     image: /images/Zealnut.png
     quantity: 5
     url: /monsters/Zealnut
@@ -270,6 +270,45 @@ monsters:
     url: /monsters/AutomatonV2
   - monster:
     name: "Trash Golem"
+    image: /images/TrashGolem.png
+    quantity: 3
+    url: /monsters/TrashGolem
+cs-CZ_name: "Nitropolis"
+cs-CZ_description: "„...a pak se jakoby z mlhy vynořil Nitropolis – úplný chrám zkázy, kde je vše buď rozpadlé nebo otrávené. A navíc to nevypadá hezky.“ – Krumit"
+tier: 8
+monsters:
+  - monster:
+    name: "Uberlich"
+    image: /images/Uberlich.png
+    quantity: 1
+    url: /monsters/Uberlich
+  - monster:
+    name: "Kostlivec"
+    image: /images/Skeleton.png
+    quantity: 2
+    url: /monsters/Skeleton
+  - monster:
+    name: "Ocooltista"
+    image: /images/Cooltist.png
+    quantity: 4
+    url: /monsters/Cooltist
+  - monster:
+    name: "Horlivák"
+    image: /images/Zealnut.png
+    quantity: 5
+    url: /monsters/Zealnut
+  - monster:
+    name: "Nitromancer"
+    image: /images/Automaton.png
+    quantity: 4
+    url: /monsters/Automaton
+  - monster:
+    name: "Nitromancer v2.0"
+    image: /images/AutomatonV2.png
+    quantity: 4
+    url: /monsters/AutomatonV2
+  - monster:
+    name: "Odpadkový golem"
     image: /images/TrashGolem.png
     quantity: 3
     url: /monsters/TrashGolem

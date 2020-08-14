@@ -30,9 +30,14 @@ pl-PL_description: "Nie możesz używać broni przeciwko Szlamorom. Kłopotliwa 
 pl-PL_flavor: "Jeżeli są pustymi workami śluzu to skąd ten jęzor? Lepiej się nie zbliżać, żeby się przekonać. Może wolą śmieci, ale w ostateczności zjedzą ludzkie mięso."
 tile_id: Slime
 image: /images/Slime.png
-ko-KR_name: "Globber"
-ko-KR_description: "Well, this is awkward.  This enemy is immune to weapons."
-ko-KR_flavor: "Are they hollow bags of slime? If so, where does their tongue start? Best not think too much about it. They prefer trash, but human flesh will do in a pinch."
+ko-KR_name: "끈끈이덩어리"
+ko-KR_description: "음, 이거 좀 귀찮네요. 이 적은 무기에 면역입니다."
+ko-KR_flavor: "속이 빈 점액 포대일까요? 만약 그렇다면, 그들의 혀는 어디서부터 시작될까요? 너무 깊이 생각하지 않는 게 좋습니다. 그들은 쓰레기를 좋아하지만, 급할 때는 인육도 마다하지 않을 것입니다."
+tile_id: Slime
+image: /images/Slime.png
+cs-CZ_name: "Vyhnanec"
+cs-CZ_description: "Je to trochu trapné, ale tento nepřítel je imunní vůči zbraním."
+cs-CZ_flavor: "To jsou nějaké děravé pytle slizu? Pokud ano, kde mají jazyk? Lepší na to nemyslet. Mají rádi odpadky, ale nepohrdnou ani lidským masem."
 tile_id: Slime
 image: /images/Slime.png
 ---

@@ -174,12 +174,12 @@ monsters:
     image: /images/Swampalina.png
     quantity: 1
     url: /monsters/Swampalina
-ko-KR_name: "Swampalina's Toxic Vault"
-ko-KR_description: "There is no cure for Swampalina and her vile concoctions - but they can be prevented. From escaping that is."
+ko-KR_name: "스웜팔리나의 독극물 보관소"
+ko-KR_description: "스웜팔리나와 그녀의 사악한 혼합물에 대한 치료법은 없지만 예방책은 있습니다. 바로 도망치는 겁니다."
 tier: 7
 monsters:
   - monster:
-    name: "Globber"
+    name: "끈끈이덩어리"
     image: /images/Slime.png
     quantity: 6
     url: /monsters/Slime
@@ -200,6 +200,35 @@ monsters:
     url: /monsters/JackalAssassin
   - monster:
     name: "스웜팔리나"
+    image: /images/Swampalina.png
+    quantity: 1
+    url: /monsters/Swampalina
+cs-CZ_name: "Swampalinina toxická nora"
+cs-CZ_description: "Lék proti útoku Swampaliny a jejího slizu neexistuje – pouze prevence. Útěk."
+tier: 7
+monsters:
+  - monster:
+    name: "Vyhnanec"
+    image: /images/Slime.png
+    quantity: 6
+    url: /monsters/Slime
+  - monster:
+    name: "Šotek"
+    image: /images/Trickster.png
+    quantity: 5
+    url: /monsters/Trickster
+  - monster:
+    name: "Odpadkový golem"
+    image: /images/TrashGolem.png
+    quantity: 3
+    url: /monsters/TrashGolem
+  - monster:
+    name: "Zabiják"
+    image: /images/JackalAssassin.png
+    quantity: 3
+    url: /monsters/JackalAssassin
+  - monster:
+    name: "Swampalina"
     image: /images/Swampalina.png
     quantity: 1
     url: /monsters/Swampalina

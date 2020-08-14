@@ -31,8 +31,13 @@ pl-PL_flavor: "Uwięziona (oficjalnie...) w Toksycznej Krypcie, Bagninka jest pr
 tile_id: Swampalina
 image: /images/Swampalina.png
 ko-KR_name: "스웜팔리나"
-ko-KR_description: "In this dungeon, when enemies spawn, they inflict  <u>중독</u> (1) on you. Globbers also gain an extra poison attack"
-ko-KR_flavor: "Currently imprisoned (or so they think...) to The Toxic Vault, Swampalina is a devious brewer of vile poisons and bizarre cakes. She is still searching for her long-lost sister Marsha, with whom she has unfinished business."
+ko-KR_description: "이 던전에서 적이 생성되면 내가  <u>중독</u>(1)됩니다. 끈끈이덩어리들도 추가적인 중독 공격 행동을 얻습니다."
+ko-KR_flavor: "현재 독극물 보관소에 수감되어 있는(혹은 그렇게 여겨지는) 스웜팔리나는 사악한 독약과 기괴한 케이크를 만듭니다. 그녀는 오랫동안 만나지 못한 여동생 마샤를 찾아서, 둘 사이에 아직 해결하지 못한 일을 끝마치고 싶어합니다."
+tile_id: Swampalina
+image: /images/Swampalina.png
+cs-CZ_name: "Swampalina"
+cs-CZ_description: "Nepřátelé, rodící se v této kobce, ti způsobí  <u>Otrávení</u> (1). Globbeři navíc získají otrávený útok."
+cs-CZ_flavor: "Swampalina je momentálně uvězněna (nebo si myslí, že je) v Toxické hrobce. Stále hledá svou ztracenou sestru Marshu, se kterou má nevyřízené účty."
 tile_id: Swampalina
 image: /images/Swampalina.png
 ---

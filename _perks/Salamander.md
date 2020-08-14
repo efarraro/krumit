@@ -28,4 +28,8 @@ ko-KR_name: "Salamander"
 ko-KR_description: "각 던전에서 처음으로 죽음에 이르는 피해를 받았을 때, 내 ❤️을 1로 만들고 <u>재생</u>을 얻습니다"
 tile_id: Salamander
 image: /images/Salamander.png
+cs-CZ_name: "Salamander"
+cs-CZ_description: "Poprvé v každé kobce, když utrpíš smrtelné poškození, nastaví ❤️ na 1 a získáš <u>Regeneration</u>."
+tile_id: Salamander
+image: /images/Salamander.png
 ---

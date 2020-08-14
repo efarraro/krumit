@@ -28,4 +28,8 @@ ko-KR_name: "비전술사"
 ko-KR_description: "능력을 획득할 때마다, 같은 열에 있는 가장 위의 적에게 <u>관통</u> 피해를 1 줍니다"
 tile_id: Arcanist
 image: /images/Arcanist.png
+cs-CZ_name: "Tajnůstkář"
+cs-CZ_description: "Kdykoli získáš schopnost, udělí 1 poškození <u>zkrz</u> nejvýše umístěnému nepříteli ve stejném sloupci."
+tile_id: Arcanist
+image: /images/Arcanist.png
 ---

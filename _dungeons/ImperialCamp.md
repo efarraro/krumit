@@ -154,12 +154,36 @@ monsters:
     quantity: 3
     url: /monsters/Peasant
   - monster:
-    name: "Town Guard"
+    name: "도시 경비병"
     image: /images/RoyalGuard.png
     quantity: 6
     url: /monsters/RoyalGuard
   - monster:
-    name: "Royal Guard"
+    name: "왕실 경비병"
+    image: /images/RoyalGuardElite.png
+    quantity: 4
+    url: /monsters/RoyalGuardElite
+  - monster:
+    name: "Druid"
+    image: /images/Cleric.png
+    quantity: 4
+    url: /monsters/Cleric
+cs-CZ_name: "Císařské cvičiště"
+cs-CZ_description: "Srdce imperiální elitní armády. Výcvik zahrnuje šerm, cvičení formací a vlastnoruční vyrábění helmy s chocholem."
+tier: 4
+monsters:
+  - monster:
+    name: "Rolník"
+    image: /images/Peasant.png
+    quantity: 3
+    url: /monsters/Peasant
+  - monster:
+    name: "Městská garda"
+    image: /images/RoyalGuard.png
+    quantity: 6
+    url: /monsters/RoyalGuard
+  - monster:
+    name: "Královská stráž"
     image: /images/RoyalGuardElite.png
     quantity: 4
     url: /monsters/RoyalGuardElite

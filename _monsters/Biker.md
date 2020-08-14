@@ -30,9 +30,14 @@ pl-PL_description: "Robi się nieprzyjemny gdy się wkurzy! Za każdym razem gdy
 pl-PL_flavor: "Mutocykliści czczą boga maszyn, Pana Darley'a Havidson'a, i modlą się że pewnego dnia zstąpi ze swymi Jeźdźcami Motocykalipsy: Panią Sue Zuuki, Duke Ati oraz chuchrem rodziny, Ves Pah."
 tile_id: Biker
 image: /images/Biker.png
-ko-KR_name: "Mutant Biker"
-ko-KR_description: "You won't like him when he's angry!  Whenever this enemy takes damage, its 🔸 increases by 1."
-ko-KR_flavor: "MutaBikers worship the machine god, Mr. Darley Havidson, and pray that he will one day descend with his riders of the Bikepocalypse: Mrs. Sue Zuuki, Duke Ati, and the runt of the family, Ves Pah."
+ko-KR_name: "돌연변이 폭주족"
+ko-KR_description: "화가 나면 무섭습니다! 이 적이 피해를 받으면, 🔸이 1 증가합니다"
+ko-KR_flavor: "돌연변이 폭주족들은 기계 신 달리 헤이비슨을 숭배하며, 언젠가 그의 오토바이대재앙의 기수들인 수 주키, 듀크 아티, 그리고 그들 중 최약체인 베스 파와 함께 강림하기를 기도합니다."
+tile_id: Biker
+image: /images/Biker.png
+cs-CZ_name: "Zmutovaný motorkář"
+cs-CZ_description: "Když se naštve, není moc příjemný. Kdykoliv tento nepřítel utrpí poškození, jeho 🔸 se zvýší o 1."
+cs-CZ_flavor: "Mutorkáři milují svého strojoboha, pana Darveye Havidsona, a modlí se za to, aby jednoho dne sestoupil se svými jezdci Mutorkalypsy, Sue Zuuki, Duke Ati a další z rodiny Vespů."
 tile_id: Biker
 image: /images/Biker.png
 ---

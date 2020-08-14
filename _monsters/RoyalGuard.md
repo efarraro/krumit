@@ -31,9 +31,14 @@ pl-PL_flavor: "Strażnicy Miejscy są zagorzałymi obrońcami Imperium,
 i jego stolicy (zarazem jedynego miasta) - Imperiowa."
 tile_id: RoyalGuard
 image: /images/RoyalGuard.png
-ko-KR_name: "Town Guard"
+ko-KR_name: "도시 경비병"
 ko-KR_description: "싸움 금지! 이 적이 보드에 있는 동안 근접 무기를 장착할 수 없습니다"
-ko-KR_flavor: "Town Guards are staunch defenders of The Imperium, and of its capital (and only city), Imperiumville."
+ko-KR_flavor: "도시 경비병들은 제국과 제국의 수도(그리고 유일한 도시)인 제국도시의 충실한 수호자들입니다."
+tile_id: RoyalGuard
+image: /images/RoyalGuard.png
+cs-CZ_name: "Městská garda"
+cs-CZ_description: "Žádné souboje! Dokud je tento nepřítel na herní ploše, nemůžeš používat zbraně na blízko."
+cs-CZ_flavor: "Městská garda je spolehlivým ochráncem Impéria a jeho hlavního (a jediného) města Imperiumvilu."
 tile_id: RoyalGuard
 image: /images/RoyalGuard.png
 ---

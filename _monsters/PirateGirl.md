@@ -30,9 +30,14 @@ pl-PL_description: "Po pokonaniu tego przeciwnika, wtasuj <a href = '../pl_pl/it
 pl-PL_flavor: "Piraci wiecznie szukają łatwej zdobyczy."
 tile_id: PirateGirl
 image: /images/PirateGirl.png
-ko-KR_name: "Scalywag"
-ko-KR_description: "이 적을 처치하면 card(PirateLockBox)를 덱에 섞어 넣습니다."
-ko-KR_flavor: "These incorrigible lesser-pirates are only ever after your booty."
+ko-KR_name: "뱃사람"
+ko-KR_description: "이 적을 처치하면 <a href = '../ko_kr/items#PirateLockbox'>Pirate Lockbox</a>를 덱에 섞어 넣습니다."
+ko-KR_flavor: "구제불능인 이 하급 해적들은 영원토록 당신의 전리품에 지나지 않을 것입니다."
+tile_id: PirateGirl
+image: /images/PirateGirl.png
+cs-CZ_name: "Spratek"
+cs-CZ_description: "Když porazíš tohoto nepřítele, zamíchá se do balíčku <a href = '../cs_cz/items#PirateLockbox'>Pirátská pokladnice</a>."
+cs-CZ_flavor: "Tito nenapravitelní něcojakopiráti, to je teprve nějaká kořist!"
 tile_id: PirateGirl
 image: /images/PirateGirl.png
 ---

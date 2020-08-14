@@ -35,4 +35,9 @@ ko-KR_description: "이 적은 재빠릅니다. ⚡️ <u>기습</u> 공격에 �
 ko-KR_flavor: "더럽지만 겉보기만큼 멍청하지는 않은 고블로이드들은 핍박 당한 역사로 인해 외부인을 두려워합니다. 그들은 외부 세계로부터 방해받지 않을 만큼 악취를 풍기는 새로운 땅에 정착할 수 있을 거라는 희망으로 단결합니다."
 tile_id: Gobloid
 image: /images/Gobloid.png
+cs-CZ_name: "Gobloid"
+cs-CZ_description: "Tento nepřítel je rychlý – dej si pozor na jeho ⚡️ <u>rychlý útok</u>!"
+cs-CZ_flavor: "Špinaví, ale ne tak hloupí, jak vypadají. Gobloidi se bojí cizinců kvůli jejich násilnické historii. Spojili se v naději, že vytvoří novou zemi, dost páchnoucí, aby to odradilo vetřelce."
+tile_id: Gobloid
+image: /images/Gobloid.png
 ---

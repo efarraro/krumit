@@ -85,16 +85,30 @@ monsters:
     quantity: 6
     url: /monsters/Nukadog
 ko-KR_name: "우중충한 숲"
-ko-KR_description: "This forest is truly the dankest. Yet, it doesn't seem to faze the War Bears and their brutal Barbearians!"
+ko-KR_description: "정말로 가장 우중충한 숲입니다. 하지만 전쟁 곰들과 잔혹한 바베어리안들에게는 그리 큰 문제가 아닌 듯 합니다."
 tier: 1
 monsters:
   - monster:
-    name: "Barbearian"
+    name: "바베어리안"
     image: /images/Bear.png
     quantity: 1
     url: /monsters/Bear
   - monster:
     name: "콧물눅대"
+    image: /images/Nukadog.png
+    quantity: 6
+    url: /monsters/Nukadog
+cs-CZ_name: "Zatuchlý les"
+cs-CZ_description: "Tento les je opravdu zatuchlý. Kam se na něj hrabou Váleční medvědi a jejich brutální Barbědi."
+tier: 1
+monsters:
+  - monster:
+    name: "Barběd"
+    image: /images/Bear.png
+    quantity: 1
+    url: /monsters/Bear
+  - monster:
+    name: "Vlkosmrk"
     image: /images/Nukadog.png
     quantity: 6
     url: /monsters/Nukadog

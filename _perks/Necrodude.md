@@ -24,8 +24,12 @@ pl-PL_name: "Nekroziom"
 pl-PL_description: "Maksymalne ❤️ -2. Pokonani wrogowie pozostawiają <a href = '../pl_pl/items#Tombstone'>Nagrobek</a>. Odrzucanie płytek nie odnawia ❤️."
 tile_id: Necrodude
 image: /images/Necrodude.png
-ko-KR_name: "Necrodude"
-ko-KR_description: "Max ❤️ -2. Enemies spawn <a href = '../ko_kr/items#Tombstone'>Tombstone</a> when defeated. Discarding tiles does not restore ❤️"
+ko-KR_name: "죽은 자의 친구"
+ko-KR_description: "최대 ❤️ -2. 적을 처치하면 <a href = '../ko_kr/items#Tombstone'>Tombstone</a>이 생성됩니다. 타일을 버려도 ❤️이 회복되지 않습니다"
+tile_id: Necrodude
+image: /images/Necrodude.png
+cs-CZ_name: "Necromaník"
+cs-CZ_description: "Maximální ❤️ -2. Nepřátelé po porážce odhodí <a href = '../cs_cz/items#Tombstone'>Tombstone</a>. Odkládáním dlaždic se ❤️ neobnovuje."
 tile_id: Necrodude
 image: /images/Necrodude.png
 ---

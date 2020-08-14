@@ -30,9 +30,14 @@ pl-PL_description: "Ten przeciwnik nie ma specjalnych zdolności ani efektów"
 pl-PL_flavor: "Wyzwą cię na rapową bitwę, ale są lepiej ubrani niż utalentowani. Wielbią Uberlicza, ale publicznie się nie przyznają."
 tile_id: Cooltist
 image: /images/Cooltist.png
-ko-KR_name: "Kooltist"
+ko-KR_name: "쿨티스트"
 ko-KR_description: "This enemy doesn't have any special powers or effects"
-ko-KR_flavor: "They’re ready to drop some infernal beats – on you and the mic. Worships the Uber-lich but pretends they’re not that into him."
+ko-KR_flavor: "그들은 당신과 마이크를 향해 지옥의 비트를 던질 준비가 되어있습니다. 우버리치를 숭배하지만 그렇지 않은 척합니다."
+tile_id: Cooltist
+image: /images/Cooltist.png
+cs-CZ_name: "Ocooltista"
+cs-CZ_description: "Tento nepřítel nemá žádnou zvláštní sílu ani efekty."
+cs-CZ_flavor: "Jsou připraveni rozdávat pekelné beaty - do mikrofonu i do tebe. Uctívají Uberlicha, přestože předstírají, že tomu tak není."
 tile_id: Cooltist
 image: /images/Cooltist.png
 ---

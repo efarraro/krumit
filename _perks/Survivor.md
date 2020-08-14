@@ -28,4 +28,8 @@ ko-KR_name: "생존자"
 ko-KR_description: "전투에서 적을 물리친 후 ❤️가 최대 체력의 50% 미만이라면, ❤️를 2 회복합니다."
 tile_id: Survivor
 image: /images/Survivor.png
+cs-CZ_name: "Trosečník"
+cs-CZ_description: "Pokud po poražení nepřítele v souboji máš ❤️ pod 50 % tvého maximálního zdraví, obnoví se 2 ❤️."
+tile_id: Survivor
+image: /images/Survivor.png
 ---

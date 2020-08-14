@@ -28,4 +28,8 @@ ko-KR_name: "Beggar"
 ko-KR_description: "내 인벤토리에 타일이 없는 동안 기본 🔸이 1 증가합니다."
 tile_id: Beggar
 image: /images/Beggar.png
+cs-CZ_name: "Žebrák"
+cs-CZ_description: "Pokud máš v inventáři 0 dlaždic, tvůj základní 🔸 se zvýší o 1."
+tile_id: Beggar
+image: /images/Beggar.png
 ---

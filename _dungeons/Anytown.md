@@ -94,7 +94,21 @@ monsters:
     quantity: 5
     url: /monsters/Peasant
   - monster:
-    name: "Town Guard"
+    name: "도시 경비병"
+    image: /images/RoyalGuard.png
+    quantity: 1
+    url: /monsters/RoyalGuard
+cs-CZ_name: "Bezejmenný statek"
+cs-CZ_description: "Strohý, skromný, všední a zapomenutelný, může stát kdekoli."
+tier: 0
+monsters:
+  - monster:
+    name: "Rolník"
+    image: /images/Peasant.png
+    quantity: 5
+    url: /monsters/Peasant
+  - monster:
+    name: "Městská garda"
     image: /images/RoyalGuard.png
     quantity: 1
     url: /monsters/RoyalGuard

@@ -189,17 +189,46 @@ monsters:
     quantity: 5
     url: /monsters/AncientSkeleton
   - monster:
-    name: "Kooltist"
+    name: "쿨티스트"
     image: /images/Cooltist.png
     quantity: 3
     url: /monsters/Cooltist
   - monster:
-    name: "Zealnut"
+    name: "질너트"
     image: /images/Zealnut.png
     quantity: 4
     url: /monsters/Zealnut
   - monster:
     name: "유령 왕"
+    image: /images/GhostKing.png
+    quantity: 1
+    url: /monsters/GhostKing
+cs-CZ_name: "Kryptorium Krále duchů"
+cs-CZ_description: "„Já a Král duchů? Ten éterický všeználek? Ano, vracíme se. Měl jsem vždycky lepší vousy.“ – Kostipán Calacas"
+tier: 5
+monsters:
+  - monster:
+    name: "Kostlivec"
+    image: /images/Skeleton.png
+    quantity: 6
+    url: /monsters/Skeleton
+  - monster:
+    name: "Starověký kostlivec"
+    image: /images/AncientSkeleton.png
+    quantity: 5
+    url: /monsters/AncientSkeleton
+  - monster:
+    name: "Ocooltista"
+    image: /images/Cooltist.png
+    quantity: 3
+    url: /monsters/Cooltist
+  - monster:
+    name: "Horlivák"
+    image: /images/Zealnut.png
+    quantity: 4
+    url: /monsters/Zealnut
+  - monster:
+    name: "Král duchů"
     image: /images/GhostKing.png
     quantity: 1
     url: /monsters/GhostKing

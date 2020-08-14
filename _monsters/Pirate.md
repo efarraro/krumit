@@ -30,9 +30,14 @@ pl-PL_description: "Ten przeciwnik nie ma specjalnych zdolności ani efektów"
 pl-PL_flavor: "Tylko najbardziej słoni korsarze pływają po Lepkim Morzu. Piraci wierzą, że ląd jest nawiedzony przez mściwe duchy, które można przekupić tylko darami grogu i skarbów."
 tile_id: Pirate
 image: /images/Pirate.png
-ko-KR_name: "Swashbuckler"
+ko-KR_name: "무법자"
 ko-KR_description: "This enemy doesn't have any special powers or effects"
-ko-KR_flavor: "Only the saltiest of sea dogs dare to sail the Viscous Seas. Pirates believe the land is cursed by vengeful spirits who can only be appeased by offerings of grog and booty."
+ko-KR_flavor: "가장 노련한 뱃사람들만이 끈적끈적 바다를 항해할 수 있습니다. 해적들은 육지가 복수심에 불타는 영혼들에게 저주받았다고 믿고 있으며, 술과 전리품을 공물로 바쳐야만 그 영혼들을 달랠 수 있다고 생각합니다."
+tile_id: Pirate
+image: /images/Pirate.png
+cs-CZ_name: "Hulvát"
+cs-CZ_description: "Tento nepřítel nemá žádnou zvláštní sílu ani efekty."
+cs-CZ_flavor: "Plavit po Viskózním moři se odváží pouze nejslanější mořští psi. Piráti věří, že zemi prokleli pomstychtiví duchové, se kterými se dá být zadobře pouze nabízením grogů a obětováním kořistí."
 tile_id: Pirate
 image: /images/Pirate.png
 ---

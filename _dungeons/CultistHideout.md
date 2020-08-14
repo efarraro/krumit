@@ -84,8 +84,8 @@ monsters:
     image: /images/Cooltist.png
     quantity: 4
     url: /monsters/Cooltist
-ko-KR_name: "Underground Cult Meetup"
-ko-KR_description: "'Ugh, all these new guys – <i>I</i> was hanging out here before anyone else even knew about it.' - Death Ma$ter K."
+ko-KR_name: "지하 교단 집회"
+ko-KR_description: "'욱, 풋내기들뿐이구만...난 다른 사람들이 알기도 전부터 여기서 많은 시간을 보냈다고.' - 죽음의 지배자 K"
 tier: 1
 monsters:
   - monster:
@@ -94,7 +94,21 @@ monsters:
     quantity: 4
     url: /monsters/Skeleton
   - monster:
-    name: "Kooltist"
+    name: "쿨티스트"
+    image: /images/Cooltist.png
+    quantity: 4
+    url: /monsters/Cooltist
+cs-CZ_name: "Kultovní podzemní klubovna"
+cs-CZ_description: "„Ugh, všichni tihle nováčci – A já tady trčím, aniž by o tom někdo věděl.“ – $mrtipán K."
+tier: 1
+monsters:
+  - monster:
+    name: "Kostlivec"
+    image: /images/Skeleton.png
+    quantity: 4
+    url: /monsters/Skeleton
+  - monster:
+    name: "Ocooltista"
     image: /images/Cooltist.png
     quantity: 4
     url: /monsters/Cooltist

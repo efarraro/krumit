@@ -35,4 +35,9 @@ ko-KR_description: "This enemy doesn't have any special powers or effects"
 ko-KR_flavor: "부랑자들은 근방을 배회하면서 그림자에 숨어서 만만한 먹잇감을 찾습니다. 만약 누군가가 당신에게 길을 묻는다면, 지갑부터 먼저 확인하세요."
 tile_id: JackalVagabond
 image: /images/JackalVagabond.png
+cs-CZ_name: "Tulák"
+cs-CZ_description: "Tento nepřítel nemá žádnou zvláštní sílu ani efekty."
+cs-CZ_flavor: "Tuláci se potulují po zemi, drží se ve stínu a zaměřují se na snadné cíle. Pokud se jich zeptáš na cestu, zkontroluj si pak svou peněženku."
+tile_id: JackalVagabond
+image: /images/JackalVagabond.png
 ---

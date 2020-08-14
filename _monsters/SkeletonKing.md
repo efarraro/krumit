@@ -31,8 +31,13 @@ pl-PL_flavor: "Niecierpliwy władca bezcielesnych szkieletów! Calacas rywalizuj
 tile_id: SkeletonKing
 image: /images/SkeletonKing.png
 ko-KR_name: "칼라카스"
-ko-KR_description: "Calacas gains 1 armor whenever you slay another enemy in this dungeon"
+ko-KR_description: "내가 이 던전에서 다른 적을 죽일 때마다 칼라카스가 방어도를 1 얻습니다"
 ko-KR_flavor: "살점 없는 자들의 휴식 없는 지배자! 칼라카스는 새로운 길 잃은 영혼들을 지배하기 위해 유령 왕과 경쟁합니다."
+tile_id: SkeletonKing
+image: /images/SkeletonKing.png
+cs-CZ_name: "Calacas"
+cs-CZ_description: "Kdykoli zabiješ jiného nepřítele v této kobce, získá Calacas 1 brnění."
+cs-CZ_flavor: "Neklidný vládce bez těla! Calacas soutěží s Králem duchů o to, kdo se stane vládcem všech ztracených duší."
 tile_id: SkeletonKing
 image: /images/SkeletonKing.png
 ---

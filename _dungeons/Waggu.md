@@ -124,12 +124,31 @@ monsters:
     quantity: 5
     url: /monsters/Gobloid
   - monster:
-    name: "Buckethead"
+    name: "양동이대가리"
     image: /images/GobloidKnucklehead.png
     quantity: 4
     url: /monsters/GobloidKnucklehead
   - monster:
     name: "고블로이드 군주 와구"
+    image: /images/GobloidKing.png
+    quantity: 1
+    url: /monsters/GobloidKing
+cs-CZ_name: "Hlavní město Gobliodů: W'aggu"
+cs-CZ_description: "W'aggu je hlavní „město“ Gobloidů. A zároveň jméno jejich krále. A je to i nejoblíbenější jméno prvorozených dětí Gobliodů."
+tier: 2
+monsters:
+  - monster:
+    name: "Gobloid"
+    image: /images/Gobloid.png
+    quantity: 5
+    url: /monsters/Gobloid
+  - monster:
+    name: "Kolenohlav"
+    image: /images/GobloidKnucklehead.png
+    quantity: 4
+    url: /monsters/GobloidKnucklehead
+  - monster:
+    name: "Goblord Waggu"
     image: /images/GobloidKing.png
     quantity: 1
     url: /monsters/GobloidKing

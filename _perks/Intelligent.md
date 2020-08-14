@@ -28,4 +28,8 @@ ko-KR_name: "총명함"
 ko-KR_description: "최대 덱 크기가 3 증가합니다"
 tile_id: Intelligent
 image: /images/Intelligent.png
+cs-CZ_name: "Inteligent"
+cs-CZ_description: "Zvýší maximální velikost balíčku o 3."
+tile_id: Intelligent
+image: /images/Intelligent.png
 ---

@@ -42,4 +42,10 @@ ko-KR_flavor: "블랔극륻 엌큿크커더픅 이이잇셕직!"
 tile_id: CurseOfTongues
 cost: -1
 image: /images/CurseOfTongues.png
+cs-CZ_name: "Curse of Tongues"
+cs-CZ_description: "Když obnovíš ❤️, sníží se jeho počet o 1, dokud je tato dlaždice na herní ploše. Lze odstranit zaplacením 2 ❤️."
+cs-CZ_flavor: "Tkhlale khrta zpoubpbuke prlklurí!"
+tile_id: CurseOfTongues
+cost: -1
+image: /images/CurseOfTongues.png
 ---

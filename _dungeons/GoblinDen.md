@@ -55,11 +55,20 @@ monsters:
     quantity: 6
     url: /monsters/Gobloid
 ko-KR_name: "더러운 고블로이드 도시"
-ko-KR_description: "'The Gobloids are a tragic, filthy race – doomed by their stench to live as outcasts, forever shunned. I wonder if they can smell each other?' - Krumit"
+ko-KR_description: "'고블로이드는 가엾고 더러운 종족으로, 지독한 악취로 인해 버림받고 외면 받는 운명에 처한 자들입니다. 그들이 과연 서로의 냄새를 맡을 수 있을지 궁금하네요.' - 크루밋"
 tier: 0
 monsters:
   - monster:
     name: "고블로이드"
+    image: /images/Gobloid.png
+    quantity: 6
+    url: /monsters/Gobloid
+cs-CZ_name: "Špinavé Město Gobloidů"
+cs-CZ_description: "„Gobloidi jsou tak celkově tragédi a navíc oškliví. Jsou odsouzeni k životu ve vyhnanství. Vrtá mi ale hlavou, jestli cítí jeden druhého...“ – Krumit"
+tier: 0
+monsters:
+  - monster:
+    name: "Gobloid"
     image: /images/Gobloid.png
     quantity: 6
     url: /monsters/Gobloid

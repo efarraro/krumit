@@ -28,4 +28,8 @@ ko-KR_name: "성전사"
 ko-KR_description: "❤️가 가득 찬 상태일 때 기본 🔸이 1 증가합니다"
 tile_id: Crusader
 image: /images/Crusader.png
+cs-CZ_name: "Křižák"
+cs-CZ_description: "Pokud máš plné ❤️, zvýší tvůj základní 🔸 o 1."
+tile_id: Crusader
+image: /images/Crusader.png
 ---

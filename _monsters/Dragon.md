@@ -31,8 +31,13 @@ pl-PL_flavor: "Bartpłomień jest ostatnim ze (znanych...) Smroków, przerażaj�
 tile_id: Dragon
 image: /images/Dragon.png
 ko-KR_name: "바르톨로뮤"
-ko-KR_description: "At 60, 40, and 20 ❤️, add  <u>연소</u> (3) to this tile and shuffle it back into the deck. Attack +1 for each stack of burn"
-ko-KR_flavor: "Batholomew is the last (known…) Dragorn, a fearsome and unfortunate looking race born from highly irradiated Chickens."
+ko-KR_description: "❤️이 60, 40, 20일 때, 이 타일에  <u>연소</u>(3)를 추가하고 덱에 섞어 넣습니다. 연소 중첩당 +1 공격력을 가집니다"
+ko-KR_flavor: "바르톨로뮤는 마지막(으로 알려진...) 드래고온으로, 고도로 방사능 처리된 닭에서 비롯된 무시무시하고 불행한 종족입니다."
+tile_id: Dragon
+image: /images/Dragon.png
+cs-CZ_name: "Bartolomňau"
+cs-CZ_description: "Při 60, 40 a 20 ❤️ přidá této dlaždici  <u>popálení</u> (3) a zamíchá ji zpět do balíčku. Útok +1 pro každé popálení v hromádce."
+cs-CZ_flavor: "Bartolomňau je poslední (známý) drak. Je sice hrůzostrašný, ale bohužel vypadá jak z divokých vajec ozářených slepic."
 tile_id: Dragon
 image: /images/Dragon.png
 ---

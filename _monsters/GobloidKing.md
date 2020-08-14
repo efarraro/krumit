@@ -35,4 +35,9 @@ ko-KR_description: "이번 던전에서 모든 고블로이드들이 +1 🔸을 
 ko-KR_flavor: "건국자 고블로이드 타부가 예언한 위대한 고블로이드 공화국을 추구하며 싸웁니다. 힘과 악취로 권력을 붙잡고 있습니다."
 tile_id: GobloidKing
 image: /images/GobloidKing.png
+cs-CZ_name: "Goblord Waggu"
+cs-CZ_description: "Všichni Gobloidi v této kobce mají +1 🔸.  Zamíchá 3x <a href = '../cs_cz/items#Tranquilizer'>Sedativum</a> do balíčku."
+cs-CZ_flavor: "Bojuje za Velkou Gobliodskou republiku, kterou předpověděl T'abbu, Gobloid–Zakladatel. Síla a zápach vždy zvítězí!"
+tile_id: GobloidKing
+image: /images/GobloidKing.png
 ---

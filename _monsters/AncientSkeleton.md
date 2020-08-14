@@ -35,4 +35,9 @@ ko-KR_description: "잘 무장되어 있고 패셔너블한 이 친구는 2 방�
 ko-KR_flavor: "이 해골 친구는 수염이 있어서 정말로 늙었고, 젊은 해골들은 존경심이 없다고 생각합니다."
 tile_id: AncientSkeleton
 image: /images/AncientSkeleton.png
+cs-CZ_name: "Starověký kostlivec"
+cs-CZ_description: "Tento dobře vyzbrojený a trochu retro týpek začíná souboj s 2 brněním."
+cs-CZ_flavor: "Tento kostlivec je opravdu hodně starý, protože má vousy a myslí si, že ti mladí dnes už nemají žádnou úctu ke starším."
+tile_id: AncientSkeleton
+image: /images/AncientSkeleton.png
 ---

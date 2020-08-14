@@ -32,7 +32,12 @@ tile_id: Viking
 image: /images/Viking.png
 ko-KR_name: "누크 바이킹"
 ko-KR_description: "이 적을 상대로 방어구를 장착할 수 없습니다"
-ko-KR_flavor: "His glowing beard acts as a radiation filter. He doesn't mind having a half-life – just means getting to Valhalla even quicker."
+ko-KR_flavor: "그의 빛나는 수염은 방사능 필터 역할을 합니다. 그는 반감기에 개의치 않는데, 그에게는 발할라에 더 빨리 도착한다는 뜻에 지나지 않습니다."
+tile_id: Viking
+image: /images/Viking.png
+cs-CZ_name: "Radioaktivní Viking"
+cs-CZ_description: "Proti tomuto nepříteli nelze použít brnění."
+cs-CZ_flavor: "Jeho zářící vousy fungují jako radiační filtr. Nevadí mu, že má o polovinu kratší život, aspoň se o to dříve dostane do Valhally."
 tile_id: Viking
 image: /images/Viking.png
 ---

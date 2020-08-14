@@ -35,4 +35,9 @@ ko-KR_description: "이 적은 재빠릅니다. ⚡️ <u>기습</u> 공격에 �
 ko-KR_flavor: "방사능의 시대는 인류의 가장 친한 친구를 점액에 찌든 폭력적인 골칫거리로 만들었습니다. 아주 위험하고, 우와, 아주 유독해요."
 tile_id: Nukadog
 image: /images/Nukadog.png
+cs-CZ_name: "Vlkosmrk"
+cs-CZ_description: "Tento nepřítel je rychlý – dej si pozor na jeho ⚡️ <u>rychlý útok</u>!"
+cs-CZ_flavor: "Věk radiace změnil význam nejlepšího přítele člověka na zahleněnou nepříjemnost. Moc nebezpečné a moc toxické."
+tile_id: Nukadog
+image: /images/Nukadog.png
 ---

@@ -31,8 +31,13 @@ pl-PL_flavor: "Misiek, król Niedźwierzyńców, jest koneserem potyczek do osta
 tile_id: Bramble
 image: /images/Bramble.png
 ko-KR_name: "브램블"
-ko-KR_description: "In Bramble's Arena, discarding tiles no longer restores ❤️, but enemies give +1 💰 when defeated"
-ko-KR_flavor: "Bramble, king of the Barbearians, is also a connoisseur of battle royales.  Adventurers come from all over the world to seek glory and titilation in his arena."
+ko-KR_description: "브램블의 투기장에서는 타일을 버려도 ❤️이 회복되지 않지만, 적을 처치하면 +1 💰을 추가로 얻습니다"
+ko-KR_flavor: "바베어리안들의 왕인 브램블은 배틀 로얄의 권위자이기도 합니다. 전세계로부터 모험가들이 영광과 자극을 좇아 그의 투기장으로 발걸음합니다."
+tile_id: Bramble
+image: /images/Bramble.png
+cs-CZ_name: "Bramble"
+cs-CZ_description: "V Bramblově aréně odložené dlaždice neobnovují ❤️, ale z poražených nepřátel vypadne +1 💰."
+cs-CZ_flavor: "Bramble, král Barbědů, je velký obdivovatel královských bitev. Dobrodruzi, sjíždějící se z celého světa, hledají slávu v jeho pověstné aréně."
 tile_id: Bramble
 image: /images/Bramble.png
 ---

@@ -28,4 +28,8 @@ ko-KR_name: "수행자"
 ko-KR_description: "각 던전에 진입할 때, 무작위 능력 2장을 덱에 섞어 넣습니다"
 tile_id: Acolyte
 image: /images/Acolyte.png
+cs-CZ_name: "Akolyta"
+cs-CZ_description: "Na začátku každé kobky zamíchá do balíčku 2 náhodné schopnosti."
+tile_id: Acolyte
+image: /images/Acolyte.png
 ---

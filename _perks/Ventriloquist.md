@@ -25,7 +25,11 @@ pl-PL_description: "💀 <u>Sługus</u>s mają +1 ataku, ale twój 🔸 jest obn
 tile_id: Ventriloquist
 image: /images/Ventriloquist.png
 ko-KR_name: "복화술사"
-ko-KR_description: "내 💀 <u>하수인</u>의 공격력이 +1 증가하지만, 내 기본 🔸이 1 감소합니다. Skeleton 타일을 갖고 전투를 시작합니다"
+ko-KR_description: "내 💀 <u>하수인</u>의 공격력이 1 증가하지만, 내 기본 🔸이 1 감소합니다. Skeleton 타일을 갖고 전투를 시작합니다"
+tile_id: Ventriloquist
+image: /images/Ventriloquist.png
+cs-CZ_name: "Ventriloquist"
+cs-CZ_description: "Vaši 💀 <u>Sluhové</u> mají +1 útok, ale Váš základní 🔸 je snížen o 1. Začněte každou kobku s Kostlivec"
 tile_id: Ventriloquist
 image: /images/Ventriloquist.png
 ---

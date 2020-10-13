@@ -17,7 +17,7 @@ jp-JP_description: "武器で攻撃した後、 <u>毒</u>を与える。毒を�
 tile_id: Hornet
 image: /images/Hornet.png
 es-ES_name: "Avispa"
-es-ES_description: "Después de atacar con un arma, inflige  <u>veneno</u>. Haz +1 de daño contra enemigos envenenados"
+es-ES_description: "Después de atacar con un arma, aplica  <u>veneno</u>. Ganas +1 de daño contra enemigos envenenados"
 tile_id: Hornet
 image: /images/Hornet.png
 pl-PL_name: "Szerszeń"
@@ -28,8 +28,8 @@ ko-KR_name: "말벌"
 ko-KR_description: "내가 무기로 공격한 뒤  <u>중독</u>을 부여합니다. 중독 상태인 적에게 주는 피해량이 1 증가합니다"
 tile_id: Hornet
 image: /images/Hornet.png
-cs-CZ_name: "Hornet"
-cs-CZ_description: "Po útoku zbraní způsobí  <u>Otrávení</u>. Otráveným nepřátelům udělí +1 poškození."
+cs-CZ_name: "Sršeň"
+cs-CZ_description: "Po útoku zbraní způsobí  <u>otrávení</u>. Otráveným nepřátelům udělí +1 poškození."
 tile_id: Hornet
 image: /images/Hornet.png
 ---

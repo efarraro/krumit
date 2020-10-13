@@ -136,7 +136,7 @@ monsters:
     quantity: 4
     url: /monsters/Harpy
   - monster:
-    name: "Cabeza de Balde"
+    name: "Cabezacubo"
     image: /images/GobloidKnucklehead.png
     quantity: 4
     url: /monsters/GobloidKnucklehead
@@ -218,7 +218,7 @@ monsters:
     quantity: 8
     url: /monsters/Viking
   - monster:
-    name: "Král duchů"
+    name: "Punk"
     image: /images/Harpy.png
     quantity: 4
     url: /monsters/Harpy

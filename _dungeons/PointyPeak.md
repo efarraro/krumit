@@ -145,7 +145,7 @@ monsters:
     quantity: 2
     url: /monsters/AncientSkeleton
 ko-KR_name: "뾰족산"
-ko-KR_description: "'하피들은 저 산을 보금자리로 삼고 있지만, 곤돌라를 너무 심하게 괴롭히지는 않아. 내가 곤돌라에 제물을 걸어놓는 일을 기억하는 한 말이지' - 곤돌라 조종사 비비안"
+ko-KR_description: "'하피들은 저 산을 보금자리로 삼고 있지만, 곤돌라를 너무 심하게 괴롭히지는 않아. 내가 곤돌라에 제물을 걸어놓는 일을 기억하는 한 말이지.' - 곤돌라 조종사 비비안"
 tier: 3
 monsters:
   - monster:
@@ -159,21 +159,21 @@ monsters:
     quantity: 2
     url: /monsters/WindRunner
   - monster:
-    name: "Skeleton"
+    name: "해골"
     image: /images/Skeleton.png
     quantity: 6
     url: /monsters/Skeleton
   - monster:
-    name: "Ancient Skeleton"
+    name: "고대 해골"
     image: /images/AncientSkeleton.png
     quantity: 2
     url: /monsters/AncientSkeleton
-cs-CZ_name: "Špičatý vrchol"
+cs-CZ_name: "Špičatá hora"
 cs-CZ_description: "„Harpyje vyčkávají na vrcholcích, ale gondoly si moc nevšímají. Ještěže jsem vyvěsil návnadu.“ – Kapitán gondoly Vivian."
 tier: 3
 monsters:
   - monster:
-    name: "Král duchů"
+    name: "Punk"
     image: /images/Harpy.png
     quantity: 5
     url: /monsters/Harpy

@@ -15,7 +15,7 @@ ru-RU_description: "В конце раунда боя он умирает, ес�
 ru-RU_flavor: "Средний трэнт может вырасти до 1000 лет, но становится ворчливым примерно в возрасте 10 лет."
 tile_id: Treant
 image: /images/Treant.png
-jp-JP_name: "ツリーント"
+jp-JP_name: "トレント"
 jp-JP_description: "この敵のターン終了時に、敵の防具が0の場合、自壊する"
 jp-JP_flavor: "平均的な木人は千歳以上まで成長できるが、10歳頃になると不機嫌になる。"
 tile_id: Treant

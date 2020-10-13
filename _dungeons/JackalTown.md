@@ -77,7 +77,7 @@ monsters:
     quantity: 5
     url: /monsters/Nukadog
 es-ES_name: "Barriadas de Chacalena"
-es-ES_description: "Hay que estar bien perdido para visitar los barrios bajos de Chacalena - o bien seguro de poder sobrevivir un cuchillo en la espalda."
+es-ES_description: "Hay que estar bien perdido para visitar los barrios bajos de Chacalena - o bien seguro de poder sobrevivir a un cuchillo en la espalda."
 tier: 4
 monsters:
   - monster:
@@ -124,7 +124,7 @@ monsters:
     quantity: 8
     url: /monsters/Jackal
   - monster:
-    name: "Vagabond"
+    name: "부랑자"
     image: /images/JackalVagabond.png
     quantity: 4
     url: /monsters/JackalVagabond

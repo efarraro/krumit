@@ -28,8 +28,8 @@ ko-KR_name: "방사능"
 ko-KR_description: "적이 생성될 때  <u>중독</u>시킵니다"
 tile_id: Radioactive
 image: /images/Radioactive.png
-cs-CZ_name: "Radioactive"
-cs-CZ_description: "Udělí nepřátelům  <u>Otrávení</u>, jakmile se objeví."
+cs-CZ_name: "Radioaktivní"
+cs-CZ_description: "Udělí nepřátelům  <u>otrávení</u>, jakmile se objeví."
 tile_id: Radioactive
 image: /images/Radioactive.png
 ---

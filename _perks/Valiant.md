@@ -17,18 +17,18 @@ jp-JP_description: "<u>圧倒</u>：🔸 +2"
 tile_id: Valiant
 image: /images/Valiant.png
 es-ES_name: "Valiente"
-es-ES_description: "<u>abrumada</u>: Gana +2 🔸"
+es-ES_description: "<u>abrumada</u>: Ganas +2 🔸"
 tile_id: Valiant
 image: /images/Valiant.png
 pl-PL_name: "Dzielny"
-pl-PL_description: "<u>Otoczona</u>: +2 🔸"
+pl-PL_description: "<u>Otoczony</u>: +2 🔸"
 tile_id: Valiant
 image: /images/Valiant.png
 ko-KR_name: "용맹"
 ko-KR_description: "<u>압도당함</u>: +2 🔸을 얻습니다"
 tile_id: Valiant
 image: /images/Valiant.png
-cs-CZ_name: "Valiant"
+cs-CZ_name: "Statečný"
 cs-CZ_description: "<u>Zahlcení</u>: Získáš +2 🔸"
 tile_id: Valiant
 image: /images/Valiant.png

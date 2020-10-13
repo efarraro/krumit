@@ -24,12 +24,12 @@ pl-PL_name: "Zadymiarz"
 pl-PL_description: "Twój 🔸 jest zwiększony o 1 przeciwko ogłuszonym (<u>ogłuszony</u>) przeciwnikom."
 tile_id: Crafty
 image: /images/Crafty.png
-ko-KR_name: "Brawler"
-ko-KR_description: "<u>stunned</u> 상태인 상대에 대한 🔸이 1 증가합니다"
+ko-KR_name: "싸움꾼"
+ko-KR_description: "<u>기절</u> 상태인 상대에 대한 🔸이 1 증가합니다"
 tile_id: Crafty
 image: /images/Crafty.png
-cs-CZ_name: "Brawler"
-cs-CZ_description: "Tvůj 🔸 je navýšen o 1 oproti nepřátelům ve fázi <u>omráčený</u>."
+cs-CZ_name: "Výtržník"
+cs-CZ_description: "Tvůj 🔸 je navýšen o 1 proti nepříteli, který je <u>omráčený</u>."
 tile_id: Crafty
 image: /images/Crafty.png
 ---

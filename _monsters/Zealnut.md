@@ -31,8 +31,8 @@ pl-PL_flavor: "Żarliwcy są Starszymi Nadgorliwcami, stąd zwiększony przydzia
 tile_id: Zealnut
 image: /images/Zealnut.png
 ko-KR_name: "질너트"
-ko-KR_description: "This enemy doesn't have any special powers or effects"
-ko-KR_flavor: "질넛들은 상급 쿨티스트들로, 자신들의 지위를 입증하기 위해 추가로 반짝이는 장신구를 착용할 수 있습니다. 그들이 두른 사슬은 금처럼 보이지만 사실 7캐럿에 불과합니다."
+ko-KR_description: "이 적에게는 특별한 힘이나 효과가 없습니다"
+ko-KR_flavor: "질너트들은 상급 쿨티스트들로, 자신들의 지위를 입증하기 위해 추가로 반짝이는 장신구를 착용할 수 있습니다. 그들이 두른 사슬은 금처럼 보이지만 사실 7캐럿에 불과합니다."
 tile_id: Zealnut
 image: /images/Zealnut.png
 cs-CZ_name: "Horlivák"

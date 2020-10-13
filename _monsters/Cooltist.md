@@ -17,12 +17,12 @@ tile_id: Cooltist
 image: /images/Cooltist.png
 jp-JP_name: "クールティスト"
 jp-JP_description: "この敵は特殊能力や効果を持たない"
-jp-JP_flavor: "彼らはあなたとマイクに地獄のようなビートを落とす準備ができています。ウーバーリッヒを崇拝しているが、興味がないふりをしている。"
+jp-JP_flavor: "彼らは君とマイクにドロップ・ザ・ビートする準備ができている。ウーバーリッヒを崇拝しているが、興味がないふりをしている。"
 tile_id: Cooltist
 image: /images/Cooltist.png
 es-ES_name: "Kultista"
 es-ES_description: "Este enemigo no tiene poderes o efectos especiales"
-es-ES_flavor: "Este Kultista está listo para soltar unos beats infernales sobre tu cabeza. Rinde kulto al Uberliche, pero hace como que no es gran cosa."
+es-ES_flavor: "Este Kultista está listo para soltar unos ritmos infernales sobre ti y su micrófono. Rinde kulto al Uberliche, pero finge que no le interesa."
 tile_id: Cooltist
 image: /images/Cooltist.png
 pl-PL_name: "Nadgorliwiec"
@@ -31,7 +31,7 @@ pl-PL_flavor: "Wyzwą cię na rapową bitwę, ale są lepiej ubrani niż utalent
 tile_id: Cooltist
 image: /images/Cooltist.png
 ko-KR_name: "쿨티스트"
-ko-KR_description: "This enemy doesn't have any special powers or effects"
+ko-KR_description: "이 적에게는 특별한 힘이나 효과가 없습니다"
 ko-KR_flavor: "그들은 당신과 마이크를 향해 지옥의 비트를 던질 준비가 되어있습니다. 우버리치를 숭배하지만 그렇지 않은 척합니다."
 tile_id: Cooltist
 image: /images/Cooltist.png

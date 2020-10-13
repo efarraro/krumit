@@ -22,7 +22,7 @@ tile_id: Slime
 image: /images/Slime.png
 es-ES_name: "Babote"
 es-ES_description: "Bueno, esto es embarazoso. ¡Este enemigo es inmune a las armas!"
-es-ES_flavor: "¿Son bolsas llenas de baba? ¿Y si no, donde empiezan sus lenguas? Mejor no pensarlo mucho. Prefieren la basura, pero no le hacen asco a la carne humana."
+es-ES_flavor: "¿Son bolsas llenas de baba? ¿Y si es así, donde comienzas sus lenguas? Mejor no pensarlo mucho. Prefieren la basura, pero no le hacen ascos a la carne humana."
 tile_id: Slime
 image: /images/Slime.png
 pl-PL_name: "Szlamor"
@@ -35,7 +35,7 @@ ko-KR_description: "음, 이거 좀 귀찮네요. 이 적은 무기에 면역입
 ko-KR_flavor: "속이 빈 점액 포대일까요? 만약 그렇다면, 그들의 혀는 어디서부터 시작될까요? 너무 깊이 생각하지 않는 게 좋습니다. 그들은 쓰레기를 좋아하지만, 급할 때는 인육도 마다하지 않을 것입니다."
 tile_id: Slime
 image: /images/Slime.png
-cs-CZ_name: "Vyhnanec"
+cs-CZ_name: "Globber"
 cs-CZ_description: "Je to trochu trapné, ale tento nepřítel je imunní vůči zbraním."
 cs-CZ_flavor: "To jsou nějaké děravé pytle slizu? Pokud ano, kde mají jazyk? Lepší na to nemyslet. Mají rádi odpadky, ale nepohrdnou ani lidským masem."
 tile_id: Slime

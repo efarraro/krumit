@@ -21,8 +21,8 @@ jp-JP_flavor: "現在、毒物保管庫に投獄されている（と勝手に�
 tile_id: Swampalina
 image: /images/Swampalina.png
 es-ES_name: "Pantanuela"
-es-ES_description: "En esta mazmorra, los enemigos te infligen  <u>veneno</u> (1) cuando entran al tablero. Además, los Babotes ganan un ataque venenoso extra"
-es-ES_flavor: "Pantanuela es una malévola fabricante de viles venenos y bizarros pasteles, actualmente aprisionada (o eso creen...) en la Bóveda Tóxica. Sigue buscando a su hermana Cenagosa, perdida hace mucho tiempo, con quien tiene asuntos sin terminar."
+es-ES_description: "En esta mazmorra, los enemigos te aplican  <u>veneno</u> (1) al entrar en el tablero. Además, los Babotes ganan un ataque venenoso extra"
+es-ES_flavor: "Encarcelada (o eso se creen...) actualmente en la Bóveda Tóxica, Pantanuela es una malévola cocinera de viles venenos y extraños bizcochos. Aún sigue buscando a Marsha, su hermana perdida hace mucho tiempo, con la que aún tiene negocios pendientes."
 tile_id: Swampalina
 image: /images/Swampalina.png
 pl-PL_name: "Baglinka"
@@ -36,7 +36,7 @@ ko-KR_flavor: "현재 독극물 보관소에 수감되어 있는(혹은 그렇�
 tile_id: Swampalina
 image: /images/Swampalina.png
 cs-CZ_name: "Swampalina"
-cs-CZ_description: "Nepřátelé, rodící se v této kobce, ti způsobí  <u>Otrávení</u> (1). Globbeři navíc získají otrávený útok."
+cs-CZ_description: "Nepřátelé, rodící se v této kobce, ti způsobí  <u>otrávení</u> (1). Globbeři navíc získají otrávený útok."
 cs-CZ_flavor: "Swampalina je momentálně uvězněna (nebo si myslí, že je) v Toxické hrobce. Stále hledá svou ztracenou sestru Marshu, se kterou má nevyřízené účty."
 tile_id: Swampalina
 image: /images/Swampalina.png

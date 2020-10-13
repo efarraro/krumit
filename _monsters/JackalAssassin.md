@@ -30,12 +30,12 @@ pl-PL_description: "Ten wróg pojawia się na planszy w ukryciu, więc nie może
 pl-PL_flavor: "Szakale skrytobójcy atakują z ukrycia, uzbrojeni w sztylety, koziki i pinezki. Nigdy nie odwracaj się do nich tyłem. Ani bokiem. Ani przodem."
 tile_id: JackalAssassin
 image: /images/JackalAssassin.png
-ko-KR_name: "Assassin"
+ko-KR_name: "암살자"
 ko-KR_description: "이 적은 시작부터 은신 상태여서, 전투에서 내가 공격하기 전까지 대상으로 지정할 수 없습니다."
 ko-KR_flavor: "자칼 암살자들은 특히 더 은밀하고 민첩합니다. 절대로 등을 보이지 마세요. 사실, 그냥 모습을 보여주면 안 됩니다."
 tile_id: JackalAssassin
 image: /images/JackalAssassin.png
-cs-CZ_name: "Zabiják"
+cs-CZ_name: "Vrah"
 cs-CZ_description: "Tento nepřítel začíná v utajení a nemůže být vybrán, dokud nezaútočíš v souboji."
 cs-CZ_flavor: "Šakalí zabijáci jsou zvlášť utajení a nebezpeční. Nikdy jim neukazuj záda. Vlastně jim neukazuj nic."
 tile_id: JackalAssassin

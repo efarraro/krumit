@@ -28,7 +28,7 @@ ko-KR_name: "여왕"
 ko-KR_description: "각 전투에서 내 첫 번째 공격이  <u>타락</u>(3)를 부여합니다."
 tile_id: Queen
 image: /images/Queen.png
-cs-CZ_name: "Queen"
+cs-CZ_name: "Královna"
 cs-CZ_description: "Tvůj první útok v souboji udělí  <u>zkažení</u> (3)."
 tile_id: Queen
 image: /images/Queen.png

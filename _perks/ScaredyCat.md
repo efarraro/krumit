@@ -29,7 +29,7 @@ ko-KR_description: "전투에서 도망칠 때마다 🛡️️ <u>방어도</u>
 tile_id: ScaredyCat
 image: /images/ScaredyCat.png
 cs-CZ_name: "Vystrašené kotě"
-cs-CZ_description: "Jakmile uprchneš z bitvy, získáš 2 🛡️️ <u>krytí</u>."
+cs-CZ_description: "Jakmile uprchneš ze souboje, získáš 2 🛡️️ <u>krytí</u>."
 tile_id: ScaredyCat
 image: /images/ScaredyCat.png
 ---

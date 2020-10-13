@@ -59,12 +59,12 @@ ko-KR_description: "이 먼지투성이 지하실은 강력한 향수를 불러�
 tier: 0
 monsters:
   - monster:
-    name: "Skeleton"
+    name: "해골"
     image: /images/Skeleton.png
     quantity: 6
     url: /monsters/Skeleton
-cs-CZ_name: "Špinavý suterén"
-cs-CZ_description: "Tento zaprášený suterén je naplněn silným zápachem nostalgie."
+cs-CZ_name: "Špinavý sklep"
+cs-CZ_description: "Tento zaprášený sklep je naplněn silným zápachem nostalgie."
 tier: 0
 monsters:
   - monster:

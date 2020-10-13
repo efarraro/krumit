@@ -29,7 +29,7 @@ cost: -99
 image: /images/Tombstone.png
 durability: 1
 es-ES_name: "Lápida"
-es-ES_description: "Paga 3 ❤️ para invocar un 💀 <u>Esbirro</u> Esqueleto. Descarta este ítem para recuperar 2 ❤️, y 1 ❤️ a tus esbirros"
+es-ES_description: "Paga 3 ❤️ para invocar un 💀 <u>Esbirro</u> Esqueleto. Descarta este objeto para recuperar 2 ❤️, además restauraras 1 ❤️ a tus esbirros"
 es-ES_flavor: "'¿Lápida? ¿No querrás decir, lápida-mente serás huesos? ¡Muajajá!' - El chiste favorito de Muldorf. Desafortunadamente."
 tile_id: Tombstone
 cost: -99
@@ -42,15 +42,15 @@ tile_id: Tombstone
 cost: -99
 image: /images/Tombstone.png
 durability: 1
-ko-KR_name: "Tombstone"
-ko-KR_description: "3 ❤️을 지불하여 Skeleton 💀 <u>하수인</u>을 소환합니다. 이 타일을 버리면 내 ❤️을 2 회복하고 내 하수인들의 ❤️을 1 회복시킵니다"
+ko-KR_name: "묘비"
+ko-KR_description: "3 ❤️을 지불하여 해골 💀 <u>하수인</u>을 소환합니다. 이 타일을 버리면 내 ❤️을 2 회복하고 내 하수인들의 ❤️을 1 회복시킵니다"
 ko-KR_flavor: "'묘비에서 해골이 나오면 묘 비나? 와하하하!' - 멀도르프가 가장 좋아하는 농담. 유감스럽게도."
 tile_id: Tombstone
 cost: -99
 image: /images/Tombstone.png
 durability: 1
-cs-CZ_name: "Tombstone"
-cs-CZ_description: "Zaplacením 3 ❤️ se vyvolá Kostlivec 💀 <u>Sluha</u>. Odložením obnovíš 2 ❤️ ty i tví 💀 <u>Sluhové</u>."
+cs-CZ_name: "Náhrobek"
+cs-CZ_description: "Zaplacením 3 ❤️ se vyvolá 💀 <u>Sluha</u> Kostlivec. Odložením obnovíš 2 ❤️ ty i tví 💀 <u>sluhové</u>."
 cs-CZ_flavor: "„Náhrobek nebo podhrobek? Chacháá!“ – Muldorfův oblíbený vtip. Bohužel."
 tile_id: Tombstone
 cost: -99

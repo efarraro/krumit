@@ -116,8 +116,8 @@ monsters:
     image: /images/Swampalina.png
     quantity: 1
     url: /monsters/Swampalina
-es-ES_name: "Bóveda de Pantanuela"
-es-ES_description: "Los viles venenos de Pantanuela no tienen cura, así que es mejor prevenirlos. Prevenirlos con un hacha."
+es-ES_name: "Bóveda tóxica de Pantanuela"
+es-ES_description: "No existe cura para Pantanuela y sus viles brebajes - Pero se pueden prevenir. Prevenir con un hacha, claro está."
 tier: 7
 monsters:
   - monster:
@@ -184,17 +184,17 @@ monsters:
     quantity: 6
     url: /monsters/Slime
   - monster:
-    name: "Trickster"
+    name: "사기꾼"
     image: /images/Trickster.png
     quantity: 5
     url: /monsters/Trickster
   - monster:
-    name: "Trash Golem"
+    name: "쓰레기 골렘"
     image: /images/TrashGolem.png
     quantity: 3
     url: /monsters/TrashGolem
   - monster:
-    name: "Assassin"
+    name: "암살자"
     image: /images/JackalAssassin.png
     quantity: 3
     url: /monsters/JackalAssassin
@@ -208,7 +208,7 @@ cs-CZ_description: "Lék proti útoku Swampaliny a jejího slizu neexistuje – 
 tier: 7
 monsters:
   - monster:
-    name: "Vyhnanec"
+    name: "Globber"
     image: /images/Slime.png
     quantity: 6
     url: /monsters/Slime
@@ -223,7 +223,7 @@ monsters:
     quantity: 3
     url: /monsters/TrashGolem
   - monster:
-    name: "Zabiják"
+    name: "Vrah"
     image: /images/JackalAssassin.png
     quantity: 3
     url: /monsters/JackalAssassin

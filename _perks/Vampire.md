@@ -16,20 +16,20 @@ jp-JP_name: "ヴァンパイア"
 jp-JP_description: "戦闘で敵を倒すたびに2❤️を回復する。タイルを捨てた際に❤️が回復しなくなる"
 tile_id: Vampire
 image: /images/Vampire.png
-es-ES_name: "Sanguijuela"
-es-ES_description: "Recupera 2 ❤️ cuando derrotes a un enemigo en combate. Descartar fichas ya no te recupera ❤️"
+es-ES_name: "Vampiro"
+es-ES_description: "Recupera 2 ❤️ cada vez que derrotes a un enemigo en combate. Descartar fichas ya no te restaura ❤️"
 tile_id: Vampire
 image: /images/Vampire.png
 pl-PL_name: "Wampir"
 pl-PL_description: "Odnów 2 ❤️ kiedy pokonasz przeciwnika w walce. Odrzucanie płytek nie odnawia ❤️."
 tile_id: Vampire
 image: /images/Vampire.png
-ko-KR_name: "Vampire"
+ko-KR_name: "흡혈귀"
 ko-KR_description: "전투에서 적을 처치할 때마다 2 ❤️을 회복합니다. 타일을 버릴 때 더 이상 ❤️이 회복되지 않습니다"
 tile_id: Vampire
 image: /images/Vampire.png
 cs-CZ_name: "Upír"
-cs-CZ_description: "Obnoví 2 ❤️ pokaždé, když porazíš nepřítele v souboji. Odkládání dlaždic ale již neobnovuje ❤️."
+cs-CZ_description: "Obnoví 2 ❤️ vždy, když porazíš nepřítele v souboji. Odkládání dlaždic již neobnovuje ❤️."
 tile_id: Vampire
 image: /images/Vampire.png
 ---

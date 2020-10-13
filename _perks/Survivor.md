@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Survivor"
-EN_description: "If your ❤️ is below 50% of your max after you defeat an enemy in combat, restore 2 ❤️"
+EN_description: "If your ❤️ is below 50% of your max after you defeat an enemy, restore 2 ❤️"
 tile_id: Survivor
 image: /images/Survivor.png
 zh-CN_name: "幸存"
@@ -16,7 +16,7 @@ jp-JP_name: "サバイバル"
 jp-JP_description: "戦闘後に❤️が50%以下になった場合、2❤️を回復する"
 tile_id: Survivor
 image: /images/Survivor.png
-es-ES_name: "Sobreviviente"
+es-ES_name: "Superviviente"
 es-ES_description: "Si tu ❤️ está por debajo del 50% del máximo después de derrotar a un enemigo en combate, recupera 2 ❤️"
 tile_id: Survivor
 image: /images/Survivor.png

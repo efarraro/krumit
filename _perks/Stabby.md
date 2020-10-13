@@ -17,7 +17,7 @@ jp-JP_description: "「一刺し」のダメージが+1"
 tile_id: Stabby
 image: /images/Stabby.png
 es-ES_name: "Homicida"
-es-ES_description: "'Apuñalar' hace +1 de daño"
+es-ES_description: "'Apuñalar' gana +1 de daño"
 tile_id: Stabby
 image: /images/Stabby.png
 pl-PL_name: "Ostrzejsze Dźgnięcie"

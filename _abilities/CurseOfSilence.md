@@ -25,8 +25,8 @@ tile_id: CurseOfSilence
 cost: -1
 image: /images/CurseOfSilence.png
 es-ES_name: "Maldición de Silencio"
-es-ES_description: "<u color='FF5151'>Maldición</u>. No puedes usar habilidades mientras esté en el tablero. Paga 2 ❤️ para remover esta ficha"
-es-ES_flavor: "El silencio. ¿Existe algo más hermoso? Compadezco a aquellos que lo ven como una maldición. - Rose"
+es-ES_description: "<u color='FF5151'>Maldición</u>. No puedes usar habilidades mientras esta ficha esté en el tablero. Paga 2 ❤️ para eliminar esta ficha"
+es-ES_flavor: "El silencio. ¿Existe algo más hermoso? Compadezco a aquellos que lo ven como una maldición. - Rosa"
 tile_id: CurseOfSilence
 cost: -1
 image: /images/CurseOfSilence.png
@@ -36,14 +36,14 @@ pl-PL_flavor: "Cisza. Czy jest coś piękniejszego? Żal mi tych, którzy uważa
 tile_id: CurseOfSilence
 cost: -1
 image: /images/CurseOfSilence.png
-ko-KR_name: "Curse of Silence"
-ko-KR_description: "<u color='FF5151'>Curse</u>. 이 타일이 보드에 있는 동안 능력을 사용할 수 없습니다. 이 타일을 제거하려면 2 ❤️을 지불하십시오"
+ko-KR_name: "침묵의 저주"
+ko-KR_description: "<u color='FF5151'>저주</u>. 이 타일이 보드에 있는 동안 능력을 사용할 수 없습니다. 이 타일을 제거하려면 2 ❤️을 지불하십시오"
 ko-KR_flavor: "침묵. 이보다 더 아름다운 것이 있을까? 이걸 저주로 여기는 사람들이 불쌍해. - 로즈"
 tile_id: CurseOfSilence
 cost: -1
 image: /images/CurseOfSilence.png
 cs-CZ_name: "Prokletí ticha"
-cs-CZ_description: "<u color='FF5151'>Prokletí</u>. Dokud je na hrací ploše, nelze používat schopnosti. Lze odstranit zaplacením 2 ❤️."
+cs-CZ_description: "<u color='FF5151'>Prokletí</u>. Dokud je na herní ploše, nelze používat schopnosti. Lze odstranit zaplacením 2 ❤️."
 cs-CZ_flavor: "„Ticho. Existuje něco krásnějšího? Je mi líto těch, kteří jej vnímají jako prokletí.“ – Rose"
 tile_id: CurseOfSilence
 cost: -1

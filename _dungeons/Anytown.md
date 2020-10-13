@@ -84,12 +84,12 @@ monsters:
     image: /images/RoyalGuard.png
     quantity: 1
     url: /monsters/RoyalGuard
-ko-KR_name: "별 특징 없는 농장"
+ko-KR_name: "특징 없는 농장"
 ko-KR_description: "매우 얌전하고, 순수하고, 중립적이고, 눈에 띄지 않는, 어디에나 있을 법한 장소입니다."
 tier: 0
 monsters:
   - monster:
-    name: "Peasant"
+    name: "농부"
     image: /images/Peasant.png
     quantity: 5
     url: /monsters/Peasant

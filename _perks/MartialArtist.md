@@ -24,7 +24,7 @@ pl-PL_name: "Sztuki walki"
 pl-PL_description: "Twój 🔸 jest zwiększony o +1 (-1 jeżeli masz dobytą broń)."
 tile_id: MartialArtist
 image: /images/MartialArtist.png
-ko-KR_name: "Martial Artist"
+ko-KR_name: "무술가"
 ko-KR_description: "내 기본 🔸이 +1 증가합니다(무기를 장착한 동안엔 -1)"
 tile_id: MartialArtist
 image: /images/MartialArtist.png

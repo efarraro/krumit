@@ -118,3 +118,25 @@ lang: es_es
 {% endif %}
 {% endfor %}
 </div>
+
+<h3 id = 'priest'>Varfa</h3>
+<div>
+{% for item in site.items %}
+{% if item.hero == "hunter" %}
+<a href = 'items#{{ item.tile_id }}'>
+<img width = '100' height = '100' src = '{{site.baseurl}}{{ item.image }}' />
+</a>
+{% else %}
+{% continue %}
+{% endif %}
+{% endfor %}
+{% for ability in site.abilities %}
+{% if ability.hero == "hunter" %}
+<a href = 'abilities#{{ ability.tile_id }}'>
+<img width = '100' height = '100' src = '{{site.baseurl}}{{ ability.image }}' />
+</a>
+{% else %}
+{% continue %}
+{% endif %}
+{% endfor %}
+</div>

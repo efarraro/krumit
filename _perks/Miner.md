@@ -28,7 +28,7 @@ ko-KR_name: "광부"
 ko-KR_description: "최대 ❤️이 2 증가합니다. 이 특성을 획득하면, 100 보석을 얻습니다"
 tile_id: Miner
 image: /images/Miner.png
-cs-CZ_name: "Miner"
+cs-CZ_name: "Horník"
 cs-CZ_description: "Maximální ❤️ se zvýší o 2. Když získáš tento odznak, získáš 100 drahokamů."
 tile_id: Miner
 image: /images/Miner.png

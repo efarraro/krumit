@@ -116,8 +116,8 @@ monsters:
     image: /images/GhostKing.png
     quantity: 1
     url: /monsters/GhostKing
-es-ES_name: "Criptorio del Rey Fantasma"
-es-ES_description: "'¿Yo y el Rey Fantasma? ¿Ese sabiondo etéreo? Sí, tenemos una larga historia. Y yo siempre he tenido la mejor barba.' - Calacas, Señor de los Huesos"
+es-ES_name: "Cripta del Rey Fantasma"
+es-ES_description: "'¿El Rey Fantasma y yo? ¿Ese sabiondo etéreo? Sí, tenemos una larga historia. Y yo siempre he tenido la mejor barba.' - Calacas, Señor de los Huesos"
 tier: 5
 monsters:
   - monster:
@@ -179,12 +179,12 @@ ko-KR_description: "'나와 유령 왕? 아는 척만 하는 그 에테리얼 �
 tier: 5
 monsters:
   - monster:
-    name: "Skeleton"
+    name: "해골"
     image: /images/Skeleton.png
     quantity: 6
     url: /monsters/Skeleton
   - monster:
-    name: "Ancient Skeleton"
+    name: "고대 해골"
     image: /images/AncientSkeleton.png
     quantity: 5
     url: /monsters/AncientSkeleton

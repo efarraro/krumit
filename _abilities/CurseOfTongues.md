@@ -25,7 +25,7 @@ tile_id: CurseOfTongues
 cost: -1
 image: /images/CurseOfTongues.png
 es-ES_name: "Maldición de Lenguas"
-es-ES_description: "Cuando recuperes ❤️, reduce el monto en 1 mientras esta ficha esté en el tablero. Paga 2 ❤️ para removerla"
+es-ES_description: "Cuando recuperes ❤️, reduce el monto en 1 mientras esta ficha esté en el tablero. Paga 2 ❤️ para eliminarla"
 es-ES_flavor: "¡Blaglrlk Uhtzxz kkkckckckgfg eepyhzyx!"
 tile_id: CurseOfTongues
 cost: -1
@@ -36,13 +36,13 @@ pl-PL_flavor: "Blaglrlk Uhtzxz kkkckckckgfg eepyhzyx!"
 tile_id: CurseOfTongues
 cost: -1
 image: /images/CurseOfTongues.png
-ko-KR_name: "Curse of Tongues"
+ko-KR_name: "혀의 저주"
 ko-KR_description: "내가 ❤️을 회복할 때, 이 타일이 보드에 있는 동안 회복량이 1 감소합니다. 이 타일을 제거하려면 2 ❤️을 지불하십시오"
 ko-KR_flavor: "블랔극륻 엌큿크커더픅 이이잇셕직!"
 tile_id: CurseOfTongues
 cost: -1
 image: /images/CurseOfTongues.png
-cs-CZ_name: "Curse of Tongues"
+cs-CZ_name: "Prokletí jazyků"
 cs-CZ_description: "Když obnovíš ❤️, sníží se jeho počet o 1, dokud je tato dlaždice na herní ploše. Lze odstranit zaplacením 2 ❤️."
 cs-CZ_flavor: "Tkhlale khrta zpoubpbuke prlklurí!"
 tile_id: CurseOfTongues

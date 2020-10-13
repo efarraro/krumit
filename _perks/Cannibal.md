@@ -25,11 +25,11 @@ pl-PL_description: "Twój podstawowy 🔸 jest zwiększony o 1 jeżeli na plansz
 tile_id: Cannibal
 image: /images/Cannibal.png
 ko-KR_name: "무덤지기"
-ko-KR_description: "보드에 <a href = '../ko_kr/items#Tombstone'>Tombstone</a>이 3장 이상 있으면 내 기본 🔸이 1 증가합니다"
+ko-KR_description: "보드에 <a href = '../ko_kr/items#Tombstone'>묘비</a>이 3장 이상 있으면 내 기본 🔸이 1 증가합니다"
 tile_id: Cannibal
 image: /images/Cannibal.png
-cs-CZ_name: "Gravedigger"
-cs-CZ_description: "Tvůj základní 🔸 se zvýší o 1, pokud se na herní ploše vyskytují aspoň 3 <a href = '../cs_cz/items#Tombstone'>Tombstone</a>."
+cs-CZ_name: "Hrobník"
+cs-CZ_description: "Tvůj základní 🔸 se zvýší o 1, pokud se na herní ploše vyskytují aspoň 3 <a href = '../cs_cz/items#Tombstone'>Náhrobek</a>."
 tile_id: Cannibal
 image: /images/Cannibal.png
 ---

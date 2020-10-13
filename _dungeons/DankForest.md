@@ -57,7 +57,7 @@ monsters:
     quantity: 6
     url: /monsters/Nukadog
 es-ES_name: "El Bosque Hediondo"
-es-ES_description: "Este bosque es verdaderamente hediondo, ¡aunque esto no parace molestar a los sarnosos Moquencos o a los brutales Barbarosos que lo habitan!"
+es-ES_description: "Este bosque es verdaderamente hediondo, ¡aunque esto no parece molestar a los sarnosos Moquencos o a los brutales Barbarosos que lo habitan!"
 tier: 1
 monsters:
   - monster:
@@ -85,11 +85,11 @@ monsters:
     quantity: 6
     url: /monsters/Nukadog
 ko-KR_name: "우중충한 숲"
-ko-KR_description: "정말로 가장 우중충한 숲입니다. 하지만 전쟁 곰들과 잔혹한 바베어리안들에게는 그리 큰 문제가 아닌 듯 합니다."
+ko-KR_description: "정말로 가장 우중충한 숲입니다. 하지만 전쟁 곰들과 잔혹한 야만웅사들에게는 그리 큰 문제가 아닌 듯 합니다."
 tier: 1
 monsters:
   - monster:
-    name: "바베어리안"
+    name: "야만웅사"
     image: /images/Bear.png
     quantity: 1
     url: /monsters/Bear

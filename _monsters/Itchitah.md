@@ -21,7 +21,7 @@ jp-JP_flavor: "強力なシャーマンであり、グローテックのチー�
 tile_id: Itchitah
 image: /images/Itchitah.png
 es-ES_name: "Itchitah"
-es-ES_description: "Al principio de la mazmorra, baraja <a href = '../es_es/abilities#PerfectStorm'>La Tormenta Perfecta</a> en el mazo."
+es-ES_description: "Al iniciar la mazmorra, baraja <a href = '../es_es/abilities#PerfectStorm'>La Tormenta Perfecta</a> en el mazo."
 es-ES_flavor: "Una poderosa Chamana y la Jefa-Electromante de GlowTech. Inventora del primer Autómata. Nadie sabe lo que guarda en su pequeña cajita."
 tile_id: Itchitah
 image: /images/Itchitah.png
@@ -31,7 +31,7 @@ pl-PL_flavor: "Potężna Szawomanka i Naczelna Elektromantka w GlowTech. Wynalaz
 tile_id: Itchitah
 image: /images/Itchitah.png
 ko-KR_name: "이치타"
-ko-KR_description: "던전 진입 시, <a href = '../ko_kr/abilities#PerfectStorm'>The Perfect Storm</a> 타일을 덱에 섞어 넣습니다"
+ko-KR_description: "던전 진입 시, <a href = '../ko_kr/abilities#PerfectStorm'>완벽한 폭풍</a> 타일을 덱에 섞어 넣습니다"
 ko-KR_flavor: "글로우테크의 수석 전기술사이자 강력한 샤우먼. 최초의 자동 인형 발명가. 그녀가 작은 상자에 무엇을 보관하고 있는지 아무도 모릅니다."
 tile_id: Itchitah
 image: /images/Itchitah.png

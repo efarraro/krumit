@@ -16,8 +16,8 @@ jp-JP_name: "戦争屋"
 jp-JP_description: "近接武器の🔸が+1"
 tile_id: Warmonger
 image: /images/Warmonger.png
-es-ES_name: "Belicoso"
-es-ES_description: "Tus armas de melé tienen +1 🔸"
+es-ES_name: "Belicista"
+es-ES_description: "Tus armas de melé ganan +1 🔸"
 tile_id: Warmonger
 image: /images/Warmonger.png
 pl-PL_name: "Wojownik"

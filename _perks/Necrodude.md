@@ -9,7 +9,7 @@ zh-CN_description: "最大❤️-2。击败敌人时，在其位置上生成一�
 tile_id: Necrodude
 image: /images/Necrodude.png
 ru-RU_name: "Некрочувак"
-ru-RU_description: "Ваше максимальное ❤️ уменьшено на 2. Убитые враги создают <a href = '../ru_ru/items#Tombstone'>Надгробье</a> на своём месте. Сбрасывание карточки не восстанавливает ❤️."
+ru-RU_description: "Ваше максимальное ❤️ уменьшено на 2. Убитые враги создают <a href = '../ru_ru/items#Tombstone'>Надгробье</a> на своих местах. Сбрасывание карточек не восстанавливает ❤️."
 tile_id: Necrodude
 image: /images/Necrodude.png
 jp-JP_name: "ネクロ野郎"
@@ -25,11 +25,11 @@ pl-PL_description: "Maksymalne ❤️ -2. Pokonani wrogowie pozostawiają <a hre
 tile_id: Necrodude
 image: /images/Necrodude.png
 ko-KR_name: "죽은 자의 친구"
-ko-KR_description: "최대 ❤️ -2. 적을 처치하면 <a href = '../ko_kr/items#Tombstone'>Tombstone</a>이 생성됩니다. 타일을 버려도 ❤️이 회복되지 않습니다"
+ko-KR_description: "최대 ❤️ -2. 적을 처치하면 <a href = '../ko_kr/items#Tombstone'>묘비</a>이 생성됩니다. 타일을 버려도 ❤️이 회복되지 않습니다"
 tile_id: Necrodude
 image: /images/Necrodude.png
 cs-CZ_name: "Necromaník"
-cs-CZ_description: "Maximální ❤️ -2. Nepřátelé po porážce odhodí <a href = '../cs_cz/items#Tombstone'>Tombstone</a>. Odkládáním dlaždic se ❤️ neobnovuje."
+cs-CZ_description: "Maximální ❤️ -2. Nepřátelé po porážce odhodí <a href = '../cs_cz/items#Tombstone'>Náhrobek</a>. Odkládáním dlaždic se ❤️ neobnovuje."
 tile_id: Necrodude
 image: /images/Necrodude.png
 ---

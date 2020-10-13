@@ -25,7 +25,7 @@ tile_id: CurseOfWeakness
 cost: -1
 image: /images/CurseOfWeakness.png
 es-ES_name: "Maldición de Debilidad"
-es-ES_description: "Tu 🔸 base se reduce en 1 contra enemigos adyacentes a esta ficha. Cuando derrotes a un enemigo adyacente, remuévela del tablero"
+es-ES_description: "Tu 🔸 base se reduce en 1 contra enemigos adyacentes a esta ficha. Cuando derrotes a un enemigo adyacente, elimina esta ficha del tablero"
 es-ES_flavor: "'¡Que tu fuerza mengüe y tu mandíbula se afloje!'"
 tile_id: CurseOfWeakness
 cost: -1
@@ -42,8 +42,8 @@ ko-KR_flavor: "'손에 힘이 풀리고 턱이 느슨해지기를!'"
 tile_id: CurseOfWeakness
 cost: -1
 image: /images/CurseOfWeakness.png
-cs-CZ_name: "Curse of Weakness"
-cs-CZ_description: "Tvůj základní 🔸 se sníží o 1 oproti sousedním nepřátelům. Jakmile porazíš sousedního nepřítele, dlaždice se odstraní z herní plochy."
+cs-CZ_name: "Prokletí slabosti"
+cs-CZ_description: "Tvůj základní 🔸 se sníží o 1 proti sousedním nepřátelům. Jakmile porazíš sousedního nepřítele, dlaždice se odstraní z herní plochy."
 cs-CZ_flavor: "„Můžeš uvolnit sevření a zmírnit tlak čelistí!“"
 tile_id: CurseOfWeakness
 cost: -1

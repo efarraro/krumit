@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Slithering Swamp"
-EN_description: "Home to a monstrous Snek and borders the Bumm Pass and the Screaming Hills. Hardly prime real estate."
+EN_description: "Home to a monstrous Snek, it also borders the Bumm Pass and the Screaming Hills. Hardly prime real estate."
 tier: 1
 monsters:
   - monster:
@@ -94,16 +94,16 @@ monsters:
     quantity: 4
     url: /monsters/Slime
   - monster:
-    name: "Trickster"
+    name: "사기꾼"
     image: /images/Trickster.png
     quantity: 3
     url: /monsters/Trickster
 cs-CZ_name: "Kluzká bažina"
-cs-CZ_description: "Domov Sneka je monstrózní a má výhled na průsmyk Bumm a na Křikovské kopce. Opravdu prvotřídní nemovitost."
+cs-CZ_description: "Domov Sneka je monstrózní, s výhledem na průsmyk Bumm a na Křikovské kopce. Opravdu prvotřídní nemovitost."
 tier: 1
 monsters:
   - monster:
-    name: "Vyhnanec"
+    name: "Globber"
     image: /images/Slime.png
     quantity: 4
     url: /monsters/Slime

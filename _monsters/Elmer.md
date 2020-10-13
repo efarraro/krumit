@@ -21,7 +21,7 @@ jp-JP_flavor: "木人の使者・エルマーは、菌類の神経網を使っ�
 tile_id: Elmer
 image: /images/Elmer.png
 es-ES_name: "Elmer"
-es-ES_description: "Elmer sufre daño doble cuando está <u>aturdido</u>. Cuando derrotes a otro Arbolucho, Elmer sufre 5 de daño"
+es-ES_description: "Elmer sufre daño doble mientras está <u>aturdido</u>. Cuando derrotes a otro Arbolucho, Elmer sufre 5 de daño"
 es-ES_flavor: "Heraldo de los Arboluchos, Elmer puede acceder a una red de hongos inteligentes para mantenerse alerta y escuchar secretos. No le gustan las ardillas."
 tile_id: Elmer
 image: /images/Elmer.png
@@ -30,14 +30,14 @@ pl-PL_description: "Dąbromir otrzymuje podwójne obrażenia gdy jest <u>ogłusz
 pl-PL_flavor: "Dąbromir, Strażnik Drzewoludzi, wykorzystuje sieć samoświadomej grzybni, aby podsłuchiwać rozmów w lesie. Czasami wiewiórki zajmują linię żeby plotkować o żołędziach."
 tile_id: Elmer
 image: /images/Elmer.png
-ko-KR_name: "Elmer"
-ko-KR_description: "엘머는 <u>stunned</u> 상태인 동안 2배의 피해를 받습니다. 다른 나무 정령을 처치하면 엘머가 피해를 5 받습니다"
+ko-KR_name: "엘머"
+ko-KR_description: "엘머는 <u>기절</u> 상태인 동안 2배의 피해를 받습니다. 다른 나무 정령을 처치하면 엘머가 피해를 5 받습니다"
 ko-KR_flavor: "나무인간들의 전령 엘머는 균류 신경망을 활용하여 경계를 유지하며 비밀을 엿듣습니다. 그리고 다람쥐를 싫어합니다."
 tile_id: Elmer
 image: /images/Elmer.png
 cs-CZ_name: "Elmer"
 cs-CZ_description: "Elmer dostává dvojnásobné poškození, pokud je <u>omráčený</u>. Pokud porazíš jiného Treanta, Elmer dostane 5 poškození."
-cs-CZ_flavor: "Herald z Treepeeps Elmer se může připojit k podhoubí funghi, aby si zachoval pozornost a slyšel nějaká tajemství. Nesnáší veverky."
+cs-CZ_flavor: "Herald z Treepeeps Elmer se může připojit k podhoubí funghi, aby byl stále v pozoru a zaslechl skrytá tajemství. Nesnáší veverky."
 tile_id: Elmer
 image: /images/Elmer.png
 ---

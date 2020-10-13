@@ -117,7 +117,7 @@ monsters:
     quantity: 1
     url: /monsters/Itchitah
 es-ES_name: "Retiro Vacacional GlowTech"
-es-ES_description: "En el retiro de vacaciones anual de GlowTech puedes encontrar vinos de marca, ejercicios de camaradería, talleres de radiación mundial, juramentos obligatorios de lealtad, y el atroz karaoke de Brandon."
+es-ES_description: "En el retiro vacacional de GlowTech puedes encontrar RadiaVino, ejercicios de camaradería, talleres de radiación mundial, juramentos obligatorios de lealtad, y el atroz karaoke de Brandon."
 tier: 5
 monsters:
   - monster:
@@ -184,7 +184,7 @@ monsters:
     quantity: 4
     url: /monsters/RoyalGuard
   - monster:
-    name: "Trash Golem"
+    name: "쓰레기 골렘"
     image: /images/TrashGolem.png
     quantity: 2
     url: /monsters/TrashGolem
@@ -203,8 +203,8 @@ monsters:
     image: /images/Itchitah.png
     quantity: 1
     url: /monsters/Itchitah
-cs-CZ_name: "Útulek GlowTech"
-cs-CZ_description: "Útulek GlowTech je plný GlowVína, cvičení pro utužování kolektivu, workshopy na téma Ozařování světa, podivných příslibů loajality a strašným Brendonovým karaoke."
+cs-CZ_name: "Výroční zasedání GlowTech"
+cs-CZ_description: "Výroční zasedání GlowTech je plné GlowVína, cvičení pro utužování kolektivu, workshopy na téma Ozařování světa, podivných příslibů loajality a strašným Brendonovým karaoke."
 tier: 5
 monsters:
   - monster:

@@ -21,7 +21,7 @@ jp-JP_flavor: "この不甲斐ない海賊たちは、君の戦利品を狙っ�
 tile_id: PirateGirl
 image: /images/PirateGirl.png
 es-ES_name: "Pilluela"
-es-ES_description: "Cuando derrotes a este enemigo, baraja un Cofre de Piratas en tu mazo"
+es-ES_description: "Cuando derrotes a este enemigo, baraja una <a href = '../es_es/items#PirateLockbox'>Cofre de Piratas</a> en el mazo"
 es-ES_flavor: "A estas piratillas incorregibles sólo les interesa tu botín."
 tile_id: PirateGirl
 image: /images/PirateGirl.png
@@ -31,7 +31,7 @@ pl-PL_flavor: "Piraci wiecznie szukają łatwej zdobyczy."
 tile_id: PirateGirl
 image: /images/PirateGirl.png
 ko-KR_name: "뱃사람"
-ko-KR_description: "이 적을 처치하면 <a href = '../ko_kr/items#PirateLockbox'>Pirate Lockbox</a>를 덱에 섞어 넣습니다."
+ko-KR_description: "이 적을 처치하면 <a href = '../ko_kr/items#PirateLockbox'>해적 금고</a>를 덱에 섞어 넣습니다."
 ko-KR_flavor: "구제불능인 이 하급 해적들은 영원토록 당신의 전리품에 지나지 않을 것입니다."
 tile_id: PirateGirl
 image: /images/PirateGirl.png

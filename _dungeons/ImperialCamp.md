@@ -144,12 +144,12 @@ monsters:
     image: /images/Cleric.png
     quantity: 4
     url: /monsters/Cleric
-ko-KR_name: "Imperial Training Grounds"
+ko-KR_name: "제국 훈련장"
 ko-KR_description: "제국 정예 부대의 고동치는 심장부입니다. 훈련에는 검술, 진형 훈련, 투구 깃털 디자인이 포함됩니다."
 tier: 4
 monsters:
   - monster:
-    name: "Peasant"
+    name: "농부"
     image: /images/Peasant.png
     quantity: 3
     url: /monsters/Peasant
@@ -164,7 +164,7 @@ monsters:
     quantity: 4
     url: /monsters/RoyalGuardElite
   - monster:
-    name: "Druid"
+    name: "드루이드"
     image: /images/Cleric.png
     quantity: 4
     url: /monsters/Cleric
@@ -183,7 +183,7 @@ monsters:
     quantity: 6
     url: /monsters/RoyalGuard
   - monster:
-    name: "Královská stráž"
+    name: "Královská garda"
     image: /images/RoyalGuardElite.png
     quantity: 4
     url: /monsters/RoyalGuardElite

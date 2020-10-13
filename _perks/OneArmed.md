@@ -17,7 +17,7 @@ jp-JP_description: "一度に1つのアイテムしか装備できないが、�
 tile_id: OneArmed
 image: /images/OneArmed.png
 es-ES_name: "Manco"
-es-ES_description: "Solo puedes equipar 1 ítem a la vez, pero los ítems cuestan 1 💰 menos"
+es-ES_description: "Solo puedes equipar 1 objeto a la vez, pero los objetos cuestan 1 💰 menos"
 tile_id: OneArmed
 image: /images/OneArmed.png
 pl-PL_name: "Jednoręki"
@@ -28,7 +28,7 @@ ko-KR_name: "외팔"
 ko-KR_description: "한 번에 하나의 아이템만 장비할 수 있지만, 아이템 비용이 1 💰 감소합니다"
 tile_id: OneArmed
 image: /images/OneArmed.png
-cs-CZ_name: "One-Armed"
+cs-CZ_name: "Jednoruký"
 cs-CZ_description: "Můžeš se vybavit pouze 1 předmětem, ale předměty stojí o 1 💰 méně."
 tile_id: OneArmed
 image: /images/OneArmed.png

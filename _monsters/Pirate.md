@@ -22,7 +22,7 @@ tile_id: Pirate
 image: /images/Pirate.png
 es-ES_name: "Corsario"
 es-ES_description: "Este enemigo no tiene poderes o efectos especiales"
-es-ES_flavor: "Solo los más curtidos de los perros de mar se atreven a navegar los Mares Viscosos. Los piratas creen que la tierra está maldita por espíritus vengativos que solo pueden ser apaciguados con ofrendas de grog y botín."
+es-ES_flavor: "Solo los más curtidos de los lobos de mar se atreven a navegar los Mares Viscosos. Los piratas creen que la tierra está maldita por espíritus vengativos, que solo pueden ser apaciguados con ofrendas de grog y botín."
 tile_id: Pirate
 image: /images/Pirate.png
 pl-PL_name: "Korsarz"
@@ -31,7 +31,7 @@ pl-PL_flavor: "Tylko najbardziej słoni korsarze pływają po Lepkim Morzu. Pira
 tile_id: Pirate
 image: /images/Pirate.png
 ko-KR_name: "무법자"
-ko-KR_description: "This enemy doesn't have any special powers or effects"
+ko-KR_description: "이 적에게는 특별한 힘이나 효과가 없습니다"
 ko-KR_flavor: "가장 노련한 뱃사람들만이 끈적끈적 바다를 항해할 수 있습니다. 해적들은 육지가 복수심에 불타는 영혼들에게 저주받았다고 믿고 있으며, 술과 전리품을 공물로 바쳐야만 그 영혼들을 달랠 수 있다고 생각합니다."
 tile_id: Pirate
 image: /images/Pirate.png

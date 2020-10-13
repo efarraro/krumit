@@ -22,7 +22,7 @@ jp-JP_flavor: "「チン」なしでは「チンピラ」とは書けない。�
 tile_id: Knave
 image: /images/Knave.png
 es-ES_name: "Gamberro del Páramo"
-es-ES_description: "¡Inflige una <u>Herida</u> a enemigos vulnerables para debilitarlos, antes de atacar con un  <u>veneno</u> mortal!"
+es-ES_description: "Aplica a un enemigo vulnerable una <u>Herida</u> para debilitarlo, ¡antes de atacarlo con un  <u>veneno</u> mortal!"
 es-ES_flavor: "No puedes escribir 'gamberros' sin 'berros'. ¿Estarán emparentados? Los dos son verdes, después de todo. Pero no creo que aprecien la comparación."
 tile_id: Knave
 image: /images/Knave.png
@@ -31,13 +31,13 @@ pl-PL_description: "Zadaje ranę (<u>Rana</u>) wrażliwym przeciwnikom, aby ich 
 pl-PL_flavor: "Pustkowie w pochodzeniu i w głowie."
 tile_id: Knave
 image: /images/Knave.png
-ko-KR_name: "Wasteland Thug"
+ko-KR_name: "황무지 깡패"
 ko-KR_description: "취약한 적을 <u>부상</u>시켜 약하게 만들고, 치명적인 독으로  <u>중독</u>시킵니다!"
 ko-KR_flavor: "'깡패'에게 '깡'이 없으면 '패'할 뿐입니다."
 tile_id: Knave
 image: /images/Knave.png
 cs-CZ_name: "Zpustlý lupič"
-cs-CZ_description: "Zranitelným nepřátelům způsobí <u>Wound</u>, čímž je oslabí a pak zasáhne smrtícím jedem."
+cs-CZ_description: "Zranitelným nepřátelům způsobí <u>Rána</u>, čímž je oslabí a pak zasáhne smrtícím jedem."
 cs-CZ_flavor: "Ne, „lupič“ nemá nic společného s lupy. A s tím druhým taky ne."
 tile_id: Knave
 image: /images/Knave.png

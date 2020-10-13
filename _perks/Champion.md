@@ -28,7 +28,7 @@ ko-KR_name: "투사"
 ko-KR_description: "각 던전 진입 시, <a href = '../ko_kr/abilities#Flex'>몸 풀기</a> 3장을 덱에 섞어 넣습니다"
 tile_id: Champion
 image: /images/Champion.png
-cs-CZ_name: "Šampión"
+cs-CZ_name: "Mistr"
 cs-CZ_description: "Na začátku každé kobky zamíchá do balíčku 3 kopie karty <a href = '../cs_cz/abilities#Flex'>Ohýbání</a>."
 tile_id: Champion
 image: /images/Champion.png

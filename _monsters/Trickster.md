@@ -30,7 +30,7 @@ pl-PL_description: "Nigdy nie zobaczysz jak nadchodzi! Ten przeciwnik ukrywa si�
 pl-PL_flavor: "Trucizna w strzałkach używanych przez Cwaniaków powoduje halucynacje, nieskoordynowane podrygi i zwierzanie się z wstydliwych sekretów."
 tile_id: Trickster
 image: /images/Trickster.png
-ko-KR_name: "Trickster"
+ko-KR_name: "사기꾼"
 ko-KR_description: "근처에 올 때까지 알아챌 수 없을 겁니다! 이 적은 시작부터 은신 상태여서, 전투에서 내가 공격하기 전까지 대상으로 지정할 수 없습니다"
 ko-KR_flavor: "그들이 사용하는 다트에 있는 독은 환각 성분을 가지고 있어서, 희생자들이 바보 같은 춤을 추게 만들고 자신의 부끄러운 비밀을 가까이 있는 사람에게 폭로하게 만듭니다."
 tile_id: Trickster

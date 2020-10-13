@@ -22,7 +22,7 @@ tile_id: Uberlich
 image: /images/Uberlich.png
 es-ES_name: "Uberliche"
 es-ES_description: "Cuando empiece la mazmorra, baraja 6 copias de <a href = '../es_es/abilities#Megaton'>Megatón</a> en el mazo."
-es-ES_flavor: "El sudoroso heraldo del siguiente Meteorismo, y el líder del Kulto de la Tuerka. Los verdaderos propósitos del Uberliche están velados por miasma y misterio, pero una cosa es por seguro - aplastará a cualquiera que se le interponga."
+es-ES_flavor: "El sudoroso heraldo del siguiente Meteorismo, y líder del Kulto de la Tuerka. Los verdaderos propósitos del Uberliche están velados por miasma y misterio, pero una cosa es segura - aplastará a cualquiera que se interponga en su camino."
 tile_id: Uberlich
 image: /images/Uberlich.png
 pl-PL_name: "Uberlicz"
@@ -31,13 +31,13 @@ pl-PL_flavor: "Wiecznie spocony objawiciel następnego meteoroidu, lider Kultu N
 tile_id: Uberlich
 image: /images/Uberlich.png
 ko-KR_name: "우버리치"
-ko-KR_description: "던전 진입 시, <a href = '../ko_kr/abilities#Megaton'>Megaton</a> 6장을 덱에 섞어 넣습니다"
+ko-KR_description: "던전 진입 시, <a href = '../ko_kr/abilities#Megaton'>메가톤</a> 6장을 덱에 섞어 넣습니다"
 ko-KR_flavor: "위해 땀 흘려 일하는 다음 유성 낙하의 전령이자 너트교의 지도자입니다. 우버리치의 진정한 목표는 수수께끼와 불길한 공기에 휩싸여있지만, 한 가지 확실한 것은 방해하는 사람은 누구든 짓밟을 것이라는 사실입니다."
 tile_id: Uberlich
 image: /images/Uberlich.png
 cs-CZ_name: "Uberlich"
 cs-CZ_description: "Po vstupu do kobky zamíchá do balíčku 6 kopií <a href = '../cs_cz/abilities#Megaton'>Megatuna</a>."
-cs-CZ_flavor: "Zpocený herald z dalšího Meteorfall a vůdce Ořechového kultu. Uberlichovy skutečné cíle jsou zahaleny tajemstvím a miasmatem, ale jedna věc je jistá - rozdrtí každého, kdo mu stojí v cestě."
+cs-CZ_flavor: "Zpocený herald z dalšího Meteorfallu a vůdce Kultu bláznů. Uberlichovy skutečné cíle jsou zahaleny tajemstvím a miasmatem, ale jedna věc je jistá - rozdrtí každého, kdo mu stojí v cestě."
 tile_id: Uberlich
 image: /images/Uberlich.png
 ---

@@ -21,8 +21,8 @@ jp-JP_flavor: "放射能の時代は人間の一番の親友を粘液まみれ�
 tile_id: Nukadog
 image: /images/Nukadog.png
 es-ES_name: "Moquenco"
-es-ES_description: "Este enemigo es rápido - ¡ten cuidado con sus ataques de ⚡️ <u>relámpago</u>!"
-es-ES_flavor: "La Edad Radioactiva ha transformado al mejor amigo del hombre en una alimaña mocosa y rabiosa. Los siguen poniendo en memes, eso sí."
+es-ES_description: "Este enemigo es rápido - ¡ten cuidado con sus ataques con ⚡️ <u>relámpago</u>!"
+es-ES_flavor: "La Era Radioactiva ha transformado al mejor amigo del hombre en una alimaña mocosa y rabiosa. Muy peligroso, guau, muy tóxico."
 tile_id: Nukadog
 image: /images/Nukadog.png
 pl-PL_name: "Glutwilk"

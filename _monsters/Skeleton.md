@@ -30,8 +30,8 @@ pl-PL_description: "Ten przeciwnik nie ma specjalnych zdolności ani efektów"
 pl-PL_flavor: "Poddani Calacasa nie mają serca, ale mają duszę."
 tile_id: Skeleton
 image: /images/Skeleton.png
-ko-KR_name: "Skeleton"
-ko-KR_description: "This enemy doesn't have any special powers or effects"
+ko-KR_name: "해골"
+ko-KR_description: "이 적에게는 특별한 힘이나 효과가 없습니다"
 ko-KR_flavor: "뼈의군주 칼라카스의 노예인 이 해골들은 비정할 수는 있지만 여전히 영혼을 가지고 있습니다."
 tile_id: Skeleton
 image: /images/Skeleton.png

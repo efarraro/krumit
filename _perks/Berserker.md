@@ -17,7 +17,7 @@ jp-JP_description: "武器を2つ装備して攻撃するたびに、総🔸が+
 tile_id: Berserker
 image: /images/Berserker.png
 es-ES_name: "Berserker"
-es-ES_description: "Cuando ataques con dos armas equipadas, añade +3 a tu 🔸"
+es-ES_description: "Cuando ataques con dos armas equipadas, tu 🔸 gana +3"
 tile_id: Berserker
 image: /images/Berserker.png
 pl-PL_name: "Berserker"
@@ -29,7 +29,7 @@ ko-KR_description: "두 개의 무기를 장착하고 공격할 때 총 🔸에 
 tile_id: Berserker
 image: /images/Berserker.png
 cs-CZ_name: "Šílenec"
-cs-CZ_description: "Kdykoli zaútočíš dvěma zbraněmi najednou, tvůj celkový 🔸 se zvýší o 3."
+cs-CZ_description: "Při útoku dvěma zbraněmi najednou se tvůj celkový 🔸 zvýší o 3."
 tile_id: Berserker
 image: /images/Berserker.png
 ---

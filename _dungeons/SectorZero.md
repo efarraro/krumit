@@ -204,7 +204,7 @@ monsters:
     image: /images/TheExile.png
     quantity: 1
     url: /monsters/TheExile
-ko-KR_name: "Sector Zero"
+ko-KR_name: "섹터 제로"
 ko-KR_description: "섹터 제로. 새로운 세계 질서가 시작된 곳. 이제는 미화되고 기억하기 쉬운 이름을 가졌을 뿐인 유독성 진흙 웅덩이에 지나지 않습니다."
 tier: 7
 monsters:
@@ -229,7 +229,7 @@ monsters:
     quantity: 3
     url: /monsters/Biker
   - monster:
-    name: "Trash Golem"
+    name: "쓰레기 골렘"
     image: /images/TrashGolem.png
     quantity: 2
     url: /monsters/TrashGolem
@@ -243,7 +243,7 @@ cs-CZ_description: "Sektor nula. Tam začal nový světový řád. Teď je z toh
 tier: 7
 monsters:
   - monster:
-    name: "Vyhnanec"
+    name: "Globber"
     image: /images/Slime.png
     quantity: 4
     url: /monsters/Slime

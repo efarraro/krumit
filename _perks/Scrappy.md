@@ -16,8 +16,8 @@ jp-JP_name: "残り物"
 jp-JP_description: "タイルを捨てた時に追加で2❤️を回復する。最大❤️が4減少"
 tile_id: Scrappy
 image: /images/Scrappy.png
-es-ES_name: "Aguerrido"
-es-ES_description: "Recupera 2 ❤️ adicional cuando descartes una ficha. Tu ❤️ máxima se reduce en 4"
+es-ES_name: "Peleón"
+es-ES_description: "Recupera 2 ❤️ adicionales cuando descartes una ficha. Tu ❤️ máxima se reduce en 4"
 tile_id: Scrappy
 image: /images/Scrappy.png
 pl-PL_name: "Lekka dieta"

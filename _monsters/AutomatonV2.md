@@ -31,8 +31,8 @@ pl-PL_flavor: "Udziałowcy GlowTechu byli bardzo zadowoleni z pokazu możliwośc
 tile_id: AutomatonV2
 image: /images/AutomatonV2.png
 ko-KR_name: "누크로맨서 v2.0"
-ko-KR_description: "This enemy doesn't have any special powers or effects"
-ko-KR_flavor: "글로우텍 주주들은 V2의 첫 실사용 공개에 기뻐했습니다. 폭발 전까지는요."
+ko-KR_description: "이 적에게는 특별한 힘이나 효과가 없습니다"
+ko-KR_flavor: "글로우테크 주주들은 V2의 첫 실사용 공개에 기뻐했습니다. 폭발 전까지는요."
 tile_id: AutomatonV2
 image: /images/AutomatonV2.png
 cs-CZ_name: "Nitromancer v2.0"

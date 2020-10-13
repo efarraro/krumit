@@ -17,19 +17,19 @@ jp-JP_description: "敵を <u>燃焼</u>させた時のダメージ量が1増え
 tile_id: Anarchist
 image: /images/Anarchist.png
 es-ES_name: "Anarquista"
-es-ES_description: "Cada vez que  <u>quemes</u> a un enemigo, incrementa el valor de quemado en 1"
+es-ES_description: "Cada vez que  <u>quemes</u> a un enemigo, incrementa su valor de quemado en 1"
 tile_id: Anarchist
 image: /images/Anarchist.png
 pl-PL_name: "Anarchista"
 pl-PL_description: "Gdy podpalasz ( <u>podpalenie</u>) przeciwnika, zwiększ wartość o 1."
 tile_id: Anarchist
 image: /images/Anarchist.png
-ko-KR_name: "Anarchist"
+ko-KR_name: "무정부주의자"
 ko-KR_description: "적을  <u>연소</u>시킬 때의 피해량이 1 증가합니다."
 tile_id: Anarchist
 image: /images/Anarchist.png
 cs-CZ_name: "Anarchista"
-cs-CZ_description: "Kdykoli udělíš nepříteli  <u>popálení</u>, zvýší se cena o 1."
+cs-CZ_description: "Kdykoli způsobíš nepříteli  <u>popálení</u>, zvýší se jeho počet o 1."
 tile_id: Anarchist
 image: /images/Anarchist.png
 ---

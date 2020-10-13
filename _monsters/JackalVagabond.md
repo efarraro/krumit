@@ -22,7 +22,7 @@ tile_id: JackalVagabond
 image: /images/JackalVagabond.png
 es-ES_name: "Vagabundo"
 es-ES_description: "Este enemigo no tiene poderes o efectos especiales"
-es-ES_flavor: "Los vagabundos erran por estas tierras, quedándose en las sombras y buscando presas fáciles. Si alguno te pide direcciones, cuida tu billetera."
+es-ES_flavor: "Los vagabundos vagan por estas tierras, quedándose en las sombras y buscando presas fáciles. Si alguno te pide direcciones, cuida tu billetera."
 tile_id: JackalVagabond
 image: /images/JackalVagabond.png
 pl-PL_name: "Włóczęga"
@@ -30,8 +30,8 @@ pl-PL_description: "Ten przeciwnik nie ma specjalnych zdolności ani efektów"
 pl-PL_flavor: "Włóczą się po świecie, chowają się w cieniu i szukają łatwych łupów. Jak któryś zapyta cię o drogę to pewnie ukradł ci portfel."
 tile_id: JackalVagabond
 image: /images/JackalVagabond.png
-ko-KR_name: "Vagabond"
-ko-KR_description: "This enemy doesn't have any special powers or effects"
+ko-KR_name: "부랑자"
+ko-KR_description: "이 적에게는 특별한 힘이나 효과가 없습니다"
 ko-KR_flavor: "부랑자들은 근방을 배회하면서 그림자에 숨어서 만만한 먹잇감을 찾습니다. 만약 누군가가 당신에게 길을 묻는다면, 지갑부터 먼저 확인하세요."
 tile_id: JackalVagabond
 image: /images/JackalVagabond.png

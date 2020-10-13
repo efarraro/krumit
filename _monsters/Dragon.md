@@ -20,9 +20,9 @@ jp-JP_description: "60、40、20❤️の時、このタイルに <u>燃焼</u>(
 jp-JP_flavor: "バルトロマイは（恐らく）最後のドラゴーンであり、高濃度に汚染されたニワトリから生まれた恐ろしくも不幸な見た目の種族である。"
 tile_id: Dragon
 image: /images/Dragon.png
-es-ES_name: "Bartholomew"
-es-ES_description: "Cuando este enemigo llegue a 60, 40 y 20 ❤️, añádele  <u>quemado</u> (3) y barájalo de vuelta en el mazo. +1 de ataque por cada nivel de quemado"
-es-ES_flavor: "Batholomew es el último Dragullo (del que se sepa…), una raza temible pero de aspecto desafortunado, que desciende de gallinas altamente irradiadas."
+es-ES_name: "Bartolomé"
+es-ES_description: "Cuando la ❤️ de este enemigo baje a 60, 40 y 20, aplícale  <u>quemado</u> (3) y barájalo de vuelta en el mazo. +1 de ataque por cada nivel de quemado"
+es-ES_flavor: "Bartolomé es el último Dragullo (que se sepa…), una raza temible pero de aspecto desafortunado, que desciende de gallinas altamente irradiadas."
 tile_id: Dragon
 image: /images/Dragon.png
 pl-PL_name: "Bartpłomień"

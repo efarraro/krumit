@@ -58,7 +58,7 @@ monsters:
     quantity: 1
     url: /monsters/SkeletonKing
 jp-JP_name: "ボーンヤード"
-jp-JP_description: "カラカスは陰気ただようボーンヤードの世話をしている。骨の欠片が揃えば、新しいスケルトンを育て、彼の蒼白な王国に加えるのだ。"
+jp-JP_description: "カラカスは陰気ただようボーンヤードによく足を運ぶ。骨の欠片が揃えば、新しいスケルトンを育て、彼の蒼白な王国に加えるのだ。"
 tier: 2
 monsters:
   - monster:
@@ -119,12 +119,12 @@ ko-KR_description: "칼라카스는 묘지를 병든 정원인 양 가꿉니다.
 tier: 2
 monsters:
   - monster:
-    name: "Ancient Skeleton"
+    name: "고대 해골"
     image: /images/AncientSkeleton.png
     quantity: 3
     url: /monsters/AncientSkeleton
   - monster:
-    name: "Skeleton"
+    name: "해골"
     image: /images/Skeleton.png
     quantity: 6
     url: /monsters/Skeleton

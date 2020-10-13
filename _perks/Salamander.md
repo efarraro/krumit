@@ -24,12 +24,12 @@ pl-PL_name: "Salamandra"
 pl-PL_description: "Za pierwszym razem w lochu gdy otrzymasz śmiertelne obrażenia, ustaw ❤️ na 1 i uzyskaj <u>Regeneracja</u>."
 tile_id: Salamander
 image: /images/Salamander.png
-ko-KR_name: "Salamander"
+ko-KR_name: "도롱뇽"
 ko-KR_description: "각 던전에서 처음으로 죽음에 이르는 피해를 받았을 때, 내 ❤️을 1로 만들고 <u>재생</u>을 얻습니다"
 tile_id: Salamander
 image: /images/Salamander.png
-cs-CZ_name: "Salamander"
-cs-CZ_description: "Poprvé v každé kobce, když utrpíš smrtelné poškození, nastaví ❤️ na 1 a získáš <u>Regeneration</u>."
+cs-CZ_name: "Mlok"
+cs-CZ_description: "Poprvé v každé kobce po smrtelném zásahu nastaví ❤️ na 1 a získáš <u>Regenerování</u>."
 tile_id: Salamander
 image: /images/Salamander.png
 ---

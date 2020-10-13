@@ -17,15 +17,15 @@ jp-JP_description: "アビリティを取得した時、同じ列の一番上の
 tile_id: Arcanist
 image: /images/Arcanist.png
 es-ES_name: "Arcanista"
-es-ES_description: "Cada vez que adquieras una habilidad, haz 1 de daño <u>penetrante</u> al enemigo de más ariba en la misma columna"
+es-ES_description: "Cada vez que adquieras una habilidad, haz 1 de daño <u>perforante</u> al enemigo de más ariba en la misma columna"
 tile_id: Arcanist
 image: /images/Arcanist.png
 pl-PL_name: "Arkanista"
-pl-PL_description: "Kiedy zdobywasz zdolność, zadaj 1 <u>przenikliwy</u> obrażenie najwyżej położonemu przeciwnikowi w tej samej kolumnie"
+pl-PL_description: "Gdy uzyskujesz umiejętność, zadaj 1 <u>przenikliwych</u> obrażeń najwyżej położonemu przeciwnikowi w tej samej kolumnie."
 tile_id: Arcanist
 image: /images/Arcanist.png
 ko-KR_name: "비전술사"
-ko-KR_description: "능력을 획득할 때마다, 같은 열에 있는 가장 위의 적에게 <u>관통</u> 피해를 1 줍니다"
+ko-KR_description: "능력을 획득할 때마다, 같은 열의 최상단 적에게 <u>관통</u> 피해를 1 줍니다"
 tile_id: Arcanist
 image: /images/Arcanist.png
 cs-CZ_name: "Tajnůstkář"

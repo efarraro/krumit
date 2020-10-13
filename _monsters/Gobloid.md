@@ -22,7 +22,7 @@ tile_id: Gobloid
 image: /images/Gobloid.png
 es-ES_name: "Gobloide"
 es-ES_description: "Este enemigo es rápido - ¡ten cuidado con sus ataques con ⚡️ <u>relámpago</u>!"
-es-ES_flavor: "Asquerosos, aunque no tan estúpidos como parecen, los Gobloides temen a los forasteros debido a una historia de maltratos. Se agrupan con la esperanza de fundar una nueva nación, una lo suficientemente apestosa como para que el mundo de afuera los deje en paz."
+es-ES_flavor: "Asquerosos, aunque no tan estúpidos como parecen, los Gobloides temen a los forasteros debido a una historia de maltratos. Se agrupan con la esperanza de fundar una nueva nación, una lo suficientemente apestosa como para que el mundo exterior los deje en paz."
 tile_id: Gobloid
 image: /images/Gobloid.png
 pl-PL_name: "Gobloid"

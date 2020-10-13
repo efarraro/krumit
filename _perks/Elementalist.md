@@ -17,7 +17,7 @@ jp-JP_description: " <u>燃焼</u>、 <u>毒</u>、または<u>凍結</u>して�
 tile_id: Elementalist
 image: /images/Elementalist.png
 es-ES_name: "Elementalista"
-es-ES_description: "Tu 🔸 base se incrementa en 1 contra objetivos  <u>quemados</u>,  <u>envenenados</u>, o <u>congelados</u>"
+es-ES_description: "Tu 🔸 base gana +1 contra objetivos  <u>quemados</u>,  <u>envenenados</u>, o <u>congelados</u>"
 tile_id: Elementalist
 image: /images/Elementalist.png
 pl-PL_name: "Żywiołak"
@@ -25,11 +25,11 @@ pl-PL_description: "Twój 🔸 jest zwiększony o 1 przeciwko wrogom, którzy s�
 tile_id: Elementalist
 image: /images/Elementalist.png
 ko-KR_name: "원소술사"
-ko-KR_description: " <u>연소</u>,  <u>poisoned</u>, 또는 <u>빙결</u> 상태의 적을 대상으로 할 때의 내 기본 🔸이 1 증가합니다"
+ko-KR_description: " <u>연소</u>,  <u>중독</u>, 또는 <u>빙결</u> 상태의 적을 대상으로 할 때의 내 기본 🔸이 1 증가합니다"
 tile_id: Elementalist
 image: /images/Elementalist.png
 cs-CZ_name: "Elementalista"
-cs-CZ_description: "Tvůj základní 🔸 se zvýší o 1 oproti nepříteli, který má  <u>popálení</u>,  <u>poisoned</u> nebo je <u>zmražený</u>."
+cs-CZ_description: "Tvůj základní 🔸 se zvýší o 1 proti nepříteli, který má  <u>popálení</u>,  <u>otrávený</u> nebo je <u>zmražený</u>."
 tile_id: Elementalist
 image: /images/Elementalist.png
 ---

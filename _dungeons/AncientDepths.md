@@ -77,7 +77,7 @@ monsters:
     quantity: 4
     url: /monsters/Slime
 es-ES_name: "Abismos del Destino"
-es-ES_description: "'Yo - el gran Bruno - no temo a ningún hombre y a ningún signo. Pero, dicho esto, ¿por qué arriesgarse?' - Bruno"
+es-ES_description: "'Yo - el gran Bruno - no temo a ningún hombre o letrero. Pero, dicho esto, ¿para qué arriesgarse?' - Bruno"
 tier: 3
 monsters:
   - monster:
@@ -115,7 +115,7 @@ monsters:
     quantity: 4
     url: /monsters/Slime
 ko-KR_name: "파멸의 심연"
-ko-KR_description: "'나, 힘센 브루노는 어떤 사람도 표지판도 두렵지 않아. 하지만 위험을 무릅쓸 이유는 또 뭐야?' - Bruno"
+ko-KR_description: "'나, 힘센 브루노는 어떤 사람도 표지판도 두렵지 않아. 하지만 위험을 무릅쓸 이유는 또 뭐야?' - 브루노"
 tier: 3
 monsters:
   - monster:
@@ -124,7 +124,7 @@ monsters:
     quantity: 5
     url: /monsters/Cooltist
   - monster:
-    name: "Druid"
+    name: "드루이드"
     image: /images/Cleric.png
     quantity: 3
     url: /monsters/Cleric
@@ -148,7 +148,7 @@ monsters:
     quantity: 3
     url: /monsters/Cleric
   - monster:
-    name: "Vyhnanec"
+    name: "Globber"
     image: /images/Slime.png
     quantity: 4
     url: /monsters/Slime

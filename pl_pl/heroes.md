@@ -27,7 +27,7 @@ lang: pl_pl
 
 <br /><br />
 
-<h3 id = 'mage'>Greybeard</h3>
+<h3 id = 'mage'>Siwobrody</h3>
 <div>
 {% for item in site.items %}
 {% if item.hero == "mage" %}
@@ -51,7 +51,7 @@ lang: pl_pl
 
 <br /><br />
 
-<h3 id = 'rogue'>Mischief</h3>
+<h3 id = 'rogue'>Psota</h3>
 <div>
 {% for item in site.items %}
 {% if item.hero == "rogue" %}
@@ -97,7 +97,7 @@ lang: pl_pl
 {% endfor %}
 </div>
 
-<h3 id = 'priest'>Rose</h3>
+<h3 id = 'priest'>Róża</h3>
 <div>
 {% for item in site.items %}
 {% if item.hero == "priest" %}
@@ -110,6 +110,28 @@ lang: pl_pl
 {% endfor %}
 {% for ability in site.abilities %}
 {% if ability.hero == "priest" %}
+<a href = 'abilities#{{ ability.tile_id }}'>
+<img width = '100' height = '100' src = '{{site.baseurl}}{{ ability.image }}' />
+</a>
+{% else %}
+{% continue %}
+{% endif %}
+{% endfor %}
+</div>
+
+<h3 id = 'hunter'>Varfa</h3>
+<div>
+{% for item in site.items %}
+{% if item.hero == "hunter" %}
+<a href = 'items#{{ item.tile_id }}'>
+<img width = '100' height = '100' src = '{{site.baseurl}}{{ item.image }}' />
+</a>
+{% else %}
+{% continue %}
+{% endif %}
+{% endfor %}
+{% for ability in site.abilities %}
+{% if ability.hero == "hunter" %}
 <a href = 'abilities#{{ ability.tile_id }}'>
 <img width = '100' height = '100' src = '{{site.baseurl}}{{ ability.image }}' />
 </a>

@@ -24,12 +24,12 @@ pl-PL_name: "Żebrak"
 pl-PL_description: "Twój 🔸 jest zwiększony o 1 jeśli masz 0 płytek w ekwipunku."
 tile_id: Beggar
 image: /images/Beggar.png
-ko-KR_name: "Beggar"
+ko-KR_name: "거지"
 ko-KR_description: "내 인벤토리에 타일이 없는 동안 기본 🔸이 1 증가합니다."
 tile_id: Beggar
 image: /images/Beggar.png
 cs-CZ_name: "Žebrák"
-cs-CZ_description: "Pokud máš v inventáři 0 dlaždic, tvůj základní 🔸 se zvýší o 1."
+cs-CZ_description: "Dokud máš v inventáři 0 dlaždic, tvůj základní 🔸 se zvýší o 1."
 tile_id: Beggar
 image: /images/Beggar.png
 ---

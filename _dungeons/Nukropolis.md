@@ -79,7 +79,7 @@ monsters:
     quantity: 3
     url: /monsters/TrashGolem
 ru-RU_name: "Нукр0полис"
-ru-RU_description: "«...Затем появился Нукр0полис, казалось бы, из ниоткуда - безвкусный храм для отравления и распада» - Крамит"
+ru-RU_description: "«...Затем появился Нукр0полис, казалось бы, из ниоткуда - безвкусный храм для отравления и распада» - Крумит"
 tier: 8
 monsters:
   - monster:
@@ -157,7 +157,7 @@ monsters:
     quantity: 3
     url: /monsters/TrashGolem
 es-ES_name: "La Nukre0polis"
-es-ES_description: "'...Y entonces la Nukre0polis se alzó, aparentemente de la nada - un templo chillón al veneno y la corrupción. Y, para ser honesto, de un mal gusto increíble.' - Krumit"
+es-ES_description: "'...entonces la Nukre0polis se alzó, aparentemente de la nada - un llamativo templo al veneno y la corrupción. Y, para ser honesto, se cargó las vistas.' - Krumit"
 tier: 8
 monsters:
   - monster:
@@ -244,7 +244,7 @@ monsters:
     quantity: 1
     url: /monsters/Uberlich
   - monster:
-    name: "Skeleton"
+    name: "해골"
     image: /images/Skeleton.png
     quantity: 2
     url: /monsters/Skeleton
@@ -269,7 +269,7 @@ monsters:
     quantity: 4
     url: /monsters/AutomatonV2
   - monster:
-    name: "Trash Golem"
+    name: "쓰레기 골렘"
     image: /images/TrashGolem.png
     quantity: 3
     url: /monsters/TrashGolem

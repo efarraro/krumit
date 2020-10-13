@@ -87,7 +87,7 @@ monsters:
     quantity: 5
     url: /monsters/Trickster
   - monster:
-    name: "ツリーント"
+    name: "トレント"
     image: /images/Treant.png
     quantity: 6
     url: /monsters/Treant
@@ -97,7 +97,7 @@ monsters:
     quantity: 1
     url: /monsters/Elmer
 es-ES_name: "Bosque de Hierro"
-es-ES_description: "En el Bosque de Hierro, el árbol que no da fruto tampoco es bueno para leña, porque no puedes cortarlo."
+es-ES_description: "En el Bosque de Hierro los árboles te dejan ver el bosque, pero no los puedes talar."
 tier: 5
 monsters:
   - monster:
@@ -154,7 +154,7 @@ monsters:
     quantity: 6
     url: /monsters/Gobloid
   - monster:
-    name: "Trickster"
+    name: "사기꾼"
     image: /images/Trickster.png
     quantity: 5
     url: /monsters/Trickster
@@ -164,7 +164,7 @@ monsters:
     quantity: 6
     url: /monsters/Treant
   - monster:
-    name: "Elmer"
+    name: "엘머"
     image: /images/Elmer.png
     quantity: 1
     url: /monsters/Elmer

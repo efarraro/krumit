@@ -137,7 +137,7 @@ monsters:
     quantity: 2
     url: /monsters/GobloidKnucklehead
 es-ES_name: "Taberna del Meteorismo"
-es-ES_description: "'Escuché que ahí juegan una especie de juego de cartas extravagante - creo que se llamaba 'Meteorismo', o quizás 'Meteorfall'. Siempre he querido probarlo.' - Rose"
+es-ES_description: "'Escuché que ahí juegan una especie de juego de cartas extravagante - creo que se llamaba 'Meteorismo', o quizás 'Meteorfall'. Siempre he querido probarlo.' - Rosa"
 tier: 4
 monsters:
   - monster:
@@ -166,7 +166,7 @@ monsters:
     quantity: 2
     url: /monsters/RoyalGuard
   - monster:
-    name: "Cabeza de Balde"
+    name: "Cabezacubo"
     image: /images/GobloidKnucklehead.png
     quantity: 2
     url: /monsters/GobloidKnucklehead
@@ -219,12 +219,12 @@ monsters:
     quantity: 3
     url: /monsters/Pirate
   - monster:
-    name: "Vagabond"
+    name: "부랑자"
     image: /images/JackalVagabond.png
     quantity: 3
     url: /monsters/JackalVagabond
   - monster:
-    name: "Peasant"
+    name: "농부"
     image: /images/Peasant.png
     quantity: 2
     url: /monsters/Peasant

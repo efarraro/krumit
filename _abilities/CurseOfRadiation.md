@@ -25,7 +25,7 @@ tile_id: CurseOfRadiation
 cost: -1
 image: /images/CurseOfRadiation.png
 es-ES_name: "Maldición Radioactiva"
-es-ES_description: "<u color='FF5151'>Maldición</u>. Cada vez una ficha entre al tablero, aplícate  <u>Veneno</u> (1). Paga 2 ❤️ para remover esta ficha"
+es-ES_description: "<u color='FF5151'>Maldición</u>. Cada vez una ficha entre al tablero, aplícate  <u>Veneno</u> (1). Paga 2 ❤️ para eliminar esta ficha"
 es-ES_flavor: "Algunos dicen que el fulgor Nuklear es una bendición oculta. No es ninguna de las dos cosas."
 tile_id: CurseOfRadiation
 cost: -1
@@ -37,13 +37,13 @@ tile_id: CurseOfRadiation
 cost: -1
 image: /images/CurseOfRadiation.png
 ko-KR_name: "방사능의 저주"
-ko-KR_description: "<u color='FF5151'>Curse</u>. 타일이 생성될 때 내가  <u>중독</u>(1)됩니다. 이 타일을 제거하려면 2 ❤️를 지불하십시오"
+ko-KR_description: "<u color='FF5151'>저주</u>. 타일이 생성될 때 내가  <u>중독</u>(1)됩니다. 이 타일을 제거하려면 2 ❤️를 지불하십시오"
 ko-KR_flavor: "어떤 사람들은 누클리어의 빛이 불행을 가장한 축복이라고 말합니다. 사실 둘 다 아닙니다."
 tile_id: CurseOfRadiation
 cost: -1
 image: /images/CurseOfRadiation.png
 cs-CZ_name: "Prokletí radiace"
-cs-CZ_description: "<u color='FF5151'>Prokletí</u>. Když se tato dlaždice objeví, dostaneš  <u>Otrávení</u> (1). Lze odstranit zaplacením 2 ❤️."
+cs-CZ_description: "<u color='FF5151'>Prokletí</u>. Když se na ploše objeví dlaždice, dostaneš  <u>Otrávení</u> (1). Lze odstranit zaplacením 2 ❤️."
 cs-CZ_flavor: "Někteří tvrdí, že atomová záře je vhodná k maskování. Tak není."
 tile_id: CurseOfRadiation
 cost: -1

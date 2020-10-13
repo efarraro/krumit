@@ -20,9 +20,9 @@ jp-JP_description: "この敵を倒すと、インベントリに<a href = '../j
 jp-JP_flavor: "この石頭のゴブロイドは最も攻撃的で知られており、侮れない力を持っている。"
 tile_id: GobloidKnucklehead
 image: /images/GobloidKnucklehead.png
-es-ES_name: "Cabeza de Balde"
+es-ES_name: "Cabezacubo"
 es-ES_description: "Cuando este enemigo sea derrotado, pon una copia de <a href = '../es_es/abilities#Stupidity'>¡Estúuupido!</a> en tu inventario"
-es-ES_flavor: "Los más agresivos de los Gobloides son conocidos como Cabezas Duras. Son una fuerza a temer - y definitivamente no una con la que razonar."
+es-ES_flavor: "Los más agresivos de los Gobloides son conocidos como Cabezas Huecas. Son una fuerza a temer - y definitivamente no una con la que razonar."
 tile_id: GobloidKnucklehead
 image: /images/GobloidKnucklehead.png
 pl-PL_name: "Wiadrołeb"

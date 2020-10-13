@@ -17,7 +17,7 @@ jp-JP_description: "❤️が最大の場合、基礎🔸が1増加する"
 tile_id: Crusader
 image: /images/Crusader.png
 es-ES_name: "Cruzado"
-es-ES_description: "Mientras tengas la ❤️ llena, incrementa tu 🔸 base en 1"
+es-ES_description: "Mientras tu ❤️ está al máximo, tu 🔸 gana +1"
 tile_id: Crusader
 image: /images/Crusader.png
 pl-PL_name: "Krżyżak"

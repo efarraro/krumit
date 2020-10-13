@@ -13,11 +13,11 @@ ru-RU_description: "Восстанавливает 2 ❤️, когда вы п�
 tile_id: Sturdy
 image: /images/Sturdy.png
 jp-JP_name: "頑丈"
-jp-JP_description: "ダンジョンから🛡️️ <u>ブロック</u>を付与するアイテムを入手するたびに、❤️を2回復する"
+jp-JP_description: "ダンジョンから🛡️️ <u>ブロック</u>を付与するアイテムを入手するたびに、2❤️を回復する"
 tile_id: Sturdy
 image: /images/Sturdy.png
 es-ES_name: "Tenaz"
-es-ES_description: "Recupera 2 ❤️ cada vez que adquieras un ítem con 🛡️️ <u>bloqueo</u> de la mazmorra"
+es-ES_description: "Recupera 2 ❤️ cada vez que adquieras un objeto con 🛡️️ <u>bloqueo</u> de la mazmorra"
 tile_id: Sturdy
 image: /images/Sturdy.png
 pl-PL_name: "Krzepki"

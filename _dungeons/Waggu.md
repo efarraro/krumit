@@ -86,12 +86,12 @@ monsters:
     quantity: 5
     url: /monsters/Gobloid
   - monster:
-    name: "Cabeza de Balde"
+    name: "Cabezacubo"
     image: /images/GobloidKnucklehead.png
     quantity: 4
     url: /monsters/GobloidKnucklehead
   - monster:
-    name: "Jefe Gobloide Waggu"
+    name: "Caudillo Gobloide W'aggu"
     image: /images/GobloidKing.png
     quantity: 1
     url: /monsters/GobloidKing
@@ -133,8 +133,8 @@ monsters:
     image: /images/GobloidKing.png
     quantity: 1
     url: /monsters/GobloidKing
-cs-CZ_name: "Hlavní město Gobliodů: W'aggu"
-cs-CZ_description: "W'aggu je hlavní „město“ Gobloidů. A zároveň jméno jejich krále. A je to i nejoblíbenější jméno prvorozených dětí Gobliodů."
+cs-CZ_name: "Velkoměsto Gobloidů: W'aggu"
+cs-CZ_description: "W'aggu je hlavní „město“ Gobloidů. A zároveň jméno jejich krále. A je to i nejoblíbenější jméno prvorozených dětí Gobloidů."
 tier: 2
 monsters:
   - monster:
@@ -148,7 +148,7 @@ monsters:
     quantity: 4
     url: /monsters/GobloidKnucklehead
   - monster:
-    name: "Goblord Waggu"
+    name: "Goblord W'aggu"
     image: /images/GobloidKing.png
     quantity: 1
     url: /monsters/GobloidKing

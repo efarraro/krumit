@@ -89,7 +89,7 @@ ko-KR_description: "'욱, 풋내기들뿐이구만...난 다른 사람들이 알
 tier: 1
 monsters:
   - monster:
-    name: "Skeleton"
+    name: "해골"
     image: /images/Skeleton.png
     quantity: 4
     url: /monsters/Skeleton
@@ -98,8 +98,8 @@ monsters:
     image: /images/Cooltist.png
     quantity: 4
     url: /monsters/Cooltist
-cs-CZ_name: "Kultovní podzemní klubovna"
-cs-CZ_description: "„Ugh, všichni tihle nováčci – A já tady trčím, aniž by o tom někdo věděl.“ – $mrtipán K."
+cs-CZ_name: "Skrýš podzemního kultu"
+cs-CZ_description: "„Ugh, všichni tihle nováčci – A já tady trčím, aniž by o tom někdo věděl.“ – Smrtipán K."
 tier: 1
 monsters:
   - monster:

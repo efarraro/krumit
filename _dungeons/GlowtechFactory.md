@@ -164,11 +164,11 @@ monsters:
     quantity: 4
     url: /monsters/Slime
   - monster:
-    name: "Peasant"
+    name: "농부"
     image: /images/Peasant.png
     quantity: 2
     url: /monsters/Peasant
-cs-CZ_name: "Továrna na roboty Glowtech"
+cs-CZ_name: "Továrna robotů Glowtech"
 cs-CZ_description: "Původně se tu vyráběli roboti do domácnosti. Pak tam někdo přidal meče, lasery a montážní linku. Zbytek historie už není nic pěkného."
 tier: 3
 monsters:
@@ -183,7 +183,7 @@ monsters:
     quantity: 2
     url: /monsters/AutomatonV2
   - monster:
-    name: "Vyhnanec"
+    name: "Globber"
     image: /images/Slime.png
     quantity: 4
     url: /monsters/Slime

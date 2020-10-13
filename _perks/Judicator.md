@@ -16,20 +16,20 @@ jp-JP_name: "裁判官"
 jp-JP_description: "ダンジョンごとに、15ダメージを受けると、そのダンジョンでは自分の基礎🔸が+1となる (0/15)"
 tile_id: Judicator
 image: /images/Judicator.png
-es-ES_name: "Judicador"
-es-ES_description: "Una vez por mazmorra, después de sufrir 15 de daño, tu 🔸 base gana +1 por el resto de la mazmorra (0/15)"
+es-ES_name: "Inquisidor"
+es-ES_description: "Una vez por mazmorra, tras sufrir 15 de daño, tu 🔸 base gana +1 durante el resto de la mazmorra (0/15)"
 tile_id: Judicator
 image: /images/Judicator.png
 pl-PL_name: "Rozjemca"
 pl-PL_description: "Raz na loch, jeżeli otrzymasz w sumie 15 obrażeń, otrzymujesz +1 🔸 do końca lochu (0/15)."
 tile_id: Judicator
 image: /images/Judicator.png
-ko-KR_name: "Judicator"
+ko-KR_name: "심판관"
 ko-KR_description: "각 던전에서 내가 15의 피해를 받으면, 이번 던전에서 내 기본 🔸이 1 증가합니다(0/15)"
 tile_id: Judicator
 image: /images/Judicator.png
 cs-CZ_name: "Soudce"
-cs-CZ_description: "Jakmile dostaneš 15 poškození, tvůj základní 🔸 se zvýší o 1 po dobu pobytu v kobce (0/15). Použije se pouze jednou v každé kobce."
+cs-CZ_description: "Po 15 poškozeních se tvůj základní 🔸 zvýší o 1 po dobu pobytu v kobce (0/15). V každé kobce lze použít jen jednou."
 tile_id: Judicator
 image: /images/Judicator.png
 ---

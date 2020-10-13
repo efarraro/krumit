@@ -16,8 +16,8 @@ jp-JP_name: "バランス"
 jp-JP_description: "アビリティの基本コストが全て2💰になる"
 tile_id: BalancedPerk
 image: /images/BalancedPerk.png
-es-ES_name: "Balanceado"
-es-ES_description: "El costo base de todas tus habilidades es 2 💰"
+es-ES_name: "Equilibrado"
+es-ES_description: "El coste base de todas tus habilidades es 2 💰"
 tile_id: BalancedPerk
 image: /images/BalancedPerk.png
 pl-PL_name: "Zbalansowany"
@@ -28,7 +28,7 @@ ko-KR_name: "균형"
 ko-KR_description: "모든 능력의 기본 비용이 2 💰이 됩니다"
 tile_id: BalancedPerk
 image: /images/BalancedPerk.png
-cs-CZ_name: "Balanced"
+cs-CZ_name: "Vyrovnaný"
 cs-CZ_description: "Základní cena všech tvých schopností je 2 💰."
 tile_id: BalancedPerk
 image: /images/BalancedPerk.png

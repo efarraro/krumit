@@ -21,8 +21,8 @@ jp-JP_flavor: "グロバーが大きなゴミの山を吸収すると、ゴミ�
 tile_id: TrashGolem
 image: /images/TrashGolem.png
 es-ES_name: "Gólem de Basura"
-es-ES_description: "Cuando derrotes a este enemigo, gana +1 💰 adicional y baraja dos ítems aleatorios en el mazo"
-es-ES_flavor: "Cuando un Babote absorbe un montón de basura lo suficientemente grande, puede transformarse en un gólem de basura. Su única meta es absorber más basura - pero no le es problema convertirte en ella."
+es-ES_description: "Cuando derrotes a este enemigo, gana +1 💰 adicional y baraja dos objetos aleatorios en el mazo"
+es-ES_flavor: "Cuando un Babote absorbe un montón de basura, lo suficientemente grande, puede transformarse en un gólem de basura. Su única meta es absorber más basura - estarán felices de convertirte en ella."
 tile_id: TrashGolem
 image: /images/TrashGolem.png
 pl-PL_name: "Śmieciowy Golem"
@@ -30,7 +30,7 @@ pl-PL_description: "Gdy pokonasz tego wroga, otrzymasz dodatkowy 💰 oraz wtasu
 pl-PL_flavor: "Gdy Szlamor pochłonie wystarczająco dużo śmieci, staje się śmieciowym golemem. Ich jedynym celem jest pochłanianie śmieci, ale chętnie zrobi przerwę, aby zmienić cię w śmieci."
 tile_id: TrashGolem
 image: /images/TrashGolem.png
-ko-KR_name: "Trash Golem"
+ko-KR_name: "쓰레기 골렘"
 ko-KR_description: "이 적을 처치하면, 추가 💰을 얻고 2개의 무작위 아이템을 덱에 섞어 넣습니다"
 ko-KR_flavor: "끈끈이덩어리가 충분히 큰 쓰레기 더미를 흡수하면 쓰레기 골렘으로 진화할 수 있습니다. 이들의 유일한 목표는 더 많은 쓰레기를 흡수하는 것이지만, 그래도 이들은 당신을 쓰레기로 만들 수 있어서 행복합니다."
 tile_id: TrashGolem

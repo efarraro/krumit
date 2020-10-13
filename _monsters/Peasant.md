@@ -30,8 +30,8 @@ pl-PL_description: "Ten przeciwnik nie ma specjalnych zdolności ani efektów"
 pl-PL_flavor: "Członek komuny anarchosyndykalistycznej."
 tile_id: Peasant
 image: /images/Peasant.png
-ko-KR_name: "Peasant"
-ko-KR_description: "This enemy doesn't have any special powers or effects"
+ko-KR_name: "농부"
+ko-KR_description: "이 적에게는 특별한 힘이나 효과가 없습니다"
 ko-KR_flavor: "무정부-생디칼리즘 집단의 구성원입니다."
 tile_id: Peasant
 image: /images/Peasant.png

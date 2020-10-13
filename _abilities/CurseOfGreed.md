@@ -13,7 +13,7 @@ tile_id: CurseOfGreed
 cost: -1
 image: /images/CurseOfGreed.png
 ru-RU_name: "Проклятие жадности"
-ru-RU_description: "Стоимость получения всех карточек увеличена на 1 💰. Потратьте 2 ❤️, чтобы избавиться от этой карточки."
+ru-RU_description: "Цена получения всех карточек увеличена на 1 💰. Потратьте 2 ❤️, чтобы избавиться от этой карточки."
 ru-RU_flavor: "Забавная мысль о жадности... чем больше у вас есть, тем больше это стоит вам."
 tile_id: CurseOfGreed
 cost: -1
@@ -25,8 +25,8 @@ tile_id: CurseOfGreed
 cost: -1
 image: /images/CurseOfGreed.png
 es-ES_name: "Maldición de Avaricia"
-es-ES_description: "<u color='FF5151'>Maldición</u>. Los costos de adquirir fichas se incrementan en 1 💰. Paga 2 ❤️ para remover esta ficha"
-es-ES_flavor: "Algo gracioso sobre la avaricia... mientras más tienes, más termina costándote."
+es-ES_description: "<u color='FF5151'>Maldición</u>. El coste de adquirir cualquier ficha se incrementa en 1 💰. Paga 2 ❤️ para eliminar esta ficha"
+es-ES_flavor: "Algo gracioso sobre la avaricia... mientras más tienes, más te cuesta."
 tile_id: CurseOfGreed
 cost: -1
 image: /images/CurseOfGreed.png
@@ -36,8 +36,8 @@ pl-PL_flavor: "Jest taka zabawna rzecz w chciwości... im więcej masz, tym wię
 tile_id: CurseOfGreed
 cost: -1
 image: /images/CurseOfGreed.png
-ko-KR_name: "Curse of Greed"
-ko-KR_description: "<u color='FF5151'>Curse</u>. 모든 타일을 획득하는 데 드는 비용이 1 💰 증가합니다. 이 타일을 제거하려면 2 ❤️를 지불하십시오"
+ko-KR_name: "탐욕의 저주"
+ko-KR_description: "<u color='FF5151'>저주</u>. 모든 타일을 획득하는 데 드는 비용이 1 💰 증가합니다. 이 타일을 제거하려면 2 ❤️를 지불하십시오"
 ko-KR_flavor: "탐욕에 대한 재미있는 사실... 더 많이 가질 수록 더 많은 돈이 든다. -"
 tile_id: CurseOfGreed
 cost: -1

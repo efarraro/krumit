@@ -209,7 +209,7 @@ ko-KR_description: "포 레이 카르도소는 이 촌스러운   저택의 핏�
 tier: 5
 monsters:
   - monster:
-    name: "Skeleton"
+    name: "해골"
     image: /images/Skeleton.png
     quantity: 4
     url: /monsters/Skeleton
@@ -219,7 +219,7 @@ monsters:
     quantity: 2
     url: /monsters/Slime
   - monster:
-    name: "Wasteland Thug"
+    name: "황무지 깡패"
     image: /images/Knave.png
     quantity: 6
     url: /monsters/Knave
@@ -234,7 +234,7 @@ monsters:
     quantity: 5
     url: /monsters/Zealnut
   - monster:
-    name: "Cardoso"
+    name: "카르도소"
     image: /images/Cardoso.png
     quantity: 1
     url: /monsters/Cardoso
@@ -248,7 +248,7 @@ monsters:
     quantity: 4
     url: /monsters/Skeleton
   - monster:
-    name: "Vyhnanec"
+    name: "Globber"
     image: /images/Slime.png
     quantity: 2
     url: /monsters/Slime

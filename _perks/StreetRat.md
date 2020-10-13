@@ -9,7 +9,7 @@ zh-CN_description: "向地下城牌组中添加3张<a href = '../zh_cn/monsters#
 tile_id: StreetRat
 image: /images/StreetRat.png
 ru-RU_name: "Уличная крыса"
-ru-RU_description: "В начале каждого подземелья замешивает 3 копии <a href = '../ru_ru/monsters#RoyalGuard'>Городская стража</a> в колоду. Первая карточка, которую вы получите, будет бесплатной."
+ru-RU_description: "В начале каждого подземелья замешивает 3 врагов <a href = '../ru_ru/monsters#RoyalGuard'>Городская стража</a> в колоду. Первая карточка, которую вы получите, будет бесплатной."
 tile_id: StreetRat
 image: /images/StreetRat.png
 jp-JP_name: "街ネズミ"
@@ -17,7 +17,7 @@ jp-JP_description: "デッキに<a href = '../jp_jp/monsters#RoyalGuard'>タウ�
 tile_id: StreetRat
 image: /images/StreetRat.png
 es-ES_name: "Rata Callejera"
-es-ES_description: "Añade 3 <a href = '../es_es/monsters#RoyalGuard'>Guardia de Ciudad</a> al mazo. La primera ficha que adquieras es gratis"
+es-ES_description: "Añade 3 <a href = '../es_es/monsters#RoyalGuard'>Guardia de Ciudad</a> al mazo. La primera ficha que adquieras será gratis"
 tile_id: StreetRat
 image: /images/StreetRat.png
 pl-PL_name: "Dziecko ulicy"
@@ -29,7 +29,7 @@ ko-KR_description: "<a href = '../ko_kr/monsters#RoyalGuard'>도시 경비병</a
 tile_id: StreetRat
 image: /images/StreetRat.png
 cs-CZ_name: "Pouliční krysa"
-cs-CZ_description: "Přidá 3 <a href = '../cs_cz/monsters#RoyalGuard'>Městská garda</a> do balíčku. První získaná dlaždice je zdarma."
+cs-CZ_description: "Přidá 3 karty <a href = '../cs_cz/monsters#RoyalGuard'>Městská garda</a> do balíčku. První získaná dlaždice je zdarma."
 tile_id: StreetRat
 image: /images/StreetRat.png
 ---

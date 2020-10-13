@@ -22,7 +22,7 @@ tile_id: Automaton
 image: /images/Automaton.png
 es-ES_name: "Nigrat0mante"
 es-ES_description: "Este enemigo no tiene poderes o efectos especiales"
-es-ES_flavor: "Este fétido autómata proviene de una línea de producción fallada. El control de calidad en GlowTech no es lo que era."
+es-ES_flavor: "Este asqueroso autómata proviene de una línea de producción defectuosa. El control de calidad en GlowTech ya no es lo que era."
 tile_id: Automaton
 image: /images/Automaton.png
 pl-PL_name: "Nukr0manta"
@@ -31,8 +31,8 @@ pl-PL_flavor: "Wstrętny automat pochodzący z wadliwej partii. Kontrola jakośc
 tile_id: Automaton
 image: /images/Automaton.png
 ko-KR_name: "누크로맨서"
-ko-KR_description: "This enemy doesn't have any special powers or effects"
-ko-KR_flavor: "이 역겨운 자동 인형은 결함이 생긴 라인에서 만들어집니다. 글로우텍의 품질 보증은 예전과 다를 바 없습니다."
+ko-KR_description: "이 적에게는 특별한 힘이나 효과가 없습니다"
+ko-KR_flavor: "이 역겨운 자동 인형은 결함이 생긴 라인에서 만들어집니다. 글로우테크의 품질 보증은 예전과 다를 바 없습니다."
 tile_id: Automaton
 image: /images/Automaton.png
 cs-CZ_name: "Nitromancer"

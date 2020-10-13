@@ -117,7 +117,7 @@ monsters:
     quantity: 1
     url: /monsters/Dragon
 es-ES_name: "Cavernas de Magma"
-es-ES_description: "'Las Cavernas de Magma son el dominio de Bartholomew el Dragullo. La última vez que estuve ahí me chamusqué la barba, y apestó por una semana entera.' - Barbagrís"
+es-ES_description: "'Las Cavernas de Magma son el dominio de Bartolomé el Dragullo. La última vez que estuve ahí me chamusqué la barba, y apestó durante una semana entera.' - Barbagrís"
 tier: 7
 monsters:
   - monster:
@@ -141,7 +141,7 @@ monsters:
     quantity: 4
     url: /monsters/TrashGolem
   - monster:
-    name: "Bartholomew"
+    name: "Bartolomé"
     image: /images/Dragon.png
     quantity: 1
     url: /monsters/Dragon
@@ -179,7 +179,7 @@ ko-KR_description: "'마그마 동굴, 드래고온 바르톨로뮤의 영역이
 tier: 7
 monsters:
   - monster:
-    name: "Ancient Skeleton"
+    name: "고대 해골"
     image: /images/AncientSkeleton.png
     quantity: 6
     url: /monsters/AncientSkeleton
@@ -194,7 +194,7 @@ monsters:
     quantity: 8
     url: /monsters/Harpy
   - monster:
-    name: "Trash Golem"
+    name: "쓰레기 골렘"
     image: /images/TrashGolem.png
     quantity: 4
     url: /monsters/TrashGolem
@@ -218,7 +218,7 @@ monsters:
     quantity: 6
     url: /monsters/WindRunner
   - monster:
-    name: "Král duchů"
+    name: "Punk"
     image: /images/Harpy.png
     quantity: 8
     url: /monsters/Harpy

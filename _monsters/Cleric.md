@@ -21,8 +21,8 @@ jp-JP_flavor: "モンスターもたまにはスピリチュアルな癒しが�
 tile_id: Cleric
 image: /images/Cleric.png
 es-ES_name: "Druida"
-es-ES_description: "Cuando entra al tablero, este enemigo da +3 de armadura a otro enemigo al azar en su misma columna"
-es-ES_flavor: "Hasta los monstruos necesitan cuidados espirituales de cuando en cuando."
+es-ES_description: "Cuando entra al tablero, este enemigo otorga +3 de armadura a otro enemigo al azar en su misma columna"
+es-ES_flavor: "Incluso los monstruos necesitan cuidados espirituales de cuando en cuando."
 tile_id: Cleric
 image: /images/Cleric.png
 pl-PL_name: "Druid"
@@ -30,9 +30,9 @@ pl-PL_description: "Gdy ten przeciwnik pojawia się na planszy, dodaje innemu lo
 pl-PL_flavor: "Nawet potwory potrzebują duchowości od czasu do czasu."
 tile_id: Cleric
 image: /images/Cleric.png
-ko-KR_name: "Druid"
-ko-KR_description: "던전에 추가되면, 이 적과 같은 행에 있는 무작위 적에게 +3 방어도를 부여합니다"
-ko-KR_flavor: "Even monsters need spiritual healing sometimes."
+ko-KR_name: "드루이드"
+ko-KR_description: "던전에 추가되면, 이 적과 같은 열에 있는 무작위 적에게 +3 방어도를 부여합니다"
+ko-KR_flavor: "몬스터조차도 때로는 영적인 치유가 필요합니다."
 tile_id: Cleric
 image: /images/Cleric.png
 cs-CZ_name: "Druid"

@@ -157,7 +157,7 @@ monsters:
     quantity: 4
     url: /monsters/JackalVagabond
 es-ES_name: "Torre de Ladrones"
-es-ES_description: "'No existe una colmena más miserable de escoria y villanía que la Torre de los Ladrones. Espero poder mudarme ahí algún día.' - Travesuras"
+es-ES_description: "'No existe avispero más miserable de escoria y villanía que la Torre de los Ladrones. Espero poder mudarme ahí algún día.' - Travesuras"
 tier: 6
 monsters:
   - monster:
@@ -166,7 +166,7 @@ monsters:
     quantity: 2
     url: /monsters/Gobloid
   - monster:
-    name: "Cabeza de Balde"
+    name: "Cabezacubo"
     image: /images/GobloidKnucklehead.png
     quantity: 3
     url: /monsters/GobloidKnucklehead
@@ -234,7 +234,7 @@ monsters:
     image: /images/JackalVagabond.png
     quantity: 4
     url: /monsters/JackalVagabond
-ko-KR_name: "Tower of Thieves"
+ko-KR_name: "도둑의 탑"
 ko-KR_description: "'도둑의 탑만큼 끔찍한 악당의 소굴은 없을 거야. 언젠가 그곳으로 이사 가고 싶어.' - 미스치프"
 tier: 6
 monsters:
@@ -259,7 +259,7 @@ monsters:
     quantity: 3
     url: /monsters/Jackal
   - monster:
-    name: "Assassin"
+    name: "암살자"
     image: /images/JackalAssassin.png
     quantity: 3
     url: /monsters/JackalAssassin
@@ -269,7 +269,7 @@ monsters:
     quantity: 2
     url: /monsters/PirateGirl
   - monster:
-    name: "Vagabond"
+    name: "부랑자"
     image: /images/JackalVagabond.png
     quantity: 4
     url: /monsters/JackalVagabond
@@ -288,7 +288,7 @@ monsters:
     quantity: 3
     url: /monsters/GobloidKnucklehead
   - monster:
-    name: "Král duchů"
+    name: "Punk"
     image: /images/Harpy.png
     quantity: 4
     url: /monsters/Harpy
@@ -298,7 +298,7 @@ monsters:
     quantity: 3
     url: /monsters/Jackal
   - monster:
-    name: "Zabiják"
+    name: "Vrah"
     image: /images/JackalAssassin.png
     quantity: 3
     url: /monsters/JackalAssassin

@@ -17,7 +17,7 @@ jp-JP_description: "<a href = '../jp_jp/abilities#Stab'>一刺し</a>に <u>毒<
 tile_id: Toxic
 image: /images/Toxic.png
 es-ES_name: "Tóxico"
-es-ES_description: "<a href = '../es_es/abilities#Stab'>Apuñalar</a> también inflige  <u>Veneno</u> (1)"
+es-ES_description: "<a href = '../es_es/abilities#Stab'>Apuñalar</a> también aplica  <u>Veneno</u> (1)"
 tile_id: Toxic
 image: /images/Toxic.png
 pl-PL_name: "Toksyczny"

@@ -16,8 +16,8 @@ jp-JP_name: "腹話術師"
 jp-JP_description: "💀 <u>ミニオン</u>の攻撃力が+1となるが、自分の基礎🔸は1減る。各ダンジョンでスケルトンを1枚持ってスタートする"
 tile_id: Ventriloquist
 image: /images/Ventriloquist.png
-es-ES_name: "Ventriloquista"
-es-ES_description: "Tus 💀 <u>Esbirros</u> tienen +1 de ataque, pero tu 🔸 base se reduce en 1. Empieza cada mazmorra con un Esqueleto"
+es-ES_name: "Ventrílocuo"
+es-ES_description: "Tus 💀 <u>Esbirros</u> ganan +1 de ataque, pero tu 🔸 base se reduce en 1. Empieza cada mazmorra con un Esqueleto"
 tile_id: Ventriloquist
 image: /images/Ventriloquist.png
 pl-PL_name: "Brzuchomówca"
@@ -25,11 +25,11 @@ pl-PL_description: "💀 <u>Sługus</u>s mają +1 ataku, ale twój 🔸 jest obn
 tile_id: Ventriloquist
 image: /images/Ventriloquist.png
 ko-KR_name: "복화술사"
-ko-KR_description: "내 💀 <u>하수인</u>의 공격력이 1 증가하지만, 내 기본 🔸이 1 감소합니다. Skeleton 타일을 갖고 전투를 시작합니다"
+ko-KR_description: "내 💀 <u>하수인</u>의 공격력이 1 증가하지만, 내 기본 🔸이 1 감소합니다. 해골 타일을 갖고 전투를 시작합니다"
 tile_id: Ventriloquist
 image: /images/Ventriloquist.png
-cs-CZ_name: "Ventriloquist"
-cs-CZ_description: "Vaši 💀 <u>Sluhové</u> mají +1 útok, ale Váš základní 🔸 je snížen o 1. Začněte každou kobku s Kostlivec"
+cs-CZ_name: "Břichomluvec"
+cs-CZ_description: "Tví 💀 <u>sluhové</u> mají útok +1, ale tvůj základní 🔸 se sníží o 1. V každé kobce začneš s kartou Kostlivec."
 tile_id: Ventriloquist
 image: /images/Ventriloquist.png
 ---

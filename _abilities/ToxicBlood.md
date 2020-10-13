@@ -25,7 +25,7 @@ tile_id: ToxicBlood
 cost: -1
 image: /images/ToxicBlood.png
 es-ES_name: "Sangre Tóxica"
-es-ES_description: "Adquiere esta ficha cuando adquieras otra ficha en la misma fila. <u>Pasiva</u>: Cuando recuperes ❤️, reduce el monto en 1"
+es-ES_description: "Obtienes esta ficha cuando adquieras otra ficha en su misma fila. <u>Pasiva</u>: Cuando recuperes ❤️, reduce su valor en 1"
 es-ES_flavor: "Una pequeña muestra de un paraíso envenenado."
 tile_id: ToxicBlood
 cost: -1
@@ -37,12 +37,12 @@ tile_id: ToxicBlood
 cost: -1
 image: /images/ToxicBlood.png
 ko-KR_name: "유독성 혈액"
-ko-KR_description: "같은 행의 다른 타일을 획득할 떄 이 타일도 획득합니다. <u>패시브</u>: 내가 ❤️을 회복할 때 회복량이 1 감소합니다"
+ko-KR_description: "같은 행의 다른 타일을 획득할 때 이 타일도 획득합니다. <u>패시브</u>: 내가 ❤️을 회복할 때 회복량이 1 감소합니다"
 ko-KR_flavor: "독 낙원의 맛 좀 쬐끔만 보거라!"
 tile_id: ToxicBlood
 cost: -1
 image: /images/ToxicBlood.png
-cs-CZ_name: "Toxic Blood"
+cs-CZ_name: "Toxická krev"
 cs-CZ_description: "Toto lze získat sebráním jiné dlaždice ve stejné řadě. <u>Pasivita</u>: Když obnovíš ❤️, sníží se hodnota o 1."
 cs-CZ_flavor: "Ráj pro milovníky jedovatých chutí."
 tile_id: ToxicBlood

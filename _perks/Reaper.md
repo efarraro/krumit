@@ -24,12 +24,12 @@ pl-PL_name: "Kosiarz"
 pl-PL_description: "🔸 zwiększony o 1 przeciwko skrzywdzonym przeciwnikom."
 tile_id: Reaper
 image: /images/Reaper.png
-ko-KR_name: "Reaper"
+ko-KR_name: "사신"
 ko-KR_description: "피해를 받은 적에 대한 기본 🔸이 1 증가합니다."
 tile_id: Reaper
 image: /images/Reaper.png
 cs-CZ_name: "Sekáč"
-cs-CZ_description: "Tvůj základní 🔸 se zvýší o 1 oproti poškozeným nepřátelům."
+cs-CZ_description: "Tvůj základní 🔸 se zvýší o 1 proti poškozeným nepřátelům."
 tile_id: Reaper
 image: /images/Reaper.png
 ---

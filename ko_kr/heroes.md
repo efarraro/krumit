@@ -3,7 +3,7 @@ title: Heroes
 permalink: /ko_kr/heroes
 lang: ko_kr
 ---
-<h3 id = 'warrior'>Bruno</h3>
+<h3 id = 'warrior'>브루노</h3>
 <div>
 {% for item in site.items %}
 {% if item.hero == "warrior" %}
@@ -97,7 +97,7 @@ lang: ko_kr
 {% endfor %}
 </div>
 
-<h3 id = 'priest'>바르파</h3>
+<h3 id = 'priest'>로즈</h3>
 <div>
 {% for item in site.items %}
 {% if item.hero == "priest" %}
@@ -110,6 +110,28 @@ lang: ko_kr
 {% endfor %}
 {% for ability in site.abilities %}
 {% if ability.hero == "priest" %}
+<a href = 'abilities#{{ ability.tile_id }}'>
+<img width = '100' height = '100' src = '{{site.baseurl}}{{ ability.image }}' />
+</a>
+{% else %}
+{% continue %}
+{% endif %}
+{% endfor %}
+</div>
+
+<h3 id = 'hunter'>바르파</h3>
+<div>
+{% for item in site.items %}
+{% if item.hero == "hunter" %}
+<a href = 'items#{{ item.tile_id }}'>
+<img width = '100' height = '100' src = '{{site.baseurl}}{{ item.image }}' />
+</a>
+{% else %}
+{% continue %}
+{% endif %}
+{% endfor %}
+{% for ability in site.abilities %}
+{% if ability.hero == "hunter" %}
 <a href = 'abilities#{{ ability.tile_id }}'>
 <img width = '100' height = '100' src = '{{site.baseurl}}{{ ability.image }}' />
 </a>

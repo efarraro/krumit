@@ -21,8 +21,8 @@ jp-JP_flavor: "インペリウムの重装備のパラゴンたちは、鎧を�
 tile_id: RoyalGuardElite
 image: /images/RoyalGuardElite.png
 es-ES_name: "Guardia Real"
-es-ES_description: "¡Atrás! Este enemigo impide que ataques a otros enemigos en la misma fila, hasta que sea derrotado."
-es-ES_flavor: "A estas blindadas campeonas del Imperio les encanta tener competencias de pulir armaduras y de recortar plumas de casco."
+es-ES_description: "¡Atrás! Este enemigo impide que ataques a otros enemigos en su misma fila, hasta que sea derrotado."
+es-ES_flavor: "A estas blindadas campeonas del Imperio les encanta tener concursos de pulir armaduras y de recortar plumas de casco."
 tile_id: RoyalGuardElite
 image: /images/RoyalGuardElite.png
 pl-PL_name: "Królewski Gwardzista"
@@ -35,7 +35,7 @@ ko-KR_description: "물러서라! 이 적은 처치될 때까지 같은 행에 �
 ko-KR_flavor: "제국의 귀감이 되는 중무장한 이 경비병들은 갑옷에 광내는 일과 투구 깃털 손질로 겨루기를 좋아합니다."
 tile_id: RoyalGuardElite
 image: /images/RoyalGuardElite.png
-cs-CZ_name: "Královská stráž"
+cs-CZ_name: "Královská garda"
 cs-CZ_description: "Zpátky! Tento nepřítel ti brání v útoku na ostatní nepřátele ve stejné řadě, dokud není poražen."
 cs-CZ_flavor: "Tyto těžce obrněné vzory Impéria milují pořádání soutěží v cídění brnění nebo o nejlepší průřez pro chochol na helmě."
 tile_id: RoyalGuardElite

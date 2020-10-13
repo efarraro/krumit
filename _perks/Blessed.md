@@ -13,7 +13,7 @@ ru-RU_description: "Когда вы получаете способность, �
 tile_id: Blessed
 image: /images/Blessed.png
 jp-JP_name: "神の祝福"
-jp-JP_description: "アビリティを取得するたびに❤️を1回復する"
+jp-JP_description: "アビリティを取得するたびに1❤️を回復する"
 tile_id: Blessed
 image: /images/Blessed.png
 es-ES_name: "Bendito"

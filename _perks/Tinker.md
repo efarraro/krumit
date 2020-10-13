@@ -16,20 +16,20 @@ jp-JP_name: "修理屋"
 jp-JP_description: "アイテムを2枚捨てる度に、インベントリにあるランダムなアイテムの耐久度を1回復する (0/2)"
 tile_id: Tinker
 image: /images/Tinker.png
-es-ES_name: "Artesano"
-es-ES_description: "Por cada 2 ítems que descartes, repara 1 de durabilidad a un ítem aleatorio en tu inventario (0/2)"
+es-ES_name: "Manitas"
+es-ES_description: "Por cada 2 objetos que descartes, repara 1 de durabilidad a un objeto aleatorio en tu inventario (0/2)"
 tile_id: Tinker
 image: /images/Tinker.png
 pl-PL_name: "Majsterkowicz"
 pl-PL_description: "Za każde 2 przedmioty który odrzucisz, odnów 1 trwałości losowemu przedmiotowi w ekwipunku (0/2)."
 tile_id: Tinker
 image: /images/Tinker.png
-ko-KR_name: "Tinker"
+ko-KR_name: "땜장이"
 ko-KR_description: "내가 2개의 아이템을 버릴 때마다, 내 인벤토리에 있는 무작위 아이템의 내구도를 1 회복시킵니다(0/2)"
 tile_id: Tinker
 image: /images/Tinker.png
 cs-CZ_name: "Dráteník"
-cs-CZ_description: "Za každý 2 odložený předmět obnoví 1 životnost náhodnému předmětu v inventáři (0/2)."
+cs-CZ_description: "Za každý 2. odložený předmět obnoví náhodnému předmětu v inventáři 1 životnost (0/2)."
 tile_id: Tinker
 image: /images/Tinker.png
 ---

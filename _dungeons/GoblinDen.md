@@ -19,7 +19,7 @@ monsters:
     quantity: 6
     url: /monsters/Gobloid
 ru-RU_name: "Грязный город гоблоидов"
-ru-RU_description: "«Гоблоиды - трагическая и грязная раса, обречённая вонью на жизнь изгоями, вечно сторонясь. Интересно, пахнут ли они друг другом?» - Крамит"
+ru-RU_description: "«Гоблоиды - трагическая и грязная раса, обречённая вонью на жизнь изгоями, вечно сторонясь. Интересно, пахнут ли они друг другом?» - Крумит"
 tier: 0
 monsters:
   - monster:
@@ -63,7 +63,7 @@ monsters:
     image: /images/Gobloid.png
     quantity: 6
     url: /monsters/Gobloid
-cs-CZ_name: "Špinavé Město Gobloidů"
+cs-CZ_name: "Špinavé město Gobloidů"
 cs-CZ_description: "„Gobloidi jsou tak celkově tragédi a navíc oškliví. Jsou odsouzeni k životu ve vyhnanství. Vrtá mi ale hlavou, jestli cítí jeden druhého...“ – Krumit"
 tier: 0
 monsters:

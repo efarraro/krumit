@@ -17,8 +17,8 @@ image: /images/PrimalArmor.png
 durability: 2
 hero: hunter
 ru-RU_name: "Изначальная броня"
-ru-RU_description: "Когда вы  <u>парируете</u> атаку этим предметом, перезаряжает все способности вашего <u>спутник</u>A."
-ru-RU_flavor: "Unleash the beast!"
+ru-RU_description: "Когда вы  <u>парируете</u> атаку этим предметом, перезаряжает все способности вашего <u>спутника</u>."
+ru-RU_flavor: "Выпустите зверя!"
 tile_id: PrimalArmor
 cost: 3
 image: /images/PrimalArmor.png
@@ -41,7 +41,7 @@ image: /images/PrimalArmor.png
 durability: 2
 hero: hunter
 pl-PL_name: "Zbroja Pierwotnej Mocy"
-pl-PL_description: " <u>Odparowanie</u> tym przedmiotem ładuje wszystkie zdolności swojego <u>Kompan</u>."
+pl-PL_description: " <u>Odparowanie</u> tym przedmiotem ładuje wszystkie zdolności swojego <u>Kompan</u>a."
 pl-PL_flavor: "Skuteczniejsza niż zbroja piernicznej mocy."
 tile_id: PrimalArmor
 cost: 3

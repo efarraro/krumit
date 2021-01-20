@@ -36,7 +36,7 @@ ko-KR_flavor: "추방자는 수집한 번지르르한 물건들과 유물들을 
 tile_id: TheExile
 image: /images/TheExile.png
 cs-CZ_name: "Vyhnanec"
-cs-CZ_description: "Tento nepřítel nejde vybrat, dokud jsou na herní ploše jiní nepřátelé. Cena za získání dlaždic se zvýší o 1 💰."
+cs-CZ_description: "Vyhnanec nelze vybrat, dokud jsou na herní ploše jiní nepřátelé. Cena za získání dlaždic se zvýší o 1 💰."
 cs-CZ_flavor: "Vyhnanec putuje po pustině a shromažďuje gew-gawy a artefakty, které si hromadně zavěšuje na tělo. Za jakým účelem je tento poutník hromadí? Odkud ho vůbec vyhnali? Vše bude (pravděpodobně) odhaleno!"
 tile_id: TheExile
 image: /images/TheExile.png

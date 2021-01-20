@@ -1,7 +1,7 @@
 ---
 
 EN_name: "Sharpen"
-EN_description: "Increase the 🔸 of all melee weapons on the board by 2. <u>Exhaust</u>"
+EN_description: "Increase the 🔸 of all melee weapons on the board by 2. <u><u>Instant</u></u>"
 EN_flavor: "A blunt blade is like a blunt mind – not very good at crossword puzzles."
 tile_id: Sharpen
 cost: 1
@@ -15,7 +15,7 @@ cost: 1
 image: /images/Sharpen.png
 hero: warrior
 ru-RU_name: "Точилка"
-ru-RU_description: "Увеличивает 🔸 всех рукопашных оружий на поле на 2. <u>Сжигается</u>."
+ru-RU_description: "<u><u>Мгновенная</u></u>. Увеличивает 🔸 всех рукопашных оружий на поле на 2."
 ru-RU_flavor: "Тупое лезвие, как тупой ум - не очень хорош в кроссвордах."
 tile_id: Sharpen
 cost: 1
@@ -29,14 +29,14 @@ cost: 1
 image: /images/Sharpen.png
 hero: warrior
 es-ES_name: "Afilar"
-es-ES_description: "Incrementa el 🔸 de todas las armas de melé en el tablero en 2. <u>Agota</u>"
+es-ES_description: "Incrementa en 2 el 🔸 de todas las armas de melé presentes en el tablero. <u><u>Instantánea</u></u>"
 es-ES_flavor: "Una espada roma es como una mente roma - bastante inútil para resolver crucigramas."
 tile_id: Sharpen
 cost: 1
 image: /images/Sharpen.png
 hero: warrior
 pl-PL_name: "Osełka"
-pl-PL_description: "Wszystkie bronie na planszy otrzymują +2 🔸. <u>Zużycie</u>"
+pl-PL_description: "Wszystkie bronie na planszy otrzymują +2 🔸. <u><u>Niezwłocznie</u></u>"
 pl-PL_flavor: "Tępe ostrze jest jak tępy łeb - nie nadaje się do rozwiązywania krzyżówek."
 tile_id: Sharpen
 cost: 1
@@ -50,7 +50,7 @@ cost: 1
 image: /images/Sharpen.png
 hero: warrior
 cs-CZ_name: "Ořezávátko"
-cs-CZ_description: "Zvýší 🔸 všech zbraní na blízko na herní ploše o 2. <u>Odstranění</u>"
+cs-CZ_description: "Zvýší 🔸 všech zbraní na blízko na herní ploše o 2. <u><u>Ihned</u></u>"
 cs-CZ_flavor: "Tupá čepel je jako tupá mysl - na řešení problémů není příliš vhodná."
 tile_id: Sharpen
 cost: 1

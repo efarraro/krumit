@@ -8,13 +8,13 @@ cost: 3
 image: /images/Jumpstart.png
 hero: mage
 zh-CN_name: "借电"
-zh-CN_description: "<u><u>即时</u></u>。为你的背包中的空格填满费用为1枚💰或以下的随机法术"
+zh-CN_description: "<u><u>即时</u></u>。用价格为1 💰或更少的随机咒语来填补库存中的空白"
 zh-CN_flavor: "魔法有时会十分任性。这时只要电它一下就可以继续使用了。"
 tile_id: Jumpstart
 cost: 3
 image: /images/Jumpstart.png
 hero: mage
-ru-RU_name: "Толчок"
+ru-RU_name: "Подзарядка"
 ru-RU_description: "<u><u>Мгновенная</u></u>. Заполняет свободные слоты в снаряжении случайными способностями стоимостью 1 💰 или меньше."
 ru-RU_flavor: "Магия - штука капризная. Иногда ей не хватает резкого удара, чтобы опять заработать."
 tile_id: Jumpstart

@@ -43,7 +43,7 @@ tile_id: CurseOfWeakness
 cost: -1
 image: /images/CurseOfWeakness.png
 cs-CZ_name: "Prokletí slabosti"
-cs-CZ_description: "Tvůj základní 🔸 se sníží o 1 proti sousedním nepřátelům. Jakmile porazíš sousedního nepřítele, dlaždice se odstraní z herní plochy."
+cs-CZ_description: "<u color='FF5151'>Prokletí</u>. Tvůj základní 🔸 se sníží o 1 proti sousedním nepřátelům. Jakmile porazíš sousedního nepřítele, dlaždice se odstraní z herní plochy."
 cs-CZ_flavor: "„Můžeš uvolnit sevření a zmírnit tlak čelistí!“"
 tile_id: CurseOfWeakness
 cost: -1

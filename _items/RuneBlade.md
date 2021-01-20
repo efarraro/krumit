@@ -10,7 +10,7 @@ durability: 3
 hero: hunter
 zh-CN_name: "符文之刃"
 zh-CN_description: "攻击拥有<u>流血</u>的敌人时，你的攻击拥有 <u>生命吸取</u> 4"
-zh-CN_flavor: "'He's too close for arrows, Caw, I'm switching to blades' - Varfa, maverick ranger"
+zh-CN_flavor: "“他离着太近了，考尔，该出刀了。”——怪侠瓦尔法"
 tile_id: RuneBlade
 cost: 3
 image: /images/RuneBlade.png
@@ -50,7 +50,7 @@ durability: 3
 hero: hunter
 ko-KR_name: "룬 검"
 ko-KR_description: "<u>출혈</u> 상태의 적을 공격할 때  <u>생명력 흡수</u> 4"
-ko-KR_flavor: "'그는 화살에 너무 가까워, Caw, 나는 칼날로 바꾸고있다'-Varfa, 독보적 인 레인저"
+ko-KR_flavor: "'활 쏘기에 너무 가까워, 쿼, 칼로 전환한다.' - 독불장군 순찰자 바르파"
 tile_id: RuneBlade
 cost: 3
 image: /images/RuneBlade.png

@@ -18,7 +18,7 @@ durability: 1
 hero: hunter
 ru-RU_name: "Лесной оберег"
 ru-RU_description: "<u><u>Мгновенная</u></u>. Призывает 💀 <u>миньона</u> Трэнт-предатель."
-ru-RU_flavor: "Когда лес шевелится, лучше сделай, как дерево и лист."
+ru-RU_flavor: "Он тащит Варфу в лес."
 tile_id: ForestCharm
 cost: 4
 image: /images/ForestCharm.png
@@ -48,9 +48,9 @@ cost: 4
 image: /images/ForestCharm.png
 durability: 1
 hero: hunter
-ko-KR_name: "숲의 매력"
+ko-KR_name: "숲의 부적"
 ko-KR_description: "<u><u>즉발</u></u>. 나무 정령 배신자을 소환합니다"
-ko-KR_flavor: "숲이 흔들릴 때 나무와 잎사귀처럼 만드는 것이 좋습니다."
+ko-KR_flavor: "숲이 소란스러운 건 잎에 입이 있어서 나무가 당신을 나무라고 있기 때문입니다."
 tile_id: ForestCharm
 cost: 4
 image: /images/ForestCharm.png

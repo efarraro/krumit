@@ -43,7 +43,7 @@ cost: 1
 image: /images/Devotion.png
 hero: priest
 ko-KR_name: "기도"
-ko-KR_description: "<u><u>즉발</u></u>. 덱에 bleesing을 셋 섞어 넣습니다"
+ko-KR_description: "<u><u>즉발</u></u>. 덱에 <u>축복</u>을 셋 섞어 넣습니다"
 ko-KR_flavor: "의심은 영혼을 갉아먹습니다. 기도가 그것을 봉인합니다."
 tile_id: Devotion
 cost: 1

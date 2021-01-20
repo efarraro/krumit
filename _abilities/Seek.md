@@ -15,8 +15,8 @@ cost: 1
 image: /images/Seek.png
 hero: hunter
 ru-RU_name: "Поиск"
-ru-RU_description: "<u><u>Мгновенная</u></u>. <u>Вытягивает</u> копию карточки с поля стоимостью 4 или меньше 💰."
-ru-RU_flavor: "«Ищите, и вы найдете. Пока вы не слишком высоко цените». - Краткое руководство 'Рейнджерс'"
+ru-RU_description: "<u><u>Мгновенная</u></u>. <u>Вытягивает</u> копию карточки с поля стоимостью 4 💰 или меньше."
+ru-RU_flavor: "«Ищите, и вы найдёте всё, пока не слишком высоко подняли свой прицел» - краткое руководство охотников."
 tile_id: Seek
 cost: 1
 image: /images/Seek.png
@@ -29,7 +29,7 @@ cost: 1
 image: /images/Seek.png
 hero: hunter
 es-ES_name: "Buscar"
-es-ES_description: "<u><u>Instantánea</u></u>. <u>Descubre</u>capital una copia de una ficha visible en el tablero cuyo coste sea igual o inferior a 4 💰"
+es-ES_description: "<u><u>Instantánea</u></u>. <u>Descubre</u> una copia de una ficha visible en el tablero cuyo coste sea igual o inferior a 4 💰"
 es-ES_flavor: "'Busca y encontrarás. A no ser que apuntes demasiado alto.' Manual Resumido de los Guardabosques"
 tile_id: Seek
 cost: 1

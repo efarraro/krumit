@@ -25,7 +25,7 @@ image: /images/PlagueMask.png
 durability: 3
 hero: rogue
 jp-JP_name: "疫病神のフード"
-jp-JP_description: "これを取得すると、空いたインベントリスロットが<a href = '../jp_jp/items#PoisonPotion'>毒の水薬</a>で埋まる"
+jp-JP_description: "これを取得すると、空いたインベントリスロットが<a href = '../jp_jp/items#PoisonPotion'>毒の小瓶</a>で埋まる"
 jp-JP_flavor: "この臭いフードは、1000種類もの毒性ポーションを醸造する知識を授けてくれると言われている"
 tile_id: PlagueMask
 cost: 3

@@ -24,7 +24,7 @@ cost: 1
 image: /images/PoisonPotion.png
 durability: 2
 hero: rogue
-jp-JP_name: "毒の水薬"
+jp-JP_name: "毒の小瓶"
 jp-JP_description: "対象の敵と、同じ段にいる他の敵にも <u>毒</u>(1)を適用する"
 jp-JP_flavor: "この気味の悪い調合物は、ヌマリーナお気に入りの朝の一杯だとか。"
 tile_id: PoisonPotion

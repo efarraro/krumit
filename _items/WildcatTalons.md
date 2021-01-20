@@ -18,7 +18,7 @@ durability: 3
 hero: hunter
 ru-RU_name: "Когти дикого кота"
 ru-RU_description: "Когда вы атакуете врага этим оружием, накладывает <u>кровотечение</u> (1) на него. Когда вы получаете это, даёт вторую копию."
-ru-RU_flavor: "Подходит для охоты на добычу и действительно почесывает зуд."
+ru-RU_flavor: "Хороша для охоты и зудящего зада."
 tile_id: WildcatTalons
 cost: 4
 image: /images/WildcatTalons.png

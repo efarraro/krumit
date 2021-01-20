@@ -16,7 +16,7 @@ image: /images/PinningShot.png
 hero: hunter
 ru-RU_name: "Прикрепляющий выстрел"
 ru-RU_description: "Наносит 4 <u>пронзающего</u> урона врагу. Если он выживет, перемещает его на верх колоды. <u>Сжигается</u>"
-ru-RU_flavor: "Замедлите их прокатку."
+ru-RU_flavor: "Секрет этой техники - стрела с гвоздем вместо наконечника копья."
 tile_id: PinningShot
 cost: 1
 image: /images/PinningShot.png
@@ -42,9 +42,9 @@ tile_id: PinningShot
 cost: 1
 image: /images/PinningShot.png
 hero: hunter
-ko-KR_name: "고정 샷"
+ko-KR_name: "고정 사격"
 ko-KR_description: "대상 적에게 <u>관통</u> 피해를 4 줍니다. 만약 적이 살아있다면, 덱 맨 위로 돌려보냅니다. <u>소멸</u>"
-ko-KR_flavor: "천천히 굴 리세요."
+ko-KR_flavor: "적들을 고정시키시옵소서."
 tile_id: PinningShot
 cost: 1
 image: /images/PinningShot.png

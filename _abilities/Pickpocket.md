@@ -7,7 +7,7 @@ tile_id: Pickpocket
 cost: 0
 image: /images/Pickpocket.png
 hero: rogue
-zh-CN_name: "扒窃"
+zh-CN_name: "偷窃"
 zh-CN_description: "处在<u>潜行</u>状态中时，将目标敌人洗回牌库并获得2枚金币。失去潜行。"
 zh-CN_flavor: "任何东西都有一个能够装东西的口袋。是的，任何东西。"
 tile_id: Pickpocket
@@ -36,7 +36,7 @@ cost: 0
 image: /images/Pickpocket.png
 hero: rogue
 pl-PL_name: "Kieszonkowiec"
-pl-PL_description: "Jeżeli jesteś ukryty (<u>ukrywanie się</u>), wtasuj wskazanego przeciwnika do talii i zyskaj 2 💰, po czym wyjdziesz z ukrycia. Może być użyte tylko poza walką."
+pl-PL_description: "Jeżeli jesteś ukryty (<u>ukrywanie się</u>), wtasuj wskazanego przeciwnika z powrotem do talii i zyskaj 2 💰, po czym wyjdź z ukrycia. Może być użyte tylko poza walką"
 pl-PL_flavor: "Wszystko ma gdzieś kieszeń. WSZYSTKO."
 tile_id: Pickpocket
 cost: 0

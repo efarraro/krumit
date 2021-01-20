@@ -8,7 +8,7 @@ cost: 1
 image: /images/AimedShot.png
 hero: hunter
 zh-CN_name: "瞄准射击"
-zh-CN_description: "对目标敌人造成4点<u>穿透</u>伤害。如果目标在最上排的话则将一张<a href = '../zh_cn/abilities#AimedShot'>瞄准射击</a>的复制洗入牌库。<u>消耗</u>"
+zh-CN_description: "对目标敌人造成4点<u>穿透</u>伤害。如果此次攻击消灭了一位最上排的敌人，<u><u>循环</u></u>"
 zh-CN_flavor: "“瞄准了的话，一根箭能够顶上一百只剑。”——神射手达克，枪法训练师"
 tile_id: AimedShot
 cost: 1
@@ -50,7 +50,7 @@ cost: 1
 image: /images/AimedShot.png
 hero: hunter
 cs-CZ_name: "Mířená střela"
-cs-CZ_description: "Způsobí zvolenému nepříteli 4 poškození <u>zkrz</u>. Pokud zasáhneš nepřítele v horní řadě, dojde k <u><u>Zacyklení</u></u>."
+cs-CZ_description: "Způsobí zvolenému nepříteli 4 poškození <u>zkrz</u>. Pokud zničíš nepřítele v horní řadě, dojde k <u><u>Zacyklení</u></u>."
 cs-CZ_flavor: "„Správně, jedna šipka dokáže to, co nedokáže ani 100 mečů“ - Smrtiočko Ducker, instruktor střelby."
 tile_id: AimedShot
 cost: 1

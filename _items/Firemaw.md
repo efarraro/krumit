@@ -10,7 +10,7 @@ durability: 3
 hero: hunter
 zh-CN_name: "火喉"
 zh-CN_description: "远程武器。施加 <u>燃烧</u> 3并<u>上推</u>目标敌人"
-zh-CN_flavor: "附送辣味素"
+zh-CN_flavor: "这种机械装置会像便携式巨龙一样射出火焰，更棒的是它完全不会趁机顺走你的东西。"
 tile_id: Firemaw
 cost: 3
 image: /images/Firemaw.png
@@ -18,7 +18,7 @@ durability: 3
 hero: hunter
 ru-RU_name: "Огнечрев"
 ru-RU_description: "Дальнобойное. <u>Толкает</u> и накладывает  <u>ожог</u> (3) на врага."
-ru-RU_flavor: "This mechanical contraption shoots flames like a portable dragorn - even better,  it won’t try and steal your shiny things."
+ru-RU_flavor: "Это механическое приспособление поджигает врагов также, как и переносной дракорн. Он даже лучше дракорна, потому что не будет пытаться украсть ваши блестяшки."
 tile_id: Firemaw
 cost: 3
 image: /images/Firemaw.png

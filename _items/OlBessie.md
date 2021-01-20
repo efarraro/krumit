@@ -50,7 +50,7 @@ durability: 2
 hero: hunter
 ko-KR_name: "올베시"
 ko-KR_description: "원거리 무기. 대상 적에게 <u>관통</u> 피해를 5 주고 <u>밀어내기</u>."
-ko-KR_flavor: "Ol'Bessie는 지저분해진다."
+ko-KR_flavor: "올베시 발포 개시!"
 tile_id: OlBessie
 cost: 3
 image: /images/OlBessie.png

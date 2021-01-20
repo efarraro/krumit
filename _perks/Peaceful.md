@@ -21,7 +21,7 @@ es-ES_description: "Cuando un arma se <u>Consuma</u>, restaura 4 ❤️"
 tile_id: Peaceful
 image: /images/Peaceful.png
 pl-PL_name: "Łagodna"
-pl-PL_description: "Kiedy broń jest spożytkowana (<u>Spożytkowanie</u>), wylecz 4 ❤️."
+pl-PL_description: "Kiedy broń jest spożytkowana (<u>Spożytkowanie</u>), odnów 4 ❤️."
 tile_id: Peaceful
 image: /images/Peaceful.png
 ko-KR_name: "온순함"

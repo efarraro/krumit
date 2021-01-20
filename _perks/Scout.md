@@ -21,7 +21,7 @@ es-ES_description: "Cuando marques a un enemigo, restaura 2 ❤️"
 tile_id: Scout
 image: /images/Scout.png
 pl-PL_name: "Skaut"
-pl-PL_description: "Gdy weźmiesz wroga na cel, wylecz 2 ❤️."
+pl-PL_description: "Gdy weźmiesz wroga na cel, odnów 2 ❤️."
 tile_id: Scout
 image: /images/Scout.png
 ko-KR_name: "정찰병"

@@ -9,7 +9,7 @@ zh-CN_description: "从嗷唬开始。最底排所有敌人拥有+2🔸"
 tile_id: Ranger
 image: /images/Ranger.png
 ru-RU_name: "Охотник"
-ru-RU_description: "Начните с Орхой. Враги в нижнем ряду имеют +2 🔸."
+ru-RU_description: "Начните с Орху. Враги в нижнем ряду имеют +2 🔸."
 tile_id: Ranger
 image: /images/Ranger.png
 jp-JP_name: "森の番人"

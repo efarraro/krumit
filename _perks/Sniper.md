@@ -9,10 +9,10 @@ zh-CN_description: "对<u>已标记</u>敌人造成额外3点<u>穿透</u>伤害
 tile_id: Sniper
 image: /images/Sniper.png
 ru-RU_name: "Снайпер"
-ru-RU_description: "Наносит +3 <u>пронзающего</u> урона <u>помеченного</u> врагам."
+ru-RU_description: "<u>Помечает</u> враги получают +3 <u>пронзающего</u> урона вне боя."
 tile_id: Sniper
 image: /images/Sniper.png
-jp-JP_name: "狙撃手"
+jp-JP_name: "スナイパー"
 jp-JP_description: "<u>マーク</u>した敵に3の追加<u>貫通</u>ダメージを与える"
 tile_id: Sniper
 image: /images/Sniper.png

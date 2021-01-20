@@ -17,7 +17,7 @@ image: /images/NecroTome.png
 durability: 2
 hero: necromancer
 ru-RU_name: "Некротом"
-ru-RU_description: "Уничтожает <a href = '../ru_ru/items#Tombstone'>Надгробье</a>, затем <u>вытягивает</u> копию <a href = '../ru_ru/abilities#HeartyBones'>Крепкие кости</a>, <a href = '../ru_ru/abilities#SoulFeast'>Пиршество душ</a> или <a href = '../ru_ru/abilities#SkeletonParty'>Вечеринка скелетов</a>."
+ru-RU_description: "Уничтожает <a href = '../ru_ru/items#Tombstone'>Надгробье</a>, чтобы <u>вытянуть</u> копию <a href = '../ru_ru/abilities#HeartyBones'>Крепкие кости</a>, <a href = '../ru_ru/abilities#SoulFeast'>Пиршество душ</a> или <a href = '../ru_ru/abilities#SkeletonParty'>Вечеринка скелетов</a>."
 ru-RU_flavor: "Покрытие сделано из смуглой человеческой кожи; клей, который скрепляет страницы из костной муки, сделан на 100% из мёртвой лошади; чернила - это чистейшая кровь жука. Способности внутри - ожить можно."
 tile_id: NecroTome
 cost: 4

@@ -25,7 +25,7 @@ pl-PL_description: "Kiedy mutujesz (<u>Mutacja</u>) w 🟦 Wybranka, zamień wid
 tile_id: Pure
 image: /images/Pure.png
 ko-KR_name: "순수함"
-ko-KR_description: "🟦 card (PerkPriestess)로 <u>변화</u>하면 보이는 <u>저주</u>를 <u>축복</u>로 변환시킵니다"
+ko-KR_description: "🟦 선택된 자로 <u>변화</u>하면 보이는 <u>저주</u>를 <u>축복</u>로 변환시킵니다"
 tile_id: Pure
 image: /images/Pure.png
 cs-CZ_name: "Nevinný"

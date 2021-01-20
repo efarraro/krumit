@@ -25,7 +25,7 @@ image: /images/ThiefsBelt.png
 durability: 2
 hero: rogue
 jp-JP_name: "ユーティリティベルト"
-jp-JP_description: "<a href = '../jp_jp/items#PoisonPotion'>毒の水薬</a>、<a href = '../jp_jp/items#Blackjack'>ブラックジャック</a>、<a href = '../jp_jp/abilities#HiddenBlades'>隠し剣</a>のコピーを<u>ドラフト</u>する"
+jp-JP_description: "<a href = '../jp_jp/items#PoisonPotion'>毒の小瓶</a>、<a href = '../jp_jp/items#Blackjack'>ブラックジャック</a>、<a href = '../jp_jp/abilities#HiddenBlades'>隠し剣</a>のコピーを<u>ドラフト</u>する"
 jp-JP_flavor: "かつては配管工が所有していたと思われるが、今ではより良い用途に使われている。"
 tile_id: ThiefsBelt
 cost: 2

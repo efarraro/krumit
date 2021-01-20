@@ -14,8 +14,8 @@ tile_id: BladeDancer
 cost: 6
 image: /images/BladeDancer.png
 hero: rogue
-ru-RU_name: "Танцор с клинком"
-ru-RU_description: "Наносит урон всем врагам, равный количеству использованных <a href = '../ru_ru/abilities#Stab'>Удар ножом</a> в этом подземелье. <u>Сжигается</u>."
+ru-RU_name: "Танцор Клинка"
+ru-RU_description: "Наносит <u>пронзающий</u> урон всем врагам, равный количеству использованных <a href = '../ru_ru/abilities#Stab'>Удар ножом</a> в этом подземелье. <u>Сжигается</u>."
 ru-RU_flavor: "«От ваших зрителей – овации стоя. От ваших врагов – тишина» – инструктор труппы Торнивальд."
 tile_id: BladeDancer
 cost: 6
@@ -50,7 +50,7 @@ cost: 6
 image: /images/BladeDancer.png
 hero: rogue
 cs-CZ_name: "Šavlový tanečník"
-cs-CZ_description: "Udělí všem nepřátelům tolik poškození, kolikrát jsi v této kobce použil <a href = '../cs_cz/abilities#Stab'>Bodnutí</a>. <u>Odstranění</u>"
+cs-CZ_description: "Udělí všem nepřátelům tolik poškození <u>zkrz</u>, kolikrát jsi v této kobce použil <a href = '../cs_cz/abilities#Stab'>Bodnutí</a>. <u>Odstranění</u>"
 cs-CZ_flavor: "„Od tvého publika jsou slyšet ovace. Od tvých obětí – ticho.“ – Herecký instruktor Tornivald"
 tile_id: BladeDancer
 cost: 6

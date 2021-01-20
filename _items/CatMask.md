@@ -18,7 +18,7 @@ durability: 3
 hero: hunter
 ru-RU_name: "Маска дикой кошки"
 ru-RU_description: "<u>Пассивно</u>: Ваша атака имеет ⚡️ <u>блиц</u>."
-ru-RU_flavor: "NYOW!"
+ru-RU_flavor: "МЯУ!"
 tile_id: CatMask
 cost: 3
 image: /images/CatMask.png

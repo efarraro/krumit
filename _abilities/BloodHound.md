@@ -16,7 +16,7 @@ image: /images/BloodHound.png
 hero: hunter
 ru-RU_name: "Кровавая гончая"
 ru-RU_description: "<u><u>Мгновенная</u></u>. Накладывает <u>кровотечение</u> (1) на всех врагов в этом ряду и столбце."
-ru-RU_flavor: "'Кто такой хороший мальчик !? Кто gooooOOAARRRGH!' - Бывший браконьер Иеремия"
+ru-RU_flavor: "«Кто хороший мальчик!? Кто хорооООААРГХ!» - бывший браконьер Иеремия."
 tile_id: BloodHound
 cost: 1
 image: /images/BloodHound.png

@@ -8,7 +8,7 @@ cost: 1
 image: /images/SerpentStrike.png
 hero: hunter
 zh-CN_name: "蛇击"
-zh-CN_description: "你的下一次攻击具有+1＃attack-icon，＃tag-team并施加 <u>剧毒</u> (3)。<u>消耗</u>"
+zh-CN_description: "你的下一次攻击具有+1🔸，<u>双打</u>并施加 <u>剧毒</u> (3)。<u>消耗</u>"
 zh-CN_flavor: "“可以把蛇当作箭矢射出去吗？嗯，应该比射鸡容易一些。”——托珀·哈维，危险游侠"
 tile_id: SerpentStrike
 cost: 1

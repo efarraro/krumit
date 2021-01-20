@@ -16,12 +16,12 @@ image: /images/RapidFire.png
 hero: hunter
 ru-RU_name: "Быстрый огонь"
 ru-RU_description: "<u><u>Мгновенная</u></u>. Заполняет свободные слоты снаряжения копиями <a href = '../ru_ru/abilities#QuickShot'>Быстрый выстрел</a>."
-ru-RU_flavor: "Если сомневаетесь, продолжайте стрелять."
+ru-RU_flavor: "Если не знаешь, что делать, продолжай стрелять."
 tile_id: RapidFire
 cost: 2
 image: /images/RapidFire.png
 hero: hunter
-jp-JP_name: "速射"
+jp-JP_name: "矢継ぎ早"
 jp-JP_description: "<u><u>即効</u></u>。インベントリ空きスロットを<a href = '../jp_jp/abilities#QuickShot'>クイックショット</a>のコピーで埋める"
 jp-JP_flavor: "疑わしければ、撃ち続けろ。"
 tile_id: RapidFire

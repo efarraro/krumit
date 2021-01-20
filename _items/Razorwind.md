@@ -17,7 +17,7 @@ image: /images/Razorwind.png
 durability: 3
 hero: hunter
 ru-RU_name: "Ветрорез"
-ru-RU_description: "Дальнобойное. Наносит 6 <u>пронзающего</u> урона врагу. Если он умирает, перезаряжает все способности вашего <u>спутник</u>A."
+ru-RU_description: "Дальнобойное. Наносит 6 <u>пронзающего</u> урона врагу. Если он умирает, перезаряжает все способности вашего <u>спутника</u>."
 ru-RU_flavor: "Резкий ветер, за которым следует легкий ветерок."
 tile_id: Razorwind
 cost: 5
@@ -41,7 +41,7 @@ image: /images/Razorwind.png
 durability: 3
 hero: hunter
 pl-PL_name: "Brzytwiatr"
-pl-PL_description: "Dystansowa. Zadaj 6 <u>przenikliwych</u> obrażeń wskazanemu wrogowi. Jeżeli pokonasz wroga tą bronią, naładuj zdolności <u>Kompan</u>."
+pl-PL_description: "Dystansowa. Zadaj 6 <u>przenikliwych</u> obrażeń wskazanemu wrogowi. Jeżeli pokonasz wroga tą bronią, naładuj zdolności <u>Kompan</u>a."
 pl-PL_flavor: "Ostry wiatr, a po nim delikatny powiew."
 tile_id: Razorwind
 cost: 5
@@ -50,7 +50,7 @@ durability: 3
 hero: hunter
 ko-KR_name: "칼바람"
 ko-KR_description: "원거리 무기. 대상 적에게 <u>관통</u> 피해를 6 줍니다. 이 무기로 적을 죽이면, 내 <u>동료</u> 능력의 재사용 대기시간을 초기화시킵니다"
-ko-KR_flavor: "깎아 지른 바람과 부드러운 바람."
+ko-KR_flavor: "살을 에는 듯한 바람, 그 뒤에 순풍이 따라옵니다."
 tile_id: Razorwind
 cost: 5
 image: /images/Razorwind.png

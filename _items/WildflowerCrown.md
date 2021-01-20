@@ -18,7 +18,7 @@ durability: 3
 hero: hunter
 ru-RU_name: "Корона из полевых цветов"
 ru-RU_description: "Восстанавливает 3 ❤️ вам и случайному миньону в вашем снаряжении. Когда <u>истощается</u>, увеличивает вашу базовую 🔸 на 1 до конца подземелья."
-ru-RU_flavor: "Dress for the power you want"
+ru-RU_flavor: "Одевайтесь так, как хотите."
 tile_id: WildflowerCrown
 cost: 6
 image: /images/WildflowerCrown.png
@@ -50,7 +50,7 @@ durability: 3
 hero: hunter
 ko-KR_name: "들꽃 왕관"
 ko-KR_description: "나와 내 인벤토리에 있는 무작위 💀 <u>하수인</u>의 ❤️을 3 회복시킵니다. <u>고갈</u>: 내 기본 🔸을 1 증가시킵니다"
-ko-KR_flavor: "당신이 원하는 힘을위한 복장"
+ko-KR_flavor: "당신이 원하는 힘을 위한 옷"
 tile_id: WildflowerCrown
 cost: 6
 image: /images/WildflowerCrown.png

@@ -10,7 +10,7 @@ durability: 3
 hero: hunter
 zh-CN_name: "鹰眼面罩"
 zh-CN_description: "标记一个<u>标记</u>。同排卡牌费用-1"
-zh-CN_flavor: "A technological marvel prized by marksmen and stargazers alike"
+zh-CN_flavor: "神枪手和观星者都为之赞叹不已的技术奇迹"
 tile_id: HawkeyeVisor
 cost: 2
 image: /images/HawkeyeVisor.png
@@ -48,9 +48,9 @@ cost: 2
 image: /images/HawkeyeVisor.png
 durability: 3
 hero: hunter
-ko-KR_name: "호크 아이 바이저"
+ko-KR_name: "매의 눈 복면"
 ko-KR_description: "적에게 <u>표식</u>을 부여합니다. 같은 행에 있는 타일들의 비용이 1 감소합니다"
-ko-KR_flavor: "저격수와 스타 게이저 모두가 높이 평가하는 놀라운 기술"
+ko-KR_flavor: "명사수들과 점성가들 모두 경탄한 경이로운 기술의 결정체"
 tile_id: HawkeyeVisor
 cost: 2
 image: /images/HawkeyeVisor.png

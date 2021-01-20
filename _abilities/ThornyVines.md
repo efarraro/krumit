@@ -9,7 +9,7 @@ image: /images/ThornyVines.png
 hero: hunter
 zh-CN_name: "刺藤"
 zh-CN_description: "<u>荆棘</u> (4)。进行6轮战斗来为这张卡牌充能"
-zh-CN_flavor: "Vine and thorns - name a more iconic duo, I'll wait"
+zh-CN_flavor: "刺与藤——为什么到现在还没有叫这个名字的乐队？"
 tile_id: ThornyVines
 cost: 3
 image: /images/ThornyVines.png
@@ -23,7 +23,7 @@ image: /images/ThornyVines.png
 hero: hunter
 jp-JP_name: "茨のツル"
 jp-JP_description: "<u>トゲ</u>(4)。戦闘中6ラウンド後に再補充"
-jp-JP_flavor: "つるととげ - もっと象徴的なコンビの名前を付けて、待ってるから。"
+jp-JP_flavor: "つるととげ - もっとイケてるコンビ名を付けてちょうだい、待ってるから。"
 tile_id: ThornyVines
 cost: 3
 image: /images/ThornyVines.png
@@ -44,7 +44,7 @@ image: /images/ThornyVines.png
 hero: hunter
 ko-KR_name: "가시 덩굴"
 ko-KR_description: "<u>가시</u> (4). 전투에서 6 라운드가 지난 후 재충전됩니다"
-ko-KR_flavor: "Vine and thorns-더 상징적 인 듀오의 이름을 지정해주세요."
+ko-KR_flavor: "덩굴과 가시, 함께 있을 때 우린 아무것도 두려울 것이 없었다."
 tile_id: ThornyVines
 cost: 3
 image: /images/ThornyVines.png

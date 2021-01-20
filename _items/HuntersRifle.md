@@ -10,7 +10,7 @@ durability: 2
 hero: hunter
 zh-CN_name: "猎人步枪"
 zh-CN_description: "远程武器。对目标敌人造成2点<u>穿透</u>伤害。如果此次攻击消灭了目标，获得1枚💰"
-zh-CN_flavor: "An official carbine action, 2 shot, range model air rifle - just like all the other kids in the neighborhood had"
+zh-CN_flavor: "一把标准的卡宾枪，两发子弹，增程型气枪——邻家儿童标配"
 tile_id: HuntersRifle
 cost: 2
 image: /images/HuntersRifle.png
@@ -50,7 +50,7 @@ durability: 2
 hero: hunter
 ko-KR_name: "사냥꾼의 소총"
 ko-KR_description: "원거리 무기. 대상 적에게 <u>관통</u> 피해를 2 줍니다. 이 무기로 적을 죽이면, 1 💰을 얻습니다"
-ko-KR_flavor: "공식 카빈총 액션, 2 발 사거리 모델 에어 라이플-동네의 다른 모든 아이들이했던 것처럼"
+ko-KR_flavor: "2발 사격 가능한 원거리 모델 공식 카빈 액션 공기소총. 이웃집 애들은 이미 모두 갖고 있답니다."
 tile_id: HuntersRifle
 cost: 2
 image: /images/HuntersRifle.png

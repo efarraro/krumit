@@ -18,7 +18,7 @@ durability: 3
 hero: hunter
 ru-RU_name: "Штык"
 ru-RU_description: "<u>Пронзающий</u>. Стоит на 3 💰 меньше, пока вы <u>ошеломлены</u>."
-ru-RU_flavor: "It looks like it could be attached to something, but seems plenty deadly on its own."
+ru-RU_flavor: "Похоже, его можно было к чему-то прикрепить, но само по себе оно смертельно опасно."
 tile_id: Bayonet
 cost: 4
 image: /images/Bayonet.png
@@ -33,7 +33,7 @@ image: /images/Bayonet.png
 durability: 3
 hero: hunter
 es-ES_name: "Bayoneta"
-es-ES_description: "Tu ataque gana <u>perforante</u>. Reduce el coste de este arma en 3 💰 mientras estés <u>abrumada</u>"
+es-ES_description: "Tu ataque gana <u>perforante</u>. Reduce el coste de esta arma en 3 💰 mientras estés <u>abrumada</u>"
 es-ES_flavor: "Parece que se puede acoplar a algo, pero tiene pinta de ser mortal por si sola."
 tile_id: Bayonet
 cost: 4
@@ -50,7 +50,7 @@ durability: 3
 hero: hunter
 ko-KR_name: "총검"
 ko-KR_description: "내 공격이 <u>관통</u>을 가집니다. <u>압도당함</u> 상태일 때 이 무기의 비용이 3 💰만큼 감소합니다"
-ko-KR_flavor: "무언가에 부착 될 수있는 것처럼 보이지만 그 자체로는 치명적입니다."
+ko-KR_flavor: "다른 뭔가에 부착될 수 있는 물건처럼 보이지만, 그 자체로도 충분히 치명적입니다."
 tile_id: Bayonet
 cost: 4
 image: /images/Bayonet.png

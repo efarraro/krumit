@@ -43,7 +43,7 @@ cost: 1
 image: /images/IllOmens.png
 hero: priest
 ko-KR_name: "불길한 징조"
-ko-KR_description: "적 및 같은 행에 있는 다른 적들을 corrupt(5)시킵니다. <u>소멸</u>"
+ko-KR_description: "적 및 같은 행에 있는 다른 적들을  <u>타락</u>(5)시킵니다. <u>소멸</u>"
 ko-KR_flavor: "'안 좋은 느낌이 드는데...' - 타락자 험볼트"
 tile_id: IllOmens
 cost: 1

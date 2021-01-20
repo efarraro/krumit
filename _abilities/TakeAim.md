@@ -16,7 +16,7 @@ image: /images/TakeAim.png
 hero: hunter
 ru-RU_name: "Прицеливание"
 ru-RU_description: "<u>Помечает</u> врага. Перезаряжается после убийства 2 врагов."
-ru-RU_flavor: "Скорректировать скорость ветра ... вычислить обратную параболу ... замедлить дыхание ..."
+ru-RU_flavor: "Оценить скорость ветра... Вычислить обратную параболу... Замедлить дыхание..."
 tile_id: TakeAim
 cost: 0
 image: /images/TakeAim.png
@@ -37,7 +37,7 @@ image: /images/TakeAim.png
 hero: hunter
 pl-PL_name: "Skupienie"
 pl-PL_description: "Weź wroga na <u>Cel</u>. Naładuj po pokonaniu 2 wrogów."
-pl-PL_flavor: "Weź pod uwagę prędkość wiatru... oblicz parabolę odwrotną... spowolnij oddech..."
+pl-PL_flavor: "Dostosuj się do prędkości wiatru ... oblicz parabolę odwrotną ... zwolnij oddech ..."
 tile_id: TakeAim
 cost: 0
 image: /images/TakeAim.png

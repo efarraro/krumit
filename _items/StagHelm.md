@@ -17,7 +17,7 @@ image: /images/StagHelm.png
 durability: 3
 hero: hunter
 ru-RU_name: "Олений шлем"
-ru-RU_description: "Когда вы получаете это и когда <u>истощается</u>, восстанавливает 4 ❤️ вашему <u>спутник</u>U."
+ru-RU_description: "Когда вы получаете это и когда <u>истощается</u>, восстанавливает 4 ❤️ вашему <u>спутнику</u>."
 ru-RU_flavor: "Гордитесь, будьте злобными."
 tile_id: StagHelm
 cost: 3
@@ -25,7 +25,7 @@ image: /images/StagHelm.png
 durability: 3
 hero: hunter
 jp-JP_name: "鹿角のヘルメット"
-jp-JP_description: "これを取得して<u>枯渇</u>した時、<u>ペット</u>を4❤️回復する"
+jp-JP_description: "これを取得または<u>枯渇</u>した時、<u>ペット</u>を4❤️回復する"
 jp-JP_flavor: "誇りを胸に、気を強く持て。"
 tile_id: StagHelm
 cost: 3
@@ -33,7 +33,7 @@ image: /images/StagHelm.png
 durability: 3
 hero: hunter
 es-ES_name: "Casco de Ciervo"
-es-ES_description: "Cuando lo adquieras, y cuando lo hayas <u>Consuma</u>, restaura 4 ❤️ a tu compañero"
+es-ES_description: "Cuando lo adquieras, y cuando se <u>Consuma</u>, restaura 4 ❤️ a tu compañero"
 es-ES_flavor: "Álzate orgulloso, vuélvete intratable"
 tile_id: StagHelm
 cost: 3
@@ -57,7 +57,7 @@ image: /images/StagHelm.png
 durability: 3
 hero: hunter
 cs-CZ_name: "Jelení helma"
-cs-CZ_description: "Jakmile dojde po získání k <u>Vyčerpání</u>, tvůj <u>Společník</u> obnoví 4 ❤️."
+cs-CZ_description: "Po získání a po <u>Vyčerpání</u> obnoví tvůj <u>Společník</u> 4 ❤️."
 cs-CZ_flavor: "Postav se rovně a tvař se hrdě."
 tile_id: StagHelm
 cost: 3

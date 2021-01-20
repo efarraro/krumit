@@ -16,7 +16,7 @@ ru-RU_flavor: "Бартоломью - последний (известный...)
 tile_id: Dragon
 image: /images/Dragon.png
 jp-JP_name: "バルトロマイ"
-jp-JP_description: "60、40、20❤️の時、このタイルに <u>燃焼</u>(3)を加えてデッキに戻す。燃焼を重ねるごとに攻撃力+1"
+jp-JP_description: "60、40、20❤️の時、このタイルに <u>燃焼</u>(3)を加えてデッキに戻す。燃焼数ごとに攻撃力+1"
 jp-JP_flavor: "バルトロマイは（恐らく）最後のドラゴーンであり、高濃度に汚染されたニワトリから生まれた恐ろしくも不幸な見た目の種族である。"
 tile_id: Dragon
 image: /images/Dragon.png

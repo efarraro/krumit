@@ -29,7 +29,7 @@ cost: 1
 image: /images/Bribe.png
 hero: rogue
 es-ES_name: "Soborno"
-es-ES_description: "Paga 4 💰 para destruir un enemigo objetivo (que no sea un jefe)"
+es-ES_description: "Paga 4 💰 para destruir un objetivo enemigo (que no sea un jefe)"
 es-ES_flavor: "¡Y pensar que esto podría haber sido una microtransacción!"
 tile_id: Bribe
 cost: 1

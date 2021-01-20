@@ -16,7 +16,7 @@ image: /images/Thrust.png
 hero: warrior
 ru-RU_name: "Удар копьём"
 ru-RU_description: "Когда вы получаете это, даёт 1 💰. Ваша атака с рукопашным оружием наносит <u>пронзающий</u> урон и имеет +2 🔸. <u>Сжигается</u>."
-ru-RU_flavor: "«Атакуйте их слабое место! Не жалейте их» - мастер по сверлу Исмериумвилля Редзепи."
+ru-RU_flavor: "«Атакуйте их слабое место! Не жалейте их» - мастер по сверлу Империумвилля Редзепи."
 tile_id: Thrust
 cost: 0
 image: /images/Thrust.png
@@ -49,7 +49,7 @@ tile_id: Thrust
 cost: 0
 image: /images/Thrust.png
 hero: warrior
-cs-CZ_name: "Úder"
+cs-CZ_name: "Výcuc"
 cs-CZ_description: "Po obdržení získáš 1 💰. Tvůj útok se zbraní na blízko je <u>zkrz</u> a má +2 🔸. <u>Odstranění</u>."
 cs-CZ_flavor: "„Vždy zasáhni nejslabší místo! Nikdy to nevzdávej!“ – Imperiální ředitel sbíječky Redzepi"
 tile_id: Thrust

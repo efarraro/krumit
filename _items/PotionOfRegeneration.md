@@ -98,7 +98,7 @@ durability: 2
 hero: warrior
 ru-RU_name: "Ядерный эликсир"
 ru-RU_description: "Даёт <u>регенерацию</u>."
-ru-RU_flavor: "Вы сияете внутренней красотой!"
+ru-RU_flavor: "Вы будете сиять внутренней красотой!"
 tile_id: PotionOfRegeneration
 cost: 3
 image: /images/PotionOfRegeneration.png
@@ -106,7 +106,7 @@ durability: 2
 hero: warrior
 ru-RU_name: "Ядерный эликсир"
 ru-RU_description: "Даёт <u>регенерацию</u>."
-ru-RU_flavor: "Вы сияете внутренней красотой!"
+ru-RU_flavor: "Вы будете сиять внутренней красотой!"
 tile_id: PotionOfRegeneration
 cost: 3
 image: /images/PotionOfRegeneration.png
@@ -114,7 +114,7 @@ durability: 2
 hero: warrior
 ru-RU_name: "Ядерный эликсир"
 ru-RU_description: "Даёт <u>регенерацию</u>."
-ru-RU_flavor: "Вы сияете внутренней красотой!"
+ru-RU_flavor: "Вы будете сиять внутренней красотой!"
 tile_id: PotionOfRegeneration
 cost: 3
 image: /images/PotionOfRegeneration.png
@@ -122,7 +122,7 @@ durability: 2
 hero: warrior
 ru-RU_name: "Ядерный эликсир"
 ru-RU_description: "Даёт <u>регенерацию</u>."
-ru-RU_flavor: "Вы сияете внутренней красотой!"
+ru-RU_flavor: "Вы будете сиять внутренней красотой!"
 tile_id: PotionOfRegeneration
 cost: 3
 image: /images/PotionOfRegeneration.png
@@ -130,7 +130,7 @@ durability: 2
 hero: warrior
 ru-RU_name: "Ядерный эликсир"
 ru-RU_description: "Даёт <u>регенерацию</u>."
-ru-RU_flavor: "Вы сияете внутренней красотой!"
+ru-RU_flavor: "Вы будете сиять внутренней красотой!"
 tile_id: PotionOfRegeneration
 cost: 3
 image: /images/PotionOfRegeneration.png
@@ -138,7 +138,7 @@ durability: 2
 hero: warrior
 ru-RU_name: "Ядерный эликсир"
 ru-RU_description: "Даёт <u>регенерацию</u>."
-ru-RU_flavor: "Вы сияете внутренней красотой!"
+ru-RU_flavor: "Вы будете сиять внутренней красотой!"
 tile_id: PotionOfRegeneration
 cost: 3
 image: /images/PotionOfRegeneration.png

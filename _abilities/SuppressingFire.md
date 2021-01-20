@@ -14,7 +14,7 @@ tile_id: SuppressingFire
 cost: 1
 image: /images/SuppressingFire.png
 hero: hunter
-ru-RU_name: "Подавление огня"
+ru-RU_name: "Огонь на подавление"
 ru-RU_description: "<u>Пассивно</u>: Когда вы используете любой <u>выстрел</u> в бою, также <u>оглушает</u> вашего врага."
 ru-RU_flavor: "Полезнее, чем угнетающий огонь."
 tile_id: SuppressingFire
@@ -42,9 +42,9 @@ tile_id: SuppressingFire
 cost: 1
 image: /images/SuppressingFire.png
 hero: hunter
-ko-KR_name: "불 억제"
+ko-KR_name: "제압용 발포"
 ko-KR_description: "<u>패시브</u>: 전투에서 <u>사격</u> 타일을 사용하면 상대를 <u>기절</u>시킵니다"
-ko-KR_flavor: "불을 억 누르는 것보다 더 유용합니다."
+ko-KR_flavor: "지압용 발포보다는 유용합니다."
 tile_id: SuppressingFire
 cost: 1
 image: /images/SuppressingFire.png

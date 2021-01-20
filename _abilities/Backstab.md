@@ -37,7 +37,7 @@ image: /images/Backstab.png
 hero: rogue
 pl-PL_name: "Nóż w plecy"
 pl-PL_description: "Zadaj 6 <u>przenikliwych</u> obrażeń przeciwnikowi. Można użyć jedynie na przeciwnikach, którzy są <u>samotny</u>, lub jeśli się ukrywasz (<u>ukrywanie się</u>). <u>Zużycie</u>"
-pl-PL_flavor: "Jeśli nie mają oczu z tyłu głowy, baw się na całego."
+pl-PL_flavor: "Jeśli nie mają oczu z tyłu głowy, możesz trochę poszaleć."
 tile_id: Backstab
 cost: 1
 image: /images/Backstab.png

@@ -18,7 +18,7 @@ durability: 3
 hero: hunter
 ru-RU_name: "Бинокль"
 ru-RU_description: "<u>Помечает</u> всех врагов в верхнем ряду."
-ru-RU_flavor: "For the less-than eagle eyed among us"
+ru-RU_flavor: "Орлиный взор всегда под рукой."
 tile_id: Binoculars
 cost: 1
 image: /images/Binoculars.png
@@ -50,7 +50,7 @@ durability: 3
 hero: hunter
 ko-KR_name: "쌍안경"
 ko-KR_description: "상단 행의 적들에게 <u>표식</u>을 부여합니다"
-ko-KR_flavor: "우리 사이에서 눈을 떼지 못한 독수리를 위해"
+ko-KR_flavor: "우리들 중 독수리보다 못한 눈을 가진 사람을 위한 물건"
 tile_id: Binoculars
 cost: 1
 image: /images/Binoculars.png

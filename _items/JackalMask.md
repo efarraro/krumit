@@ -18,7 +18,7 @@ durability: 3
 hero: hunter
 ru-RU_name: "Маска шакала"
 ru-RU_description: "<u>Пассивно</u>: когда ваш миньон убивает врага, даёт вам <u>скрытность</u>."
-ru-RU_flavor: "Что может быть хитрее, чем притвориться шакалом? Они никогда этого не ожидают!"
+ru-RU_flavor: "Что может быть хитрее, чем притвориться Шакалом? Они никогда этого не ожидают!"
 tile_id: JackalMask
 cost: 2
 image: /images/JackalMask.png

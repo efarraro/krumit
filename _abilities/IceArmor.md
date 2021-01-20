@@ -50,7 +50,7 @@ cost: 4
 image: /images/IceArmor.png
 hero: mage
 cs-CZ_name: "Ledová zbroj"
-cs-CZ_description: "Do konce kola získáš 6 🛡️️ <u>krytí</u> a nepříteli způsobí <u>zmražení</u>. Lze dobít, jakmile na herní ploše přibude 6 dlaždic."
+cs-CZ_description: "Získáš 6 🛡️️ <u>krytí</u> a nepříteli způsobí <u>zmražení</u> až do konce kola. Lze dobít, jakmile na herní ploše přibude 6 dlaždic."
 cs-CZ_flavor: "Ajs, ajs, bejby."
 tile_id: IceArmor
 cost: 4

@@ -58,7 +58,7 @@ durability: 3
 hero: warrior
 cs-CZ_name: "Válečné bubny"
 cs-CZ_description: "V souboji zamění současnou akci nepřítele za 🔸 2."
-cs-CZ_flavor: "„Správný rytmus může nepřítele přimět ke zbrklému útoku.“ - Rytmomancerové z Meshuggy"
+cs-CZ_flavor: "„Správný rytmus může nepřítele přimět k bezmyšlenkovitému útoku.“ - Rytmomancerové z Meshugga"
 tile_id: Drums
 cost: 2
 image: /images/Drums.png

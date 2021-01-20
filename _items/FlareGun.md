@@ -18,7 +18,7 @@ durability: 3
 hero: hunter
 ru-RU_name: "Ракетница"
 ru-RU_description: "Дальнобойное. Наносит 3 <u>пронзающего</u> урона врагу, затем <u>Помечает</u> всех врагов в этом ряду."
-ru-RU_flavor: "Не сражайтесь честно или с чутьем, боритесь с помощью ракеты!"
+ru-RU_flavor: "Первым делом выстрел в небо, чтобы осветить поле боя. Затем можно стрелять в врага."
 tile_id: FlareGun
 cost: 3
 image: /images/FlareGun.png
@@ -50,7 +50,7 @@ durability: 3
 hero: hunter
 ko-KR_name: "조명탄 발사기"
 ko-KR_description: "원거리 무기. 대상 적에게 <u>관통</u> 피해를 3 주고, 같은 행에 있는 모든 적에게 <u>표식</u>을 부여합니다"
-ko-KR_flavor: "공정하게 싸우지 마십시오."
+ko-KR_flavor: "화려한 조명탄이 적들을 감쌉니다."
 tile_id: FlareGun
 cost: 3
 image: /images/FlareGun.png

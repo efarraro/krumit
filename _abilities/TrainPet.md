@@ -15,7 +15,7 @@ cost: 5
 image: /images/TrainPet.png
 hero: hunter
 ru-RU_name: "Тренировка питомца"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Восстанавливает 8 ❤️ вашему <u>спутник</u>U и увеличивает его базовую 🔸 на 1."
+ru-RU_description: "<u><u>Мгновенная</u></u>. Восстанавливает 8 ❤️ вашему <u>спутнику</u> и увеличивает его базовую 🔸 на 1."
 ru-RU_flavor: "«Связь создается через невзгоды, но также и через доброту. И лечит». - Варфа"
 tile_id: TrainPet
 cost: 5
@@ -36,15 +36,15 @@ cost: 5
 image: /images/TrainPet.png
 hero: hunter
 pl-PL_name: "Tresura"
-pl-PL_description: "<u><u>Niezwłocznie</u></u>. Odnów 8 ❤️ swojego <u>Kompan</u> i zwiększ jego podstawowy 🔸 o 1."
+pl-PL_description: "<u><u>Niezwłocznie</u></u>. Odnów 8 ❤️ swojego <u>Kompan</u>a i zwiększ jego podstawowy 🔸 o 1."
 pl-PL_flavor: "'Więź jest budowana przez trudności, ale także przez życzliwość. I smakołyki.' - Varfa"
 tile_id: TrainPet
 cost: 5
 image: /images/TrainPet.png
 hero: hunter
-ko-KR_name: "기차 애완 동물"
-ko-KR_description: "즉시. 8 ❤️를 <u>동료</u>에게 복원하고 기본  attack-icon을 1 늘립니다."
-ko-KR_flavor: "'고난과 친절을 통해 유대가 형성됩니다. 그리고 대접합니다.' -바르 파"
+ko-KR_name: "야수 훈련"
+ko-KR_description: "<u><u>즉발</u></u>. 내 <u>동료</u>의 ❤️을 8 회복시키고 🔸을 1 증가시킵니다"
+ko-KR_flavor: "'유대는 고난뿐만 아니라 다정한 행동을 통해서도 형성되지. 간식도 포함해서.' - 바르파"
 tile_id: TrainPet
 cost: 5
 image: /images/TrainPet.png

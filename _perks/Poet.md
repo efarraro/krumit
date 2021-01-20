@@ -25,7 +25,7 @@ pl-PL_description: "Gdy uzyskasz umiejętność o koszcie 1 💰 z dolnego wiers
 tile_id: Poet
 image: /images/Poet.png
 ko-KR_name: "시인"
-ko-KR_description: "하단 행에서 비용이 1 💰 이하인 능력을 획득했을 때 하나 더 복사하여 가져옵니다"
+ko-KR_description: "하단 행에서 비용이 1 💰인 능력을 획득했을 때 하나 더 복사하여 가져옵니다"
 tile_id: Poet
 image: /images/Poet.png
 cs-CZ_name: "Básník"

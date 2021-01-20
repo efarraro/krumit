@@ -42,9 +42,9 @@ tile_id: WeakSpot
 cost: 1
 image: /images/WeakSpot.png
 hero: hunter
-ko-KR_name: "약점"
+ko-KR_name: "약점 노출"
 ko-KR_description: "<u>표식</u> 상태의 보스가 아닌 적을 파괴합니다. <u>소멸</u>"
-ko-KR_flavor: "'빛나는 것이 훨씬 쉬울 것입니다.' -3 차 레인저 판단"
+ko-KR_flavor: "'약점이 빛나면 훨씬 쉽다.' - 3번째 레인저 판단"
 tile_id: WeakSpot
 cost: 1
 image: /images/WeakSpot.png

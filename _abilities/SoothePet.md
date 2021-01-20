@@ -16,7 +16,7 @@ image: /images/SoothePet.png
 hero: hunter
 ru-RU_name: "Пластырь"
 ru-RU_description: "<u><u>Мгновенная</u></u>. Восстанавливает 6 ❤️ первому миньону в снаряжении."
-ru-RU_flavor: "In Meteorfall, you can pet the pet"
+ru-RU_flavor: "Эффективнее подорожника, но не растёт в лесу."
 tile_id: SoothePet
 cost: 1
 image: /images/SoothePet.png
@@ -42,9 +42,9 @@ tile_id: SoothePet
 cost: 1
 image: /images/SoothePet.png
 hero: hunter
-ko-KR_name: "애완 동물 진정"
+ko-KR_name: "야수 달래기"
 ko-KR_description: "<u><u>즉발</u></u>. 내 인벤토리에 있는 첫 번째 💀 <u>하수인</u>의 ❤️을 6 회복시킵니다"
-ko-KR_flavor: "Meteorfall에서 애완 동물을 쓰다듬을 수 있습니다."
+ko-KR_flavor: "MeteorFall에서는 야수를 쓰다듬는 것이 가능합니다."
 tile_id: SoothePet
 cost: 1
 image: /images/SoothePet.png

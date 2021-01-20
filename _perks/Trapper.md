@@ -9,7 +9,7 @@ zh-CN_description: "当陷阱进入场上时，自动为其<u>填装</u>"
 tile_id: Trapper
 image: /images/Trapper.png
 ru-RU_name: "Ловец"
-ru-RU_description: "Когда ловушки добавляются на поле, <u>установить</u>plural их."
+ru-RU_description: "Когда ловушки добавляются на поле, <u>устанавливает</u> их."
 tile_id: Trapper
 image: /images/Trapper.png
 jp-JP_name: "罠師"
@@ -17,7 +17,7 @@ jp-JP_description: "盤面に罠が追加されたら<u>仕掛け</u>る"
 tile_id: Trapper
 image: /images/Trapper.png
 es-ES_name: "Trampero"
-es-ES_description: "Cuando se añaden trampas al tablero, se <u>armar</u>plural"
+es-ES_description: "Cuando se añaden trampas al tablero, se <u>arman</u>"
 tile_id: Trapper
 image: /images/Trapper.png
 pl-PL_name: "Traper"

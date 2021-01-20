@@ -15,8 +15,8 @@ cost: 2
 image: /images/ToMySide.png
 hero: hunter
 ru-RU_name: "Ко мне!"
-ru-RU_description: "Ваша атака имеет <u>Команда</u>. <u>Пассивно</u>: Когда вы убиваете врага, восстанавливает 2 ❤️ вашему <u>спутник</u>U."
-ru-RU_flavor: "'Come, Orhu - we share the spoils as equals.' - Varfa"
+ru-RU_description: "Ваша атака имеет <u>Команда</u>. <u>Пассивно</u>: Когда вы убиваете врага, восстанавливает 2 ❤️ вашему <u>спутнику</u>."
+ru-RU_flavor: "«Давай, Орху, разделим эту добычу пополам» - Варфа."
 tile_id: ToMySide
 cost: 2
 image: /images/ToMySide.png
@@ -36,7 +36,7 @@ cost: 2
 image: /images/ToMySide.png
 hero: hunter
 pl-PL_name: "Do mnie!"
-pl-PL_description: "Twój atak ma <u>Tandem</u>. <u>Pasywny</u>: Gdy pokonasz wroga, odnów 2 ❤️ swojego <u>Kompan</u>."
+pl-PL_description: "Twój atak ma <u>Tandem</u>. <u>Pasywny</u>: Gdy pokonasz wroga, odnów 2 ❤️ swojego <u>Kompan</u>a."
 pl-PL_flavor: "'Chodź, Orhu - dzielimy się łupami jak równi.' - Varfa"
 tile_id: ToMySide
 cost: 2
@@ -49,7 +49,7 @@ tile_id: ToMySide
 cost: 2
 image: /images/ToMySide.png
 hero: hunter
-cs-CZ_name: "Ke mě!"
+cs-CZ_name: "Ke mně!"
 cs-CZ_description: "Tvůj útok je na bázi <u>Střídání</u>. <u>Pasivita</u>: Když porazíš nepřítele, tvůj <u>Společník</u> obnoví 2 ❤️."
 cs-CZ_flavor: "„Pojď, Orhu - rozdělíme si kořist jako rovnocenní partneři.“ - Varfa"
 tile_id: ToMySide

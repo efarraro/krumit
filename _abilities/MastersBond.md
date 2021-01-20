@@ -9,14 +9,14 @@ image: /images/MastersBond.png
 hero: hunter
 zh-CN_name: "主从纽带"
 zh-CN_description: "<u><u>即时</u></u>。为你的伙伴的能力充能。<u><u>循环</u></u>"
-zh-CN_flavor: "'When you mess with my cub, you'd best be sure you're gonna hear from Ol'Bessie, believe you me' - Gun Powder Bessie"
+zh-CN_flavor: "“听好了，敢动我家孩子，老贝西会让你吃不了兜着走。”——火药贝西"
 tile_id: MastersBond
 cost: 2
 image: /images/MastersBond.png
 hero: hunter
 ru-RU_name: "Узы Мастера"
-ru-RU_description: "<u><u>Мгновенная</u></u>. Перезаряжает все способности вашего <u>спутник</u>A. <u><u>Цикл</u></u>."
-ru-RU_flavor: "'Когда вы возитесь с моим детенышем, будьте уверены, что получите известие от Оль'Бесси, поверьте мне' - Gun Powder Bessie"
+ru-RU_description: "<u><u>Мгновенная</u></u>. Перезаряжает все способности вашего <u>спутника</u>. <u><u>Цикл</u></u>."
+ru-RU_flavor: "«Если кто-то попробует обидеть моего питомца, он будет иметь дело со моей пушкой»."
 tile_id: MastersBond
 cost: 2
 image: /images/MastersBond.png
@@ -44,7 +44,7 @@ image: /images/MastersBond.png
 hero: hunter
 ko-KR_name: "주인과의 유대"
 ko-KR_description: "<u><u>즉발</u></u>. 내 <u>동료</u>의 능력을 재충전시킵니다. <u><u>순환</u></u>"
-ko-KR_flavor: "'When you mess with my cub, you'd best be sure you're gonna hear from Ol'Bessie, believe you me' - Gun Powder Bessie"
+ko-KR_flavor: "'내 새끼를 건드리면 올베시 탄환이 네 안부를 물으러 찾아갈 거야. 장담하지.' - 건 파우더 베시"
 tile_id: MastersBond
 cost: 2
 image: /images/MastersBond.png

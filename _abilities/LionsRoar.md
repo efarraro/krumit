@@ -16,7 +16,7 @@ image: /images/LionsRoar.png
 hero: hunter
 ru-RU_name: "Львиный рёв"
 ru-RU_description: "<u><u>Мгновенная</u></u>. Уничтожает всех врагов на поле с 5 или менее ❤️."
-ru-RU_flavor: "«Не игнорируйте рев Льва, ударьте по полу, иначе будет кровь!» - Популярные стишки Ranger."
+ru-RU_flavor: "«Не игнорируйте рёв Льва. Ударьтесь о пол, иначе будет кровь!» - популярный стишок охотников."
 tile_id: LionsRoar
 cost: 2
 image: /images/LionsRoar.png

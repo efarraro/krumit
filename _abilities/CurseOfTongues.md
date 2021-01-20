@@ -43,7 +43,7 @@ tile_id: CurseOfTongues
 cost: -1
 image: /images/CurseOfTongues.png
 cs-CZ_name: "Prokletí jazyků"
-cs-CZ_description: "Když obnovíš ❤️, sníží se jeho počet o 1, dokud je tato dlaždice na herní ploše. Lze odstranit zaplacením 2 ❤️."
+cs-CZ_description: "<u color='FF5151'>Prokletí</u>. Když obnovíš ❤️, sníží se jeho počet o 1, dokud je tato dlaždice na herní ploše. Lze odstranit zaplacením 2 ❤️."
 cs-CZ_flavor: "Tkhlale khrta zpoubpbuke prlklurí!"
 tile_id: CurseOfTongues
 cost: -1

@@ -29,7 +29,7 @@ ko-KR_description: "적을  <u>연소</u>시킬 때의 피해량이 1 증가합�
 tile_id: Anarchist
 image: /images/Anarchist.png
 cs-CZ_name: "Anarchista"
-cs-CZ_description: "Kdykoli způsobíš nepříteli  <u>popálení</u>, zvýší se jeho počet o 1."
+cs-CZ_description: "Kdykoli způsobíš nepříteli  <u>popálení</u>, zvýší se jeho výše o 1."
 tile_id: Anarchist
 image: /images/Anarchist.png
 ---

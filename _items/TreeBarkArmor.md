@@ -18,7 +18,7 @@ durability: 3
 hero: hunter
 ru-RU_name: "Оболочка Элмера"
 ru-RU_description: "Пока экипирован, вы не можете парировать."
-ru-RU_flavor: "Кора Короля Древепипа настолько же тяжелая, насколько и прочная."
+ru-RU_flavor: "Прочность требует жертв."
 tile_id: TreeBarkArmor
 cost: 3
 image: /images/TreeBarkArmor.png

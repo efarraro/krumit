@@ -30,14 +30,14 @@ image: /images/QuickShot.png
 hero: hunter
 ru-RU_name: "Быстрый выстрел"
 ru-RU_description: "Наносит 5 <u>пронзающего</u> урона врагу в нижнем ряду. <u>Сжигается</u>."
-ru-RU_flavor: "Цель для неудачников. Стреляй от бедра!"
+ru-RU_flavor: "Целиться для неудачников. Стреляй от бедра!"
 tile_id: QuickShot
 cost: 1
 image: /images/QuickShot.png
 hero: hunter
 ru-RU_name: "Быстрый выстрел"
 ru-RU_description: "Наносит 5 <u>пронзающего</u> урона врагу в нижнем ряду. <u>Сжигается</u>."
-ru-RU_flavor: "Цель для неудачников. Стреляй от бедра!"
+ru-RU_flavor: "Целиться для неудачников. Стреляй от бедра!"
 tile_id: QuickShot
 cost: 1
 image: /images/QuickShot.png
